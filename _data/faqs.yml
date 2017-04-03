@@ -14,3 +14,7 @@
       answer_html: '<p>Adolescents are socially focused, learning best when they are happy, challenged, and socially engaged. By working in multi-age groups, younger students have more mature peer models, and older students are held accountable for being those positive role models. It is a natural, inspiring, and effective way for humans to work.</p>'
     - question: What are the hours of the school day?
       answer_html: '<p>All students and staff will be on campus for a minimum of seven hours per day. Student&rsquo;s start and end time will be established with family at the beginning of each semester, but students must arrive between 8a.m. and 9:30a.m. and depart between 3:00 p.m. and 5:00 p.m.</p>'
+- faq_category_title: Calendar
+  faqs:
+    - question: Will the academic calendar be the same as other schools in Fort Collins?
+      answer_html: '<p>Yes, the academic calendar will be similar to others in Fort Collins, however, students will be expected to plan for learning over the summer and be prepared to present evidence of their learning at the start of the next school year. Staff will help students design these learning projects so as to complement and enhance family needs and plans.</p>'
