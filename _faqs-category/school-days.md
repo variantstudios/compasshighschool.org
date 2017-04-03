@@ -1,3 +1,5 @@
 ---
-title: School Days
+title: School Day
 ---
+
+
