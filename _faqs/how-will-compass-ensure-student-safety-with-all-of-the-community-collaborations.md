@@ -18,7 +18,7 @@ answer: >-
   the school to locate the student if there is any question as to their
   whereabouts (this is like the software that Apple uses in their “find my iphone
   app”).
-faqs-category: graduation-and-college-admission
+faqs-category: student-safety
 ---
 
 
