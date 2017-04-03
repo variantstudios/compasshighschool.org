@@ -1,4 +1,13 @@
 ---
 layout: default
 ---
-{{content}}
+ <div class="content-section">{{ content }}</div>
+{% if page.url contains "contribute" %}
+     {% include contribute.html %}
+     {% elsif page.url contains "faqs" %}
+     {% include faqs.html %}
+     {% elsif page.url contains "contact-us" %}
+     {% include contact-form.html %}
+     {% elsif page.url contains "become-a-volunteer" %}
+     {% include volunteer-form.html %}
+   {% endif %}
