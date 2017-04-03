@@ -44,3 +44,7 @@
   faqs:
     - question: 'Will Compass offer arts, music, and physical education? Will it have competitive sports teams?'
       answer_html: '<p>Our high school will integrate arts, music, and PE, but it will not have standard competitive sports programs like the other high schools. Because of our flexible schedule, students may arrange to return to their neighborhood school to play on sports teams.</p>'
+- faq_category_title: Teachers
+  faqs:
+    - question: Will the teachers be certified teachers and will they be highly qualified in a wide variety of academic subject areas?
+      answer_html: '<p>Yes, Compass High School will have highly qualified, Colorado certified teachers in English, Math, Science, Social Studies, Special Education, and English Language Acquisition. We will also have specialized, non-certified teachers as staff and instructors at our school and in the community to widen the diversity of adults with whom students and staff may collaborate and learn. For example, our kitchen manager will be an experienced chef and kitchen manager who will work with students to learn about cooking, nutrition, and other life skills.</p>'
