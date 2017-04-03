@@ -1,5 +1,7 @@
 ---
 title: Will there be homework?
-answer: 'Adolescents are socially focused, learning best when they are happy, challenged, and socially engaged. By working in multi-age groups, younger students have more mature peer models, and older students are held accountable for being those positive role models. It is a natural, inspiring, and effective way for humans to work.'
+answer: 'The only homework that will be assigned weekly is reading. However, students will usually have work to do at home to move their learning projects forward.'
 faqs-category: school-day
 ---
+
+
