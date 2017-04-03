@@ -18,3 +18,7 @@
   faqs:
     - question: Will the academic calendar be the same as other schools in Fort Collins?
       answer_html: '<p>Yes, the academic calendar will be similar to others in Fort Collins, however, students will be expected to plan for learning over the summer and be prepared to present evidence of their learning at the start of the next school year. Staff will help students design these learning projects so as to complement and enhance family needs and plans.</p>'
+- faq_category_title: School Size
+  faqs:
+    - question: How many students will the school have and what will the student to staff ratio be?
+      answer_html: '<p>Compass plans to open with 200 students and grow to between 350 and 525 depending on our facilities. The student to staff ratio will be maintained at 1 staff member to 25 students or fewer.</p>'
