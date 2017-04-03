@@ -45,6 +45,7 @@ defaults:
     values:
       layout: post
 
+
 # typekit - Because we all need nice type faces.
 typekit:
 
