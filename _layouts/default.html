@@ -86,6 +86,10 @@
 
             <div class="container-wrap">
 
+                {% if page.header_image %}
+                    {% include header-image.html %}
+                {% endif %}
+
                 <div class="container main-content">
 
                     <div class="row">

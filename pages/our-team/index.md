@@ -1,6 +1,7 @@
 ---
 title: Our Team
 sub_title: Passionate leaders that are bringing this school to life.
+header_image: '/assets/images/headers/our_team.jpg'
 permalink: /our-team/
 layout: page
 ---

@@ -1,6 +1,7 @@
 ---
 title: Community Partner Program
 sub_title: Join our growing list of community partners.  Start seeing the benefit of working with our students today.
+header_image: '/assets/images/headers/community-partners.png'
 permalink: /community-partners/
 layout: page
 ---
