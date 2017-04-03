@@ -1,40 +1,24 @@
 ---
 title: How will Compass ensure student safety with all of the community collaborations?
 answer: >-
-  Our curriculum will be highly individualized so as to offer challenge and
-  growth for every student. We will build on strengths and interests, but also
-  continually push students to try new things.
+  Compass, like all schools, takes the safety of students very seriously. All
+  community mentors who work with students one on one will be required to get
+  fingerprinted and have a background check. There will also be training for our
+  students and community mentors about appropriate and professional expectations,
+  including the need for all students to be in common spaces (where other people
+  will be around) with their mentors.
 
-  Students will be tested three times a year (MAPS testing) to measure their
-  growth, and all students will be prepared for annual PARCC, CMAS, and for
-  college entrance exams such as SAT tests.
-
-  Compass students will take a college class as part of their graduation
-  requirements. This may be a credit-bearing, online course from any university
-  in the country, or a classroom course at FRCC or CSU. We believe that students
-  need to experience a college course before they leave high school in order to
-  be best prepared and feel confident in their skills to attend college.
-
-  Students will graduate with a web-based portfolio of work to demonstrate both
-  their academic skills and their 21st Century skills mastery. They will also
-  have a professional resume and a letter of reference from a professional with
-  whom they completed an extensive job internship. All of these assets will help
-  them get into a college or university of their choice, but more importantly,
-  they will be invaluable in demonstrating a student has the grit and persistence
-  to successfully finish college with a degree.
-
-  Graduation requirements from Compass will ensure that each student has met at
-  least one of the following criteria:
-
-  – Has been accepted into a college of their choice with a reasonable plan for
-  payment
-
-  – Has been accepted into a gap year program with a reasonable plan for payment
-
-  – Has been hired for a self-sustaining job in which they will continue to grow
-  and learn
-
-  – Has been accepted into an internship/apprenticeship, or certificate program
-  of their choice
+  Older students may be independently traveling on public transportation to their
+  satellite campuses and internships. Parents will sign a blanket permission slip
+  at the beginning of each semester when the student designs their plan of
+  learning with their Compass advisor to allow this travel and work outside of
+  our school building. Parents will have contact information for the alternate
+  learning locations and students will be required to wear a chipped badge at all
+  times when they are off campus. The chipped badge will allow administrators at
+  the school to locate the student if there is any question as to their
+  whereabouts (this is like the software that Apple uses in their “find my iphone
+  app”).
 faqs-category: graduation-and-college-admission
 ---
+
+
