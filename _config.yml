@@ -33,10 +33,6 @@ collections:
   tags:
     output: true
     permalink: '/blog/:title/'
-  faqs:
-    output: false
-  faqs-categories:
-    output: false
     
 defaults:
   -
