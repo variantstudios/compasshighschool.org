@@ -1,5 +1,7 @@
 ---
 title: Will there be a dress code?
-answer: 'Adolescents are socially focused, learning best when they are happy, challenged, and socially engaged. By working in multi-age groups, younger students have more mature peer models, and older students are held accountable for being those positive role models. It is a natural, inspiring, and effective way for humans to work.'
+answer: Compass High School will expect students to dress professionally during the school day. We will also provide all students with Compass High School tee shirts and polos that students will be expected to wear when they are working out in the community.
 faqs-category: school-day
 ---
+
+
