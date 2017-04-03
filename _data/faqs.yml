@@ -2,3 +2,15 @@
   faqs:
     - question: What is a charter school and how is it different than a private or other public school?
       answer_html: '<p>Charter schools are public schools. There is no tuition required. Charter schools are authorized and overseen by the State or a local District school board, but they have their own Board of Directors. Like other charter schools in Fort Collins, we will have a lottery for admission.</p>'
+- faq_category_title: School Day
+  faqs:
+    - question: Will there be school buses available to transport students to and from Compass?
+      answer_html: '<p>For the most part, families will be responsible for getting their children to and from school each day. We will locate our school near public transportation and bikeable routes so that students can get to school on their own. We will help families set up carpools from different parts of Fort Collins. Eventually, we plan to have a fleet of vans that may be available to pick students up if we have several students coming from one neighborhood.</p>'
+    - question: Will there be a dress code?
+      answer_html: '<p>Compass High School will expect students to dress professionally during the school day. We will also provide all students with Compass High School tee shirts and polos that students will be expected to wear when they are working out in the community.</p>'
+    - question: Will there be homework?
+      answer_html: '<p>The only homework that will be assigned weekly is reading. However, students will usually have work to do at home to move their learning projects forward.</p>'
+    - question: What are the benefits of multi-age grouping?
+      answer_html: '<p>Adolescents are socially focused, learning best when they are happy, challenged, and socially engaged. By working in multi-age groups, younger students have more mature peer models, and older students are held accountable for being those positive role models. It is a natural, inspiring, and effective way for humans to work.</p>'
+    - question: What are the hours of the school day?
+      answer_html: '<p>All students and staff will be on campus for a minimum of seven hours per day. Student&rsquo;s start and end time will be established with family at the beginning of each semester, but students must arrive between 8a.m. and 9:30a.m. and depart between 3:00 p.m. and 5:00 p.m.</p>'
