@@ -7,19 +7,14 @@
 <!--<![endif]-->
 {% include head.html %}
 
-<style media="screen">
-
-</style>
-
 <body class="{% if page.class %} {{page.class}}{%endif%}">
 
     {% include browserupgrade.html %}
 
-    <div id="header-space" data-header-mobile-fixed='1'></div>
+    <!-- <div id="header-space" data-header-mobile-fixed='1'></div> -->
 
-    <div id="header-outer" data-has-menu="true" data-mobile-fixed="1" data-ptnm="1" data-lhe="animated_underline" data-user-set-bg="#ffffff" data-format="default" data-permanent-transparent="false" data-cart="false" data-transparency-option="" data-shrink-num="6"
-        data-full-width="false" data-using-secondary="0" data-using-logo="1" data-logo-height="50" data-m-logo-height="40" data-padding="30" data-header-resize="0">
-
+<div id="header-outer" data-has-menu="true" data-mobile-fixed="1" data-ptnm="1"  data-user-set-bg="#ffffff" data-format="default" data-permanent-transparent="false" data-cart="false" data-transparency-option="" data-shrink-num="6"
+        data-full-width="false" data-using-logo="1" data-logo-height="50" data-m-logo-height="40" data-padding="10" data-header-resize="0">
 
         <header id="top">
 
@@ -31,7 +26,8 @@
 
                         <a id="logo" href="https://compasshighschool.org">
 
-                            <img class="stnd default-logo" alt="Compass High School" src="/assets/images/COMPASS-HIGH-SCHOOL-LOGOS-colors2-2.png" /><img class="retina-logo " alt="Compass High School" src="/assets/images/COMPASS-HIGH-SCHOOL-LOGOS-colors2-2.png"
+                            <img class="stnd default-logo" alt="Compass High School" src="/assets/images/COMPASS-HIGH-SCHOOL-LOGOS-colors2-2.png" />
+                            <img class="retina-logo " alt="Compass High School" src="/assets/images/COMPASS-HIGH-SCHOOL-LOGOS-colors2-2.png"
                             />
                         </a>
 
@@ -40,45 +36,29 @@
 
                     <div class="col span_9 col_last">
 
-
-                        <div class="slide-out-widget-area-toggle mobile-icon std-menu slide-out-from-right">
-                            <div>
-                                <a href="#sidewidgetarea" class="closed"> <i class="icon-reorder"></i> </a>
-                            </div>
-                        </div>
-
                         <nav>
-                            <!-- <ul class="buttons" data-user-set-ocm="1">
-                                <li class="slide-out-widget-area-toggle">
-                                    <div>
-                                        <a href="#sidewidgetarea" class="closed"> <span> <i class="lines-button x2"> <i class="lines"></i> </i> </span> </a>
-                                    </div>
-                                </li>
-                            </ul> -->
-                            <ul class="sf-menu sf-js-enabled sf-arrows">
-                                <li id="menu-item-453" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-453"><a href="">About</a>
-                                    <ul class="sub-menu2">
-                                        <li id="menu-item-292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-292"><a href="/why-compass/">Why Compass?</a></li>
-                                        <li id="menu-item-653" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-653"><a href="/compass-high-school-experience/">The Compass High School Experience</a></li>
-                                        <li id="menu-item-652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-652"><a href="/research-resources-guiding-innovation/">Research and Resources Guiding our Innovation</a></li>
-                                        <li id="menu-item-558" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-499 current_page_item menu-item-558"><a href="/faqs/">FAQs</a></li>
-                                        <li id="menu-item-288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288"><a href="/our-team/">Our Team</a></li>
-                                        <li id="menu-item-293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-293"><a href="/blog/">Blog</a></li>
-                                        <li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="mailto:info@compasshighschool.org">Contact Us</a></li>
-                                    </ul>
-                                </li>
-                                <li id="menu-item-452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-452"><a href="#">Involvement</a>
+
+                            <ul class="top-menu" id="nav-global">
+                                <li><a href="#">About</a>
                                     <ul class="sub-menu">
-                                        <li id="menu-item-289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-289"><a href="/parents/">Parents</a></li>
-                                        <li id="menu-item-290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-290"><a href="/students/">Students</a></li>
-                                        <li id="menu-item-291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-291"><a href="/community-partners/">Community Partners</a></li>
-                                        <li id="menu-item-511" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-511">
-                                            <a href="https://docs.google.com/forms/d/1tUDNe-uJz-KzOh7rkBO_WyP4zHGTWY2ZozLB7K_8keY/viewform?edit_requested=true" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://docs.google.com/forms/d/1tUDNe-uJz-KzOh7rkBO_WyP4zHGTWY2ZozLB7K_8keY/viewform?edit_requested=true', 'Become a Volunteer');"
-                                                target="_blank">Become a Volunteer</a>
-                                        </li>
-                                        <li id="menu-item-498" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-498"><a href="/contribute/?cfpage=project&#038;project_id=13261">Contribute to Compass!</a></li>
+                                        <li><a href="/why-compass/">Why Compass</a></li>
+                                        <li><a href="/compass-high-school-experience/">Compass Experience</a></li>
+                                        <li><a href="/research-resources-guiding-innovation/">Research &amp; Resources</a></li>
+                                        <li><a href="/faqs/">FAQs</a></li>
+                                        <li><a href="/our-team/">Our Team</a></li>
                                     </ul>
                                 </li>
+                                <li><a href="#">Involvement</a>
+                                    <ul class="sub-menu">
+                                        <li><a href="/parents/">Parents</a></li>
+                                        <li><a href="/students/">Students</a></li>
+                                        <li><a href="/community-partners/">Community Partner Program</a></li>
+                                        <li><a href="/become-a-volunteer/">Become a Volunteer</a></li>
+                                        <li><a href="/contribute/?cfpage=project&#038;project_id=13261">Contribute to Compass!</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="/blog/">Blog</a></li>
+                                <li><a href="/contact-us/">Contact Us</a></li>
                             </ul>
 
                         </nav>
@@ -95,7 +75,7 @@
         </header>
 
 
-        <div class="ns-loading-cover"></div>
+        <!-- <div class="ns-loading-cover"></div> -->
 
 
         </div>

@@ -1,0 +1,65 @@
+header#top nav>ul>li>a {
+        line-height: 0;
+        font-size: 1em;
+        font-weight: normal;
+}
+#nav-global {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+#nav-global li {
+  position: relative;
+  display: block;
+  float: left;
+  padding-bottom: 9px;
+  text-transform: uppercase;
+}
+#nav-global li a {
+
+}
+#nav-global li:hover a {
+  background: #fff;
+}
+#nav-global li ul {
+  position: absolute;
+  top: 100%;
+  display: none;
+  margin: 0;
+  padding: 0;
+  border-top: 0;
+  border-top: solid 1px #e4e4e4;
+  box-shadow: 1px 2px 2px 1px rgba(0, 0, 0, 0.12);
+  -moz-box-shadow: 1px 2px 2px 1px rgba(0, 0, 0, 0.12);
+  -webkit-box-shadow: 1px 2px 2px 1px rgba(0, 0, 0, 0.12);
+}
+#nav-global li ul li {
+  display: block;
+  float: none;
+  width: 270px;
+  padding: 1em;
+  text-transform: none;
+  background-color: #fff;
+}
+#nav-global li ul li a,
+#nav-global li:hover ul li a {
+  display: block;
+  padding: 6px 12px 3px 12px;
+  border-right: 0;
+}
+/* drop down */
+#nav-global li:hover ul {
+  display: block;
+}
+#nav-global li:hover ul li a:hover {
+  background: #fff;
+}
+
+#header-outer {
+padding-bottom: 0px !important;
+}
+.container-wrap {
+margin-top: 0;
+}

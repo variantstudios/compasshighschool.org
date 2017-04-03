@@ -1,7 +1,7 @@
 ---
 title: Become a Volunteer
 sub_title:
-permalink: /become-a-member/
+permalink: /become-a-volunteer/
 layout: page
 ---
 ## Compass Volunteer Information

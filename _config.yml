@@ -33,6 +33,8 @@ collections:
   tags:
     output: true
     permalink: '/blog/:title/'
+  faqs:
+    output: false
 
 defaults:
   -
