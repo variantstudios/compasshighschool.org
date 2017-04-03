@@ -1,6 +1,7 @@
 ---
 title: Parents
 sub_title: We want the best for our children and our future.
+header_image: '/assets/images/headers/parents.jpg'
 permalink: /parents/
 layout: page
 ---
