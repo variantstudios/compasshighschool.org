@@ -35,7 +35,7 @@ collections:
     permalink: '/blog/:title/'
   faqs:
     output: false
-  faqs_category:
+  faqs-category:
     output: false
     
 defaults:
