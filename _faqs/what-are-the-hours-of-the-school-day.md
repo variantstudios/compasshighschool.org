@@ -1,5 +1,7 @@
 ---
 title: What are the hours of the school day?
-answer: 'Charter schools are public schools. There is no tuition required. Charter schools are authorized and overseen by the State or a local District school board, but they have their own Board of Directors. Like other charter schools in Fort Collins, we will have a lottery for admission.'
-faqs-category: charter-schools
+answer: 'All students and staff will be on campus for a minimum of seven hours per day. Student’s start and end time will be established with family at the beginning of each semester, but students must arrive between 8a.m. and 9:30a.m. and depart between 3:00 p.m. and 5:00 p.m.'
+faqs-category: school-day
 ---
+
+
