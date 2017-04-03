@@ -1,5 +1,7 @@
 ---
 title: What are the benefits of multi-age grouping?
-answer: 'All students and staff will be on campus for a minimum of seven hours per day. Student’s start and end time will be established with family at the beginning of each semester, but students must arrive between 8a.m. and 9:30a.m. and depart between 3:00 p.m. and 5:00 p.m.'
+answer: 'Adolescents are socially focused, learning best when they are happy, challenged, and socially engaged. By working in multi-age groups, younger students have more mature peer models, and older students are held accountable for being those positive role models. It is a natural, inspiring, and effective way for humans to work.'
 faqs-category: school-day
 ---
+
+
