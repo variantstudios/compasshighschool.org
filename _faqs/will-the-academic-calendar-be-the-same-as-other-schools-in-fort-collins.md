@@ -1,5 +1,7 @@
 ---
 title: Will the academic calendar be the same as other schools in Fort Collins?
-answer: 'Adolescents are socially focused, learning best when they are happy, challenged, and socially engaged. By working in multi-age groups, younger students have more mature peer models, and older students are held accountable for being those positive role models. It is a natural, inspiring, and effective way for humans to work.'
-faqs-category: school-day
+answer: 'Yes, the academic calendar will be similar to others in Fort Collins, however, students will be expected to plan for learning over the summer and be prepared to present evidence of their learning at the start of the next school year. Staff will help students design these learning projects so as to complement and enhance family needs and plans.'
+faqs-category: calendar
 ---
+
+
