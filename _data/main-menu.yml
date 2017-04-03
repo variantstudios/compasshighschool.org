@@ -1,0 +1,24 @@
+- text: Gallery
+  url: /gallery/
+- text: Services
+  subitems:
+    - text: Packages
+      url: /service-packages/
+    - text: Surface Coatings
+      url: /surface-coatings/
+    - text: Prestige Detailing
+      url: /prestige-detailing/
+    - text: Window Tint
+      url: /window-tint/
+    - text: Clear Bra Protection
+      url: /clear-bra-protection/
+    - text: Bray Windshield Skin
+      url: /bray-windshield-skin/
+- text: Blog
+  url: /blog/
+- text: About
+  url: /about/
+- text: Store
+  url: /store/
+- text: Contact & Locations
+  url: /contact/
