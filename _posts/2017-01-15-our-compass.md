@@ -1,8 +1,10 @@
 ---
 title: "Our Compass"
 date: 2017-01-15T00:00:00.000Z
+image_path: '/assets/images/blog/IMG_0374-1-1024x768.jpg'
 categories:
-  - Compass Voices, Research that guides Compass
+  - compass-voices
+  - research-that-guides-compass
 iframe_content:
 search_engine_optimization:
   page_title: "Our Compass"

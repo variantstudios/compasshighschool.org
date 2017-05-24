@@ -1,8 +1,9 @@
 ---
 title: "High School Training Ground"
 date: 2016-10-29T00:00:00.000Z
+image_path: '/assets/images/blog/IMG_0374-1-1024x768.jpg'
 categories:
-  - Student Voices
+  - student-voices
 iframe_content: '<iframe src="https://embed.ted.com/talks/malcolm_london_high_school_training_ground" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
 search_engine_optimization:
   page_title: "High School Training Ground"

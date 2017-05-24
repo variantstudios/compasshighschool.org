@@ -14,5 +14,5 @@ We will have a flexible schedule that allows you to plan with your family for an
 You will have opportunities to be in charge of managing the energy systems of the building, growing and cooking food, running a bike shop, building homes, and other interdisciplinary initiatives that allow you to successfully work in the larger community. Seminars in foundational academic skills, such as language arts, mathematics, and science will be on-going so you can have access, support, and practice to reach your goals for success on projects, standardized tests, and internship/ job applications. You will have the option to pursue an early start on college credits and earn an Associate’s Degree before graduation. You have the opportunity to choose your projects based on your interests, strengths, and areas of growth.
 
 
-### Reserve Your Spot Now
+### Enroll Your Spot Now
 (link goes here)

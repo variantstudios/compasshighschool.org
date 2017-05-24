@@ -1,6 +1,7 @@
 ---
 title: "Why We Need Compass High School"
 date: 2016-07-07T00:00:00.000Z
+image_path: '/assets/images/blog/IMG_0374-1-1024x768.jpg'
 categories:
   - uncategorized
 iframe_content:

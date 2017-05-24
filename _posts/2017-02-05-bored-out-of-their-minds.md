@@ -1,8 +1,9 @@
 ---
 title: "Bored Out of their Minds"
 date: 2017-02-05T00:00:00.000Z
+image_path: '/assets/images/blog/IMG_0374-1-1024x768.jpg'
 categories:
-  - Research that guides Compass
+  - research-that-guides-compass
 iframe_content:
 search_engine_optimization:
   page_title: "Bored Out of their Minds"

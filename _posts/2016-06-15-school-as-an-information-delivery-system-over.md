@@ -1,9 +1,10 @@
 ---
 title: "School as an information delivery system: over."
 date: 2016-06-15T00:00:00.000Z
+image_path: '/assets/images/blog/dry-erase-board.jpg'
 categories:
-  - Community Voices
-  - Compass Voices
+  - community-voices
+  - compass-voices
 iframe_content:
 search_engine_optimization:
   page_title: "School as an information delivery system: over."

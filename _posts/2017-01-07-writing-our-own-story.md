@@ -1,8 +1,10 @@
 ---
 title: "Writing our own Story"
 date: 2017-01-07T00:00:00.000Z
+image_path: '/assets/images/blog/IMG_0374-1-1024x768.jpg'
 categories:
-  - Compass Voices, Research that guides Compass
+  - compass-voices
+  - research-that-guides-compass
 iframe_content: '<iframe width="560" height="315" src="https://www.youtube.com/embed/LuD2Aa0zFiA" frameborder="0" allowfullscreen></iframe>'
 search_engine_optimization:
   page_title: "Writing our own Story"

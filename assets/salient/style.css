@@ -16141,7 +16141,7 @@ article.post .post-content {
 	display: inline-block;
 }
 .post-content {
-	padding-left: 95px;
+	/*padding-left: 95px;*/
 }
 
 article.post .content-inner {
