@@ -1,6 +1,7 @@
 ---
 title: Compass at the Farmers Market
 date: 2017-02-26T00:00:00.000Z
+image_path: '/assets/images/blog/IMG_0374-1-1024x768.jpg'
 categories:
   - uncategorized
 iframe_content:

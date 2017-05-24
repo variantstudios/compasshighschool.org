@@ -29,7 +29,7 @@ collections:
     permalink: '/blog/:title/'
   categories:
     output: true
-    permalink: '/blog/:title/'
+    permalink: '/blog/categories/:title/'
   tags:
     output: true
     permalink: '/blog/:title/'

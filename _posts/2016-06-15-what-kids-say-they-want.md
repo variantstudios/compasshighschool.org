@@ -1,9 +1,10 @@
 ---
 title: "What Kids Say They Want"
 date: 2016-06-15T00:00:00.000Z
+image_path: '/assets/images/blog/IMG_0374-1-1024x768.jpg'
 categories:
-  - Community Voices
-  - Compass Voices
+  - community-voices
+  - compass-voices
 iframe_content:
 search_engine_optimization:
   page_title: "What Kids Say They Want."

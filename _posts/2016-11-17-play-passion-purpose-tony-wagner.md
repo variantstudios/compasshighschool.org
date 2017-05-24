@@ -1,8 +1,10 @@
 ---
 title: "Play, Passion, Purpose: Tony Wagner"
 date: 2016-11-17T00:00:00.000Z
+image_path: '/assets/images/blog/IMG_0374-1-1024x768.jpg'
 categories:
-  - Community Voices, Research that guides Compass
+  - community-voices
+  - research-that-guides-compass
 iframe_content: '<iframe width="560" height="315" src="https://www.youtube.com/embed/hvDjh4l-VHo" frameborder="0" allowfullscreen></iframe>'
 search_engine_optimization:
   page_title: "Play, Passion, Purpose: Tony Wagner"

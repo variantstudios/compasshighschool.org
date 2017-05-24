@@ -1,8 +1,9 @@
 ---
 title: "The Benefits of Hosting a High School Intern, by Dave Theobald"
 date: 2016-08-11T00:00:00.000Z
+image_path: '/assets/images/blog/IMG_0374-1-1024x768.jpg'
 categories:
-  - Community Voices
+  - community-voices
 iframe_content:
 search_engine_optimization:
   page_title: "The Benefits of Hosting a High School Intern, by Dave Theobald"

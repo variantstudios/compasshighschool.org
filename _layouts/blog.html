@@ -3,7 +3,7 @@ layout: page
 ---
 <section class="blog-wrapper">
   {% for post in site.posts %}
-    <article class="blog-item clearfix">
+    <!--<article class="blog-item clearfix">
       <div class="blog-item--image">
         {% if post.image_path %}
           <a href="{{ post.url }}"><img src="{{ post.image_path }}" alt="{{ post.title }}" title="{{ post.title }}"></a>
@@ -16,7 +16,29 @@ layout: page
           <p>{{ post.short_description }}</p>
         {% endif %}
       </div>
-    </article>
+    </article>-->
+    <article class="regular post type-post status-publish format-standard has-post-thumbnail hentry category-research masonry-blog-item"><span class="bottom-line"></span>
+      <div class="inner-wrap">
+        <div class="post-content">
+          <div class="content-inner">
+            <a href="{{ post.url }}"><span class="post-featured-img"><img width="500" height="298" src="{{ post.image_path }}" class="attachment-large size-large wp-post-image auto-height" alt="{{ post.title }} Pic" 
+            title="" srcset="{{ post.image_path }} 500w, {{ post.image_path }} 300w" sizes="(max-width: 500px) 100vw, 500px"></span></a>
+              <div class="article-content-wrap">
+                <div class="post-header">
+                  <h2 class="title">
+                      <a href="{{ post.url }}">{{ post.title }}</a></h2>
+                    {% for cat in post.categories %}<span class="meta-category"><a href="{{ cat | prepend: '/blog/categories/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a></span>{% endfor %}
+                </div><!--/post-header-->
+              <div class="excerpt">{{post.content | remove: '<p>' | remove: '</p>' | truncatewords: 20}}</div>
+              <a class="more-link" href="{{ post.url }}"><span class="continue-reading">Read More</span></a>						
+    </div><!--article-content-wrap-->
+    </div><div class="post-meta ">
+            <div class="date">{{ post.date | date: "%B %d, %Y" }}</div><!--/date-->
+
+          </div><!--/content-inner-->
+        </div><!--/post-content-->
+      </div><!--/inner-wrap-->
+</article>
   {% endfor %}
 
   <!-- Pagination links -->
