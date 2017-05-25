@@ -3,7 +3,10 @@ title: Research and Resources Guiding our Innovation
 permalink: /research-resources-guiding-innovation/
 layout: page
 ---
+
+
 ## Resources Informing the Work in the Development of Compass High School, Fort Collins, CO
+
 Berger, Warren. (2014). A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas. New York: Bloomsberry USA
 
 Dewey, J. (1916). Democracy and Education: An Introduction to the Philosophy of Education. New York: Free Press
@@ -71,43 +74,47 @@ Zhao, Yong. (2012). World Class Learners: Educating Creative and Entrepreneurial
 Zhao, Yong, et.al. (2016). A Take Action Guide to World Class Learners: How to Make Personalization and Student Autonomy Happen. Thousand Oaks: Corwin.
 
 ## Importance of Sleep:
-http://www.startribune.com/school-districts-mulling-chance-for-teens-to-sleep-later/298728971/
 
-http://www.cehd.umn.edu/carei/Resources/Sleep/default.html
+[http://www.startribune.com/school-districts-mulling-chance-for-teens-to-sleep-later/298728971/](http://www.startribune.com/school-districts-mulling-chance-for-teens-to-sleep-later/298728971/)
 
-http://www.theatlantic.com/education/archive/2015/08/why-school-should-start-later/401489/
+[http://www.cehd.umn.edu/carei/Resources/Sleep/default.html](http://www.cehd.umn.edu/carei/Resources/Sleep/default.html)
+
+[http://www.theatlantic.com/education/archive/2015/08/why-school-should-start-later/401489/](http://www.theatlantic.com/education/archive/2015/08/why-school-should-start-later/401489/)
 
 ## School and Education Models:
-Big Picture Learning Schools: http://www.bigpicture.org/about-us/
 
-Compass Montessori School, Golden, CO: https://sites.google.com/a/compassmontessorievents.com/compass-main/home
+Big Picture Learning Schools: [http://www.bigpicture.org/about-us/](http://www.bigpicture.org/about-us/)
 
-Design 39 Campus: https://sites.google.com/site/design39campus/
+Compass Montessori School, Golden, CO: [https://sites.google.com/a/compassmontessorievents.com/compass-main/home](https://sites.google.com/a/compassmontessorievents.com/compass-main/home)
 
-Education Reimagined: http://education-reimagined.org/
+Design 39 Campus: [https://sites.google.com/site/design39campus/](https://sites.google.com/site/design39campus/)
 
-Health Sciences High and Middle College: http://hshmc.org
+Education Reimagined: [http://education-reimagined.org/](http://education-reimagined.org/)
 
-High Tech High, in San Diego, CA: http://www.hightechhigh.org/schools/HTHPL/ (also featured in Sundance award-winning film: Most Likely to Succeed which we are planning to screen in Fort Collins this winter)
+Health Sciences High and Middle College: [http://hshmc.org](http://hshmc.org)
 
-School of Environmental Studies, Apple Valley, MN: http://sesmn.org/
+High Tech High, in San Diego, CA: [http://www.hightechhigh.org/schools/HTHPL/](http://www.hightechhigh.org/schools/HTHPL/) (also featured in Sundance award-winning film: Most Likely to Succeed which we are planning to screen in Fort Collins this winter)
 
-Jeffco Open School: https://sites.google.com/a/jeffcoschools.us/jcos/
+School of Environmental Studies, Apple Valley, MN: [http://sesmn.org/](http://sesmn.org/)
+
+Jeffco Open School: [https://sites.google.com/a/jeffcoschools.us/jcos/](https://sites.google.com/a/jeffcoschools.us/jcos/)
 
 ## Rich Websites:
-Education Redesign Lab: http://edredesign.org
 
-Knowledge Works Website: http://www.knowledgeworks.org
+Education Redesign Lab: [http://edredesign.org](http://edredesign.org)
 
-ReSchool Colorado: http://dkfoundation.org/our-work/reschool-colorado/reschool-colorado
+Knowledge Works Website: [http://www.knowledgeworks.org](http://www.knowledgeworks.org)
 
-Q.E.D. Foundation http://qedfoundation.org/
+ReSchool Colorado: [http://dkfoundation.org/our-work/reschool-colorado/reschool-colorado](http://dkfoundation.org/our-work/reschool-colorado/reschool-colorado)
 
-XQ Super School Project – Website: http://www.XQsuperschool.org
+Q.E.D. Foundation [http://qedfoundation.org/](http://qedfoundation.org/)
 
-Coalition for Access, Affordability, and Success – Website: https://www.insidehighered.com/news/2015/09/29/80-colleges-and-universities-announce-plan-new-application-and-new-approach
+XQ Super School Project – Website: [http://www.XQsuperschool.org](http://www.XQsuperschool.org)
+
+Coalition for Access, Affordability, and Success – Website: [https://www.insidehighered.com/news/2015/09/29/80-colleges-and-universities-announce-plan-new-application-and-new-approach](https://www.insidehighered.com/news/2015/09/29/80-colleges-and-universities-announce-plan-new-application-and-new-approach)
 
 ## Adolescent brain and brain learning research:
+
 Carol Dweck (2006). MIndset: The New Psychology of Success. New York: Random House.
 
 Gregory, Gayle and Martha Kaufeldt. (2015). The Motivated Brain: Improving Student Attention, Engagement, and Perseverance. ASCD.
@@ -116,4 +123,4 @@ Feinberg, Cara. (June, 1015). “The Science of Scarcity” Harvard Magazine.
 
 Giedd, Jay N. (June 2015). “The Amazing Teen Brain” *Scientific American Magazine.*
 
-Siegel, Dan Dr. – videos, books, website: http://drdansiegel.com/
+Siegel, Dan Dr. – videos, books, website: [http://drdansiegel.com/](http://drdansiegel.com/)
