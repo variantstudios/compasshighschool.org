@@ -143,3 +143,8 @@ padding-bottom: 0px !important;
 #post-area #pagination .next {
   float: right;
 }
+
+
+.page-header-bg-image {
+  opacity: .5;
+}

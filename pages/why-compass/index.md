@@ -104,4 +104,4 @@ Partnering with families is part of what will make our climate and culture excep
 
 ## ENROLLMENT PROCESS
 Compass High School’s intended opening date is August, 2018. We will be accepting students going into 6th through 10th grade only for our inaugural year. If you are interested in enrolling your student please visit our website and complete the “SIGN UP FOR PARENTS” form at
-[https://compasshighschool.org/](https://compasshighschool.org/)
+[https://compassfortcollins.org/](https://compassfortcollins.org/)
