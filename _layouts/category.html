@@ -1,11 +1,14 @@
 ---
 layout: page
-pagination: 
-  enabled: true
 ---
-<section class="blog-wrapper">
-  {% for post in paginator.posts %}
+{% assign page_id = page.id | remove:'/blog/categories/' %}
+<h2>Blog posts in: {{ page_id |  replace: '-', ' ' | capitalize }}</h2>
+<section class="blog-wrapper">  
+    {% for post in site.posts %}
+    {% if post.categories contains page_id %}
+    
     <article class="regular post type-post status-publish format-standard has-post-thumbnail hentry category-research masonry-blog-item clearfix">
+      
       <div class="inner-wrap">
         <div class="post-content">
           <div class="content-inner">
@@ -15,9 +18,7 @@ pagination:
                 <div class="post-header">
                   <h2 class="title">
                       <a href="{{ post.url }}">{{ post.title }}</a></h2>
-                    {% for cat in post.categories %}
-        <span class="meta-category"><a href="{{ cat | prepend: '/blog/categories/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a></span>
-        {% endfor %}
+                    {% for cat in post.categories %}<span class="meta-category"><a href="{{ cat | prepend: '/blog/categories/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a></span>{% endfor %}
                 </div><!--/post-header-->
               <div class="excerpt">{{post.content | remove: '<p>' | remove: '</p>' | truncatewords: 20}}</div>
               <a class="more-link" href="{{ post.url }}"><span class="continue-reading">Read More</span></a>						
@@ -29,34 +30,11 @@ pagination:
         </div><!--/post-content-->
       </div><!--/inner-wrap-->
 </article>
+      {% endif %}
   {% endfor %}
 </section>
  <!-- Pagination links -->
 
-
-  {% if paginator.total_pages > 1 %}
-    <div id="pagination">
-      {% if paginator.previous_page %}
-        <a class="prev" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-      {% else %}
-        <span>&laquo; Prev</span>
-      {% endif %}
-      {% for page in (1..paginator.total_pages) %}
-        {% if page == paginator.page %}
-          <em>{{ page }}</em>
-        {% elsif page == 1 %}
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-        {% else %}
-          <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-        {% endif %}
-      {% endfor %}
-      {% if paginator.next_page %}
-        <a class="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-      {% else %}
-        <span>Next &raquo;</span>
-      {% endif %}
-    </div>
-  {% endif %}
 
 <script src='/assets/js/masonry.pkgd.min.js'></script>
 
