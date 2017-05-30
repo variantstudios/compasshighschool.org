@@ -19,6 +19,24 @@ gems:
 # Permalinks
 permalink: pretty
 
+
+# Pagination V2 Settings
+pagination:
+  enabled: true
+  per_page: 9
+  permalink: '/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
+  debug: true
+  # The default document collection to paginate if nothing is specified ('posts' is default)
+  collection: 'posts'
+  # Optional, the default category to use, omit or just leave this as 'posts' to get a backwards-compatible behavior (all posts)
+  category: 'posts'
+
+
 # Cloudinary
 cloudinaryurl:
 
@@ -40,7 +58,13 @@ defaults:
       type: posts
     values:
       layout: post
-
+      class: single
+  -
+    scope:
+      type: categories
+    values:
+      layout: categories
+      class: blog
 
 # typekit - Because we all need nice type faces.
 typekit:
