@@ -1,7 +1,7 @@
 ---
 title: Community Partner Program
 sub_title: Join our growing list of community partners.  Start seeing the benefit of working with our students today.
-header_image: /assets/images/headers/community-partners.png
+header_image: /assets/images/headers/community-partners.jpg
 permalink: /community-partners/
 layout: page
 ---
@@ -34,4 +34,4 @@ City of Fort Collins, Offices of the Mayor and City Manager
 
 ## Become a Community Partner
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScZMn5Cnf1IDHwdz5eA7QRke8gcDM3esPJtWB8q3-8Wuu36tA/viewform?embedded=true" width="1000" height="2850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScZMn5Cnf1IDHwdz5eA7QRke8gcDM3esPJtWB8q3-8Wuu36tA/viewform?embedded=true" width="2000" height="2850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
