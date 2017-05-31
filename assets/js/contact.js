@@ -1,14 +1,5 @@
 $(document).ready(function() {
 
-
-  
-  if ($('body.contact').length > 0) {
-    if (queryString() == "yes") {
-        console.log("test: " + queryString());
-      $('#contact-message').html("<span><h3>Thank you. Your message has been sent. We will contact you shortly.</h3></span>");
-    }
-  };
-  
     function queryString() {
     var queryString = window.location.search;
     var varArray = queryString.split("&");
@@ -18,4 +9,14 @@ $(document).ready(function() {
       return param[1];
     }
   };
+
+  
+  if ($('body.contact').length > 0) {
+    if (queryString() == "yes") {
+        console.log("test: " + queryString());
+      $('#contact-message').html("<span><h3>Thank you. Your message has been sent. We will contact you shortly.</h3></span>");
+    }
+  };
+  
+
 });
