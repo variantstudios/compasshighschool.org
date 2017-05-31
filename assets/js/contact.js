@@ -1,11 +1,4 @@
-var reCaptchaCallback = function() {
-        var elements = document.getElementsByClassName('g-recaptcha');
-        for (var i = 0; i < elements.length; i++) {                
-            widgetId+i == grecaptcha.render('recaptcha-'+i, {
-                'sitekey' : '6LfB6RUUAAAAAEySJ7Fqc6dvL7oftcr1-l2ZANZA'
-            });
-        }
-};
+
     
 // Helper function to get form data in the supported format
 function getFormDataString(formEl) {
@@ -40,6 +33,16 @@ formEl.addEventListener("submit", function (e) {
       console.log("status: " + request.status);
     if (request.status === 200) { // CloudCannon redirects on success
       // It worked
+      
+      var reCaptchaCallback = function() {
+        var elements = document.getElementsByClassName('g-recaptcha');
+        for (var i = 0; i < elements.length; i++) {                
+            widgetId+i = grecaptcha.render('recaptcha-'+i, {
+                'sitekey' : '6LfB6RUUAAAAAEySJ7Fqc6dvL7oftcr1-l2ZANZA'
+            });
+            }
+    };
+
       
         formEl.reset(); //reset form
         grecaptcha.reset(widgetId+id);
