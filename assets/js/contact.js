@@ -1,5 +1,6 @@
+var widgetId1;
 var onloadCallback = function() {
-        grecaptcha.render('recaptcha', {
+       var widgetId1 = grecaptcha.render('recaptcha', {
           'sitekey' : '6LfxPSAUAAAAAHG-l97Z0Gu8nxRifPt9yTRPT-IQ'
         });
       };
@@ -41,9 +42,10 @@ formEl.addEventListener("submit", function (e) {
         formEl.reset(); //reset form
         document.getElementById("status-message").innerHTML = "<p>Thanks for your message! We will be in touch soon.</p>";
         //document.getElementById("recaptcha").innerHTML = "<div class=\"g-recaptcha\" data-sitekey=\"6LfB6RUUAAAAAEySJ7Fqc6dvL7oftcr1-l2ZANZA\"></div><br>";
-        document.getElementById("recaptcha").innerHTML ="";
-        onloadCallback();
+        //document.getElementById("recaptcha").innerHTML ="";
+        //onloadCallback();
         //grecaptcha.reset();
+        grecaptcha.reset(widgetId1);
 
         console.log("sent");
     } else {
