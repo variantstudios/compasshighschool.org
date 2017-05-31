@@ -31,8 +31,17 @@ formEl.addEventListener("submit", function (e) {
       console.log("status: " + request.status);
     if (request.status === 200) { // CloudCannon redirects on success
       // It worked
-      formEl.reset();
-      console.log("sent");
+      
+        formEl.reset(); //reset form
+        grecaptcha.reset(); //reset google recaptcha
+        $( ".content-section" ).append( "<p>Thanks for your message! We will be in touch soon.</p>" );
+        console.log("sent");
+    } else {
+        // Didn't work
+        formEl.reset(); //reset form
+        grecaptcha.reset(); //reset google recaptcha
+        $( ".content-section" ).append( "<p>Your submission has failed. Please try again.</p>" );
+        console.log("failed");
     }
   });
 
