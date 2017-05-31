@@ -34,7 +34,7 @@ formEl.addEventListener("submit", function (e) {
       
         formEl.reset(); //reset form
         grecaptcha.reset(); //reset google recaptcha
-        document.getElementById("status-message).innerHTML = "<p>Thanks for your message! We will be in touch soon.</p>";
+        document.getElementById("status-message").innerHTML = "<p>Thanks for your message! We will be in touch soon.</p>";
 
         console.log("sent");
     } else {
