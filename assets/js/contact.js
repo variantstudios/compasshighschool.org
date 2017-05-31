@@ -1,10 +1,4 @@
-          function showRecaptcha() {
-            Recaptcha.create("6LfB6RUUAAAAAEySJ7Fqc6dvL7oftcr1-l2ZANZA", 'captchadiv', {
-              theme: 'red',
-              callback: Recaptcha.focus_response_field
-            });
-          }
-    
+
 // Helper function to get form data in the supported format
 function getFormDataString(formEl) {
   var formData = new FormData(formEl),
