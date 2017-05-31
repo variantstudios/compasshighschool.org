@@ -1,7 +1,7 @@
 var reCaptchaCallback = function() {
         var elements = document.getElementsByClassName('g-recaptcha');
-        for (var i === 0; i < elements.length; i++) {                
-            widgetId+i = grecaptcha.render('recaptcha-'+i, {
+        for (var i = 0; i < elements.length; i++) {                
+            widgetId+i == grecaptcha.render('recaptcha-'+i, {
                 'sitekey' : '6LfB6RUUAAAAAEySJ7Fqc6dvL7oftcr1-l2ZANZA'
             });
         }
