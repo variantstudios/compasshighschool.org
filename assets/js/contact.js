@@ -35,7 +35,7 @@ formEl.addEventListener("submit", function (e) {
       // It worked
       
         formEl.reset(); //reset form
-        grecaptcha.reset(recaptcha);
+        //grecaptcha.reset(recaptcha);
         //grecaptcha.reset(); //reset google recaptcha
         document.getElementById("status-message").innerHTML = "<p>Thanks for your message! We will be in touch soon.</p>";
 
