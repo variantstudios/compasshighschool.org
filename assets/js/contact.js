@@ -1,4 +1,9 @@
-
+var onloadCallback = function() {
+        grecaptcha.render('recaptcha', {
+          'sitekey' : '6LfB6RUUAAAAAEySJ7Fqc6dvL7oftcr1-l2ZANZA'
+        });
+      };
+      
 // Helper function to get form data in the supported format
 function getFormDataString(formEl) {
   var formData = new FormData(formEl),
@@ -35,8 +40,8 @@ formEl.addEventListener("submit", function (e) {
       
         formEl.reset(); //reset form
         document.getElementById("status-message").innerHTML = "<p>Thanks for your message! We will be in touch soon.</p>";
-        document.getElementById("recaptcha").innerHTML = "<div class=\"g-recaptcha\" data-sitekey=\"6LfB6RUUAAAAAEySJ7Fqc6dvL7oftcr1-l2ZANZA\"></div><br>";
-        grecaptcha.reset();
+        //document.getElementById("recaptcha").innerHTML = "<div class=\"g-recaptcha\" data-sitekey=\"6LfB6RUUAAAAAEySJ7Fqc6dvL7oftcr1-l2ZANZA\"></div><br>";
+        //grecaptcha.reset();
 
         console.log("sent");
     } else {
