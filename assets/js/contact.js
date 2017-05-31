@@ -1,6 +1,3 @@
-
-$(document).ready(function() {
-    
 // Helper function to get form data in the supported format
 function getFormDataString(formEl) {
   var formData = new FormData(formEl),
@@ -52,6 +49,4 @@ formEl.addEventListener("submit", function (e) {
   request.open(formEl.method, formEl.action);
   request.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
   request.send(getFormDataString(formEl));
-});
-
 });
