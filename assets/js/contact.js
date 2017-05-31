@@ -13,8 +13,8 @@ $(document).ready(function() {
   
   if ($('body.contact').length > 0) {
       console.log("contact page");
-    if (queryString() == "yes") {
-        console.log("yes");
+    if (queryString() == "true") {
+        console.log("true");
       $('#contact-message').html("<span><h3>Thank you. Your message has been sent. We will contact you shortly.</h3></span>");
     }
   };
