@@ -4,7 +4,7 @@ $(document).ready(function() {
   
   if ($('body.contact').length > 0) {
     if (queryString() == "yes") {
-        console.log(queryString());
+        console.log("test: " + queryString());
       $('#contact-message').html("<span><h3>Thank you. Your message has been sent. We will contact you shortly.</h3></span>");
     }
   };
