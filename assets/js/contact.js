@@ -45,7 +45,7 @@ formEl.addEventListener("submit", function (e) {
         //document.getElementById("recaptcha").innerHTML ="";
         //onloadCallback();
         //grecaptcha.reset();
-        grecaptcha.reset(widgetId1);
+        //grecaptcha.reset(widgetId1);
 
         console.log("sent");
     } else {
