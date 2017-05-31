@@ -17,7 +17,7 @@ var formEl = document.getElementById("contact-form");
 formEl.addEventListener("submit", function (e) {
   e.preventDefault();
   console.log("submitted");
-  this.reset();    
+    
   if (grecaptcha) {
     var recaptchaResponse = grecaptcha.getResponse();
     if (!recaptchaResponse) { // reCAPTCHA not clicked yet
@@ -28,6 +28,7 @@ formEl.addEventListener("submit", function (e) {
   var request = new XMLHttpRequest();
 
   request.addEventListener("load", function () {
+      console.log("status: " + request.status);
     if (request.status === 302) { // CloudCannon redirects on success
       // It worked
       formEl[0].reset();
