@@ -1,6 +1,6 @@
 
 # Site settings
-title: "Compass High School"
+title: "Compass Community Collaborative School"
 email: "team@variantstudios.com"
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -19,7 +19,6 @@ gems:
 # Permalinks
 permalink: pretty
 
-
 # Pagination V2 Settings
 pagination:
   enabled: true
@@ -35,7 +34,6 @@ pagination:
   collection: 'posts'
   # Optional, the default category to use, omit or just leave this as 'posts' to get a backwards-compatible behavior (all posts)
   category: 'posts'
-
 
 # Cloudinary
 cloudinaryurl:
