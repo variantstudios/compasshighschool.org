@@ -1,3 +1,12 @@
+var reCaptchaCallback = function() {
+        var elements = document.getElementsByClassName('g-recaptcha');
+        for (var i = 0; i < elements.length; i++) {                
+            widgetId+i = grecaptcha.render('recaptcha-'+i, {
+                'sitekey' : '6LfB6RUUAAAAAEySJ7Fqc6dvL7oftcr1-l2ZANZA'
+            });
+        }
+};
+    
 // Helper function to get form data in the supported format
 function getFormDataString(formEl) {
   var formData = new FormData(formEl),
@@ -33,8 +42,7 @@ formEl.addEventListener("submit", function (e) {
       // It worked
       
         formEl.reset(); //reset form
-        var widgetId = grecaptcha.render(container);
-        grecaptcha.reset(widgetId);
+        grecaptcha.reset(widgetId+id);
         //grecaptcha.reset(); //reset google recaptcha
         document.getElementById("status-message").innerHTML = "<p>Thanks for your message! We will be in touch soon.</p>";
 
