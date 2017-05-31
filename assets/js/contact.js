@@ -34,14 +34,14 @@ formEl.addEventListener("submit", function (e) {
       
         formEl.reset(); //reset form
         grecaptcha.reset(); //reset google recaptcha
-        document.getElementById("contact-form").innerHTML = "<p>Thanks for your message! We will be in touch soon.</p>";
+        document.getElementById("status-message).innerHTML = "<p>Thanks for your message! We will be in touch soon.</p>";
 
         console.log("sent");
     } else {
         // Didn't work
         formEl.reset(); //reset form
         grecaptcha.reset(); //reset google recaptcha
-        document.getElementById("contact-form").innerHTML = "<p>Your submission has failed. Please try again.</p>";
+        document.getElementById("status-message").innerHTML = "<p>Your submission has failed. Please try again.</p>";
         console.log("failed");
     }
   });
