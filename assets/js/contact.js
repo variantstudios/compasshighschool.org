@@ -30,6 +30,8 @@ formEl.addEventListener("submit", function (e) {
   request.addEventListener("load", function () {
     if (request.status === 302) { // CloudCannon redirects on success
       // It worked
+      formEl[0].reset();
+      console.log("sent");
     }
   });
 
