@@ -33,6 +33,8 @@ formEl.addEventListener("submit", function (e) {
       // It worked
       
         formEl.reset(); //reset form
+        var widgetId = grecaptcha.render(container);
+        grecaptcha.reset(widgetId);
         //grecaptcha.reset(); //reset google recaptcha
         document.getElementById("status-message").innerHTML = "<p>Thanks for your message! We will be in touch soon.</p>";
 
