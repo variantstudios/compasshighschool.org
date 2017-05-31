@@ -17,7 +17,7 @@ var formEl = document.getElementById("contact-form");
 formEl.addEventListener("submit", function (e) {
   e.preventDefault();
   console.log("submitted");
-
+  this.reset();    
   if (grecaptcha) {
     var recaptchaResponse = grecaptcha.getResponse();
     if (!recaptchaResponse) { // reCAPTCHA not clicked yet
