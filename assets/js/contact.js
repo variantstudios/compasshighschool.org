@@ -1,4 +1,9 @@
-
+          function showRecaptcha() {
+            Recaptcha.create("6LfB6RUUAAAAAEySJ7Fqc6dvL7oftcr1-l2ZANZA", 'captchadiv', {
+              theme: 'red',
+              callback: Recaptcha.focus_response_field
+            });
+          }
     
 // Helper function to get form data in the supported format
 function getFormDataString(formEl) {
@@ -35,8 +40,9 @@ formEl.addEventListener("submit", function (e) {
       // It worked
       
         formEl.reset(); //reset form
+        showRecaptcha();
         //grecaptcha.reset(recaptcha);
-        grecaptcha.reset(opt_widget_id); //reset google recaptcha
+        //grecaptcha.reset(opt_widget_id); //reset google recaptcha
         document.getElementById("status-message").innerHTML = "<p>Thanks for your message! We will be in touch soon.</p>";
 
         console.log("sent");
