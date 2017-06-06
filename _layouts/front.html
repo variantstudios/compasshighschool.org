@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+{% include head.html %}
+
+<body class="{% if page.class %} {{ page.class }} {% endif %}">
+    {% include browserupgrade.html %}
+
+    <!-- <div id="header-space" data-header-mobile-fixed='1'></div> -->
+
+<div id="header-outer" data-has-menu="true" data-mobile-fixed="1" data-ptnm="1"  data-user-set-bg="#ffffff" data-format="default" data-permanent-transparent="false" data-cart="false" data-transparency-option="" data-shrink-num="6"
+        data-full-width="false" data-using-logo="1" data-logo-height="50" data-m-logo-height="40" data-padding="10" data-header-resize="0">
+
+        <header id="top">
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col span_3">
+
+                        <a id="logo" href="https://compassfortcollins.org">
+
+                            <img class="stnd default-logo" alt="Compass High School" src="/assets/images/COMPASS-HIGH-SCHOOL-LOGOS-colors2-2.png" />
+                            <img class="retina-logo " alt="Compass High School" src="/assets/images/COMPASS-HIGH-SCHOOL-LOGOS-colors2-2.png"
+                            />
+                        </a>
+
+                    </div>
+                    <!--/span_3-->
+
+                    <div class="col span_9 col_last">
+
+                        <nav>
+
+                            <ul class="top-menu" id="nav-global">
+                                <li><a href="#">About</a>
+                                    <ul class="sub-menu">
+                                        <li><a href="/why-compass/">Why Compass</a></li>
+                                        <li><a href="/compass-high-school-experience/">Compass Experience</a></li>
+                                        <li><a href="/research-resources-guiding-innovation/">Research &amp; Resources</a></li>
+                                        <li><a href="/faqs/">FAQs</a></li>
+                                        <li><a href="/our-team/">Our Team</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="#">Involvement</a>
+                                    <ul class="sub-menu">
+                                        <li><a href="/parents/">Parents</a></li>
+                                        <li><a href="/students/">Students</a></li>
+                                        <li><a href="/community-partners/">Community Partner Program</a></li>
+                                        <li><a href="/become-a-volunteer/">Become a Volunteer</a></li>
+                                        <li><a href="/contribute/?cfpage=project&#038;project_id=13261">Contribute to Compass!</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="/blog/">Blog</a></li>
+                                <li><a href="/contact-us/">Contact Us</a></li>
+                            </ul>
+
+                        </nav>
+
+                    </div>
+                    <!--/span_9-->
+
+                </div>
+                <!--/row-->
+
+            </div>
+            <!--/container-->
+
+        </header>
+
+
+        <!-- <div class="ns-loading-cover"></div> -->
+
+
+        </div>
+        <!--/header-outer-->
+
+
+        <div id="ajax-content-wrap">
+
+            <div class="container-wrap">
+
+                {% if page.header_image %}
+                    {% include header-image.html %}
+                {% endif %}
+
+                <div class="container main-content">
+
+                    <div class="row">
+
+
+                        <div id="fws_58ccda7da6fc7" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section   " style="padding-top: 0px; padding-bottom: 0px; ">
+                            <div class="row-bg-wrap">
+                                <div class="row-bg   " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div>
+                            </div>
+                            <div class="col span_12 dark left">
+                                <div class="vc_col-sm-12 wpb_column column_container col no-extra-padding" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+                                    <div class="wpb_wrapper">
+
+                                        <div class="wpb_text_column wpb_content_element ">
+                                            <div class="wpb_wrapper">
+                                                {{content}}
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                    </div>
+                    <!--/row-->
+
+                </div>
+                <!--/container-->
+
+            </div>
+
+            {% include footer.html %}
+
+            {% include scripts.html %}
+            
+</body>
+
+</html>
