@@ -9,122 +9,159 @@
 
 <body class="{% if page.class %} {{ page.class }} {% endif %}">
     {% include browserupgrade.html %}
-
-    <!-- <div id="header-space" data-header-mobile-fixed='1'></div> -->
-
-<div id="header-outer" data-has-menu="true" data-mobile-fixed="1" data-ptnm="1"  data-user-set-bg="#ffffff" data-format="default" data-permanent-transparent="false" data-cart="false" data-transparency-option="" data-shrink-num="6"
-        data-full-width="false" data-using-logo="1" data-logo-height="50" data-m-logo-height="40" data-padding="10" data-header-resize="0">
-
-        <header id="top">
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="col span_3">
-
-                        <a id="logo" href="https://compassfortcollins.org">
-
-                            <img class="stnd default-logo" alt="Compass High School" src="/assets/images/COMPASS-HIGH-SCHOOL-LOGOS-colors2-2.png" />
-                            <img class="retina-logo " alt="Compass High School" src="/assets/images/COMPASS-HIGH-SCHOOL-LOGOS-colors2-2.png"
-                            />
-                        </a>
-
-                    </div>
-                    <!--/span_3-->
-
-                    <div class="col span_9 col_last">
-
-                        <nav>
-
-                            <ul class="top-menu" id="nav-global">
-                                <li><a href="#">About</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="/why-compass/">Why Compass</a></li>
-                                        <li><a href="/compass-high-school-experience/">Compass Experience</a></li>
-                                        <li><a href="/research-resources-guiding-innovation/">Research &amp; Resources</a></li>
-                                        <li><a href="/faqs/">FAQs</a></li>
-                                        <li><a href="/our-team/">Our Team</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">Involvement</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="/parents/">Parents</a></li>
-                                        <li><a href="/students/">Students</a></li>
-                                        <li><a href="/community-partners/">Community Partner Program</a></li>
-                                        <li><a href="/become-a-volunteer/">Become a Volunteer</a></li>
-                                        <li><a href="/contribute/?cfpage=project&#038;project_id=13261">Contribute to Compass!</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="/blog/">Blog</a></li>
-                                <li><a href="/contact-us/">Contact Us</a></li>
-                            </ul>
-
-                        </nav>
-
-                    </div>
-                    <!--/span_9-->
-
-                </div>
-                <!--/row-->
-
-            </div>
-            <!--/container-->
-
-        </header>
+    <div class="site-nav">
+          <nav>
+            <ul class="top-menu" id="nav-global">
+              <div class="menu-btn-close"><img src="/assets/images/close.png" /></div>
+              <li><a href="#">About</a>
+                  <ul class="sub-menu">
+                    <li><a href="/why-compass/">Why Compass</a></li>
+                    <li><a href="/compass-high-school-experience/">Compass Experience</a></li>
+                    <li><a href="/research-resources-guiding-innovation/">Research &amp; Resources</a></li>
+                    <li><a href="/faqs/">FAQs</a></li>
+                    <li><a href="/our-team/">Our Team</a></li>
+                  </ul>
+              </li>
+                <li><a href="#">Involvement</a>
+                  <ul class="sub-menu">
+                    <li><a href="/parents/">Parents</a></li>
+                    <li><a href="/students/">Students</a></li>
+                    <li><a href="/community-partners/">Community Partner Program</a></li>
+                    <li><a href="/become-a-volunteer/">Become a Volunteer</a></li>
+                    <li><a href="/contribute/?cfpage=project&#038;project_id=13261">Contribute to Compass!</a></li>
+                  </ul>
+                </li>
+                <li><a href="/blog/">Blog</a></li>
+                <li><a href="/contact-us/">Contact Us</a></li>
+            </ul>
+          </nav>
+          </div>
+    <div class="page-wrapper">
+    {% include header.html %}
+   
+    <!-- Page Header Image -->
+   <div id="page-header-wrap" data-animate-in-effect="none" data-midnight="light" class="fullscreen-header" style="margin-top: 0px; height: 840px;">	    
+       <div class="fullscreen-header" data-animate-in-effect="none" id="page-header-bg" data-midnight="light" data-text-effect="none" data-bg-pos="center" data-alignment="center" data-alignment-v="middle" data-parallax="0" data-height="840" style="background-color: rgb(0, 0, 0); height: 840px; overflow: visible;">
+      <div class="page-header-bg-image" style="background-image: url({{ page.home_header_image_path }}); transform: translate(0px, 0px);"></div> 
+        <div class="container" style="transform: translate(0px, 0px);">
+                  <div class="row" style="top: 0px; visibility: visible;">
+                  <div class="col span_6">
+                      <div class="inner-wrap">
+                          <h1>{{ page.home_header_title }}</h1>
+                          <span class="subheader">{{ page.home_header_subtitle }}</span>
+                      </div>
+                  </div>
+                  </div>
+              </div>
+              <div class="scroll-down-wrap ">
+                  <a href="#" class="section-down-arrow">
+                      <i class="fa fa-angle-down"></i>
+                  </a>
+              </div>
+      </div>
+    </div>
 
 
-        <!-- <div class="ns-loading-cover"></div> -->
 
-
-        </div>
-        <!--/header-outer-->
-
-
-        <div id="ajax-content-wrap">
-
-            <div class="container-wrap">
-
-                {% if page.header_image %}
-                    {% include header-image.html %}
-                {% endif %}
-
-                <div class="container main-content">
-
-                    <div class="row">
-
-
-                        <div id="fws_58ccda7da6fc7" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section   " style="padding-top: 0px; padding-bottom: 0px; ">
-                            <div class="row-bg-wrap">
-                                <div class="row-bg   " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div>
-                            </div>
-                            <div class="col span_12 dark left">
-                                <div class="vc_col-sm-12 wpb_column column_container col no-extra-padding" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
-                                    <div class="wpb_wrapper">
-
-                                        <div class="wpb_text_column wpb_content_element ">
-                                            <div class="wpb_wrapper">
-                                                {{content}}
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
+    <div class="container-wrap" style="padding-bottom: 0px; opacity: 1;">
+      <div class=" main-content">
+		
+        <div class="container">
+          <div id="fws_5936e8f406fa1" class="video-block clearfix">
+            <div class="col span_12">
+              <div class="vc_col-sm-8 span_8 wpb_column column_container col no-extra-padding instance-1">
+                  <div class="wpb_wrapper">
+                  <div class="wpb_video_widget wpb_content_element vc_clearfix   vc_video-aspect-ratio-169 vc_video-el-width-100 vc_video-align-center">
+                    <div class="wpb_wrapper">
+                        <div class="wpb_video_wrapper">
+                            <div class="iframe-embed">
+                              <iframe src="https://www.youtube.com/embed/CjSeH0K9PLY?feature=oembed&amp;wmode=transparent" frameborder="0" allowfullscreen="" data-aspectratio="0.562962962962963" style="width: 821px; height: 462.193px; opacity: 1; visibility: visible;">
+                              </iframe>
                             </div>
                         </div>
-
-
-
                     </div>
-                    <!--/row-->
+                  </div>
+                </div> 
+              </div> 
 
-                </div>
-                <!--/container-->
+              <div class="vc_col-sm-4 wpb_column column_container col centered-text padding-2-percent instance-2 span_4">
+                  <div class="wpb_wrapper">                
+                  <div class="wpb_text_column wpb_content_element ">
+                      <h2 class="editable">Want to know more about Compass High School?</h2>
+                    <p class="editable">Take a couple of minutes to get to know us!</p>
+                  </div>
+                </div> 
+              </div> 
+            </div>
+        </div>
+      </div><!--/row-->
 
+      <div class="card-block card-block-3 clearfix">
+        <div class="container clearfix">
+          <div class="col span_12 light left">
+            <div class="vc_col-sm-4  span_4 updates_column1 wpb_column column_container col centered-text no-extra-padding instance-3" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+                <div class="wpb_wrapper">
+                  
+              <div class="col span_12 section-title text-align-center extra-padding">
+              <h2>Contribute to Compass!</h2></div><div class="clear"></div>
+            <div class="wpb_raw_code wpb_content_element wpb_raw_html updates_cf_card">
+              <div class="wpb_wrapper">
+                <iframe width="315" height="410" frameborder="0" src="https://widgets.communityfunded.com/projects/c5af563933809cfc22fe09ab2f5ec831&amp;l=pc" style="opacity: 1; visibility: visible;"></iframe>
+              </div>
             </div>
 
-            {% include footer.html %}
+                </div> 
+            </div> 
 
+            <div class="vc_col-sm-4 span_4 updates_campaign_video wpb_column column_container col centered-text no-extra-padding instance-4" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+                <div class="wpb_wrapper">
+                  
+              <div class="col span_12 section-title text-align-center extra-padding">
+              <h2>Announcements and Events</h2></div><div class="clear"></div>
+            <div class="wpb_text_column wpb_content_element ">
+              <div class="wpb_wrapper">
+                <p><em><strong>Parent Information Meeting: stay tuned….</strong></em></p>
+          <p><em><strong>Next meeting of CCC Prototype/YSci Summer Program:</strong></em>&nbsp;Monday, June 19, 9a-3p. Meet at&nbsp;CSU in the Education Building, room 13</p>
+          <p><em><strong>Partnership Team Meeting: &nbsp;June 22</strong></em><strong>, 9:00am-10:30am </strong>at Mesh Campus, 242 Linden Street, Fort Collins.</p>
+          <p><em><strong>Next Board Meeting:</strong></em> Mesh Campus conference room, 6-8 pm, Wed. May 24, 2017</p>
+
+              </div>
+            </div>
+
+                </div> 
+            </div> 
+
+            <div class="vc_col-sm-4 span_4 wpb_column column_container col centered-text no-extra-padding instance-5" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+                <div class="wpb_wrapper">
+                  
+              <div class="col span_12 section-title text-align-center extra-padding">
+              <h2>Get the Latest from Compass</h2></div><div class="clear"></div>
+            <div class="wpb_raw_code wpb_content_element wpb_raw_html updates_twitter_card">
+              <div class="wpb_wrapper">
+                <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-timeline twitter-timeline-rendered" style="position: static; visibility: visible; display: inline-block; width: 315px; height: 410px; padding: 0px; border: none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px; min-height: 200px;" data-widget-id="profile:compasshighfc" title="Twitter Timeline"></iframe> 
+                <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+              </div>
+            </div>
+
+                </div> 
+            </div> 
+          </div>
+      </div>
+      </div>
+
+
+
+							
+	
+			</div><!--/container-->
+
+	</div><!--/container-->
+	
+
+
+
+            {% include footer.html %}
+</div>
             {% include scripts.html %}
             
 </body>
