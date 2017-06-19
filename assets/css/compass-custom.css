@@ -22,6 +22,7 @@
 
 body {
   background: #000 !important;
+  color: #000;
 }
 /* ------------------------- 2 ------------------------- */
 #header-outer header#top nav {
@@ -34,9 +35,24 @@ header#top nav>ul>li>a {
 }
 #nav-global {
   margin: 0;
-  padding: 2em 2em;
+  padding: 1em 2em 0;
   list-style: none;
   font-weight: 700;
+}
+@media only screen and (max-width: 1000px) and (min-width: 1px) {
+  #nav-global {
+    background-color: #d8a963 !important;
+  }
+}
+@media only screen and (max-width: 1000px) and (min-width: 1px) {
+  header#top nav ul li a {
+      color: #fff;
+  }
+}
+
+
+#nav-global .menu {
+  line-height: normal !important;
 }
 #nav-global .sub-menu {
   padding: 10px 0 0;
@@ -44,8 +60,32 @@ header#top nav>ul>li>a {
 #nav-global li {
   position: relative;
   display: block;
-  padding-bottom: 9px;
+  padding-bottom: 0;
 }
+#nav-global li ul {
+  position: absolute;
+  top: 100%;
+  display: none;
+  margin: 0;
+  padding: 0;
+  border-top: 0;
+  border-top: solid 1px #e4e4e4;
+  box-shadow: 1px 2px 2px 1px rgba(0, 0, 0, 0.12);
+  -moz-box-shadow: 1px 2px 2px 1px rgba(0, 0, 0, 0.12);
+  -webkit-box-shadow: 1px 2px 2px 1px rgba(0, 0, 0, 0.12);
+  background: #fff;
+  width: 200px;
+}
+
+@media only screen and (max-width: 1000px) and (min-width: 1px) {
+  #nav-global li ul {
+  position: relative;
+  display: block !important;
+}
+}
+header#top nav>ul>li>a {
+    padding-bottom: 25px;
+  }
 #nav-global li a {
   color: #fff;
 }
@@ -54,8 +94,9 @@ header#top nav>ul>li>a {
 
 #nav-global li ul li {
   display: block;
-  float: none;
+  float: none !important;
   text-transform: none;
+  padding-bottom: 9px;
 }
 #nav-global li ul li a,
 #nav-global li:hover ul li a {
@@ -231,6 +272,20 @@ transition: right .5s ease-in;
 .home #page-header-wrap {
     margin-top: 0px !important;
     height: calc(100vh - 100px) !important;
+}
+
+.home .btn a {
+      display: inline-block;
+    padding: 10px 35px;
+    margin-top: 1em;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 50px;
+    font-size: 0.9em;
+    background: #d8a963;
+    font-family: Montserrat;
+    letter-spacing: 0;
+    box-shadow: 0px 4px 4px rgba(0,0,0,0.25);
 }
 .home #page-header-wrap .fullscreen-header {
     height: 100% !important;

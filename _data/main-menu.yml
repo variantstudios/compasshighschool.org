@@ -1,24 +1,28 @@
-- text: Gallery
-  url: /gallery/
-- text: Services
+- text: About
   subitems:
-    - text: Packages
-      url: /service-packages/
-    - text: Surface Coatings
-      url: /surface-coatings/
-    - text: Prestige Detailing
-      url: /prestige-detailing/
-    - text: Window Tint
-      url: /window-tint/
-    - text: Clear Bra Protection
-      url: /clear-bra-protection/
-    - text: Bray Windshield Skin
-      url: /bray-windshield-skin/
+    - text: Why Compass
+      url: /why-compass/
+    - text: Compass Experience
+      url: /compass-high-school-experience/
+    - text: Research &amp; Resources
+      url: /research-resources-guiding-innovation/
+    - text: FAQs
+      url: /faqs/
+    - text: Our Team
+      url: /our-team/
+- text: Involvement
+  subitems:
+    - text: Parents
+      url: /parents/
+    - text: Students
+      url: /students/
+    - text: Community Partner Program
+      url: /community-partners/
+    - text: Become a Volunteer
+      url: /become-a-volunteer/
+    - text: Contribute to Compass!
+      url: /contribute/?cfpage=project&#038;project_id=13261
 - text: Blog
   url: /blog/
-- text: About
-  url: /about/
-- text: Store
-  url: /store/
-- text: Contact & Locations
-  url: /contact/
+- text: Contact Us
+  url: /contact-us/
