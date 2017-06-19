@@ -36,8 +36,10 @@ header#top nav>ul>li>a {
   margin: 0;
   padding: 2em 2em;
   list-style: none;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-weight: 700;
+}
+#nav-global .sub-menu {
+  padding: 10px 0 0;
 }
 #nav-global li {
   position: relative;
@@ -49,18 +51,7 @@ header#top nav>ul>li>a {
 }
 #nav-global li:hover a {
 }
-#nav-global li ul {
-  /*position: absolute;
-  top: 100%;
-  display: none;
-  margin: 0;
-  padding: 0;
-  border-top: 0;
-  border-top: solid 1px #e4e4e4;
-  box-shadow: 1px 2px 2px 1px rgba(0, 0, 0, 0.12);
-  -moz-box-shadow: 1px 2px 2px 1px rgba(0, 0, 0, 0.12);
-  -webkit-box-shadow: 1px 2px 2px 1px rgba(0, 0, 0, 0.12);*/
-}
+
 #nav-global li ul li {
   display: block;
   float: none;
@@ -115,7 +106,10 @@ transition: right .5s ease-in;
 .container-wrap {
     margin-top: 0;
     z-index: 0;
-    padding-top: 80px;
+    padding-top: 0px;
+}
+.home .container-wrap {
+  padding-top: 80px;
 }
 #footer-outer {
   clear: both;
