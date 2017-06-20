@@ -1,12 +1,12 @@
 $(document).ready(function() {
 
   $('.menu-btn').click(function() {
-     $('body').addClass( "showMenu" );
+     $('#nav-global ul.menu').toggleClass( "hide" );
     });
 
-      $('.menu-btn-close').click(function() {
-     $('body').removeClass( "showMenu" );
-    });
+    //   $('.menu-btn-close').click(function() {
+    //  $('body').removeClass( "showMenu" );
+    // });
 
     console.log('test');
 });

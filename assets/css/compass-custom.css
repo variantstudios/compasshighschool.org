@@ -39,9 +39,21 @@ header#top nav>ul>li>a {
   list-style: none;
   font-weight: 700;
 }
+.menu-btn {
+    display: none;
+  }
 @media only screen and (max-width: 1000px) and (min-width: 1px) {
   #nav-global {
     background-color: #d8a963 !important;
+  }
+  #nav-global ul.menu {
+    display: none;
+  }
+  #nav-global ul.menu.hide {
+    display: block;
+  }
+  .menu-btn {
+    display: block;
   }
 }
 @media only screen and (max-width: 1000px) and (min-width: 1px) {
@@ -50,6 +62,20 @@ header#top nav>ul>li>a {
   }
 }
 
+@media only screen and (max-width: 1000px) and (min-width: 1px) {
+#header-outer header#top nav {
+    background-color: #1F1F1F;
+    margin-left: -250px!important;
+    margin-right: -250px!important;
+    padding: 5px 250px 5px 250px;
+    top: 63px;
+    margin-bottom: 0;
+    display: block !important;
+    position: relative;
+    z-index: 100000;
+    /* margin-top: 1em; */
+}
+}
 
 #nav-global .menu {
   line-height: normal !important;
