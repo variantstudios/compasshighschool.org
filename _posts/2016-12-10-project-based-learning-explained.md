@@ -1,7 +1,7 @@
 ---
 title: "Project-based Learning: Explained"
 date: 2016-12-10T00:00:00.000Z
-image_path: '/assets/images/blog/IMG_0374-1-1024x768.jpg'
+image_path:
 categories:
   - uncategorized
 iframe_content: '<iframe width="560" height="315" src="https://www.youtube.com/embed/LMCZvGesRz8" frameborder="0" allowfullscreen></iframe>'

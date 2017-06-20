@@ -28,6 +28,14 @@ layout: default
         <div class="inner-wrap animated">
           <div class="post-content">
             <div class="content-inner">
+              <img src="{{ page.image_path }}" />
+
+              {% if page.iframe_content %}
+                   <div class="videoWrapper">
+                    {{ page.iframe_content }}
+                  </div>
+                {% endif %}
+
               {{ content }}
             </div>
               <!-- Pagination -->

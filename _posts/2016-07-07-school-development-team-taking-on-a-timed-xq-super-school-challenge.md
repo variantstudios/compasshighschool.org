@@ -4,7 +4,7 @@ date: 2016-07-07 00:00:00
 image_path: /assets/images/talent-and-training-graphic-1024x791.jpg
 categories:
   - community-voices
-iframe_content: '<iframe width="560" height="315" src="https://www.youtube.com/embed/X8e5tBHoGlI" frameborder="0" allowfullscreen></iframe>'
+iframe_content:
 search_engine_optimization:
   page_title: 'School Development Team taking on a timed, XQ Super School Challenge!'
   page_description:
