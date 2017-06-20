@@ -46,6 +46,10 @@ body {
     padding: 50px 90px;
 }
 }
+
+.nectar-button {
+      border-radius: 200px!important;
+}
 /* ------------------------- 2 ------------------------- */
 #header-outer header#top nav {
   display: block !important;
