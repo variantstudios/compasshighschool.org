@@ -8,4 +8,19 @@ layout: default
      {% include faqs.html %}
      {% elsif page.url contains "contact-us" %}
      {% include contact-form.html %}
+     {% elsif page.url contains "our-team" %}
+     {% include staff.html %}
    {% endif %}
+  
+{% assign items = site.people | sort: 'weight' %}
+  {% for item in items %}
+    <div class="person clearfix">
+      {% if item.image_path %}
+        <img src="{{ item.image_path }}" alt="{{ item.name }}">
+      {% endif %}
+      <div class="info">
+        <h4>{{ item.name }}</h4>
+        <p class="position">{{ item.position }}</p>
+      </div>
+    </div>
+  {% endfor %}
