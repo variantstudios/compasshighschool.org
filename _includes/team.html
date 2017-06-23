@@ -1,4 +1,6 @@
 
-    {% for item in site.data.staff %}  
-      <h4>{{ item }}</h4>
+    {% for item in site.data.team %}  
+      <h4>{{ item.name }}</h4>
+      <h6>{{ item.position }} </h6>
+      <img src="{{ item.image_path }}" alt="{{ item.name }}"/>
     {% endfor %}
