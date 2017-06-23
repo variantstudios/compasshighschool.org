@@ -49,8 +49,6 @@ collections:
   tags:
     output: true
     permalink: '/blog/:title/'
-  people:
-    output: false
     
 defaults:
   -
