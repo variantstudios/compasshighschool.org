@@ -1,3 +1,4 @@
-{% for item in site.people %}
-  <h4>{{ item.name }}</h4>
-{% endfor %}
+  {% assign items = site.people | sort: 'weight' %}
+    {% for item in items %}  
+      <h4>{{ item.name }}</h4>
+    {% endfor %}
