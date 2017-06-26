@@ -4,9 +4,12 @@ sub_title: Join our growing list of community partners.  Start seeing the benefi
 header_image: /assets/images/headers/community-partners.jpg
 permalink: /community-partners/
 layout: page
+iframe:
+    title: "Become a Community Partner"
+    url: "https://docs.google.com/forms/d/e/1FAIpQLScZMn5Cnf1IDHwdz5eA7QRke8gcDM3esPJtWB8q3-8Wuu36tA/viewform?embedded=true"
+    width: "2000" 
+    height: "1685"
 ---
-
-
 ## New Partnerships
 
 Compass High School is continually developing new partnerships with business, nonprofit, artistic, college, university, and government entities to provide our students the opportunities to engage in meaningful career exploration and for our community to benefit from the energy and commitment of young people in their work environments.
@@ -31,7 +34,3 @@ City of Fort Collins, Offices of the Mayor and City Manager
 <br>CSU Writing Project ReSchool Colorado
 <br>KnowledgeWorks
 <br>Education Change Makers
-
-## Become a Community Partner
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScZMn5Cnf1IDHwdz5eA7QRke8gcDM3esPJtWB8q3-8Wuu36tA/viewform?embedded=true" width="2000" height="1685" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
