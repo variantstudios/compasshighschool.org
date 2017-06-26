@@ -12,4 +12,11 @@ layout: default
   {% elsif page.url contains "our-team" %}
      {% include team.html %}
 {% endif %}
-  
+
+{% if page.iframe.url %}
+<div class="iframe">
+<h3>{{page.iframe.title}}</h3>
+<iframe src="{{page.iframe.url}}" width="{{page.iframe.width}}" height="{{page.iframe.height}}" frameborder="0">Loading...</iframe>
+</div>
+{% endif %}
+
