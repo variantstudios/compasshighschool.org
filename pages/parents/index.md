@@ -13,4 +13,4 @@ All new students will complete an interview and skills assessment to make sure o
 We want your involvement and partnership in our school. In addition to being a participant in the students’ quarterly Presentations of Learning celebrations, we hope you will help us connect students to internships in the community.  Additionally, we will also welcome families to evening classes to learn English, computer skills, and tricks of the trade in the difficult job of parenting adolescents. We value your role as a parent and want to be an extension of your encouragement for your child to be a powerful, positive change maker in our community and our world.
 
 ### Enroll Your Student Today
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScCPR8D_H4V4VeWUAfxphIw5wcd5m5x-9D8ho370429LP2Q3A/viewform?embedded=true" width="2000" height="2300" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScCPR8D_H4V4VeWUAfxphIw5wcd5m5x-9D8ho370429LP2Q3A/viewform?embedded=true" width="2000" height="1300" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes">Loading...</iframe>
