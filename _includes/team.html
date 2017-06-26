@@ -1,9 +1,12 @@
-
-    {% for item in site.data.team %}  
-    <div class="team--member">
-      <h4>{{ item.name }}</h4>
+<div class="team-list">
+{% for item in site.data.team %}  
+  <div class="team--member clearfix">
+    <img src="{{ item.image_path }}" alt="{{ item.name }}"/>
+    <div class="team--member-details">
+      <h3>{{ item.name }}</h3>
       <h6>{{ item.position }} </h6>
       <p>{{ item.bio }}</p>
-      <img src="{{ item.image_path }}" alt="{{ item.name }}"/>
     </div>
-    {% endfor %}
+  </div>
+{% endfor %}
+</div>

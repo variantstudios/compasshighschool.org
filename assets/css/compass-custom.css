@@ -363,3 +363,43 @@ transition: right .5s ease-in;
 .masonry-blog-item {
     width: 29.1%;
 }
+
+
+/*-- Team --*/
+.team--member {
+  clear: both;
+  margin-bottom: 2em;
+}
+.row .col .team--member img {
+  margin-bottom: 15px;
+  /* max-width: 100%; */
+  width: 200px;
+  height: auto;
+}
+@media only screen and (min-width: 1000px) {
+  .row .col .team--member img {
+    margin-bottom: 15px;
+    /* max-width: 100%; */
+    width: 200px;
+    height: auto;
+    float: left;
+    margin-right: 2em;
+  }
+}
+.team--member .team--member-details {
+  overflow: hidden;
+}
+.team--member .team--member-details h3 {
+      font-size: 1.8em !important;
+    margin-bottom: 10px !important;
+}
+.team--member .team--member-details h6 {
+    font-size: 1.2em;
+    margin-bottom: 1em;
+}
+.team--member .team--member-details p {
+   letter-spacing: .5px;
+}
+.team-list {
+  margin-top: 4em;
+}
