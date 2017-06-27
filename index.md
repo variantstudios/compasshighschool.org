@@ -20,6 +20,6 @@ announcements_and_events:
           <p><em><strong>Partnership Team Meeting: &nbsp;June 22</strong></em><strong>, 9:00am-10:30am </strong>at Mesh Campus, 242 Linden Street, Fort Collins.</p>
           <p><em><strong>Next Board Meeting:</strong></em> Mesh Campus conference room, 6-8 pm, Wed. May 24, 2017</p>"
 _comments:
-    video_section:
-            video_path: "For example: https://www.youtube.com/embed/CjSeH0K9PLY"
+  video_section:
+    video_path: "For example: https://www.youtube.com/embed/CjSeH0K9PLY"
 ---
