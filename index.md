@@ -1,5 +1,4 @@
 ---
-title: 'Home.'
 home_header:
     title: Compass High School
     subtitle: A public charter school built by the community for the community.
