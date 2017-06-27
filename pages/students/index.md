@@ -2,6 +2,9 @@
 title: Students
 sub_title: Student-centered and passion-driven education for a lifetime.
 header_image: /assets/images/headers/students.jpg
+search_engine_optimization:
+  page_title: "Students"
+  page_description: "Student-centered and passion-driven education for a lifetime."
 permalink: /students/
 layout: page
 ---

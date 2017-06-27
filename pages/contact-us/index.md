@@ -1,13 +1,16 @@
 ---
 title: "Contact Us"
 sub_title:
-permalink: /contact-us/
-layout: page
-class: contact
+search_engine_optimization:
+  page_title: "Contact Us"
+  page_description: ""
 webform:
     subject: "Compass Community Collaborative School: Contact Form"
     to: "team@variantstudios.com"
     thank_you_message: "Thank you. Your message has been sent. We will contact you shortly."
+permalink: /contact-us/
+layout: page
+class: contact
 _comments:
     webform:
         subject: "This is the contact form's email subject line."

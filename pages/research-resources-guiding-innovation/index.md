@@ -1,5 +1,8 @@
 ---
 title: Research and Resources Guiding our Innovation
+search_engine_optimization:
+  page_title: "Research and Resources Guiding our Innovation"
+  page_description: ""
 permalink: /research-resources-guiding-innovation/
 layout: page
 ---
