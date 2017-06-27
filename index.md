@@ -19,6 +19,5 @@ announcements_and_events:
 class: "home page page-id-6 page-template-default ascend wpb-js-composer js-comp-ver-4.11.2 vc_responsive"
 layout: "front"
 _comments:
-    video_section:
     video_path: "For example: https://www.youtube.com/embed/CjSeH0K9PLY"
 ---
