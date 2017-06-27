@@ -36,7 +36,7 @@ pagination:
   category: 'posts'
 
 # Cloudinary
-cloudinaryurl:
+cloudinaryurl: 'http://res.cloudinary.com/compass-high-school'
 
 #Collections
 collections:
@@ -61,14 +61,16 @@ defaults:
     scope:
       type: categories
     values:
-      layout: categories
+      layout: category
       class: blog
+      pagination: 
+        enabled: true
 
 # typekit - Because we all need nice type faces.
 typekit:
 
 # Google Analytics - What site isn't using it?!
-google_analytics_tracking_id:
+google_analytics_tracking_id: // UA-81024453-1
 
 exclude: ["vendor","node_modules","package.json","Gemfile","gulpfile.js","*.scss"]
 
