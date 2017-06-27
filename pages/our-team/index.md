@@ -2,6 +2,9 @@
 title: Our Team
 sub_title: Passionate leaders that are bringing this school to life.
 header_image: '/assets/images/headers/our_team.jpg'
+search_engine_optimization:
+  page_title: "Our Team"
+  page_description: "Passionate leaders that are bringing this school to life."
 permalink: /our-team/
 layout: page
 ---

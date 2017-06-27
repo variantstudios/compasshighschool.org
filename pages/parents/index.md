@@ -2,6 +2,9 @@
 title: Parents
 sub_title: We want the best for our children and our future.
 header_image: '/assets/images/headers/parents.jpg'
+search_engine_optimization:
+  page_title: "Parents"
+  page_description: "We want the best for our children and our future."
 permalink: /parents/
 layout: page
 iframe:

@@ -2,6 +2,9 @@
 title: "Why Compass?"
 sub_title: We are charting a new course in 6-12 education.
 header_image: '/assets/images/headers/why-compass.jpg'
+search_engine_optimization:
+  page_title: "Why Compass?"
+  page_description: "We are charting a new course in 6-12 education."
 permalink: /why-compass/
 layout: page
 ---

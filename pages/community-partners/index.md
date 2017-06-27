@@ -2,13 +2,16 @@
 title: Community Partner Program
 sub_title: Join our growing list of community partners.  Start seeing the benefit of working with our students today.
 header_image: /assets/images/headers/community-partners.jpg
-permalink: /community-partners/
-layout: page
+search_engine_optimization:
+  page_title: "Community Partner Program"
+  page_description: "Join our growing list of community partners.  Start seeing the benefit of working with our students today."
 iframe:
     title: "Become a Community Partner"
     url: "https://docs.google.com/forms/d/e/1FAIpQLScZMn5Cnf1IDHwdz5eA7QRke8gcDM3esPJtWB8q3-8Wuu36tA/viewform?embedded=true"
     width: "2000" 
     height: "1685"
+permalink: /community-partners/
+layout: page
 ---
 ## New Partnerships
 
