@@ -271,6 +271,11 @@ transition: right .5s ease-in;
 .post.widget h3 {
   margin-top: 16px;
 }
+.post-side-date {
+    font-size: 11px;
+    line-height: 16px;
+    color: #888;
+}
 
 /* POST PAGINATION */
 #post-area #pagination {
