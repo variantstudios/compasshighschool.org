@@ -42,15 +42,15 @@
     <!-- Page Header Image -->
    <div id="page-header-wrap" data-animate-in-effect="none" data-midnight="light" class="fullscreen-header" style="margin-top: 0px; height: 840px;">	    
        <div class="fullscreen-header" data-animate-in-effect="none" id="page-header-bg" data-midnight="light" data-text-effect="none" data-bg-pos="center" data-alignment="center" data-alignment-v="middle" data-parallax="0" data-height="840" style="background-color: rgb(0, 0, 0); height: 840px; overflow: visible;">
-      <div class="page-header-bg-image" style="background-image: url({{ page.home_header_image_path }}); transform: translate(0px, 0px);"></div> 
+      <div class="page-header-bg-image" style="background-image: url({{ page.home_header.image_path }}); transform: translate(0px, 0px);"></div> 
         <div class="container" style="transform: translate(0px, 0px);">
                   <div class="row" style="top: 0px; visibility: visible;">
                   <div class="col span_6">
                       <div class="inner-wrap">
-                          <h1>{{ page.home_header_title }}</h1>
-                          <span class="subheader">{{ page.home_header_subtitle }}</span>
+                          <h1>{{ page.home_header.title }}</h1>
+                          <span class="subheader">{{ page.home_header.subtitle }}</span>
 
-                          <div class="btn"><a href="#">Enrolling Now!</a></div>
+                          <div class="btn"><a href="{{page.home_header.call_to_action_link_path}}">{{ page.home_header.call_to_action_text }}</a></div>
                       </div>
                   </div>
                   </div>
@@ -77,7 +77,7 @@
                     <div class="wpb_wrapper">
                         <div class="wpb_video_wrapper">
                             <div class="iframe-embed">
-                              <iframe src="https://www.youtube.com/embed/CjSeH0K9PLY?feature=oembed&amp;wmode=transparent" frameborder="0" allowfullscreen="" data-aspectratio="0.562962962962963" style="width: 821px; height: 462.193px; opacity: 1; visibility: visible;">
+                              <iframe src="{{page.video_section.video_path}}" frameborder="0" allowfullscreen="" data-aspectratio="0.562962962962963" style="width: 821px; height: 462.193px; opacity: 1; visibility: visible;">
                               </iframe>
                             </div>
                         </div>
@@ -89,9 +89,9 @@
               <div class="vc_col-sm-4 wpb_column column_container col centered-text padding-2-percent instance-2 span_4">
                   <div class="wpb_wrapper">                
                   <div class="wpb_text_column wpb_content_element ">
-                      <h2 class="editable">Want to know more about Compass High School?</h2>
-                    <p class="editable">Take a couple of minutes to get to know us!</p>
-                     <div class="btn"><a href="#">Enroll Here!</a></div>
+                      <h2>{{page.video_section.title}}</h2>
+                      <p>{{page.video_section.sub_title}}</p>
+                     <div class="btn"><a href="{{page.video_section.call_to_action_link_path}}">{{page.video_section.call_to_action_text}}</a></div>
                   </div>
                 </div> 
               </div> 
@@ -123,11 +123,7 @@
               <h2>Announcements and Events</h2></div><div class="clear"></div>
             <div class="wpb_text_column wpb_content_element ">
               <div class="wpb_wrapper">
-                <p><em><strong>Parent Information Meeting: stay tuned….</strong></em></p>
-          <p><em><strong>Next meeting of CCC Prototype/YSci Summer Program:</strong></em>&nbsp;Monday, June 19, 9a-3p. Meet at&nbsp;CSU in the Education Building, room 13</p>
-          <p><em><strong>Partnership Team Meeting: &nbsp;June 22</strong></em><strong>, 9:00am-10:30am </strong>at Mesh Campus, 242 Linden Street, Fort Collins.</p>
-          <p><em><strong>Next Board Meeting:</strong></em> Mesh Campus conference room, 6-8 pm, Wed. May 24, 2017</p>
-
+                {{page.announcements_and_events.content_html}}
               </div>
             </div>
 
@@ -141,8 +137,7 @@
               <h2>Get the Latest from Compass</h2></div><div class="clear"></div>
             <div class="wpb_raw_code wpb_content_element wpb_raw_html updates_twitter_card">
               <div class="wpb_wrapper">
-                <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-timeline twitter-timeline-rendered" style="position: static; visibility: visible; display: inline-block; width: 315px; height: 410px; padding: 0px; border: none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px; min-height: 200px;" data-widget-id="profile:compasshighfc" title="Twitter Timeline"></iframe> 
-                <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                <a class="twitter-timeline" data-width="315" data-height="410" href="https://twitter.com/compasshighfc">Tweets by compasshighfc</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
               </div>
             </div>
 
