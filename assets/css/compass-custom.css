@@ -112,19 +112,25 @@ header#top nav>ul>li>a {
 }
 
 @media only screen and (max-width: 1000px) and (min-width: 1px) {
-#header-outer header#top nav {
-    background-color: #1F1F1F;
-    margin-left: -250px!important;
-    margin-right: -250px!important;
-    padding: 5px 250px 5px 250px;
-    top: 34px;
-    margin-bottom: 0;
-    display: block !important;
-    position: relative;
-    z-index: 100000;
-    /* margin-top: 1em; */
+  #header-outer header#top nav {
+      background-color: #1F1F1F;
+      margin-left: -250px!important;
+      margin-right: -250px!important;
+      padding: 5px 250px 5px 250px;
+      top: 65px;
+      margin-bottom: 0;
+      display: block !important;
+      position: relative;
+      z-index: 100000;
+      /* margin-top: 1em; */
+  }
+}
+@media only screen and (max-width: 690px) {
+#header-outer header#top nav { 
+  top:44px;
 }
 }
+
 
 #nav-global .menu {
   line-height: normal !important;
@@ -317,14 +323,24 @@ transition: right .5s ease-in;
   color: #dabb8b; 
   opacity: 0.55; 
   margin-bottom: 20px; 
-  font-size: 40px; 
+  font-size: 25px; 
   line-height: 1.1; 
   text-align: center;
 }
+@media only screen and (min-width: 1000px) {
+  .video-block h2 {
+    font-size: 40px; 
+  }
+}
 .video-block p {
-  font-size: 32px; 
+  font-size: 18px; 
   line-height: 1.1; 
   text-align: center;
+}
+@media only screen and (min-width: 1000px) {
+  .video-block p {
+    font-size: 32px; 
+  }
 }
 .video-block {
     padding: 0 0 60px 0 !important;
@@ -420,6 +436,8 @@ transition: right .5s ease-in;
 .team--member .team--member-details h3 {
       font-size: 1.8em !important;
     margin-bottom: 10px !important;
+        line-height: 1.2;
+
 }
 .team--member .team--member-details h6 {
     font-size: 1.2em;
