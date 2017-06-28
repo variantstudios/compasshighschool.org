@@ -5,7 +5,7 @@ image_path:
 categories:
   - community-voices
   - research-that-guides-compass
-iframe_content: '<iframe width="560" height="315" src="https://www.youtube.com/embed/hvDjh4l-VHo" frameborder="0" allowfullscreen></iframe>'
+iframe_content: '<iframe src="https://www.youtube.com/embed/hvDjh4l-VHo?wmode=transparent" frameborder="0"></iframe>'
 search_engine_optimization:
   page_title: "Play, Passion, Purpose: Tony Wagner"
   page_description: ""
