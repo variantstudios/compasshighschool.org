@@ -12,8 +12,19 @@ layout: page
       <div class="inner-wrap">
         <div class="post-content">
           <div class="content-inner">
-            <a href="{{ post.url }}"><span class="post-featured-img"><img width="500" height="298" src="{{ post.image_path }}" class="attachment-large size-large wp-post-image auto-height" alt="{{ post.title }} Pic" 
-            title="" srcset="{{ post.image_path }} 500w, {{ post.image_path }} 300w" sizes="(max-width: 500px) 100vw, 500px"></span></a>
+            <a href="{{ post.url }}" class="teaser-spot">
+              <span class="post-featured-img">
+                {% if post.image_path %}
+                <img width="500" height="298" src="{{ post.image_path }}" class="attachment-large size-large wp-post-image auto-height" alt="{{ post.title }} Pic" 
+                  title="" srcset="{{ post.image_path }} 500w, {{ post.image_path }} 300w" sizes="(max-width: 500px) 100vw, 500px">
+                {% endif %}
+                {% if post.iframe_content %}
+                   <div class="videoWrapper">
+                    {{ post.iframe_content }}
+                  </div>
+                {% endif %}
+                </span>
+              </a>
               <div class="article-content-wrap">
                 <div class="post-header">
                   <h2 class="title">
