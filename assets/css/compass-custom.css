@@ -72,6 +72,11 @@ body {
 }
 }
 
+@media only screen and (max-width: 1000px) {
+  .container  {
+  }
+}
+
 
 /* ------------------------- 2 ------------------------- */
 #header-outer header#top nav {
@@ -448,4 +453,26 @@ transition: right .5s ease-in;
 }
 .team-list {
   margin-top: 4em;
+}
+
+
+/* --- Contact --*/
+.contact-form input[type="text"], .contact-form input[type="email"]{
+
+  background-color: #fff !important;
+
+}
+.contact-form textarea {
+  background-color: #fff !important;
+}
+.contact-form .sendButton {
+      font-size: 20px;
+      padding: 12px 25px;
+}
+.webform-component {
+  margin-bottom: 2em;
+}
+.webform-component label {
+  display: block;
+  margin-bottom: 0.5em;
 }
