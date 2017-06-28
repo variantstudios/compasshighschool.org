@@ -25,6 +25,15 @@ body {
   color: #000;
 }
 
+@media only screen and (max-width: 1000px) and (min-width: 1px) {
+  p {
+    padding-bottom: 27px;
+    letter-spacing: 0;
+    line-height: 1.6;
+    font-size: 15px;
+  }
+}
+
 .videoWrapper {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
@@ -42,14 +51,28 @@ body {
 }
 
 @media only screen and (min-width: 1000px) {
-.container.main-content {
-    padding: 50px 90px;
+  .container.main-content {
+      padding: 50px 90px;
+  }
+}
+
+@media only screen and (max-width: 690px) {
+  #page-header-bg {
+    height: 400px !important;
+  }
+}
+.nectar-button {
+      border-radius: 200px !important;
+}
+
+@media only screen and (max-width: 690px) {
+.container  {
+    max-width: 87%!important;
+    padding-top: 2em;
 }
 }
 
-.nectar-button {
-      border-radius: 200px!important;
-}
+
 /* ------------------------- 2 ------------------------- */
 #header-outer header#top nav {
   display: block !important;
@@ -94,7 +117,7 @@ header#top nav>ul>li>a {
     margin-left: -250px!important;
     margin-right: -250px!important;
     padding: 5px 250px 5px 250px;
-    top: 63px;
+    top: 34px;
     margin-bottom: 0;
     display: block !important;
     position: relative;
