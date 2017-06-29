@@ -2,7 +2,7 @@
 home_header:
     title: Compass High School
     subtitle: A public charter school built by the community for the community.
-    image_path: https://compassfortcollins.org/wp-content/uploads/2016/05/IMG_3127-copy.jpg
+    image_path: /assets/images/headers/home.jpg
     call_to_action_text: "Enrolling Now!"
     call_to_action_link_path: "/parents/#iframe"
 video_section:
