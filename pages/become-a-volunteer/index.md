@@ -1,6 +1,7 @@
 ---
 title: Become a Volunteer
 sub_title:
+header_image: 
 search_engine_optimization:
   page_title: "Become a Volunteer"
   page_description: ""
