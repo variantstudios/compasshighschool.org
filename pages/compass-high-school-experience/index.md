@@ -1,6 +1,7 @@
 ---
 title: The Compass High School Experience
 sub_title:
+header_image: 
 permalink: /compass-high-school-experience/
 pdf_path: /assets/pdf/compass-experience.pdf
 search_engine_optimization:
