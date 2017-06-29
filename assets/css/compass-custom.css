@@ -144,7 +144,7 @@ header#top nav>ul>li>a {
 }
 @media only screen and (max-width: 690px) {
 #header-outer header#top nav { 
-  top:44px;
+  top:60px;
 }
 }
 
