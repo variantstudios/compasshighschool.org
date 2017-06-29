@@ -495,7 +495,7 @@ transition: right .5s ease-in;
   height: auto;
   margin-top: 0;
   height: 700px;
-  height: 300px !important;
+  height: 350px !important;
   overflow: hidden;
 
 }
@@ -506,8 +506,15 @@ transition: right .5s ease-in;
   }
 }
 .header-bg-image img {
+  height: 350px;
+}
+@media only screen and (min-width: 690px) {
+.header-bg-image img {
+  height: auto;
   width: 100%;
 }
+}
+
 #page-header-wrap .container {
     position: absolute;
     width: 80%;
@@ -541,3 +548,22 @@ transition: right .5s ease-in;
     #page-header-wrap .container .subheader {
       font-size: 1.3em;
     }
+
+.home #page-header-wrap {
+  height: auto;
+  margin-top: 0;
+  height: 700px !important;
+  overflow: hidden;
+
+}
+
+.home .header-bg-image img {
+  height: 700px;
+  width: auto;
+}
+@media only screen and (min-width: 1000px) {
+.home .header-bg-image img {
+  height: auto;
+  width: 100%;
+}
+}

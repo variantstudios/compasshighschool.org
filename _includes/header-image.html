@@ -3,10 +3,12 @@
     <div id="page-header-wrap" >
 
         <div class="header-bg-image" >
-<!--             <img src="{{page.header_image}}">
- -->            <img src="{{ site.cloudinaryurl }}/image/fetch/c_scale,h_700/{{ site.url }}{{ page.header_image }}" 
-            alt="{{ page.title }}" title="{{page.title}}" 
-            data-img="{{site.url}}{{page.header_image}}" data-width="100%" data-height="300px">
+
+             <img sizes="(min-width: 30em) 28em, 100vw"
+                srcset="{{ site.cloudinaryurl }}image/fetch/h_501,c_fill/{{ site.url }}{{ page.header_image }} 512w,
+                        {{ site.cloudinaryurl }}image/fetch/h_701,c_fill/{{ site.url }}{{ page.header_image }} 768w"
+                src="{{ site.cloudinaryurl }}image/fetch/h_701,c_fill/{{ site.url }}{{ page.header_image }}"
+                alt="{{ page.title }}" title="{{page.title}}" />
         </div>
         <div class="container">
                 <div class="inner-wrap">

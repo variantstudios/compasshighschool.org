@@ -40,28 +40,30 @@
     {% include header.html %}
    
     <!-- Page Header Image -->
-   <div id="page-header-wrap" data-animate-in-effect="none" data-midnight="light" class="fullscreen-header" style="margin-top: 0px; height: 840px;">	    
-       <div class="fullscreen-header" data-animate-in-effect="none" id="page-header-bg" data-midnight="light" data-text-effect="none" data-bg-pos="center" data-alignment="center" data-alignment-v="middle" data-parallax="0" data-height="840" style="background-color: rgb(0, 0, 0); height: 840px; overflow: visible;">
-      <div class="page-header-bg-image" style="background-image: url({{ page.home_header.image_path }}); transform: translate(0px, 0px);"></div> 
-        <div class="container" style="transform: translate(0px, 0px);">
-                  <div class="row" style="top: 0px; visibility: visible;">
-                  <div class="col span_6">
-                      <div class="inner-wrap">
+        <div id="page-header-wrap" >
+
+        <div class="header-bg-image" >
+
+             <img src="{{ site.cloudinaryurl }}image/fetch/h_701,c_fill/{{ site.url }}{{ page.home_header.image_path }}"
+                alt="{{ page.title }}" title="{{page.title}}" />
+        </div>
+        <div class="container">
+                <div class="inner-wrap">
                           <h1>{{ page.home_header.title }}</h1>
                           <span class="subheader">{{ page.home_header.subtitle }}</span>
 
                           <div class="btn"><a href="{{page.home_header.call_to_action_link_path}}">{{ page.home_header.call_to_action_text }}</a></div>
-                      </div>
-                  </div>
-                  </div>
-              </div>
-              <div class="scroll-down-wrap ">
-                  <a href="#jump" class="section-down-arrow">
-                      <i class="fa fa-angle-down"></i>
-                  </a>
-              </div>
-      </div>
+                </div>
+             <div class="scroll-down-wrap ">
+                <a href="#jump" class="section-down-arrow">
+                    <i class="fa fa-angle-down"></i>
+                </a>
+            </div>
+        </div>
+
     </div>
+
+
 
 
 
