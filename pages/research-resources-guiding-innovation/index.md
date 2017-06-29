@@ -1,5 +1,6 @@
 ---
 title: Research and Resources Guiding our Innovation
+header_image: 
 search_engine_optimization:
   page_title: "Research and Resources Guiding our Innovation"
   page_description: ""
