@@ -1,6 +1,7 @@
 ---
 title: "Contact Us"
 sub_title:
+header_image: '/assets/images/headers/why-compass.jpg'
 search_engine_optimization:
   page_title: "Contact Us"
   page_description: ""
