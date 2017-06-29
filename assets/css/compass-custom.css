@@ -543,7 +543,7 @@ transition: right .5s ease-in;
 }
 #page-header-wrap .container * {
       color: #fff !important;
-      text-shadow: 1px 1px 9px rgba(0,0,0,0.35);
+      text-shadow: 1px 1px 5px rgba(0,0,0,0.5);
     }
     #page-header-wrap .container .subheader {
       font-size: 1.3em;
@@ -565,5 +565,22 @@ transition: right .5s ease-in;
 .home .header-bg-image img {
   height: auto;
   width: 100%;
+}
+}
+
+.sponsor-list {
+      margin: 3em 0;
+
+}
+.sponsor--member {
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1em;
+}
+@media only screen and (min-width: 1000px) {
+.sponsor--member {
+  width: 24%;
 }
 }

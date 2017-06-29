@@ -11,6 +11,8 @@ layout: default
      {% include contact-form.html %}
   {% elsif page.url contains "our-team" %}
      {% include team.html %}
+  {% elsif page.url contains "community-partners" %}
+     {% include sponsors.html %}
 {% endif %}
 
 {% if page.iframe.url %}
