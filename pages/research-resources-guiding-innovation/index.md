@@ -1,10 +1,10 @@
 ---
 title: Research and Resources Guiding our Innovation
 sub_title:
-header_image: 
+header_image: /assets/images/headers/blog.jpg
 search_engine_optimization:
-  page_title: "Research and Resources Guiding our Innovation"
-  page_description: ""
+  page_title: Research and Resources Guiding our Innovation
+  page_description:
 permalink: /research-resources-guiding-innovation/
 layout: page
 ---
