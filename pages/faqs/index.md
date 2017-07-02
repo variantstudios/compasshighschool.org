@@ -1,5 +1,5 @@
 ---
-title: FAQs Community Collaborative School
+title: FAQs for Compass Community Collaborative School
 sub_title: "We're All About Questions!"
 header_image: /assets/images/white-board-resized.jpg
 search_engine_optimization:
