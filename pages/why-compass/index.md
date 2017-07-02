@@ -22,7 +22,11 @@ The mission of Compass Community Collaborative School is to help students discov
 
 ## Why Compass?
 
-Our future ready school is being designed by a diverse team of educators, students, artists, parents, business owners, and community leaders in an entrepreneurial business incubator where we are embedding secondary education into real world problem solving and meaningful work. With the help and expertise of a “360 Team” (made up of a teacher, family member, and community mentor) our students, ages 11-19, will earn academic credit in state and international academic standards and digital badges in eight skill areas as they work on community-engaged ventures that inspire deep learning of academic, social emotional, and future ready skills. At Compass, we see collaborative &nbsp;design, research, and problem solving as a game changer for how adolescents view their place in our community, and how the community views the capacities of our youth. Opposed to the current model where kids spend everyday in a building separate from the “real world”, we will have adolescents working in multi-age, interdisciplinary teams, and side-by-side with community members to actively participate in the creation of our future. Individualized and competency-based, students will be challenged every day to grow and to demonstrate their learning in a multitude of real-world applications.
+Our future ready school is being designed by a diverse team of educators, students, artists, parents, business owners, and community leaders in an entrepreneurial business incubator where we are embedding secondary education into real world problem solving and meaningful work.
+
+![](/assets/images/versions/qualifications---x----1242-640x---.jpg)
+
+&nbsp; With the help and expertise of a “360 Team” (made up of a teacher, family member, and community mentor) our students, ages 11-19, will earn academic credit in state and international academic standards and digital badges in eight skill areas as they work on community-engaged ventures that inspire deep learning of academic, social emotional, and future ready skills. At Compass, we see collaborative &nbsp;design, research, and problem solving as a game changer for how adolescents view their place in our community, and how the community views the capacities of our youth. Opposed to the current model where kids spend everyday in a building separate from the “real world”, we will have adolescents working in multi-age, interdisciplinary teams, and side-by-side with community members to actively participate in the creation of our future. Individualized and competency-based, students will be challenged every day to grow and to demonstrate their learning in a multitude of real-world applications.
 
 ![](/assets/images/versions/yay---x----4032-3024x---.jpg)
 
@@ -54,8 +58,6 @@ Mornings can be very stressful. When teens are hard to awaken, and family member
 
 ![](/assets/images/versions/ccc-daily-schedule---x----1148-902x---.jpg)
 
-&nbsp;
-
 ## Foundations
 
 Our design principles reflect the school’s commitment to creating a student-centered learning environment that is healthy for adolescents, families, and staff and that prepares students to be positive change-makers in a rapidly changing world.
@@ -86,11 +88,11 @@ Our design principles reflect the school’s commitment to creating a student-ce
 
 * Future ready: college preparation, career planning and community engagement
 
-&nbsp;
-
 ## Compass Competencies
 
 With the guidance of evidence-based research, we have created eight core competencies that will drive instruction, reflection, and assessment of mastery for both staff and students. In addition to academic common core standards and next generation science standards, master of these eight skills will guide teacher evaluation and measure student achievement:
+
+![](/assets/images/versions/badges---x----1346-818x---.jpg)
 
 1. Social Emotional Intelligence and Mutually Beneficial Relationship Skills
 
@@ -122,6 +124,8 @@ Partnering with families is part of what will make our climate and culture excep
 
 *One of our highest priorities at Compass is to take care of our families; we welcome ideas and opportunities to make your student’s success a family affair.*
 
-## ENROLLMENT PROCESS
+![](/assets/images/versions/img-2461---x----4032-3024x---.jpg)
 
-Compass High School’s intended opening date is August, 2018. We will be accepting students going into 6th through 10th grade only for our inaugural year. If you are interested in enrolling your student please visit our website and complete the “SIGN UP FOR PARENTS” form at [https://compassfortcollins.org/](https://compassfortcollins.org/)
+## Registering Students NOW!
+
+Compass Community Collaborative School’s intended opening date is August, 2018. We will be accepting students going into 6th through 10th grade only for our inaugural year. If you are interested in enrolling your student please visit our website and complete the “SIGN UP FOR PARENTS” form at [https://compassfortcollins.org/](https://compassfortcollins.org/)
