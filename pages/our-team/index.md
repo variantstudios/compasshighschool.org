@@ -16,8 +16,12 @@ Compass Community Collaborative School is being designed by a diverse team of ex
 
 ![](/assets/images/versions/img-1963---x----4032-3024x---.jpg)
 
-We are passionate about embedding creative, research-based learning  pedagogy and real world problem solving into secondary education to secure a safe and healthy future for our community.
+We are passionate about embedding creative, research-based learning &nbsp;pedagogy and real world problem solving into secondary education to secure a safe and healthy future for our community.
 
 ![](/assets/images/versions/qualifications---x----1242-640x---.jpg)
 
 We have a team of over 50 highly qualified, active volunteers, ranging in age from 15-60 years of age, and the ranks are growing by the week. You are invited to join the fun (oh, and did we mention this is hard work, too?), so sign up to volunteer today!
+
+&nbsp;
+
+## Our Founding Board of Directors includes:
