@@ -1,7 +1,7 @@
 ---
 title: "Who's Who"
 sub_title: 'Passionate humans bringing an innovative secondary school your way!'
-header_image: /assets/images/headers/our_team.jpg
+header_image: /assets/images/img-2173.jpg
 search_engine_optimization:
   page_title: Our Team
   page_description: Passionate leaders that are bringing this school to life.
