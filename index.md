@@ -6,7 +6,7 @@ home_header:
   call_to_action_text: 'Enrolling Now!'
   call_to_action_link_path: '/parents/#iframe'
 video_section:
-  title: Want to know more about Compass High School?
+  title: Want to know more about Compass Community Collaborative School?
   sub_title: 'Take a couple of minutes to get to know us!'
   call_to_action_text: 'Enroll Here!'
   call_to_action_link_path: '/parents/#iframe'
