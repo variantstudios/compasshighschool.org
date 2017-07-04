@@ -106,6 +106,8 @@ School of Environmental Studies, Apple Valley, MN: [http://sesmn.org/](http://se
 
 Jeffco Open School: [https://sites.google.com/a/jeffcoschools.us/jcos/](https://sites.google.com/a/jeffcoschools.us/jcos/)
 
+Watershed School, Boulder, CO
+
 ## Rich Websites:
 
 Education Redesign Lab: [http://edredesign.org](http://edredesign.org)
