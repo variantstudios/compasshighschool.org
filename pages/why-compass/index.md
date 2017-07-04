@@ -24,7 +24,9 @@ The mission of Compass Community Collaborative School is to help students discov
 
 Our future ready school is being designed by a diverse team of educators, students, artists, parents, business owners, and community leaders in an entrepreneurial business incubator where we are embedding secondary education into real world problem solving and meaningful work.
 
-![](/assets/images/versions/qualifications---x----1242-640x---.jpg)
+![](/assets/images/versions/telescope---x----241-321x---.jpg)
+
+&nbsp;
 
 &nbsp; With the help and expertise of a “360 Team” (made up of a teacher, family member, and community mentor) our students, ages 11-19, will earn academic credit in state and international academic standards and digital badges in eight skill areas as they work on community-engaged ventures that inspire deep learning of academic, social emotional, and future ready skills. At Compass, we see collaborative &nbsp;design, research, and problem solving as a game changer for how adolescents view their place in our community, and how the community views the capacities of our youth. Opposed to the current model where kids spend everyday in a building separate from the “real world”, we will have adolescents working in multi-age, interdisciplinary teams, and side-by-side with community members to actively participate in the creation of our future. Individualized and competency-based, students will be challenged every day to grow and to demonstrate their learning in a multitude of real-world applications.
 
@@ -92,25 +94,7 @@ Our design principles reflect the school’s commitment to creating a student-ce
 
 With the guidance of evidence-based research, we have created eight core competencies that will drive instruction, reflection, and assessment of mastery for both staff and students. In addition to academic common core standards and next generation science standards, master of these eight skills will guide teacher evaluation and measure student achievement:
 
-![](/assets/images/versions/badges---x----1346-818x---.jpg)
-
-1. Social Emotional Intelligence and Mutually Beneficial Relationship Skills
-
-2. Communication and Foundational Literacies
-
-3. Community Outreach, Generous Collaboration and Leading by Influence
-
-4. Information and Media Literacy
-
-5. Original Thinking and Problem Solving in an Uncertain World
-
-6. Curiosity, Imagination, and Creativity
-
-7. Initiative, Innovation and Entrepreneurship
-
-8. Agility and Adaptability
-
-## Community Involvement
+![](/assets/images/versions/badges---x----1346-818x---.jpg)Community Involvement
 
 Students will become part of a larger community as they experience opportunities to work as volunteers and interns with city government, Colorado State University professors and students, and a multitude of local businesses and nonprofits. All students will graduate having had at least one extensive internship in the community. These first-hand experiences will help create meaning and relevancy for students as they co-create a future for themselves and our community.
 
