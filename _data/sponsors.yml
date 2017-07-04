@@ -1,15 +1,15 @@
 - name: Variant Studios
-  link: https://www.variantstudios.com/
+  link: 'https://www.variantstudios.com/'
   image_path: /assets/images/sponsors/vs-1.png
+- name: Mesh Campus
+  link:
+  image_path: /assets/images/fvcmf-logo-b.png
+- name: Daniels Fund
+  link: 'https://http://www.danielsfund.org/'
+  image_path: /assets/images/df-logo-horizontal-color.jpg
 - name: Variant Studios
-  link: https://www.variantstudios.com/
+  link: 'https://www.variantstudios.com/'
   image_path: /assets/images/sponsors/vs-2.png
 - name: Variant Studios
-  link: https://www.variantstudios.com/
-  image_path: /assets/images/sponsors/vs-3.jpg
-- name: Variant Studios
-  link: https://www.variantstudios.com/
-  image_path: /assets/images/sponsors/vs-2.png
-- name: Variant Studios
-  link: https://www.variantstudios.com/
+  link: 'https://www.variantstudios.com/'
   image_path: /assets/images/sponsors/vs-3.jpg
