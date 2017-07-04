@@ -1,15 +1,15 @@
 - name: Variant Studios
   link: 'https://www.variantstudios.com/'
   image_path: /assets/images/sponsors/vs-1.png
-- name: Mesh Campus
+- name: Mesh Campus Fort Collins
   link:
-  image_path: /assets/images/fvcmf-logo-b.png
+  image_path: /assets/images/mesh-resize.jpg
 - name: Daniels Fund
   link: 'https://http://www.danielsfund.org/'
   image_path: /assets/images/df-logo-horizontal-color.jpg
 - name: Colorado State University Writing Project
   link: 'http://www.csuwritingproject.net/'
-  image_path: /assets/images/national-writing-project-logo-vertical.jpg
+  image_path: /assets/images/nwp-resize.jpg
 - name: Azimuth Creative Solutions
   link: 'https://www.f6s.com/azimuthcreativesolutions'
   image_path: /assets/images/1171394-th1.jpg
