@@ -1,6 +1,6 @@
 ---
 title: Research and Resources Guiding our Innovation
-sub_title:
+sub_title: 'We Keep Learning!'
 header_image: /assets/images/headers/blog.jpg
 search_engine_optimization:
   page_title: Research and Resources Guiding our Innovation
@@ -13,6 +13,8 @@ layout: page
 ## Resources Informing the Work in the Development of Compass High School, Fort Collins, CO
 
 Berger, Warren. (2014). A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas. New York: Bloomsberry USA
+
+Darling-Hammond, Linda, et.al. (2008). Powerful Learning: What We Know About Teaching For Understanding. New York: Wiley and Sons
 
 Dewey, J. (1916). Democracy and Education: An Introduction to the Philosophy of Education. New York: Free Press
 
