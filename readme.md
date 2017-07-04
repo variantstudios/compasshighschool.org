@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/variantstudios/compasshighschool.org.png?label=ready&title=Ready)](https://waffle.io/variantstudios/compasshighschool.org?utm_source=badge)
 # Jekyll Base
 This is a base setup for Jekyll powered static generated websites. Some of the features included are specific for the CloudCannon CMS.
 
