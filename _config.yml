@@ -4,7 +4,7 @@ title: "Compass Community Collaborative School"
 email: "team@variantstudios.com"
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://vast-beetroot.cloudvent.net" # the base hostname & protocol for your site
+url: "https://compassfortcollins.org" # the base hostname & protocol for your site
 #timezone: America/Denver - Don't set for CloudCannon...for reasons.
 version: "3.1.6" # the version of jekyll
 
@@ -70,7 +70,7 @@ defaults:
 typekit:
 
 # Google Analytics - What site isn't using it?!
-google_analytics_tracking_id: // UA-81024453-1
+google_analytics_tracking_id: 'UA-81024453-1'
 
 exclude: ["vendor","node_modules","package.json","Gemfile","gulpfile.js","*.scss"]
 
