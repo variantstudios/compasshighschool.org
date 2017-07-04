@@ -1,6 +1,6 @@
 ---
-title: Parents
-sub_title: We want the best for our children and our future.
+title:
+sub_title: 'PARENTS: We want the best for our children and our future.'
 header_image: /assets/images/rockstars-resized.jpg
 search_engine_optimization:
   page_title: Parents
@@ -23,4 +23,4 @@ All new students will complete an interview and skills assessment to make sure o
 
 We want your involvement and partnership in our school. In addition to being a participant in the students’ three times/year Presentations of Learning (student led conferences), we hope you will help us connect students to internships in the community. Additionally, we will also welcome families to evening classes to learn English, computer skills, and tricks of the trade in the difficult job of parenting adolescents. We value your role as a parent and want to be an extension of your encouragement for your child to be a powerful, positive change maker in our community and our world.
 
-## &nbsp;Registration is filling fast!
+##  Registration is filling fast!
