@@ -1,7 +1,7 @@
 ---
 title: Community Partner Program
 sub_title: Join our growing list of community partners.  Start seeing the benefit of working with our students today.
-header_image: /assets/images/scott-denning-class-resized.jpg
+header_image: /assets/images/sam-board-resized.jpg
 search_engine_optimization:
   page_title: Community Partner Program
   page_description: Join our growing list of community partners.  Start seeing the benefit of working with our students today.
@@ -21,7 +21,7 @@ Compass Community Collaborative School is continually developing new partnership
 
 Our unique school day schedule and summer learning requirements mean that we have a great deal of flexibility in collaborating with community organizations for a win-win partnership.
 
-We are creating a small learning community where every student and family is known and valued, and equity and wellness are foundational to our high expectations of one another. &nbsp;Celebrating our deepest values of inclusiveness, empathy, gratitude, hard work, and responsibility will be the waypoints by which we will navigate and sustain both our school culture and the character qualities of the students you will work with in internships and as mentors. Our students will have explicit learning goals for all community engaged work and their work products will be a source of pride for you, the student, and the school.
+We are creating a small learning community where every student and family is known and valued, and equity and wellness are foundational to our high expectations of one another.  Celebrating our deepest values of inclusiveness, empathy, gratitude, hard work, and responsibility will be the waypoints by which we will navigate and sustain both our school culture and the character qualities of the students you will work with in internships and as mentors. Our students will have explicit learning goals for all community engaged work and their work products will be a source of pride for you, the student, and the school.
 
 ## We have a growing list of supporters:
 
