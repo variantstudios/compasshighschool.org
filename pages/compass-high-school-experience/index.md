@@ -1,7 +1,7 @@
 ---
 title: The Compass Community Collaborative School Experience
 sub_title:
-header_image: /assets/images/ty-and-carlos-final.jpg
+header_image: /assets/images/ty-and-carlos-final-final.jpg
 permalink: /compass-high-school-experience/
 pdf_path: /assets/pdf/compass-experience.pdf
 search_engine_optimization:
