@@ -1,8 +1,8 @@
 ---
 home_header:
   title: Compass Community Collaborative School
-  subtitle: 'A free, public charter school built by the community, for the community. Opening for grades 6-10 in 2018. Register now!'
-  image_path: /assets/images/maddi-and-lilly-resize-2.jpg
+  subtitle: 'A free, public charter school built by the community, for the community. Opening for students entering grades 6-10 in 2018. Register now!'
+  image_path: /assets/images/maddi-lilly-final.jpg
   call_to_action_text: 'Enrolling Now!'
   call_to_action_link_path: '/parents/#iframe'
 video_section:
