@@ -1,7 +1,7 @@
 ---
 title: "Who's Who"
 sub_title: 'Passionate humans bringing an innovative model of secondary education to Fort Collins!'
-header_image: /assets/images/stratop-team-final.jpg
+header_image: /assets/images/stratop-team-final-final.jpg
 search_engine_optimization:
   page_title: Our Team
   page_description: Passionate leaders that are bringing this school to life.
