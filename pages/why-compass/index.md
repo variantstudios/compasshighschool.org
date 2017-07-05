@@ -1,7 +1,7 @@
 ---
 title: Why Compass?
 sub_title: We are charting a new course in secondary education.
-header_image: /assets/images/joaquin-and-boys-final.jpg
+header_image: /assets/images/joaquin-and-boys-final-final.jpg
 search_engine_optimization:
   page_title: Why Compass?
   page_description: We are charting a new course in 6-12 education.
