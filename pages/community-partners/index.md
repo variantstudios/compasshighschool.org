@@ -1,7 +1,7 @@
 ---
 title: Community Partner Program
 sub_title: Join our growing list of community partners.  Start seeing the benefit of working with our students today.
-header_image: /assets/images/sam-board-resized.jpg
+header_image: /assets/images/sam-at-the-board-final.jpg
 search_engine_optimization:
   page_title: Community Partner Program
   page_description: Join our growing list of community partners.  Start seeing the benefit of working with our students today.
