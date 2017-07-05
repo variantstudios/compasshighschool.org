@@ -24,9 +24,9 @@ The mission of Compass Community Collaborative School is to help students discov
 
 Our future ready school is being designed by a diverse team of educators, students, artists, parents, business owners, and community leaders in an entrepreneurial business incubator where we are embedding secondary education into real world problem solving and meaningful work.
 
-![](/assets/images/versions/telescope---x----241-321x---.jpg)
+&nbsp;
 
-  With the help and expertise of a “360 Team” (made up of a teacher, family member, and community mentor) our students, ages 11-19, will earn academic credit in state and international academic standards and digital badges in eight skill areas as they work on community-engaged ventures that inspire deep learning of academic, social emotional, and future ready skills. At Compass, we see collaborative  design, research, and problem solving as a game changer for how adolescents view their place in our community, and how the community views the capacities of our youth. Opposed to the current model where kids spend everyday in a building separate from the “real world”, we will have adolescents working in multi-age, interdisciplinary teams, and side-by-side with community members to actively participate in the creation of our future. Individualized and competency-based, students will be challenged every day to grow and to demonstrate their learning in a multitude of real-world applications.
+&nbsp; With the help and expertise of a “360 Team” (made up of a teacher, family member, and community mentor) our students, ages 11-19, will earn academic credit in state and international academic standards and digital badges in eight skill areas as they work on community-engaged ventures that inspire deep learning of academic, social emotional, and future ready skills. At Compass, we see collaborative &nbsp;design, research, and problem solving as a game changer for how adolescents view their place in our community, and how the community views the capacities of our youth. Opposed to the current model where kids spend everyday in a building separate from the “real world”, we will have adolescents working in multi-age, interdisciplinary teams, and side-by-side with community members to actively participate in the creation of our future. Individualized and competency-based, students will be challenged every day to grow and to demonstrate their learning in a multitude of real-world applications.
 
 ![](/assets/images/versions/yay---x----4032-3024x---.jpg)
 
@@ -34,9 +34,9 @@ Our future ready school is being designed by a diverse team of educators, studen
 
 Individualized, community-engaged learning is at the heart of the Compass Community Collaborative School difference. Our model puts students in the driver’s seat of creating work that matters to them and their community, while challenging them to apply their knowledge and creativity across many subjects.
 
-Each school year students will complete at least eight ventures (two per quarter), which are deep academic explorations with real world applications. These may be a combination of teacher-designed, student-designed, and community-inspired ventures. All will be interdisciplinary and will meet the state academic standards for a variety of core disciplines, including art, health, and physical education.  Additionally, students will practice mathematics and English skill development daily, showing progress through their online learning platform (Summit Learning Systems) and  MAP testing three times per year. Students will be challenged to continuously reflect on their mastery of the eight Compass Competencies (future ready skills) as well as Colorado and international academic standards. Presentations of Learning (student led conferences) will be evaluated by the student’s 360 team three times per year, but students will be given regular feedback over the course of each venture. Twice a year students  and staff will host public Exhibitions of Learning.
+Each school year students will complete at least eight ventures (two per quarter), which are deep academic explorations with real world applications. These may be a combination of teacher-designed, student-designed, and community-inspired ventures. All will be interdisciplinary and will meet the state academic standards for a variety of core disciplines, including art, health, and physical education. &nbsp;Additionally, students will practice mathematics and English skill development daily, showing progress through their online learning platform (Summit Learning Systems) and &nbsp;MAP testing three times per year. Students will be challenged to continuously reflect on their mastery of the eight Compass Competencies (future ready skills) as well as Colorado and international academic standards. Presentations of Learning (student led conferences) will be evaluated by the student’s 360 team three times per year, but students will be given regular feedback over the course of each venture. Twice a year students &nbsp;and staff will host public Exhibitions of Learning.
 
-Newer students will work in and around the school and will choose from among teacher-led ventures to develop the skills to manage their learning. Experienced CCC students who have demonstrated required academic and skill competencies will take the lead in designing ventures, take college classes, and  intern with local businesses in career fields in which they are interested.
+Newer students will work in and around the school and will choose from among teacher-led ventures to develop the skills to manage their learning. Experienced CCC students who have demonstrated required academic and skill competencies will take the lead in designing ventures, take college classes, and &nbsp;intern with local businesses in career fields in which they are interested.
 
 To graduate future ready, students will:
 
@@ -102,11 +102,13 @@ Additional ways that we are breaking down barriers between school and community 
 
 Compass Community Collaborative will be an active partner with parents to help raise the next generation of change makers.
 
+![](/assets/images/versions/parents-final---x----1169-877x---.jpg)
+
 Partnering with families is part of what will make our climate and culture exceptional. In addition to being part of our Presentations of Learning (student led conferences) three times a year, we will also welcome our families to evening classes to learn English, computer skills, and tricks of the trade in the difficult job of parenting. Additionally, parents will be an important connection to the working world by offering internships, project ideas, business connections, and expertise for our students. Other classes and opportunities for parents and families will be created on a year-by-year basis in response to family needs and interests.
 
 *One of our highest priorities at Compass is to take care of our families; we welcome ideas and opportunities to make your student’s success a family affair.*
 
-![](/assets/images/versions/img-2461---x----4032-3024x---.jpg)
+&nbsp;
 
 ## Registering Students NOW!
 
