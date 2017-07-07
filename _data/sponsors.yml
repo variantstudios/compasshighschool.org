@@ -10,9 +10,9 @@
 - name: Colorado State University Writing Project
   link: 'http://www.csuwritingproject.net/'
   image_path: /assets/images/nwp-resize.jpg
-- name: Azimuth Creative Solutions
-  link: 'https://www.f6s.com/azimuthcreativesolutions'
-  image_path: /assets/images/1171394-th1.jpg
 - name: No Barriers USA
   link: 'http://www.nobarriersusa.org/'
   image_path: /assets/images/logo-nobarriers-usa.png
+- name: Azimuth Creative Solutions
+  link: 'https://www.f6s.com/azimuthcreativesolutions'
+  image_path: /assets/images/1171394-th1.jpg
