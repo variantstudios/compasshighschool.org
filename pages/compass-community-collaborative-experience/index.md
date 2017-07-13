@@ -15,4 +15,4 @@ layout: page
 
 ![](/assets/images/versions/fccea96b-9a5e-481f-a59e-1631ccbf4a7b-2---x----816-2000x---.png)
 
-/assets/images/compass-levels-of-autonomy---web.pdf
+&nbsp;
