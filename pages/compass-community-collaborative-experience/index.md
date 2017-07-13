@@ -11,10 +11,8 @@ layout: page
 ---
 
 
-&nbsp;
+![](/assets/images/versions/b082b427-a1c1-468f-b2fe-46bfb07767e3-2---x----2500-9375x---.png)
 
 &nbsp;
 
-[Empty Link](__notset__)![](/assets/images/versions/fccea96b-9a5e-481f-a59e-1631ccbf4a7b-2---x----816-2000x---.png)
-
-Compass Levels of Autonomy
+![](/assets/images/versions/fccea96b-9a5e-481f-a59e-1631ccbf4a7b-2---x----816-2000x---.png)
