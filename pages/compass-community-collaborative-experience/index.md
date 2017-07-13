@@ -3,7 +3,7 @@ title: The Compass Community Collaborative School Experience
 sub_title:
 header_image: /assets/images/ty-and-carlos-final-final.jpg
 permalink: /compass-community-collaborative-experience/
-pdf_path: /assets/images/Compass Levels of Autonomy - Web.pdf
+pdf_path: /assets/images/compass-levels-of-autonomy---web.pdf
 search_engine_optimization:
   page_title: The Compass Community Collaborative School Experience
   page_description:
