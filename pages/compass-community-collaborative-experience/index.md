@@ -13,6 +13,4 @@ layout: page
 
 ![](/assets/images/versions/b082b427-a1c1-468f-b2fe-46bfb07767e3-4---x----2500-9375x---.png)
 
-![](/assets/images/versions/fccea96b-9a5e-481f-a59e-1631ccbf4a7b-2---x----816-2000x---.png)
-
-[/assets/pdf/Compass Levels of Autonomy - Web.pdf](/assets/pdf/Compass Levels of Autonomy - Web.pdf)
+![](/assets/images/versions/fccea96b-9a5e-481f-a59e-1631ccbf4a7b---x0-0-2550-6250-816-2000x---.png)
