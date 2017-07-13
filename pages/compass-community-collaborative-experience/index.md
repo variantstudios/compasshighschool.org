@@ -1,6 +1,6 @@
 ---
 title: The Compass Community Collaborative School Experience
-sub_title:
+sub_title: "What does a student's work at Compass look like?"
 header_image: /assets/images/carlos-and-ty.jpg
 permalink: /compass-community-collaborative-experience/
 pdf_path: /assets/images/compass-levels-of-autonomy---web.pdf
@@ -11,8 +11,8 @@ layout: page
 ---
 
 
-![](/assets/images/versions/b082b427-a1c1-468f-b2fe-46bfb07767e3-2---x----2500-9375x---.png)
-
-&nbsp;
+![](/assets/images/versions/b082b427-a1c1-468f-b2fe-46bfb07767e3-4---x----2500-9375x---.png)
 
 ![](/assets/images/versions/fccea96b-9a5e-481f-a59e-1631ccbf4a7b-2---x----816-2000x---.png)
+
+/assets/images/compass-levels-of-autonomy---web.pdf
