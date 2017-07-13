@@ -5,7 +5,7 @@ header_image: /assets/images/ty-and-carlos-final-final.jpg
 permalink: /compass-community-collaborative-experience/
 pdf_path: /assets/pdf/Compass Levels of Autonomy - Web.pdf
 search_engine_optimization:
-  page_title: The Compass High School Experience
+  page_title: The Compass Community Collaborative School Experience
   page_description:
 layout: page
 ---
@@ -13,7 +13,7 @@ layout: page
 
 ![](/assets/images/versions/b082b427-a1c1-468f-b2fe-46bfb07767e3-4---x----2500-9375x---.png)
 
-![](/assets/images/versions/fccea96b-9a5e-481f-a59e-1631ccbf4a7b---x----2550-6250x---.png)
+&nbsp;
 
 &nbsp;
 
