@@ -3,10 +3,10 @@
     - text: Why Compass
       url: /why-compass/
     - text: Compass Experience
-      url: /compass-high-school-experience/
+      url: /compass-community-collaborative-experience/
     - text: Campus
       url: /campus/
-    - text: Research &amp; Resources
+    - text: 'Research &amp; Resources'
       url: /research-resources-guiding-innovation/
     - text: FAQs
       url: /faqs/
@@ -22,8 +22,8 @@
       url: /community-partners/
     - text: Become a Volunteer
       url: /become-a-volunteer/
-    - text: Contribute to Compass!
-      url: /contribute/?cfpage=project&#038;project_id=13261
+    - text: 'Contribute to Compass!'
+      url: '/contribute/?cfpage=project&#038;project_id=13261'
 - text: Blog
   url: /blog/
 - text: Contact Us
