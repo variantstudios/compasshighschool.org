@@ -13,8 +13,8 @@ permalink: /compass-community-collaborative-experience/
 ---
 
 
-&nbsp;
+![](/assets/images/versions/ccc---day-in-the-life---web---x----1300-4713x---.jpg)
 
-&nbsp;
+![](/assets/images/versions/levels-of-autonomy---web---x----1300-3186x---.jpg)
 
 &nbsp;
