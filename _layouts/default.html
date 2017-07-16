@@ -67,6 +67,12 @@
                                             <div class="wpb_wrapper">
                                                 {{content}}
                                             </div>
+                                            {% if page.pdf.path %}
+                                            <div id="iframe">
+                                            <object data="{{ page.pdf.path }}#page=1&amp;zoom=100" type="application/pdf" width="100%" height="{{page.pdf.pixel_height}}" internalinstanceid="11">It appears you don't have a PDF plugin for this browser. No biggie... you can [click here to download the PDF file.]({{ page.pdf.path }})</object>
+                                            </div>
+                                            {% endif %}
+
                                         </div>
 
                                     </div>
