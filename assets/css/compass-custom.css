@@ -584,3 +584,11 @@ transition: right .5s ease-in;
   width: 24%;
 }
 }
+
+@media only screen and (min-width: 1000px) {
+  div#google_translate_element {
+    float: right;
+      margin-right: 3em;
+      margin-top: -10px;
+  }
+}
