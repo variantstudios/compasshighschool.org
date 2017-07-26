@@ -9,7 +9,7 @@
   image_path: /assets/images/df-logo-horizontal-color.jpg
 - name: Colorado State University Writing Project
   link: 'http://www.csuwritingproject.net/'
-  image_path: /assets/images/nwp-resize.jpg
+  image_path:
 - name: No Barriers USA
   link: 'http://www.nobarriersusa.org/'
   image_path: /assets/images/logo-nobarriers-usa.png
