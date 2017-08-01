@@ -50,7 +50,6 @@ function queryString() {
     } else if (queryString() == "400") {
     $('#contact-message').hide();
     console.log("400");
-  }
   } else {
     $('#contact-message').hide();
     console.log("hide");
