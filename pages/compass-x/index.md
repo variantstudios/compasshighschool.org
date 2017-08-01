@@ -47,7 +47,7 @@ function queryString() {
   if (queryString() == "200") {
     $('#contact-message').show();
     console.log("200");
-    } else if (queryString() == "400" {
+    } else if (queryString() == "400") {
     $('#contact-message').hide();
     console.log("400");
   }
