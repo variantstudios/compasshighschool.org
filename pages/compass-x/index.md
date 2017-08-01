@@ -30,6 +30,7 @@ Coming Soon
     data-allow-remember-me="false">
   </script>
 </form>
+<script src="https://js.stripe.com/v3/"></script>
 
 <!--<form  -->
 <!--  method="POST"-->
@@ -108,7 +109,7 @@ Coming Soon
 
 
 
-<script src="https://js.stripe.com/v3/"></script>
+
 
 <script>
 // var stripe = Stripe('pk_live_nl5PAwGu1qrf1GvfBwUgI6iR');
