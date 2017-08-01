@@ -32,6 +32,32 @@ Coming Soon
 </form>
 <script src="https://js.stripe.com/v3/"></script>
 
+<script>
+function queryString() {
+  var queryString = window.location.search;
+  var varArray = queryString.split("&");
+  for (var i = 0; i < varArray.length; i++) {
+    var param = varArray[i].split("=");
+    return param[1];
+  }
+};
+
+if ($('body').hasClass("contact")) {
+  if (queryString() == "true") {
+    $('#contact-message').show();
+    console.log("show");
+  } else {
+    $('#contact-message').hide();
+    console.log("hide");
+  }
+};
+
+</script>
+<div id="contact-message">paid</div>
+
+
+
+
 <!--<form  -->
 <!--  method="POST"-->
 <!--  action="https://wt-bbb812ec6f1b786e8adf620306562f3c-0.run.webtask.io/test">-->
