@@ -15,7 +15,21 @@ iframe:
 ---
 Coming Soon
 
-<div id="card-element"></div>
+<!--<div id="card-element"></div>-->
+
+<form action="https://wt-bbb812ec6f1b786e8adf620306562f3c-0.run.webtask.io/webtask-stripe-payment" method="POST">
+  <script
+    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+    data-key="pk_test_j1uzibEQwCYG287YFYHKvtiz"
+    data-amount="999"
+    data-name="Compass High School"
+    data-description="Widget"
+    data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+    data-locale="auto">
+  </script>
+</form>
+
+
 <script src="https://js.stripe.com/v3/"></script>
 
 <script>
