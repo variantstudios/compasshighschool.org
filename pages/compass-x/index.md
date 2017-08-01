@@ -26,7 +26,8 @@ Coming Soon
     data-description="CompassX"
     data-zip-code="true"
     data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
-    data-locale="auto">
+    data-locale="auto"
+    data-allow-remember-me="false">
   </script>
 </form>
 
