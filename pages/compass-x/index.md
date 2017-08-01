@@ -24,6 +24,7 @@ Coming Soon
     data-amount="199"
     data-name="Compass Community Collaborative School"
     data-description="CompassX"
+    data-zip-code="true"
     data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
     data-locale="auto">
   </script>
