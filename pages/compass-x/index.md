@@ -17,3 +17,14 @@ Coming Soon
 
 <div id="card-element"></div>
 <script src="https://js.stripe.com/v3/"></script>
+
+<script>
+var stripe = Stripe('pk_live_nl5PAwGu1qrf1GvfBwUgI6iR');
+
+var elements = stripe.elements();
+
+var card = elements.create('card');
+
+card.mount('#card-element');
+
+</script>
