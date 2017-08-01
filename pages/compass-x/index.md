@@ -92,55 +92,55 @@ Coming Soon
 
 
 
-<button class="pay">Pay</button>
+<!--<button class="pay">Pay</button>-->
 
-<script src="https://checkout.stripe.com/checkout.js">
-<script>
-    var handler = StripeCheckout.configure({
-      key: window.pk_live_nl5PAwGu1qrf1GvfBwUgI6iR,
-    //   image: 'https://yourlogo.png',
-      locale: 'auto',
-      token: function(token) {
-        $('.pay').prop("disabled", true);
-        $('.pay').text('Paying...')
-        $.ajax({
-            url: 'https://wt-bbb812ec6f1b786e8adf620306562f3c-0.run.webtask.io/stripe-payment',
-            type: 'POST',
-            data: {
-              stripeToken: token.id
-            }
-        }).then(function(stripeCustomer) {
-          console.log('success');
-        }).fail(function(e) {
-          $('.pay').text('Buy');
-          alert('There was an error processing the payment. Please try again.')
-        });
-      }
-    });
+<!--<script src="https://checkout.stripe.com/checkout.js">-->
+<!--<script>-->
+<!--    var handler = StripeCheckout.configure({-->
+<!--      key: window.pk_live_nl5PAwGu1qrf1GvfBwUgI6iR,-->
+<!--      image: 'https://yourlogo.png',-->
+<!--      locale: 'auto',-->
+<!--      token: function(token) {-->
+<!--        $('.pay').prop("disabled", true);-->
+<!--        $('.pay').text('Paying...')-->
+<!--        $.ajax({-->
+<!--            url: 'https://wt-bbb812ec6f1b786e8adf620306562f3c-0.run.webtask.io/test',-->
+<!--            type: 'POST',-->
+<!--            data: {-->
+<!--              stripeToken: token.id-->
+<!--            }-->
+<!--        }).then(function(stripeCustomer) {-->
+<!--          console.log('success');-->
+<!--        }).fail(function(e) {-->
+<!--          $('.pay').text('Buy');-->
+<!--          alert('There was an error processing the payment. Please try again.')-->
+<!--        });-->
+<!--      }-->
+<!--    });-->
     
-    $(function() {
-      $('.pay').on('click', function(e) {
-        e.preventDefault();
-        handler.open({
-          name: 'Title',
-          description: 'My Subscription',
-          panelLabel: "Subscribe",
-          amount: 900, 
-          email: 'default_email_if_you_have_it',
-          allowRememberMe: false
-        });
-      });
-    });
+<!--    $(function() {-->
+<!--      $('.pay').on('click', function(e) {-->
+<!--        e.preventDefault();-->
+<!--        handler.open({-->
+<!--          name: 'Title',-->
+<!--          description: 'My Subscription',-->
+<!--          panelLabel: "Subscribe",-->
+<!--          amount: 900, -->
+<!--          email: 'default_email_if_you_have_it',-->
+<!--          allowRememberMe: false-->
+<!--        });-->
+<!--      });-->
+<!--    });-->
     
 
-    $(window).on('popstate', function() {
-      handler.close();
-    });
-</script>
+<!--    $(window).on('popstate', function() {-->
+<!--      handler.close();-->
+<!--    });-->
+<!--</script>-->
 
 
 
-<script src="https://js.stripe.com/v3/"></script>
+<!--<script src="https://js.stripe.com/v3/"></script>-->
 
 <script>
 // var stripe = Stripe('pk_live_nl5PAwGu1qrf1GvfBwUgI6iR');
