@@ -21,9 +21,9 @@ Coming Soon
   <script
     src="https://checkout.stripe.com/checkout.js" class="stripe-button"
     data-key="pk_test_j1uzibEQwCYG287YFYHKvtiz"
-    data-amount="999"
-    data-name="Compass High School"
-    data-description="Widget"
+    data-amount="199"
+    data-name="Compass Community Collaborative School"
+    data-description="CompassX"
     data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
     data-locale="auto">
   </script>
@@ -33,12 +33,12 @@ Coming Soon
 <script src="https://js.stripe.com/v3/"></script>
 
 <script>
-var stripe = Stripe('pk_live_nl5PAwGu1qrf1GvfBwUgI6iR');
+// var stripe = Stripe('pk_live_nl5PAwGu1qrf1GvfBwUgI6iR');
 
-var elements = stripe.elements();
+// var elements = stripe.elements();
 
-var card = elements.create('card');
+// var card = elements.create('card');
 
-card.mount('#card-element');
+// card.mount('#card-element');
 
 </script>
