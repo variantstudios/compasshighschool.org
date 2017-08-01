@@ -31,38 +31,6 @@ Coming Soon
   </script>
 </form>
 
-<!--<h1>test</h1>-->
-<!--<form action="https://wt-bbb812ec6f1b786e8adf620306562f3c-0.run.webtask.io/stripe-payment" method="post">-->
-
-<!--        <input -->
-<!--            type="submit" -->
-<!--            value="Pay with Card"-->
-<!--            data-key="pk_test_j1uzibEQwCYG287YFYHKvtiz"-->
-<!--            data-amount="500"-->
-<!--            data-currency="cad"-->
-<!--            data-name="Example Company Inc"-->
-<!--            data-description="Stripe payment for $5"-->
-<!--        />-->
-
-<!--        <script src="https://checkout.stripe.com/v2/checkout.js"></script>-->
-<!--        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>-->
-<!--        <script>-->
-<!--        $(document).ready(function() {-->
-<!--            $(':submit').on('click', function(event) {-->
-<!--                event.preventDefault();-->
-<!--                var $button = $(this),-->
-<!--                    $form = $button.parents('form');-->
-<!--                var opts = $.extend({}, $button.data(), {-->
-<!--                    token: function(result) {-->
-<!--                        $form.append($('<input>').attr({ type: 'hidden', name: 'stripeToken', value: result.id })).submit();-->
-<!--                    }-->
-<!--                });-->
-<!--                StripeCheckout.open(opts);-->
-<!--            });-->
-<!--        });-->
-<!--        </script>-->
-<!--</form>-->
-
 <!--<form  -->
 <!--  method="POST"-->
 <!--  action="https://wt-bbb812ec6f1b786e8adf620306562f3c-0.run.webtask.io/test">-->
@@ -140,7 +108,7 @@ Coming Soon
 
 
 
-<!--<script src="https://js.stripe.com/v3/"></script>-->
+<script src="https://js.stripe.com/v3/"></script>
 
 <script>
 // var stripe = Stripe('pk_live_nl5PAwGu1qrf1GvfBwUgI6iR');
