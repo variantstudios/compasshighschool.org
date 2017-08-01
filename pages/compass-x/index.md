@@ -17,11 +17,11 @@ Coming Soon
 
 <!--<div id="card-element"></div>-->
 
-<form action="https://wt-bbb812ec6f1b786e8adf620306562f3c-0.run.webtask.io/stripe-payment/payment?currency=USD&amount=100&description=CompassX" method="POST">
+<form action="https://wt-bbb812ec6f1b786e8adf620306562f3c-0.run.webtask.io/stripe-payment/payment?currency=USD&amount=300&description=CompassX" method="POST">
   <script
     src="https://checkout.stripe.com/checkout.js" class="stripe-button"
     data-key="pk_test_j1uzibEQwCYG287YFYHKvtiz"
-    data-amount="199"
+    data-amount="400"
     data-name="Compass Community Collaborative School"
     data-description="CompassX"
     data-zip-code="true"
