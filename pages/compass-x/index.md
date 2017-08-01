@@ -42,7 +42,7 @@ function queryString() {
   }
 };
 
-if ($('body').hasClass("contact")) {
+//if ($('body').hasClass("contact")) {
   if (queryString() == "true") {
     $('#contact-message').show();
     console.log("show");
@@ -50,7 +50,7 @@ if ($('body').hasClass("contact")) {
     $('#contact-message').hide();
     console.log("hide");
   }
-};
+//};
 
 </script>
 <div id="contact-message">paid</div>
