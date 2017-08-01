@@ -65,7 +65,7 @@ Coming Soon
 <script>
     var handler = StripeCheckout.configure({
       key: window.pk_live_nl5PAwGu1qrf1GvfBwUgI6iR,
-      image: 'https://yourlogo.png',
+      //image: 'https://yourlogo.png',
       locale: 'auto',
       token: function(token) {
         $('.pay').prop("disabled", true);
