@@ -31,37 +31,37 @@ Coming Soon
   </script>
 </form>
 
-<h1>test</h1>
-<form action="https://wt-bbb812ec6f1b786e8adf620306562f3c-0.run.webtask.io/stripe-payment" method="post">
+<!--<h1>test</h1>-->
+<!--<form action="https://wt-bbb812ec6f1b786e8adf620306562f3c-0.run.webtask.io/stripe-payment" method="post">-->
 
-        <input 
-            type="submit" 
-            value="Pay with Card"
-            data-key="pk_test_j1uzibEQwCYG287YFYHKvtiz"
-            data-amount="500"
-            data-currency="cad"
-            data-name="Example Company Inc"
-            data-description="Stripe payment for $5"
-        />
+<!--        <input -->
+<!--            type="submit" -->
+<!--            value="Pay with Card"-->
+<!--            data-key="pk_test_j1uzibEQwCYG287YFYHKvtiz"-->
+<!--            data-amount="500"-->
+<!--            data-currency="cad"-->
+<!--            data-name="Example Company Inc"-->
+<!--            data-description="Stripe payment for $5"-->
+<!--        />-->
 
-        <script src="https://checkout.stripe.com/v2/checkout.js"></script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
-        <script>
-        $(document).ready(function() {
-            $(':submit').on('click', function(event) {
-                event.preventDefault();
-                var $button = $(this),
-                    $form = $button.parents('form');
-                var opts = $.extend({}, $button.data(), {
-                    token: function(result) {
-                        $form.append($('<input>').attr({ type: 'hidden', name: 'stripeToken', value: result.id })).submit();
-                    }
-                });
-                StripeCheckout.open(opts);
-            });
-        });
-        </script>
-</form>
+<!--        <script src="https://checkout.stripe.com/v2/checkout.js"></script>-->
+<!--        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>-->
+<!--        <script>-->
+<!--        $(document).ready(function() {-->
+<!--            $(':submit').on('click', function(event) {-->
+<!--                event.preventDefault();-->
+<!--                var $button = $(this),-->
+<!--                    $form = $button.parents('form');-->
+<!--                var opts = $.extend({}, $button.data(), {-->
+<!--                    token: function(result) {-->
+<!--                        $form.append($('<input>').attr({ type: 'hidden', name: 'stripeToken', value: result.id })).submit();-->
+<!--                    }-->
+<!--                });-->
+<!--                StripeCheckout.open(opts);-->
+<!--            });-->
+<!--        });-->
+<!--        </script>-->
+<!--</form>-->
 
 <!--<form  -->
 <!--  method="POST"-->
@@ -92,51 +92,51 @@ Coming Soon
 
 
 
-<!--<button class="pay">Pay</button>-->
+<button class="pay">Pay</button>
 
-<!--<script src="https://checkout.stripe.com/checkout.js">-->
-<!--<script>-->
-<!--    var handler = StripeCheckout.configure({-->
-<!--      key: window.pk_live_nl5PAwGu1qrf1GvfBwUgI6iR,-->
-<!--      image: 'https://yourlogo.png',-->
-<!--      locale: 'auto',-->
-<!--      token: function(token) {-->
-<!--        $('.pay').prop("disabled", true);-->
-<!--        $('.pay').text('Paying...')-->
-<!--        $.ajax({-->
-<!--            url: 'https://wt-bbb812ec6f1b786e8adf620306562f3c-0.run.webtask.io/test',-->
-<!--            type: 'POST',-->
-<!--            data: {-->
-<!--              stripeToken: token.id-->
-<!--            }-->
-<!--        }).then(function(stripeCustomer) {-->
-<!--          console.log('success');-->
-<!--        }).fail(function(e) {-->
-<!--          $('.pay').text('Buy');-->
-<!--          alert('There was an error processing the payment. Please try again.')-->
-<!--        });-->
-<!--      }-->
-<!--    });-->
+<script src="https://checkout.stripe.com/checkout.js">
+<script>
+    var handler = StripeCheckout.configure({
+      key: window.pk_live_nl5PAwGu1qrf1GvfBwUgI6iR,
+      image: 'https://yourlogo.png',
+      locale: 'auto',
+      token: function(token) {
+        $('.pay').prop("disabled", true);
+        $('.pay').text('Paying...')
+        $.ajax({
+            url: 'https://wt-bbb812ec6f1b786e8adf620306562f3c-0.run.webtask.io/stripe-payment',
+            type: 'POST',
+            data: {
+              stripeToken: token.id
+            }
+        }).then(function(stripeCustomer) {
+          console.log('success');
+        }).fail(function(e) {
+          $('.pay').text('Buy');
+          alert('There was an error processing the payment. Please try again.')
+        });
+      }
+    });
     
-<!--    $(function() {-->
-<!--      $('.pay').on('click', function(e) {-->
-<!--        e.preventDefault();-->
-<!--        handler.open({-->
-<!--          name: 'Title',-->
-<!--          description: 'My Subscription',-->
-<!--          panelLabel: "Subscribe",-->
-<!--          amount: 900, -->
-<!--          email: 'default_email_if_you_have_it',-->
-<!--          allowRememberMe: false-->
-<!--        });-->
-<!--      });-->
-<!--    });-->
+    $(function() {
+      $('.pay').on('click', function(e) {
+        e.preventDefault();
+        handler.open({
+          name: 'Title',
+          description: 'My Subscription',
+          panelLabel: "Subscribe",
+          amount: 900, 
+          email: 'default_email_if_you_have_it',
+          allowRememberMe: false
+        });
+      });
+    });
     
 
-<!--    $(window).on('popstate', function() {-->
-<!--      handler.close();-->
-<!--    });-->
-<!--</script>-->
+    $(window).on('popstate', function() {
+      handler.close();
+    });
+</script>
 
 
 
