@@ -44,9 +44,13 @@ function queryString() {
 };
 
 //if ($('body').hasClass("contact")) {
-  if (queryString() == "true") {
+  if (queryString() == "200") {
     $('#contact-message').show();
-    console.log("show");
+    console.log("200");
+    } else if (queryString() == "400" {
+    $('#contact-message').hide();
+    console.log("400");
+  }
   } else {
     $('#contact-message').hide();
     console.log("hide");
