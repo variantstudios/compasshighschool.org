@@ -32,13 +32,12 @@ Coming Soon
 </form>
 
 <h1>test</h1>
-<form action="." method="post">
-        <noscript>You must <a href="http://www.enable-javascript.com" target="_blank">enable JavaScript</a> in your web browser in order to pay via Stripe.</noscript>
+<form action="https://wt-bbb812ec6f1b786e8adf620306562f3c-0.run.webtask.io/stripe-payment" method="post">
 
         <input 
             type="submit" 
             value="Pay with Card"
-            data-key="PUBLISHABLE STRIPE KEY"
+            data-key="pk_test_j1uzibEQwCYG287YFYHKvtiz"
             data-amount="500"
             data-currency="cad"
             data-name="Example Company Inc"
