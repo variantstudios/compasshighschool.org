@@ -41,6 +41,20 @@ Coming Soon
   </script>
 </form>
 
+<form action="https://wt-bbb812ec6f1b786e8adf620306562f3c-0.run.webtask.io/test" method="POST">
+  <script
+    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+    data-key="pk_test_j1uzibEQwCYG287YFYHKvtiz"
+    data-name="Compass School"
+    data-description="CompassX"
+    data-amount="199"
+    data-locale="auto"
+    data-panel-label="Pay for CompassX"
+    data-label="Pay for CompassX"
+    data-allow-remember-me="false">
+  </script>
+</form>
+
 
 <script src="https://js.stripe.com/v3/"></script>
 
