@@ -32,6 +32,7 @@ Coming Soon
 </form>
 <script src="https://js.stripe.com/v3/"></script>
 
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>
 function queryString() {
   var queryString = window.location.search;
