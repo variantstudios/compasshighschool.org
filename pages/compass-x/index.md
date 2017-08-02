@@ -71,14 +71,14 @@ function queryString() {
     $('#stripe-message-fail').hide();
      $('html, body').animate({
         scrollTop: $("#stripe-message-success").offset().top
-    }, 2000);
+    }, 1000);
     console.log("200");
   } else if (queryString() == "400") {
     $('#stripe-message-success').hide();
     $('#stripe-message-fail').show();
     $('html, body').animate({
         scrollTop: $("#stripe-message-fail").offset().top
-    }, 2000);
+    }, 1000);
     console.log("400");
   } else {
     $('#stripe-message-success').hide();
