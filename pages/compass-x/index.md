@@ -69,10 +69,12 @@ function queryString() {
   if (queryString() == "200") {
     $('#stripe-message-success').show();
     $('#stripe-message-fail').hide();
+    $(document).scrollTo('#stripe-message-success');
     console.log("200");
   } else if (queryString() == "400") {
     $('#stripe-message-success').hide();
     $('#stripe-message-fail').show();
+    $(document).scrollTo('#stripe-message-fail');
     console.log("400");
   } else {
     $('#stripe-message-success').hide();
