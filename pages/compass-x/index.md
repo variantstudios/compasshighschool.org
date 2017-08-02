@@ -50,7 +50,6 @@ Coming Soon
     data-allow-remember-me="false">
   </script>
 </form>
-<!--<script src="https://js.stripe.com/v3/"></script>-->
 
 <div id="stripe-message-success">{{page.stripe.success_message}}</div>
 <div id="stripe-message-fail">{{page.stripe.failure_message}}</div>
