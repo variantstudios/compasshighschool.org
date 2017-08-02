@@ -70,14 +70,14 @@ function queryString() {
     $('#stripe-message-success').show();
     $('#stripe-message-fail').hide();
      $('html, body').animate({
-        scrollTop: $("#stripe-message-success").offset().top
+        scrollTop: $(".stripe-button-el").offset().top
     }, 1000);
     console.log("200");
   } else if (queryString() == "400") {
     $('#stripe-message-success').hide();
     $('#stripe-message-fail').show();
     $('html, body').animate({
-        scrollTop: $("#stripe-message-fail").offset().top
+        scrollTop: $(".stripe-button-el").offset().top
     }, 1000);
     console.log("400");
   } else {
