@@ -13,6 +13,8 @@ iframe:
   width: '2000'
   height: '1300'
 stripe:
+  price: '500'
+  description: 'CompassX'
   public_key: 'pk_test_j1uzibEQwCYG287YFYHKvtiz'
   success_message: 'Thank you for your payment.'
   failure_message: 'There was an issue with your payment. Please try again or contact us for help.'
@@ -22,13 +24,13 @@ Coming Soon
 
 <!--<div id="card-element"></div>-->
 
-<form action="https://wt-bbb812ec6f1b786e8adf620306562f3c-0.run.webtask.io/stripe-payment?currency=USD&amount=500&description=CompassX" method="POST">
+<form action="https://wt-bbb812ec6f1b786e8adf620306562f3c-0.run.webtask.io/stripe-payment?currency=USD&amount={{page.stripe.price}}&description={{page.stripe.description}}" method="POST">
   <script
     src="https://checkout.stripe.com/checkout.js" class="stripe-button"
     data-key="{{page.stripe.public_key}}"
-    data-amount="500"
+    data-amount="{{page.stripe.price}}"
     data-name="Compass Community Collaborative School"
-    data-description="CompassX"
+    data-description="{{page.stripe.description}}"
     data-zip-code="true"
     data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
     data-locale="auto"
