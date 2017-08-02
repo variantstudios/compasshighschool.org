@@ -1,7 +1,7 @@
 ---
 title: CompassX
 sub_title:
-header_image: /assets/images/ccc-rockstars-final-final.jpg
+header_image: /assets/images/img-2811.jpg
 search_engine_optimization:
   page_title: CompassX
   page_description:
