@@ -37,6 +37,9 @@ Coming Soon
 </form>
 <script src="https://js.stripe.com/v3/"></script>
 
+<div id="stripe-message-success">{{page.stripe.success_message}}</div>
+<div id="stripe-message-fail">{{page.stripe.failure_message}}</div>
+
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
 <script>
 function queryString() {
@@ -65,8 +68,7 @@ function queryString() {
 //};
 
 </script>
-<div id="stripe-message-success">{{page.stripe.success_message}}</div>
-<div id="stripe-message-fail">{{page.stripe.failure_message}}</div>
+
 
 
 
