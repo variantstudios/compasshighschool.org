@@ -24,7 +24,17 @@ stripe:
 Coming Soon
 
 <!--<div id="card-element"></div>-->
-
+<style>
+.stripe-button-el {
+    background-image: none !important;
+    background-color: #f8f8f8 !important;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    -ms-box-shadow: none;
+    -o-box-shadow: none;
+    box-shadow: none;
+}
+</style>
 <form action="https://wt-bbb812ec6f1b786e8adf620306562f3c-0.run.webtask.io/stripe-payment?currency=USD&amount={{page.stripe.price}}&description={{page.stripe.description}}" method="POST">
   <script
     src="https://checkout.stripe.com/checkout.js" class="stripe-button"
