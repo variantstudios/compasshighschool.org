@@ -53,8 +53,8 @@ function queryString() {
     $('#stripe-message-success').show();
     $('#stripe-message-fail').hide();
     console.log("200");
-    } else if (queryString() == "400") {
-   $('#stripe-message-success').hide();
+  } else if (queryString() == "400") {
+    $('#stripe-message-success').hide();
     $('#stripe-message-fail').show();
     console.log("400");
   } else {
