@@ -13,7 +13,7 @@ iframe:
   width: '2000'
   height: '1300'
 stripe:
-  show: true
+  show: false
   price: '50000'
   button_label: Pay $500.00 for CompassX
   description: CompassX
