@@ -23,17 +23,3 @@ stripe:
   
 ---
 Coming Soon
-
-
-<style>
-.stripe-button-el {
-    background-image: none !important;
-    background-color: #f8f8f8 !important;
-    -webkit-box-shadow: none;
-    -moz-box-shadow: none;
-    -ms-box-shadow: none;
-    -o-box-shadow: none;
-    box-shadow: none;
-}
-</style>
-
