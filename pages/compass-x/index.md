@@ -69,12 +69,16 @@ function queryString() {
   if (queryString() == "200") {
     $('#stripe-message-success').show();
     $('#stripe-message-fail').hide();
-    $(document).scrollTo('#stripe-message-success');
+     $('html, body').animate({
+        scrollTop: $("#stripe-message-success").offset().top
+    }, 2000);
     console.log("200");
   } else if (queryString() == "400") {
     $('#stripe-message-success').hide();
     $('#stripe-message-fail').show();
-    $(document).scrollTo('#stripe-message-fail');
+    $('html, body').animate({
+        scrollTop: $("#stripe-message-fail").offset().top
+    }, 2000);
     console.log("400");
   } else {
     $('#stripe-message-success').hide();
