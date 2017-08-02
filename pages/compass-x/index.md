@@ -13,7 +13,8 @@ iframe:
   width: '2000'
   height: '1300'
 stripe:
-  price: '500'
+  price: '50000'
+  button_label: 'Pay $500.00 for CompassX'
   description: 'CompassX'
   public_key: 'pk_test_j1uzibEQwCYG287YFYHKvtiz'
   success_message: 'Thank you for your payment.'
@@ -31,6 +32,7 @@ Coming Soon
     data-amount="{{page.stripe.price}}"
     data-name="Compass Community Collaborative School"
     data-description="{{page.stripe.description}}"
+    data-label="{{page.stripe.button_label}}"
     data-zip-code="true"
     data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
     data-locale="auto"
