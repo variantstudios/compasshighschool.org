@@ -65,6 +65,7 @@ function queryString() {
   }
 };
 
+
 //if ($('body').hasClass("contact")) {
   if (queryString() == "200") {
     $('#stripe-message-success').show();
