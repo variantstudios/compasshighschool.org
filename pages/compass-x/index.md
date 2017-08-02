@@ -45,19 +45,23 @@ function queryString() {
 
 //if ($('body').hasClass("contact")) {
   if (queryString() == "200") {
-    $('#contact-message').show();
+    $('#stripe-message-success').show();
+    $('#stripe-message-fail').hide();
     console.log("200");
     } else if (queryString() == "400") {
-    $('#contact-message').hide();
+   $('#stripe-message-success').hide();
+    $('#stripe-message-fail').show();
     console.log("400");
   } else {
-    $('#contact-message').hide();
+    $('#stripe-message-success').hide();
+    $('#stripe-message-fail').hide();
     console.log("hide");
   }
 //};
 
 </script>
-<div id="contact-message">paid</div>
+<div id="stripe-message-success">Success</div>
+<div id="stripe-message-fail">Fail</div>
 
 
 
