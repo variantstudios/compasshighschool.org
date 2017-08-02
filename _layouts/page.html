@@ -15,6 +15,10 @@ layout: default
      {% include sponsors.html %}
 {% endif %}
 
+{% if page.stripe.show == true %}
+    {% include stripe.html %}
+{% endif %}
+
 {% if page.iframe.url %}
 <div id="iframe">
 <h3>{{page.iframe.title}}</h3>

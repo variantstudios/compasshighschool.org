@@ -592,3 +592,14 @@ transition: right .5s ease-in;
       margin-top: -10px;
   }
 }
+
+/* STRIPE */
+.stripe-button-el {
+    background-image: none !important;
+    background-color: #f8f8f8 !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    -ms-box-shadow: none !important;
+    -o-box-shadow: none !important;
+    box-shadow: none !important;
+}
