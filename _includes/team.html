@@ -1,13 +1,13 @@
 <div class="team-list">
-
-<!-- {% for test in site.team_position %}
-  <h2>{{test.url | remove:"/" | remove:"team_position"}}</h2>
-{% assign team_position_name = test.url | remove:"/" | remove:"team_position"%}
-{% assign team = site.data.team | group_by:"executive-team" %}
+{% assign team_position = site.team_positions | sort:"order" %}
+{% for team_position_titles in team_position   %}
+  <h2>{{team_position_titles.title}}</h2>
+{% assign team_position_name = team_position_titles.url | remove:"/" | remove:"team_positions"%}
+{% assign team = site.data.team | where:'team_position', team_position_name  %}
 
 {% for item in team %}  
   <div class="team--member clearfix">
-    <img src="" alt="{{ item.name }}"/>
+    <img src="{{ item.image_path }}" alt="{{ item.name }}"/>
     <div class="team--member-details">
       <h3>{{ item.name }}</h3>
       <h6>{{ item.position }} </h6>
@@ -15,23 +15,7 @@
     </div>
   </div>
 {% endfor %}
-{% endfor %} -->
+{% endfor %}  
 
-<ul>
-  {% for tag in site.team_position %}
-    {% assign posts = team_position[forloop.index0] %}
-
-    <li>
-      <h2>{{ tag.title }}</h2>
-      <ul>
-        {% for post in site.data.team | group_by:"team_position[forloop.index0]" %}
-        <li>
-          {{ post.title }}</a>
-        </li>
-        {% endfor %}
-      </ul>
-    </li>
-  {% endfor %}
-</ul>
 
 </div>
