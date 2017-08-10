@@ -45,7 +45,7 @@ collections:
   categories:
     output: true
     permalink: '/blog/categories/:title/'
-  team-positions:
+  team-position:
     output: false
   tags:
     output: true
