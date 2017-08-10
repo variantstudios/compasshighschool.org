@@ -1,4 +1,3 @@
-
 # Site settings
 title: "Compass Community Collaborative School"
 email: "team@variantstudios.com"
@@ -46,6 +45,8 @@ collections:
   categories:
     output: true
     permalink: '/blog/categories/:title/'
+  team-positions:
+    output: false
   tags:
     output: true
     permalink: '/blog/:title/'
