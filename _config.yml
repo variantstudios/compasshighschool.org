@@ -45,7 +45,7 @@ collections:
   categories:
     output: true
     permalink: '/blog/categories/:title/'
-  team-position:
+  team_position:
     output: false
   tags:
     output: true
@@ -58,6 +58,11 @@ defaults:
     values:
       layout: post
       class: single
+  -
+    scope:
+      type: team_position
+    values:
+      title:
   -
     scope:
       type: categories

@@ -28,7 +28,7 @@
     love for Fort Collins, and my passion for public education to create a
     leading edge and collaborative partner in secondary education for PSD, CSU,
     and the City of Fort Collins.
-  team-position:
+  team_position:
     - founding-board-of-directors
   image_path: /assets/images/jan.png
 - name: 'Russ Brown, M.Ed.'
@@ -45,7 +45,7 @@
     Student-as-Client (Phi Delta Kappan, March 2014) as well as articles that
     have been published in American Diplomacy, The American Historian, and
     Principal Leadership.
-  team-position:
+  team_position:
     - founding-board-of-directors
   image_path: /assets/images/russ.png
 - name: 'Terry Burton, M.A.'
@@ -61,7 +61,7 @@
     as an educator at the Fort Collins Museum of Discovery, I create
     inquiry-based and project-based informal education experiences for students
     and adults.
-  team-position:
+  team_position:
     - executive-team
   image_path: /assets/images/terry.png
 - name: Jovan Rivera-Lovato
@@ -79,7 +79,7 @@
     inform and motivate my contribution to Compass. It is with the interests of
     the students and their futures that I dedicate my work to creating something
     that is meant for them.
-  team-position:
+  team_position:
     - executive-team
   image_path: /assets/images/jovan.png
 - name: 'Pamela Barker, MA, PT'
@@ -102,7 +102,7 @@
     explores the intersection of SEL, Restorative Justice, and Transformational
     Learning. Compass Community Collaborative School’s commitment to these
     principles and to creating joy in learning is refreshing.
-  team-position:
+  team_position:
     - executive-team
   image_path: /assets/images/pamela.png
 - name: 'Katie Malone, M.Ed'
@@ -122,7 +122,7 @@
     be active citizens in their community and pushed to realize their potential,
     both as students and teachers.  That is our purpose at Compass Community
     Collaborative School.
-  team-position:
+  team_position:
     - executive-team
   image_path: /assets/images/kaite.png
 - name: 'Sam Houghteling, M.A.'
@@ -141,7 +141,7 @@
     Startup Week. Prior to moving to Colorado, Sam received his Master’s in
     Public Administration from the University of Kansas, and served as a
     Director at a Massachusetts-based non-profit.
-  team-position:
+  team_position:
     - executive-team
   image_path: /assets/images/sam-resized.jpg
 - name: 'Mark Schreiber, M. Ed.,M.Sc.'
@@ -165,7 +165,7 @@
     DesignCase, a maker lab in a box that teaches children and adults alike how
     to innovate blending low-fidelity materials and high tech know-how to create
     value and promote entrepreneurship.
-  team-position:
+  team_position:
     - executive-team
   image_path: /assets/images/mark.png
 - name: 'Jim Hutchinson, Ph.D.'
@@ -182,7 +182,7 @@
     are best able to implement wholly innovative approaches, and that is why I
     am so excited to be part of the development of Compass Community
     Collaborative School.
-  team-position:
+  team_position:
     - executive-team
   image_path: /assets/images/jim.png
 - name: 'Jose Valdes, Ph.D.'
@@ -190,7 +190,7 @@
     Colorado State University, Computer Information Systems Instructor, ACT
     Colorado Advisory Council
   bio: "My professional career spanned over thirty-five years in technical and managerial positions for\_major telecommunications, information technology organizations and in higher education. In addition, I have been fortunate to have taught part-time computer information and telecommunications management, business management, and career courses to adult learners for over twenty-seven years at various institutions. Therefore, truly blessed with a rewarding\_professional and academic career\_and experiences. I am now retired and focusing on teaching, my passion. I consider the opportunity to teach a privilege and gift. I was born in Santa Clara, Cuba and immigrated to the United States as\_political refugee with my parents and sister. Raised in Denver, Colorado, I hold degrees from Colorado State University, Almeda University, and the University of Denver. Further, I had the privilege of\_completing academic courses and\_training\_at the Massachusetts Institute of Technology/AT&T Center, Bell Laboratories, Mountain Bell, and North Dakota State University. My wife of over forty years and I have two grown children and an ever more curious and enjoyable granddaughter. We have lived in Windsor, Colorado for nearly twenty years. I also have a passion\_of over\_thirty years for the sport of triathlon. Currently, I am a USATriathlon certified official and member of the National Age Group Committee. The sport of triathlon suits my independent spirit and competitive inclination. I am also a member of the Town of Windsor Board of Adjustments."
-  team-position:
+  team_position:
     - executive-team
   image_path: /assets/images/valdes-jose-80x100.jpg
 - name: 'Gina Curler, M.A.'
@@ -211,6 +211,6 @@
     Collins nonprofit, No Barriers.  When not consumed by the day-to-day work of
     raising children, I spend my time volunteering, playing cello, and doing
     ceramics.
-  team-position:
+  team_position:
     
   image_path:
