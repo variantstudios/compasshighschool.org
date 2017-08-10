@@ -165,6 +165,8 @@
     DesignCase, a maker lab in a box that teaches children and adults alike how
     to innovate blending low-fidelity materials and high tech know-how to create
     value and promote entrepreneurship.
+  team-position:
+    - executive-team
   image_path: /assets/images/mark.png
 - name: 'Jim Hutchinson, Ph.D.'
   position: Aims Community College Curriculum Director
@@ -210,5 +212,5 @@
     raising children, I spend my time volunteering, playing cello, and doing
     ceramics.
   team-position:
-    - executive-team
+    
   image_path:
