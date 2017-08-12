@@ -16,17 +16,12 @@ video_section:
   video_path: 'https://www.youtube.com/embed/CjSeH0K9PLY'
 announcements_and_events:
   content_html: >-
-    <h1>CANCELLED Due to weather: City Park Pool Party for all Registered CCC
-    Families and their friends: 6-8pm, August 11th.</h1><p><strong>PopUp Maker
-    Space and Drone Racing during First Friday Gallery Walk in downtown Fort
-    Collins</strong>. Come visit us and play and learn in the Atrium at Mesh,
-    242 Linden Street, 6-8p on <strong>Friday, September 1st.</strong> Drop by
-    and say hello!</p><p><em><strong>Next meeting of CCC Prototype/YSci Summer
-    Program:</strong></em>&nbsp;August 8-11, 12p-3p, at Mesh Classroom, 242
-    Linden Street for Video Editing</p><p><strong>Presentation of Learning and
-    Parent Information Night:</strong> First Friday Fort Collins, Sept.1, 6p-8p,
-    in the Mesh Atrium, 242 Linden Street</p><p><strong>Compass Community
-    Collaborative School is now a <a href="www.bigpicture.org">Big Picture
+    <p><strong>Prototype Exhibition, PopUp Maker Space, and Drone Racing during
+    First Friday Gallery Walk in downtown Fort Collins</strong>. Come visit us
+    and play and learn in the Atrium at Mesh, 242 Linden Street, 6-8p on
+    <strong>Friday, September 1st.</strong> Drop by and say
+    hello!</p><p><strong>Compass Community Collaborative School is now a <a
+    href="www.bigpicture.org">Big Picture
     Learning</a>&nbsp;Affiliate!&nbsp;</strong>We are now working with Big
     Picture Learning to help put students at the center of their education.
     &nbsp;They will be supporting us in the development of our Advisory program
