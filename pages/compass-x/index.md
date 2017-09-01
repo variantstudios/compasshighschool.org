@@ -25,4 +25,4 @@ stripe:
 ---
 
 
-We have some great after-school and school-day off ventures planned for fall semester! Think hiphop dance, snow studies, owning your online life (instead of it owning you!), and others designed specifically for current 5th -9th grade students. Full course listings will be posted by Sept.1, 2017. Stay tuned!
+![](/assets/images/versions/flier-front---x----1275-1650x---.jpg)
