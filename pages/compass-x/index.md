@@ -8,8 +8,9 @@ search_engine_optimization:
 permalink: /compass-x/
 layout: page
 iframe:
-  title:
-  url:
+  title: Class Registration
+  url: >-
+    https://docs.google.com/forms/d/e/1FAIpQLSeLg9h9bcgOWAjX0v8sMyLRQL0tj3-C9guIk2s9F1yeX_eqhQ/viewform
   width: '2000'
   height: '1300'
 stripe:
