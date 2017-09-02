@@ -27,7 +27,7 @@ announcements_and_events:
     &nbsp;They will be supporting us in the development of our Advisory program
     as well as our internship work and staff professional development.
     &nbsp;Check out our work at <a
-    href="http://www.bigpicture.org">www.bigpicture.org</a>. &nbsp;</p><p><strong>The
+    href="http://www.bigpicture.org">bigpicture.org</a>. &nbsp;</p><p><strong>The
     Result:</strong>&nbsp;<em>a student-centered learning design, where students
     are actively invested in their learning and are challenged to pursue their
     interests by a supportive community of educators, professionals, and family
