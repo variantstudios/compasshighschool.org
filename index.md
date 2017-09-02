@@ -21,13 +21,13 @@ announcements_and_events:
     and play and learn in the Atrium at Mesh, 242 Linden Street, 6-8p on
     <strong>Friday, September 1st.</strong> Drop by and say
     hello!</p><p><strong>Compass Community Collaborative School is now a <a
-    href="www.bigpicture.org">Big Picture
+    href="http://www.bigpicture.org">Big Picture
     Learning</a>&nbsp;Affiliate!&nbsp;</strong>We are now working with Big
     Picture Learning to help put students at the center of their education.
     &nbsp;They will be supporting us in the development of our Advisory program
     as well as our internship work and staff professional development.
     &nbsp;Check out our work at <a
-    href="www.bigpicture.org">www.bigpicture.org</a>. &nbsp;</p><p><strong>The
+    href="http://www.bigpicture.org">www.bigpicture.org</a>. &nbsp;</p><p><strong>The
     Result:</strong>&nbsp;<em>a student-centered learning design, where students
     are actively invested in their learning and are challenged to pursue their
     interests by a supportive community of educators, professionals, and family
