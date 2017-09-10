@@ -26,4 +26,4 @@ stripe:
 ---
 
 
-![](/assets/images/versions/flier-front---x----1275-1650x---.jpg)
+![](/assets/images/versions/2ndcompassxflierfront---x----1275-1650x---.jpg)
