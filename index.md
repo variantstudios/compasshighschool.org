@@ -16,24 +16,23 @@ video_section:
   video_path: 'https://www.youtube.com/embed/CjSeH0K9PLY'
 announcements_and_events:
   content_html: >-
-    <p><strong>Prototype Exhibition, PopUp Maker Space, and Drone Racing during
-    First Friday Gallery Walk in downtown Fort Collins</strong>. Come visit us
-    and play and learn in the Atrium at Mesh, 242 Linden Street, 6-8p on
-    <strong>Friday, September 1st.</strong> Drop by and say
-    hello!</p><p><strong>Compass Community Collaborative School is now a <a
-    href="http://www.bigpicture.org">Big Picture
+    <p><strong>Family Information Meeting: Council Tree
+    Library&nbsp;</strong>(Ziegler and Harmony)&nbsp;<strong>Community Room "C"
+    October 2nd, 7-8 p.m.&nbsp;</strong>See you
+    there!</p><p>&nbsp;</p><p><strong>Compass Community Collaborative School is
+    now a <a href="http://www.bigpicture.org">Big Picture
     Learning</a>&nbsp;Affiliate!&nbsp;</strong>We are now working with Big
     Picture Learning to help put students at the center of their education.
     &nbsp;They will be supporting us in the development of our Advisory program
     as well as our internship work and staff professional development.
     &nbsp;Check out our work at <a
-    href="http://www.bigpicture.org">bigpicture.org</a>. &nbsp;</p><p><strong>The
-    Result:</strong>&nbsp;<em>a student-centered learning design, where students
-    are actively invested in their learning and are challenged to pursue their
-    interests by a supportive community of educators, professionals, and family
-    members. &nbsp;</em>Sound familiar?</p><p><em><strong>Next Board
-    Meeting:</strong></em> Mesh Campus conference room, 6-8 pm, Wed. Sept. 13,
-    2017</p><p>&nbsp;</p>
+    href="http://www.bigpicture.org">bigpicture.org</a>.
+    &nbsp;</p><p><strong>The Result:</strong>&nbsp;<em>a student-centered
+    learning design, where students are actively invested in their learning and
+    are challenged to pursue their interests by a supportive community of
+    educators, professionals, and family members. &nbsp;</em>Sound
+    familiar?</p><p><em><strong>Next Board Meeting:</strong></em> Mesh Campus
+    conference room, 6-8 pm, Wed. Oct. 11, 2017</p><p>&nbsp;</p>
 search_engine_optimization:
   page_title:
   page_description:
