@@ -16,9 +16,8 @@ video_section:
   video_path: 'https://www.youtube.com/embed/CjSeH0K9PLY'
 announcements_and_events:
   content_html: >-
-    <p><strong>Family Information Meeting: Council Tree
-    Library&nbsp;</strong>(Ziegler and Harmony)&nbsp;<strong>Community Room "C"
-    October 2nd, 7-8 p.m.&nbsp;</strong>See you
+    <p><strong>Family Information Meeting: Northside Aztlan Community
+    Center,&nbsp;</strong><strong>October 12th, 7-8 p.m.&nbsp;</strong>See you
     there!</p><p>&nbsp;</p><p><strong>Compass Community Collaborative School is
     now a <a href="http://www.bigpicture.org">Big Picture
     Learning</a>&nbsp;Affiliate!&nbsp;</strong>We are now working with Big
