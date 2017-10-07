@@ -1,13 +1,18 @@
 ---
 title: Community Partner Program
-sub_title: Join our growing list of community partners.  Start seeing the benefit of working with our students today.
+sub_title: >-
+  Join our growing list of community partners.  Start seeing the benefit of
+  working with our students today.
 header_image: /assets/images/sam-at-the-board-final.jpg
 search_engine_optimization:
   page_title: Community Partner Program
-  page_description: Join our growing list of community partners.  Start seeing the benefit of working with our students today.
+  page_description: >-
+    Join our growing list of community partners.  Start seeing the benefit of
+    working with our students today.
 iframe:
   title: Become a Community Partner
-  url: 'https://docs.google.com/forms/d/e/1FAIpQLScZMn5Cnf1IDHwdz5eA7QRke8gcDM3esPJtWB8q3-8Wuu36tA/viewform?embedded=true'
+  url: >-
+    https://docs.google.com/forms/d/e/1FAIpQLScZMn5Cnf1IDHwdz5eA7QRke8gcDM3esPJtWB8q3-8Wuu36tA/viewform?embedded=true
   width: '2000'
   height: '1685'
 permalink: /community-partners/
@@ -25,20 +30,6 @@ We are creating a small learning community where every student and family is kno
 
 ## We have a growing list of supporters:
 
-City of Fort Collins, Offices of the Mayor and City Manager
-<br>[Woodward, Inc.](http://www.woodward.com/interngradopportunities.aspx)
-<br>[Paterson Center](https://patersoncenter.com/stratop-strategic-planning/)
-<br>[OtterCares](http://www.ottercares.org/)
-<br>[No Barriers](http://www.nobarriersusa.org/)
-<br>[Jacob Center](http://www.jacobcenter.org/)
-<br>[Fort Collins Museum of Discovery](http://fcmod.org/)
-<br>CSU Office of the President
-<br>CSU Powerhouse Energy Campus
-<br>CSU Educational Outreach Center
-<br>CSU School of Education, Center for Educator Preparation
-<br>[CSU Writing Project](http://www.csuwritingproject.net/)
+City of Fort Collins, Offices of the Mayor and City Manager<br>[Woodward, Inc.](http://www.woodward.com/interngradopportunities.aspx)<br>[Paterson Center](https://patersoncenter.com/stratop-strategic-planning/)<br>[OtterCares](http://www.ottercares.org/)<br>[No Barriers](http://www.nobarriersusa.org/)<br>[Jacob Center](http://www.jacobcenter.org/)<br>[Fort Collins Museum of Discovery](http://fcmod.org/)<br>CSU Office of the President<br>CSU Powerhouse Energy Campus<br>CSU Educational Outreach Center<br>CSU School of Education, Center for Educator Preparation<br>[CSU Writing Project](http://www.csuwritingproject.net/)
 
-[Big Picture Learning](http://www.bigpicture.org/)
-<br>[ReSchool Colorado](http://reschoolcolorado.org/)
-<br>[KnowledgeWorks](http://www.knowledgeworks.org/)
-<br>[Education Change Makers](http://educationchangemakers.com/)
+[Big Picture Learning](http://www.bigpicture.org/)<br>[ReSchool Colorado](http://reschoolcolorado.org/)<br>[KnowledgeWorks](http://www.knowledgeworks.org/)<br>[Education Change Makers](http://educationchangemakers.com/)
