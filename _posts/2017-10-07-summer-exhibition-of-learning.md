@@ -1,6 +1,6 @@
 ---
 title: Summer Exhibition of Learning
-date:
+date: 2017-10-07 11:59:03
 image_path:
 categories:
 iframe_content:
@@ -10,7 +10,7 @@ search_engine_optimization:
 ---
 
 
-![](/assets/images/versions/img-0754---x----1632-1224x---.JPG)
+![](/assets/images/versions/IMG_0816---x0-502-1677-1258-1632-1224x---.jpg)
 
 Every school year there were a couple of school nights that I absolutely dreaded, Back-to-School Night and Parent/ Teacher Conferences. On these nights, I liked getting to know my student’s families and I didn’t really mind being at school late. What I dreaded was being inadvertently asked to defend myself as an educator. Somehow, every year, I would find myself preparing little speeches beforehand as responses to the skeptical questions I would receive all night long. For example: Why aren’t students reading more classics? How are you preparing my kids for SAT vocabulary success? Why don’t we diagram sentences anymore? Now, these are good questions, but in a 5 to 10 minute conference window I would feel cornered and unable to have a real conversation about learning with students and their families.
 
