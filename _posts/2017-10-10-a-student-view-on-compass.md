@@ -1,6 +1,6 @@
 ---
 title: A student view on Compass
-date:
+date: 2017-10-09 22:30:29
 image_path:
 categories:
 iframe_content:
