@@ -15,12 +15,12 @@ video_section:
   video_path: 'https://www.youtube.com/embed/CjSeH0K9PLY'
 announcements_and_events:
   content_html: >-
-    <p><strong>Family Information Meeting: Northside Aztlan Community
-    Center,&nbsp;</strong><strong>October 12th, 7-8 p.m.&nbsp;</strong>See you
-    there!</p><p>&nbsp;</p><p><strong>Compass Community Collaborative School is
-    now a <a href="http://www.bigpicture.org">Big Picture
-    Learning</a>&nbsp;Affiliate!&nbsp;</strong>We are now working with Big
-    Picture Learning to help put students at the center of their education.
+    <p><b>PLEASE COME OUT TO SUPPORT OUR CHARTER APPLICATION! JOIN US AT THE PSD
+    BOARD OF EDUCATION MEETING ON TUESDAY, OCT.24 AT 5:30p.m. in the JSSC
+    Building, 2407 LaPorte Ave.</b></p><p>&nbsp;</p><p><strong>Compass Community
+    Collaborative School is now a <a href="http://www.bigpicture.org">Big
+    Picture Learning</a>&nbsp;Affiliate!&nbsp;</strong>We are now working with
+    Big Picture Learning to help put students at the center of their education.
     &nbsp;They will be supporting us in the development of our Advisory program
     as well as our internship work and staff professional development.
     &nbsp;Check out our work at <a
@@ -29,8 +29,9 @@ announcements_and_events:
     learning design, where students are actively invested in their learning and
     are challenged to pursue their interests by a supportive community of
     educators, professionals, and family members. &nbsp;</em>Sound
-    familiar?</p><p><em><strong>Next Board Meeting:</strong></em> Mesh Campus
-    conference room, 6-8 pm, Wed. Oct. 11, 2017</p><p>&nbsp;</p>
+    familiar?</p><p><em><strong>Next Board Meeting:</strong></em> Music District
+    Long Building (619 S.College Ave), 6-8 pm, Wed. Nov. 15,
+    2017</p><p>&nbsp;</p>
 search_engine_optimization:
   page_title:
   page_description:
