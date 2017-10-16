@@ -1,6 +1,6 @@
 ---
 title: Print the Legend
-date:
+date: 2017-10-15 19:51:14
 image_path:
 categories:
 iframe_content:
