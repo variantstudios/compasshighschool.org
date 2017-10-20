@@ -551,6 +551,7 @@ transition: right .5s ease-in;
 }
     #page-header-wrap .container .subheader {
       font-size: 1.3em;
+      font-weight: bold;
     }
 
 .home #page-header-wrap {
