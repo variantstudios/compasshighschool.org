@@ -552,6 +552,7 @@ transition: right .5s ease-in;
     #page-header-wrap .container .subheader {
       font-size: 1.8em;
       font-weight: bold;
+      line-height: 1.2;
     }
 
 .home #page-header-wrap {
