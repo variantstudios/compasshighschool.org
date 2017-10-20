@@ -608,3 +608,7 @@ transition: right .5s ease-in;
     -o-box-shadow: none !important;
     box-shadow: none !important;
 }
+
+#call-to-action .triangle {
+    border-top: 10px solid #4a324e;
+}
