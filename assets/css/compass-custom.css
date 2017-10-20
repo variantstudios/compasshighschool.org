@@ -340,7 +340,7 @@ transition: right .5s ease-in;
 /* ------------------------- 4 ------------------------- */
 .video-block h2 {
   color: #F08062; 
-  opacity: 0.55; 
+  /*opacity: 0.55; */
   margin-bottom: 20px; 
   font-size: 25px; 
   line-height: 1.1; 
