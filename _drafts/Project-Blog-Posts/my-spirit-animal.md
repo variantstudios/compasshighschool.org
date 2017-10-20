@@ -20,4 +20,4 @@ What is your spirit animal?&nbsp; Is it a camel; calm, slow and thoughtful? Is i
 
 This concept is what drives the Spirit Animal project.&nbsp; As students enter Compass, one of the most important aspects we focus on is individual identity.&nbsp; What makes each of us unique? interesting? brilliant?
 
-***Content Connections:***<br>**Social Studies:** historical context of the given story; legends/myths vs. truth; oral vs. written storytelling<br>**Reading, Writing and Communicating:**creative writing and composition; oral expression and listening; the "Hero's Journey"; elements of good storytelling<br>**Arts:** Impact of cultural traditions and events on visual arts within a community
+***Content Connections:***<br>**Science:**<br>**Reading, Writing and Communicating:**creative writing and composition; oral expression and listening; the "Hero's Journey"; elements of good storytelling<br>**Arts:** Impact of cultural traditions and events on visual arts within a community
