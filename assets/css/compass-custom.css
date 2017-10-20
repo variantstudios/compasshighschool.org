@@ -278,6 +278,8 @@ transition: right .5s ease-in;
     -moz-transition: opacity 0.4s ease;
     width: 45px;
     height: 45px;
+    display: none;
+    
 }
 
 .main-content ul, .main-content ol {
