@@ -17,20 +17,12 @@ announcements_and_events:
   content_html: >-
     <p><b>PLEASE COME OUT TO SUPPORT OUR CHARTER APPLICATION! JOIN US AT THE PSD
     BOARD OF EDUCATION MEETING ON TUESDAY, OCT.24 AT 5:30p.m. in the JSSC
-    Building, 2407 LaPorte Ave.</b></p><p>&nbsp;</p><p><strong>Compass Community
-    Collaborative School is now a <a href="http://www.bigpicture.org">Big
-    Picture Learning</a>&nbsp;Affiliate!&nbsp;</strong>We are now working with
-    Big Picture Learning to help put students at the center of their education.
-    &nbsp;They will be supporting us in the development of our Advisory program
-    as well as our internship work and staff professional development.
-    &nbsp;Check out our work at <a
-    href="http://www.bigpicture.org">bigpicture.org</a>.
-    &nbsp;</p><p><strong>The Result:</strong>&nbsp;<em>a student-centered
-    learning design, where students are actively invested in their learning and
-    are challenged to pursue their interests by a supportive community of
-    educators, professionals, and family members. &nbsp;</em>Sound
-    familiar?</p><p><em><strong>Next Board Meeting:</strong></em> Music District
-    Long Building (619 S.College Ave), 6-8 pm, Wed. Nov. 15,
+    Building, 2407 LaPorte Ave.</b></p><p><strong>Family Meet and Greet and Q
+    &amp; A</strong> with Compass Board members, teachers, and school leaders
+    Monday, Nov. 6, at the Fort Collins Music District from 6:30p-8:00p. A
+    chance to ask questions of the Compass team regarding the development of our
+    school.</p><p>&nbsp;</p><p><em><strong>Next Board Meeting:</strong></em>
+    Music District Long Building (619 S.College Ave), 6-8 pm, Wed. Nov. 15,
     2017</p><p>&nbsp;</p>
 search_engine_optimization:
   page_title:
