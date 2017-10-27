@@ -14,8 +14,6 @@ search_engine_optimization:
 
 On October 24th, the Compass Community Collaborative School Team formally defended our Charter application to the Poudre School District School Board.&nbsp; From the day we turned in our application in mid-August to now, it has been an extremely busy time for our team, families and those in PSD that have helped us get to this point.&nbsp; So, clearly, we have several *Thank You's.*
 
-&nbsp;
-
 Thank you to…
 
 * the **PSD School Board&nbsp;**for taking the time to read our application, make copious notes and ask tough, challenging questions.&nbsp; We recognize that our success is amplified by being pushed and challenged.&nbsp; We so appreciate your thoughtful and thorough questioning of our work so far.&nbsp; We would expect nothing less when the common goal is to support and educate the youth of Fort Collins.&nbsp; We can only grow and learn through experiences like this.
