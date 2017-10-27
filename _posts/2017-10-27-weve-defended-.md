@@ -1,6 +1,6 @@
 ---
 title: We've Defended.
-date:
+date: 2017-10-27 16:57:10
 image_path:
 categories:
 iframe_content:
