@@ -616,3 +616,113 @@ transition: right .5s ease-in;
 #page-header-wrap .container h1 {
     font-size: 42px;
 }
+
+
+
+
+.alertbar:before {
+  content: " ";
+  display: block;
+  height: 0;
+  width: 100%;
+  -webkit-transition: 0.5s ease;
+  transition: 0.5s ease;
+}
+.alertbar p {
+  padding-bottom: 1rem;
+  margin: 0;
+  font-size: 1rem;
+}
+
+.alertbar {
+  position: fixed;
+  z-index: 100000;
+  background: #49314d;
+  width: 100%;
+  bottom: 0;
+  text-align: center;
+  color: #fff;
+  /* opacity: 0.9; */
+  -webkit-transform: translateY(100%);
+  transform: translateY(100%);
+  -webkit-transition: 0.25s ease;
+  transition: 0.25s ease;   
+  /* padding: 20px 0; */
+}
+.alertbar.active {
+  -webkit-transform: translateY(0%);
+          transform: translateY(0%);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.6);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.6);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.6);
+}
+/* .alertbar .content {
+    margin-top: 26px;
+    display: block;
+} */
+.alertbar img {
+  height: 25px;
+  float: right;
+  margin: 15px 15px 0 0;
+  fill: #fff;
+  cursor: pointer; 
+}
+span.content {
+  margin: 20px 40px 20px 40px;
+  display: block;
+}
+.alertbar.active:before {
+  min-height: auto;
+}
+.page-wrapper.active {
+  margin-top: 65px; 
+}
+
+/* @media only screen and (max-width: 1000px) and (min-width: 512px) {
+  .page-wrapper.active {
+    margin-top: 90px; 
+  }
+}
+
+@media only screen and (max-width: 511px) and (min-width: 2px) {
+  .page-wrapper.active {
+    margin-top: 112px; 
+  }
+  .alertbar.active:before {
+    min-height: 45px;
+  }
+} */
+/* 
+.alertbar:before {
+  content: " ";
+  display: block;
+  height: 0;
+  width: 100%;
+  -webkit-transition: 0.5s ease;
+  transition: 0.5s ease;
+}
+.alertbar span.content {
+  color: #fff;
+  background: red;
+  text-align: center;
+  padding: 5px 0;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  opacity: 0.9;
+  -webkit-transform: translateY(-100%);
+          transform: translateY(-100%);
+  -webkit-transition: 0.25s ease;
+  transition: 0.25s ease;
+}
+.alertbar.active:before {
+  height: 32px;
+}
+.alertbar.active span {
+  -webkit-transform: translateY(0%);
+          transform: translateY(0%);
+}
+.alertbar.active span:hover {
+  padding: 10px 0;
+  opacity: 1;
+} */
