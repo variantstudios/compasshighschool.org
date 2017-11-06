@@ -10,7 +10,7 @@
 <body class="{% if page.class %} {{ page.class }} {% endif %}">
     {% include browserupgrade.html %}
     
-    {% if site.data.alert.message_html != null &&  site.data.alert.show == true %}
+    {% if site.data.alert.message_html != null and site.data.alert.show == true %}
     {% include alertbar.html %}
     {% endif %}
 
