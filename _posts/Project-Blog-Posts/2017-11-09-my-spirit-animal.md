@@ -1,6 +1,6 @@
 ---
 title: My Spirit Animal
-date:
+date: 2017-11-08 17:45:38
 image_path:
 categories:
 iframe_content:
