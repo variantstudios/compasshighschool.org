@@ -55,12 +55,34 @@
                   <div class="wpb_wrapper">
                   <div class="wpb_video_widget wpb_content_element vc_clearfix   vc_video-aspect-ratio-169 vc_video-el-width-100 vc_video-align-center">
                     <div class="">
-                        <div class="wpb_video_wrapper">
+                        <!-- <div class="wpb_video_wrapper">
                             <div class="videoWrapper">
                               <iframe src="{{page.video_section.video_path}}" frameborder="0" allowfullscreen="" data-aspectratio="0.562962962962963" style=" opacity: 1; visibility: visible;">
                               </iframe>
                             </div>
-                        </div>
+                        </div> -->
+
+                        <div class="container">
+                            <div class="slick">
+
+                              {% for slide in page.carousel %}
+                              <div class="item {% if slide.youtube_id %}youtube{% elsif slide.image_path %}image{% endif %}">
+                                  {% if slide.youtube_id %}
+                                  <iframe id="youtube" src="https://www.youtube-nocookie.com/embed/{{ slide.youtube_id }}?rel=0&amp;showinfo=0&amp;enablejsapi=1" frameborder="0" allowfullscreen></iframe>
+                                  {% elsif slide.image_path %}
+                                  <img src="{{slide.image_path}}" alt="{{slide.title}}">
+                                  {% endif %}
+                                <p class="caption">
+                                    {% if slide.link %}<a href="{{slide.link}}" title="{{slide.title}}">{{slide.title}}</a>{% else %}{{slide.title}}{% endif %}
+                                </p>
+                              </div>
+
+                              {% endfor %}
+
+                            </div>
+                          </div>
+
+
                     </div>
                   </div>
                 </div> 
@@ -69,9 +91,9 @@
               <div class="vc_col-sm-4 wpb_column column_container col centered-text padding-2-percent instance-2 span_4">
                   <div class="wpb_wrapper">                
                   <div class="wpb_text_column wpb_content_element ">
-                      <h2>{{page.video_section.title}}</h2>
-                      <p>{{page.video_section.sub_title}}</p>
-                     <div class="btn"><a href="{{page.video_section.call_to_action_link_path}}">{{page.video_section.call_to_action_text}}</a></div>
+                      <h2>{{page.carousel_side_section.title}}</h2>
+                      <p>{{page.carousel_side_section.sub_title}}</p>
+                     <div class="btn"><a href="{{page.carousel_side_section.call_to_action_link_path}}">{{page.carousel_side_section.call_to_action_text}}</a></div>
                   </div>
                 </div> 
               </div> 
