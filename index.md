@@ -7,7 +7,20 @@ home_header:
   image_path: /assets/images/maddi-lilly-final.jpg
   call_to_action_text: Enrolling Now!
   call_to_action_link_path: '/parents/#iframe'
-video_section:
+carousel:
+  - title: 'Compass Community Collaborative School'
+    youtube_id: 'PwZJIZ9atwA'
+    image_path: 
+    link: 
+  - title: 'Wallace child development'
+    youtube_id: 
+    image_path: '/assets/images/wallace-child-development.png'
+    link:
+  - title: 'Why Compass?'
+    youtube_id: 'CjSeH0K9PLY'
+    image_path: 
+    link:
+carousel_side_section:
   title: Want to know more about Compass Community Collaborative School?
   sub_title: Take a couple of minutes to get to know us!
   call_to_action_text: Enroll Here!
