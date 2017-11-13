@@ -28,15 +28,11 @@ carousel_side_section:
   video_path: 'https://www.youtube.com/embed/CjSeH0K9PLY'
 announcements_and_events:
   content_html: >-
-    <p>&nbsp;</p><p><strong>Family Meet and Greet and Q &amp; A</strong> with
-    Compass Board members, teachers, and school leaders Monday, Nov. 6, at the
-    Fort Collins Music District from 6:30p-8:00p. A chance to ask questions of
-    the Compass team regarding the development of our
-    school.</p><p><strong>DECISION TIME</strong><b>: </b>PLEASE COME OUT TO
-    SUPPORT OUR CHARTER APPLICATION! JOIN US AT THE PSD BOARD OF EDUCATION
-    MEETING ON TUESDAY, <strong>NOV. 14 AT 6:30p.m. in the JSSC Building, 2407
-    LaPorte Ave.</strong></p><p><em><strong>Next Board Meeting:</strong></em>
-    Music District Long Building (619 S.College Ave), 6-8 pm, Wed. Nov. 15,
+    <p><strong>DECISION TIME</strong><b>: </b>PLEASE COME OUT TO SUPPORT OUR
+    CHARTER APPLICATION! JOIN US AT THE PSD BOARD OF EDUCATION MEETING ON
+    TUESDAY, <strong>NOV. 14 AT 6:30p.m. in the JSSC Building, 2407 LaPorte
+    Ave.</strong></p><p><em><strong>Next Board Meeting:</strong></em> Music
+    District Long Building (619 S.College Ave), 6-8 pm, Wed. Nov. 15,
     2017</p><p>&nbsp;</p>
 search_engine_optimization:
   page_title:
