@@ -76,5 +76,10 @@ $(document).ready(function () {
       }
     });
 
-});
+      $("#mc_embed_signup").hide();
+      $(".btn_MailChimp").click(function() {
+        $("#mc_embed_signup").toggle();  
+      });
 
+
+});
