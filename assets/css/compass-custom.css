@@ -737,3 +737,55 @@ ul.slick-dots {
   right: -5px;
   left: auto;
 }
+
+.btn_MailChimp {
+  background: #49314d;
+  display: inline-block;
+  padding: 10px 35px;
+  border: 0;
+  margin: 0 0 0 1rem;
+  top: -4px;
+  position: relative;
+  cursor: pointer;
+  color: #fff;
+  font-weight: 700;
+  border-radius: 50px;
+  font-size: 0.9em;
+  font-family: Montserrat;
+  letter-spacing: 0;
+  box-shadow: 0px 2px 2px rgba(0,0,0,0.25);
+}
+#mc_embed_signup_scroll
+  input, #mc_embed_signup_scroll label,  #mc_embed_signup_scroll .mc-field-group {
+    float:left;
+    margin:5px;
+
+}
+div#mc_embed_signup {
+  clear: both;
+}
+
+.mc-field-group input[type=text], .mc-field-group textarea, .mc-field-group input[type=email], .mc-field-group input[type=password], .mc-field-group input[type=tel], .mc-field-group input[type=url], .mc-field-group input[type=search], .mc-field-group input[type=date] {
+  border: 1px solid #4a324e !important;
+}
+
+
+#newsletter {
+  background-color: #80d743 !important;
+  text-align: center;
+  padding: 2rem 1rem;
+} 
+#newsletter h2 {
+  font-size: 30px;
+  display: inline-block;
+}
+#newsletter  div.clear {
+  padding-bottom: 30px;
+}
+#newsletter  input[type=submit] {
+  background-color: #49314d!important;
+  border-radius: 3px !important;
+}
+#newsletter  input[type=submit]:hover { 
+  background-color: #000!important;
+}
