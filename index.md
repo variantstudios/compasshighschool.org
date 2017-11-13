@@ -8,17 +8,17 @@ home_header:
   call_to_action_text: Enrolling Now!
   call_to_action_link_path: '/parents/#iframe'
 carousel:
-  - title: 'Compass Community Collaborative School'
-    youtube_id: 'PwZJIZ9atwA'
-    image_path: 
-    link: 
-  - title: 'Wallace child development'
-    youtube_id: 
-    image_path: '/assets/images/wallace-child-development.png'
+  - title: Compass Community Collaborative School
+    youtube_id: PwZJIZ9atwA
+    image_path:
     link:
-  - title: 'Why Compass?'
-    youtube_id: 'CjSeH0K9PLY'
-    image_path: 
+  - title: We are a Research-Based School
+    youtube_id:
+    image_path: /assets/images/wallace-child-development.png
+    link:
+  - title: Why Compass?
+    youtube_id: CjSeH0K9PLY
+    image_path:
     link:
 carousel_side_section:
   title: Want to know more about Compass Community Collaborative School?
