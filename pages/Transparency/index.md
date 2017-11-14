@@ -7,7 +7,7 @@ search_engine_optimization:
   page_description:
 board_meetings:
   - title: '11/15/2017 - Agenda for FINAL Founding Board Meeting'
-    file_path: /assets/images/versions/screen-shot-2017-11-14-at-8-46-11-am---x----1602-964x---.png
+    file_path: /assets/pdf/Founding_Board_of_Directors_Agenda_11_15_2017_Rev.pdf
 permalink: /compass-x/
 layout: page
 iframe:
@@ -26,8 +26,3 @@ stripe:
     There was an issue with your payment. Please try again or contact us for
     help.
 ---
-
-
-Agenda for FINAL Founding Board Meeting:
-
-![](/assets/images/versions/screen-shot-2017-11-14-at-8-46-11-am---x----1602-964x---.png)
