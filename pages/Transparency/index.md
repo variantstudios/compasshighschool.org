@@ -5,6 +5,9 @@ header_image: /assets/images/img-2811.jpg
 search_engine_optimization:
   page_title: CompassX
   page_description:
+board_meetings:
+  - title: '11/15/2017 - Agenda for FINAL Founding Board Meeting'
+    file_path: /assets/images/versions/screen-shot-2017-11-14-at-8-46-11-am---x----1602-964x---.png
 permalink: /compass-x/
 layout: page
 iframe:
