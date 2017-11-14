@@ -13,9 +13,9 @@ iframe:
   width: '2000'
   height: '1300'
 stripe:
-  show: true
-  price: $60.00
-  button_label: Pay $60.00 for CompassX
+  show: false
+  price:
+  button_label:
   description: CompassX
   public_key: pk_test_j1uzibEQwCYG287YFYHKvtiz
   success_message: Thank you for your payment.
