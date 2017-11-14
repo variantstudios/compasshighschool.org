@@ -33,7 +33,7 @@ announcements_and_events:
     TUESDAY, <strong>NOV. 14 AT 6:30p.m. in the JSSC Building, 2407 LaPorte
     Ave.</strong></p><p><em><strong>Next Board Meeting:</strong></em> Music
     District Long Building (619 S.College Ave), 6-8 pm, Wed. Nov. 15,
-    2017</p><p>&nbsp;</p>
+    2017&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 search_engine_optimization:
   page_title:
   page_description:
