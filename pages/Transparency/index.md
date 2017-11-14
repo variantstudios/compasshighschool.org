@@ -1,6 +1,6 @@
 ---
-title: CompassX
-sub_title: After-School Opportunities
+title: Look Under the Hood
+sub_title: Agendas and Minutes from Board Meetings plus Financial Transparency
 header_image: /assets/images/img-2811.jpg
 search_engine_optimization:
   page_title: CompassX
@@ -8,9 +8,8 @@ search_engine_optimization:
 permalink: /compass-x/
 layout: page
 iframe:
-  title: Class Registration
-  url: >-
-    https://docs.google.com/forms/d/e/1FAIpQLSeLg9h9bcgOWAjX0v8sMyLRQL0tj3-C9guIk2s9F1yeX_eqhQ/viewform
+  title:
+  url:
   width: '2000'
   height: '1300'
 stripe:
