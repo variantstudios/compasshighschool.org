@@ -13,6 +13,8 @@ layout: default
      {% include team.html %}
   {% elsif page.url contains "community-partners" %}
      {% include sponsors.html %}
+  {% elsif page.url contains "compass-x" %}
+     {% include board.html %}
 {% endif %}
 
 {% if page.stripe.show == true %}
