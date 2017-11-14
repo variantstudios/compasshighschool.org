@@ -25,4 +25,6 @@ stripe:
 ---
 
 
-![](/assets/images/versions/2ndcompassxflierfront---x----1275-1650x---.jpg)
+Agenda for FINAL Founding Board Meeting:
+
+![](/assets/images/versions/screen-shot-2017-11-14-at-8-46-11-am---x----1602-964x---.png)
