@@ -1,6 +1,6 @@
 ---
 title: November Community Gathering
-date:
+date: 2017-11-15 16:43:37
 image_path:
 categories:
 iframe_content:
