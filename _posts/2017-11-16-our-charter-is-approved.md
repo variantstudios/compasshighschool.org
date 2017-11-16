@@ -1,6 +1,6 @@
 ---
 title: Our Charter is Approved!
-date:
+date: 2017-11-15 17:11:53
 image_path:
 categories:
 iframe_content:
