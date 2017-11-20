@@ -28,12 +28,13 @@ carousel_side_section:
   video_path: 'https://www.youtube.com/embed/CjSeH0K9PLY'
 announcements_and_events:
   content_html: >-
-    <p><strong>DECISION TIME</strong><b>: </b>PLEASE COME OUT TO SUPPORT OUR
-    CHARTER APPLICATION! JOIN US AT THE PSD BOARD OF EDUCATION MEETING ON
-    TUESDAY, <strong>NOV. 14 AT 6:30p.m. in the JSSC Building, 2407 LaPorte
-    Ave.</strong></p><p><em><strong>Next Board Meeting:</strong></em> Music
-    District Long Building (619 S.College Ave), 6-8 pm, Wed. Nov. 15,
-    2017&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+    <p>&nbsp;</p><p><strong>PARENT INFORMATION NIGHT: 6:30-7:30p, Wed., November
+    29 </strong>at the Music District Long Building, 619 South College Avenue.
+    Please come meet some of the team members and get your questions
+    answered!&nbsp;</p><p><b>Head of School Search Committee Meeting: </b>Tues.,
+    Nov. 21, 7:30p.</p><p><em><strong>Next Board Meeting:</strong></em> Music
+    District Long Building (619 S.College Ave), 6:30-8 pm, &nbsp;Monday, January
+    8, 2018</p><p>&nbsp;</p><p>&nbsp;</p>
 search_engine_optimization:
   page_title:
   page_description:
