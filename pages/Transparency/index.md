@@ -9,7 +9,7 @@ board_meetings:
   - title: 11/15/2017 - Agenda for FINAL Founding Board Meeting
     file_path: /assets/pdf/Founding_Board_of_Directors_Agenda_11_15_2017_Rev.pdf
   - title: 11/25/17 Emergency Board Meeting
-    file_path:
+    file_path: /assets/images/emergency-board-meeting-11-24.pdf
 permalink: /compass-x/
 layout: page
 iframe:
