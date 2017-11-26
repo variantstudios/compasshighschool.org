@@ -28,18 +28,17 @@ carousel_side_section:
   video_path: 'https://www.youtube.com/embed/CjSeH0K9PLY'
 announcements_and_events:
   content_html: >-
-    <p><strong>Emergency Board Meeting:</strong> 9:30a, Saturday, Nov. 25,
-    Council Tree Library 2733 Council Tree Ave #200&nbsp;</p><p><strong>PARENT
-    INFORMATION NIGHT: 6:30-7:30p, Wed., November 29 </strong>at the Music
-    District Long Building, 619 South College Avenue. Please come meet some of
-    the team members and get your questions answered!&nbsp;</p><p><strong>PARENT
-    ADVISORY COUNCIL MEETING</strong>: All enrolled parents are invited to get
-    more involved in the development of CCC. Please join us for our first PAC
-    meeting to meet others and get involved. <em>Monday, Dec. 4th, 6:30-8p at
-    the Music District Long Building, 619 S. College
-    Ave.&nbsp;</em></p><p><em><strong>Next Board Meeting:</strong></em> Music
-    District Long Building (619 S.College Ave), 6:30-8 pm, &nbsp;Monday, January
-    8, 2018</p><p>&nbsp;</p><p>&nbsp;</p>
+    <p><strong>Special Board Meeting:</strong> 6:30p, Music District Long
+    Building, 619 S. College Ave.</p><p><strong>PARENT INFORMATION NIGHT:
+    6:30-7:30p, Wed., November 29 </strong>at the Music District Long Building,
+    619 South College Avenue. Please come meet some of the team members and get
+    your questions answered!&nbsp;</p><p><strong>PARENT ADVISORY COUNCIL
+    MEETING</strong>: All enrolled parents are invited to get more involved in
+    the development of CCC. Please join us for our first PAC meeting to meet
+    others and get involved. <em>Monday, Dec. 4th, 6:30-8p at the Music District
+    Long Building, 619 S. College Ave.&nbsp;</em></p><p><em><strong>Next Board
+    Meeting:</strong></em> Music District Long Building (619 S.College Ave),
+    6:30-8 pm, &nbsp;Monday, January 8, 2018</p><p>&nbsp;</p><p>&nbsp;</p>
 search_engine_optimization:
   page_title:
   page_description:
