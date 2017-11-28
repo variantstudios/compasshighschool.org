@@ -19,11 +19,3 @@ Compass Community Collaborative School is being designed by a diverse team of ex
 ## HIRING NOW: SCHOOL LEADER
 
 ![](/assets/images/versions/1---x----1232-688x---.png)![](/assets/images/versions/2---x----1228-978x---.png)![](/assets/images/versions/3---x----1214-782x---.png)![](/assets/images/versions/4---x----1028-1062x---.png)
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-## Our Founding Board of Directors includes:
