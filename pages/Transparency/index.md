@@ -12,6 +12,8 @@ board_meetings:
     file_path: /assets/images/emergency-board-meeting-11-24.pdf
   - title: 11/27/17 Special Board Meeting
     file_path: /assets/images/board-of-directors-agenda-spec-mtg-11-27-2017.pdf
+  - title: 12/5/17 Special Board Meeting
+    file_path: /assets/images/board-of-directors-agenda-spec-mtg-12-5-2017.pdf
 permalink: /compass-x/
 layout: page
 iframe:
