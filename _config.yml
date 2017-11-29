@@ -50,6 +50,9 @@ collections:
   tags:
     output: true
     permalink: '/blog/:title/'
+  careers:
+    output: true
+    permalink: '/careers/:title/'
     
 defaults:
   -
