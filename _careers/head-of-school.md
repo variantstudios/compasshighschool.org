@@ -33,7 +33,7 @@ show: true
 
 **Key Responsibilities for Compass Community Collaborative School’s Head of School:**
 
-*Administrative Leadership*
+***Administrative Leadership***
 
 * Inspire students, families, staff and community members to achieve the mission of CCC &nbsp;by creating a welcoming, inclusive, joyful, and community-engaged school culture.
 * Lead the staff in creating a school community where people feel known, valued, and accountable for their role in helping Compass Community Collaborative School meet its mission, vision, and intended impact.
