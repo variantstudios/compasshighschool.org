@@ -10,6 +10,6 @@ layout: page
 ---
 
 
-## Our Team
+## Careers
 
-Compass Community Collaborative School is being designed by a diverse team of experienced, licensed educators, and students, business owners, nonprofit leaders, and parents in the offices at Mesh, Fort Collins’ premiere entrepreneurial business campus.
+Coming soon.
