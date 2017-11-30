@@ -1,5 +1,5 @@
 <h3>Available Careers:</h3>
- {% assign careers = site.careers  %}
+ {% assign careers = site.careers | reverse  %}
 {% for career in careers %}
     {% if career.show == true %}
         <p><a href="{{career.url}}">{{career.title}}</a></p>
