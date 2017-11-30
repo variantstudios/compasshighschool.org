@@ -63,6 +63,12 @@ defaults:
       class: single
   -
     scope:
+      type: careers
+    values:
+      layout: page
+      class: careers
+  -
+    scope:
       type: team_positions
     values:
       title:
