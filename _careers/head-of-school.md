@@ -31,9 +31,9 @@ show: true
 * Commitment and demonstrated passion for the goals and philosophy of Compass Community Collaborative School
 * Ongoing positive working relationships with the PSD Board of Education, and leadership teams of PSD, PEA, City of Fort Collins, CSU, and a wide variety of business communities in northern Colorado
 
-### Key Responsibilities for Compass Community Collaborative School’s Head of School:
+** Key Responsibilities for Compass Community Collaborative School’s Head of School: **
 
-#### Administrative Leadership
+* Administrative Leadership *
 
 * Inspire students, families, staff and community members to achieve the mission of CCC &nbsp;by creating a welcoming, inclusive, joyful, and community-engaged school culture.
 * Lead the staff in creating a school community where people feel known, valued, and accountable for their role in helping Compass Community Collaborative School meet its mission, vision, and intended impact.
@@ -45,7 +45,7 @@ show: true
 * Facilitate effective scheduling and growing enrollment.
 * Serve as non-voting member on the Board of Directors and provide formal and informal reports to the Board.
 
-### **Instructional Leadership**
+**Instructional Leadership**
 
 * Build a culture of instructional excellence and constant improvement characterized by collaborative, standards-based, data-informed, student and community-engaged instruction, and a relentless focus on increasing student learning and growth. Insure the development of rigorous, community-engaged curriculum that demonstrates deep learning by all involved.
 * Use, visualize, and share data (internal benchmarks, state mandated testing, college matriculation, college persistence, attendance, internship reviews, parent and student surveys, staff retention, etc.) to analyze program effectiveness and identify areas needing improvement. This may include data from the school’s data dashboard, standardized tests, Summit Learning Platform, ImBlaze, staff and family surveys, etc.
