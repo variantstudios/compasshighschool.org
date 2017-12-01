@@ -28,17 +28,13 @@ carousel_side_section:
   video_path: 'https://www.youtube.com/embed/CjSeH0K9PLY'
 announcements_and_events:
   content_html: >-
-    <p><strong>NOW HIRING: School Leader </strong>- see <em>About</em>, <em>Our
-    Team</em> page for more details.</p><p><strong>PARENT INFORMATION NIGHT:
-    6:30-7:30p, Wed., November 29 </strong>at the Music District Long Building,
-    619 South College Avenue. Please come meet some of the team members and get
-    your questions answered!&nbsp;</p><p><strong>PARENT ADVISORY COUNCIL
-    MEETING</strong>: All enrolled parents are invited to get more involved in
-    the development of CCC. Please join us for our first PAC meeting to meet
-    others and get involved. <em>Monday, Dec. 4th, 6:30-8p at the Music District
-    Long Building, 619 S. College Ave.&nbsp;</em></p><p><em><strong>Next Board
-    Meeting:</strong></em> Music District Long Building (619 S.College Ave),
-    7:30 pm, &nbsp;Tuesday, Dec. 5, 2017</p><p>&nbsp;</p><p>&nbsp;</p>
+    <p><strong>PARENT ADVISORY COUNCIL MEETING</strong>: All enrolled parents
+    are invited to get more involved in the development of CCC. Please join us
+    for our first PAC meeting to meet others and get involved. <em>Monday, Dec.
+    4th, 6:30-8p at the Music District Long Building, 619 S. College
+    Ave.&nbsp;</em></p><p><em><strong>Next Board Meeting:</strong></em> Music
+    District Long Building (619 S.College Ave), 6:30 pm, executive session, 7:30
+    open meeting,&nbsp; Tuesday, Dec. 5, 2017</p><p>&nbsp;</p><p>&nbsp;</p>
 search_engine_optimization:
   page_title:
   page_description:
