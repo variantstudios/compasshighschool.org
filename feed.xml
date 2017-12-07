@@ -1,0 +1,26 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" 
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	>
+	<channel>
+		<title>Compass Community Collaborative School - Blog Feed</title>
+		<link>https://compassfortcollins.org/feed.xml</link>
+		<description>Your latest Compass news</description>
+		<lastBuildDate></lastBuildDate>
+		{% for post in site.posts %}
+          {% unless post.draft %}
+            <item>
+             <title>{{ post.title | xml_escape }}</title>
+             <description>{{ post.content | xml_escape }}</description>
+             <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+             <link>{{ post.url | prepend: site.url }}</link>
+             <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+           </item>
+         {% endunless %}
+        {% endfor %}
+	</channel>
+</rss>
