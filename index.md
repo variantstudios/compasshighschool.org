@@ -30,8 +30,9 @@ announcements_and_events:
   content_html: >-
     <p><strong>PARENT ADVISORY COUNCIL MEETING</strong>: All enrolled parents
     are invited to get more involved in the development of CCC. Please join us
-    for our 2nd PAC meeting to meet others and get involved.
-    <em>Monday,&nbsp;</em></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+    for our 2nd PAC meeting to meet others and get involved. <em>Monday, January
+    22, 6:30p at The Music
+    District</em></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 search_engine_optimization:
   page_title:
   page_description:
@@ -42,3 +43,5 @@ layout: front
 _comments:
   video_path: 'For example: https://www.youtube.com/embed/CjSeH0K9PLY'
 ---
+
+
