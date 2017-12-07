@@ -31,8 +31,9 @@ announcements_and_events:
     <p><strong>PARENT ADVISORY COUNCIL MEETING</strong>: All enrolled parents
     are invited to get more involved in the development of CCC. Please join us
     for our 2nd PAC meeting to meet others and get involved. <em>Monday, January
-    22, 6:30p at The Music
-    District</em></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+    22, 6:30p at The Music District</em></p><p><em>Stay tuned for more
+    information on Parent Information
+    meetings!</em></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 search_engine_optimization:
   page_title:
   page_description:
