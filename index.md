@@ -43,10 +43,10 @@ announcements_and_events:
     District, 619 S. College Ave.</em></p><p><span style="font-size:12pt"><span
     style="font-family:&quot;Times New Roman&quot;,serif">The interviews for the
     Compass Community Collaborative Head of School position have been set.&nbsp;
-    The interviews will take place at:</span></span></p><p class="MsoBodyText"
-    style="margin:0in 0in 0.0001pt 5pt"><span style="font-size:12pt"><span
-    style="font-family:&quot;Times New Roman&quot;,serif">No
-    Barriers</span></span></p><p class="MsoBodyText"
+    The interviews will take place Dec. 19, 2017 at:</span></span></p><p
+    class="MsoBodyText" style="margin:0in 0in 0.0001pt 5pt"><span
+    style="font-size:12pt"><span style="font-family:&quot;Times New
+    Roman&quot;,serif">No Barriers</span></span></p><p class="MsoBodyText"
     style="margin-right:335.0pt; margin:0in 0in 0.0001pt 5pt"><span
     style="font-size:12pt"><span style="font-family:&quot;Times New
     Roman&quot;,serif">224 Canyon Ave. Suite 207 Fort Collins, CO 80521
