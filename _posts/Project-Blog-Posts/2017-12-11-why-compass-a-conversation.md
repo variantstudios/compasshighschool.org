@@ -10,11 +10,11 @@ search_engine_optimization:
 ---
 
 
-A Parent’s Conversation with Compass founder Jan Harrison
+<div id="a-parents-conversation-with-compass-founder-jan-harrison">A Parent&rsquo;s Conversation with Compass founder Jan Harrison -- by Brian Cooke</div>
 
-by Brian Cooke
+<div><em></em><br /><em>Agreeing to send your child to a brand new school is a daunting prospect, and it raises all sorts of questions. As a parent who&rsquo;s considering sending my daughter to Compass next year, I sat down with Compass founder Jan Harrison this week and asked her a few questions. We talked about the school, the philosophies behind it, and some practical, brick-and-mortar type questions. Here are a few of my questions, along with Jan&rsquo;s answers.</em></div>
 
-*![Photo by Charles Deluvio on Unsplash](/assets/images/versions/charles-deluvio-456505---x----2908-980x---.jpg)*<br>*Agreeing to send your child to a brand new school is a daunting prospect, and it raises all sorts of questions. As a parent who’s considering sending my daughter to Compass next year, I sat down with Compass founder Jan Harrison this week and asked her a few questions. We talked about the school, the philosophies behind it, and some practical, brick-and-mortar type questions. Here are a few of my questions, along with Jan’s answers.*
+*![Photo by Charles Deluvio on Unsplash](/assets/images/versions/charles-deluvio-456505---x----2908-980x---.jpg)*
 
 ---
 
