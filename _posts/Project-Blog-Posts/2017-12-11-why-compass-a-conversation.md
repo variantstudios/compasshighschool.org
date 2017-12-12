@@ -16,7 +16,13 @@ search_engine_optimization:
 
 <div><em></em><em></em><br /><em>Agreeing to send your child to a brand new school is a daunting prospect, and it raises all sorts of questions. As a parent who&rsquo;s considering sending my daughter to Compass next year, I sat down with Compass founder Jan Harrison this week and asked her a few questions. We talked about the school, the philosophies behind it, and some practical, brick-and-mortar type questions. Here are a few of my questions, along with Jan&rsquo;s answers.</em></div>
 
+&nbsp;
+
+&nbsp;
+
 ---
+
+&nbsp;
 
 **Hi Jan. So what’s Compass Community Collaborative School all about?**
 
