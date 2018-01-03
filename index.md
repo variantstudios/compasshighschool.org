@@ -30,19 +30,24 @@ announcements_and_events:
   content_html: >-
     <p><strong>OPEN ENROLLMENT ENDS JANUARY 19! Use our easy enrollment form on
     the website to enroll your child(ren) today. Students entering 6th-10th
-    grade are eligible.&nbsp;</strong></p><p><em>Parent Information and Taste of
-    Compass: Currently registered families will join us on Monday, January 8,
-    2018 from 5-6:30p at the Music District Long Building, 619 S. College
-    Ave.&nbsp;</em><strong>THIS EVENT IS FULL, Parents, please JOIN US ON THE
-    15TH! (see below)</strong></p><p><em><strong>PARENT INFORMATION
-    MEETING:</strong> Monday, January 15, 2018 at the downtown Poudre River
-    District Library from 6:30-8p. Kids are always welcome, but we will not have
-    a separate breakout activity for them on this
-    evening.</em></p><p><strong>PARENT ADVISORY COUNCIL MEETING</strong>: All
-    enrolled parents are invited to get more involved in the development of CCC.
-    Please join us for our 2nd PAC meeting to meet others and get involved.
-    <em>Monday, January 22, 6:30p at The Music District, 619 S. College
-    Ave.</em></p><p>&nbsp;</p>
+    grade are eligible. If we have more than 185 students enrolled, we may have
+    to conduct a lottery on January 22. If your child(ren) are enrolled through
+    our website, we will call you on January 19 to ask you register to
+    officially claim your space. We will email you the registration form at that
+    time.</strong></p><p><em>Parent Information and Taste of Compass: Currently
+    registered families will join us on Monday, January 8, 2018 from 5-6:30p at
+    the Music District Long Building, 619 S. College Ave.&nbsp;</em><strong>THIS
+    EVENT IS FULL, Parents, please JOIN US ON THE 15TH! (see
+    below)</strong></p><p><em><strong>PARENT INFORMATION MEETING:</strong>
+    Monday, January 15, 2018 at the downtown Poudre River District Library from
+    6:30-8p. Kids are always welcome, but we will not have a separate breakout
+    activity for them on this evening.</em></p><p><strong>PARENT ADVISORY
+    COUNCIL MEETING</strong>: All enrolled parents are invited to get more
+    involved in the development of CCC. Please join us for our 2nd PAC meeting
+    to meet others and get involved. <em>Monday, January 22, 6:30p at The Music
+    District, 619 S. College Ave.</em></p><p><em><strong>Compass Board
+    Meeting</strong>: January 8, 2018 at the Music District Long Building, 619
+    S. College Ave. 6:30-8p.</em></p><p>&nbsp;</p>
 search_engine_optimization:
   page_title:
   page_description:
