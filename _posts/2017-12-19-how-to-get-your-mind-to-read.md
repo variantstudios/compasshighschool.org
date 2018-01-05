@@ -1,6 +1,6 @@
 ---
 title: How to Get Your Mind to Read
-date: 2019-01-04 11:33:00
+date: 2018-01-04 11:33:00
 image_path: 
 categories:
 iframe_content:
