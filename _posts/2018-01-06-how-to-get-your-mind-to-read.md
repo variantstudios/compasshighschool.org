@@ -1,5 +1,5 @@
 ---
-title: How to Get Your Mind to Read new
+title: How to Get Your Mind to Read
 date: 2018-01-06 00:00:00
 image_path:
 categories:
