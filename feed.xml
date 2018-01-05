@@ -11,14 +11,7 @@ layout: null
 		<title>Compass Community Collaborative School - Blog Feed</title>
 		<link>https://compassfortcollins.org/feed.xml</link>
 		<description>Your latest Compass news</description>
-		<pubDate>
-		    {% for post in site.posts limit:1 %}
-          {% unless post.draft %}
-		    Tue, 16 Sep 2010 15:55:58 +0000
-		    {{ post.date | date_to_rfc822 }}
-		     {% endunless %}
-        {% endfor %}
-		    </pubDate>
+		<pubDate>{% for post in site.posts limit:1 %}{% unless post.draft %}{{ post.date | date_to_rfc822 }}{% endunless %}{% endfor %}</pubDate>
 		<atom:link href="https://compassfortcollins.org/feed.xml" rel="self" type="application/rss+xml" />
 		{% for post in site.posts %}
           {% unless post.draft %}
