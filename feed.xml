@@ -10,7 +10,7 @@ layout: null
 		<title>Compass Community Collaborative School - Blog Feed</title>
 		<link>https://compassfortcollins.org/feed.xml</link>
 		<description>Your latest Compass news</description>
-		<lastBuildDate></lastBuildDate>
+		
 		{% for post in site.posts %}
           {% unless post.draft %}
             <item>
