@@ -5,12 +5,13 @@ layout: null
 <rss version="2.0" 
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
 	>
-	<channel xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
 		<title>Compass Community Collaborative School - Blog Feed</title>
 		<link>https://compassfortcollins.org/feed.xml</link>
 		<description>Your latest Compass news</description>
-		
+		<atom:link href="https://compassfortcollins.org/feed.xml" rel="self" type="application/rss+xml" />
 		{% for post in site.posts %}
           {% unless post.draft %}
             <item>
