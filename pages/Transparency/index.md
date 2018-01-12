@@ -16,6 +16,8 @@ board_meetings:
     file_path: /assets/images/board-of-directors-agenda-spec-mtg-12-5-2017.pdf
   - title: 01/08/18 Board Meeting
     file_path: /assets/images/Board of Directors Agenda 1_8_2018.pdf
+  - title: 01/15/18 Special Board Meeting
+    file_path: /assets/images/board-of-directors-agenda-1-15-2018.docx
 permalink: /compass-x/
 layout: page
 iframe:
