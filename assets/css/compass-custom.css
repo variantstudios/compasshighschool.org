@@ -790,17 +790,24 @@ div#mc_embed_signup {
   background-color: #000!important;
 }
 
+.board {
+  display: flex;
+}
 
 .board ul {
-    -webkit-column-count: 2;
+    /* -webkit-column-count: 2;
     -moz-column-count: 2;
     column-count: 2;
     -webkit-column-gap: 1em;
     -moz-column-gap: 1em;
-    column-gap: 1em;
+    column-gap: 1em; */
     padding: 0;
+    margin: 1rem 1rem 0 0;
     list-style-type: none;
 }
 .board ul li {
   list-style: none;
+}
+.board-wrapper {
+  flex: 1;
 }
