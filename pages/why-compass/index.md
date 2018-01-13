@@ -106,8 +106,6 @@ Partnering with families is part of what will make our climate and culture excep
 
 *One of our highest priorities at Compass is to take care of our families; we welcome ideas and opportunities to make your student’s success a family affair.*
 
-&nbsp;
-
 ## Registering Students NOW!
 
 Compass Community Collaborative School’s intended opening date is August, 2018. We will be accepting students going into 6th through 10th grade only for our inaugural year. If you are interested in enrolling your student please visit our website and complete the “SIGN UP FOR PARENTS” form at [https://compassfortcollins.org/](https://compassfortcollins.org/)
