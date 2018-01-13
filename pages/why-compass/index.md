@@ -24,8 +24,6 @@ The mission of Compass Community Collaborative School is to help students discov
 
 Our future ready school is being designed by a diverse team of educators, students, artists, parents, business owners, and community leaders in an entrepreneurial business incubator where we are embedding secondary education into real world problem solving and meaningful work.
 
-&nbsp;
-
 &nbsp; With the help and expertise of a “360 Team” (made up of a teacher, family member, and community mentor) our students, ages 11-19, will earn academic credit in state and international academic standards and digital badges in eight skill areas as they work on community-engaged ventures that inspire deep learning of academic, social emotional, and future ready skills. At Compass, we see collaborative &nbsp;design, research, and problem solving as a game changer for how adolescents view their place in our community, and how the community views the capacities of our youth. Opposed to the current model where kids spend everyday in a building separate from the “real world”, we will have adolescents working in multi-age, interdisciplinary teams, and side-by-side with community members to actively participate in the creation of our future. Individualized and competency-based, students will be challenged every day to grow and to demonstrate their learning in a multitude of real-world applications.
 
 ![](/assets/images/versions/yay---x----4032-3024x---.jpg)
