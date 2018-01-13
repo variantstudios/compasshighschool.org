@@ -5,7 +5,7 @@ header_image: /assets/images/img-2811.jpg
 search_engine_optimization:
   page_title: CompassX
   page_description:
-board_meetings:
+board_agenda:
   - title: 11/15/2017 - Agenda for FINAL Founding Board Meeting
     file_path: /assets/pdf/Founding_Board_of_Directors_Agenda_11_15_2017_Rev.pdf
   - title: 11/25/17 Emergency Board Meeting
@@ -18,6 +18,10 @@ board_meetings:
     file_path: /assets/images/Board of Directors Agenda 1_8_2018.pdf
   - title: 01/15/18 Special Board Meeting
     file_path: /assets/images/011518-board-of-directors-special-meeting-agenda.pdf
+board_minutes:
+  - title: Coming soon
+    file_path: 
+
 permalink: /compass-x/
 layout: page
 iframe:
