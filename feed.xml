@@ -11,9 +11,9 @@ layout: null
 		<title>Compass Community Collaborative School - Blog Feed</title>
 		<link>https://compassfortcollins.org/feed.xml</link>
 		<description>Your latest Compass news</description>
-		<pubDate>{% for post in site.posts | sort:"date" limit:1 %}{% unless post.draft %}{{ post.date | date_to_rfc822 }}{% endunless %}{% endfor %}</pubDate>
+		<pubDate>{% assign postz = site.posts | sort:'date' | reverse %}{% for post in postz limit:1 %}{% unless post.draft %}{{ post.date | date_to_rfc822 }}{% endunless %}{% endfor %}</pubDate>
 		<atom:link href="https://compassfortcollins.org/feed.xml" rel="self" type="application/rss+xml" />
-		{% for post in site.posts | sort:"date" %}
+		{% assign postz = site.posts | sort:'date' | reverse %}{% for post in postz%}
           {% unless post.draft %}
             <item>
              <title>{{ post.title | xml_escape }}</title>
