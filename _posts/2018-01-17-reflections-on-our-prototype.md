@@ -1,6 +1,6 @@
 ---
 title: Reflections on our Prototype
-date:
+date: 2018-01-17 16:41:00
 image_path:
 categories:
 iframe_content:
