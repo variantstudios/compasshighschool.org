@@ -30,10 +30,9 @@ announcements_and_events:
   content_html: >-
     <p><strong>OPEN ENROLLMENT ENDS JANUARY 19! Use our easy enrollment form on
     the website to enroll your child(ren) today. Students entering 6th-10th
-    grade are eligible. If we have more than 185 students enrolled, we may have
-    to conduct a lottery on January 22. If your child(ren) are enrolled through
-    our website, we will call you on January 19 to ask you register to
-    officially claim your space. We will email you the registration form at that
+    grade are eligible. If your child(ren) are enrolled through our website, we
+    will call you on January 19 to ask you register to officially claim your
+    space. We will email you the registration form at that
     time.</strong></p><p><strong>PARENT INFORMATION MEETING:</strong> Thursday,
     February 22, 2018 at the Downtown Poudre River Public Library from
     6:30-8p.&nbsp;<em>Kids are always welcome, but we will not have a separate
@@ -46,7 +45,8 @@ announcements_and_events:
     Center, 200 Matthews Street.</strong> This event is part of Fort Collins
     Start Up Week and will be tech focused. Come check out the drone racing,
     play with virtual reality headsets, and robot obstacle
-    courses!&nbsp;&nbsp;</p><p>&nbsp;</p>
+    courses!&nbsp;&nbsp;</p><p><strong>Next CCC Board Meeting,</strong> February
+    5, 2018, 6:30-8p.</p>
 search_engine_optimization:
   page_title:
   page_description:
