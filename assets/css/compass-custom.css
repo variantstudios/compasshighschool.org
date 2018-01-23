@@ -591,10 +591,17 @@ transition: right .5s ease-in;
 }
 }
 
+@media only screen and (max-width: 694px) {
+div#google_translate_element { 
+  display: none;
+}
+}
+
 @media only screen and (min-width: 1000px) {
   div#google_translate_element {
     float: right;
-      margin-right: 3em;
+    display: block;
+      margin-right: 2em;
       margin-top: -10px;
   }
 }
@@ -810,4 +817,15 @@ div#mc_embed_signup {
 }
 .board-wrapper {
   flex: 1;
+}
+a.espanol {
+  float: right;
+  color: #49314d;
+  margin-top: -6px;
+  margin-right: 3rem;
+}
+@media only screen and (max-width: 694px) {
+  a.espanol {
+    float: none;
+  }
 }
