@@ -18,10 +18,11 @@ board_agenda:
     file_path: /assets/images/Board of Directors Agenda 1_8_2018.pdf
   - title: 01/15/18 Special Board Meeting
     file_path: /assets/images/011518-board-of-directors-special-meeting-agenda.pdf
+  - title: 01/24/18 Special Board Meeting Agenda
+    file_path: /assets/images/special-meeting-board-of-directors-agenda-1-24-2018.pdf
 board_minutes:
   - title: Coming soon
-    file_path: 
-
+    file_path:
 permalink: /compass-x/
 layout: page
 iframe:
