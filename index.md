@@ -37,7 +37,7 @@ announcements_and_events:
     6:30-8p.&nbsp;<em>Kids are always welcome, but we will not have a separate
     breakout activity for them on this evening.</em></p><p><strong>PARENT
     ADVISORY COUNCIL MEETING</strong>: All enrolled parents are invited to get
-    more involved in the development of CCC. Please join us for our 2nd PAC
+    more involved in the development of CCC. Please join us for our 3rd PAC
     meeting to meet others and get involved. <em>Monday, Feb.5, 2018, 6:30p at
     The Music District, 619 S. College Ave. We look forward to seeing
     you!</em></p><p><strong>Next "Taste of Compass" event: Friday, March 2, 2018
