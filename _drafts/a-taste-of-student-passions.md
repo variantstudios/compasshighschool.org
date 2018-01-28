@@ -12,6 +12,10 @@ search_engine_optimization:
 
 ![](/assets/images/versions/fullsizeoutput-5f0---x----2250-3000x---.jpeg)
 
+***If interested in taking part in the next "Taste of Compass", please join us at The Community Creative Center (200 Mathews St.) on March 2nd (6:30-8:00 pm).&nbsp; This event is part of Fort Collins Start Up Week and will be technology-focused.&nbsp; Come check out drone racing, virtual reality, robot obstacle courses and more!&nbsp; No RSVP required. This event is for Compass families as well as families interested in possibly joining us in future years. Hope to see you there.***
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 On January 8th, CCCS held the 2nd "Taste of Compass", an opportunity for interested families and students to get an idea of what education looks like in our model.&nbsp; While parents and guardians participated in a Q&A with Compass team members, a group of 30 prospective students (primarily 5th and 6th graders with several older students taking part) worked with staff members to brainstorm their personal interests and begin to explore how their passions could lead to interdisciplinary projects.&nbsp; Here's some of what students came up with:
 
 * Scooters
