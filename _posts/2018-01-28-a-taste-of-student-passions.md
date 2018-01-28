@@ -1,6 +1,6 @@
 ---
 title: A Taste of Student Passions
-date:
+date: 2018-01-28 15:17:19
 image_path:
 categories:
 iframe_content:
