@@ -20,6 +20,8 @@ board_agenda:
     file_path: /assets/images/011518-board-of-directors-special-meeting-agenda.pdf
   - title: 01/24/18 Special Board Meeting Agenda
     file_path: /assets/images/special-meeting-board-of-directors-agenda-1-24-2018.pdf
+  - title: 2/5/18 Board Meeting Agenda
+    file_path: /assets/images/020518-board-meeting-agenda.pdf
 board_minutes:
   - title: Coming soon
     file_path:
