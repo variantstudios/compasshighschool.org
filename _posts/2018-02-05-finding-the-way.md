@@ -12,7 +12,7 @@ search_engine_optimization:
 
 **Two Parents Describe Why They’ve Chosen Compass<br>*By Brian Cooke***
 
-![](/assets/images/versions/fullsizeoutput-5f9---x----3207-1320x---.jpeg)
+![Photo by Jamie Taylor on Unsplash](/assets/images/versions/fullsizeoutput-5f9---x----3207-1320x---.jpeg)
 
 &nbsp;
 
