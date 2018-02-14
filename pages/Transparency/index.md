@@ -21,7 +21,9 @@ board_agenda:
   - title: 01/24/18 Special Board Meeting Agenda
     file_path: /assets/images/special-meeting-board-of-directors-agenda-1-24-2018.pdf
   - title: 2/5/18 Board Meeting Agenda
-    file_path: /assets/images/020518-board-meeting-agenda.pdf
+    file_path: /assets/images/board-of-directors-agenda-rev-2-5-2018.pdf
+  - title: 2/15/18 Special Board Meeting
+    file_path: /assets/images/2-15-18-special-meeting-board-of-directors.docx
 board_minutes:
   - title: Coming soon
     file_path:
@@ -43,5 +45,4 @@ stripe:
     There was an issue with your payment. Please try again or contact us for
     help.
 ---
-
 
