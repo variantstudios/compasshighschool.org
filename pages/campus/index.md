@@ -27,7 +27,7 @@ Be on the lookout for big improvement to the inside and outside of our building!
 
 ![](/assets/images/versions/ccc-big-things-are-coming---x----1500-1500x---.jpg)
 
-&nbsp;
+![](/assets/images/versions/ccc-big-things-are-coming-1---x----1500-1500x---.jpg)
 
 &nbsp;
 
