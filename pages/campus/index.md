@@ -1,7 +1,7 @@
 ---
 title: Campus
 sub_title: What do you think of when you think of a school building?
-header_image: /assets/images/masterplan4.png
+header_image: /assets/images/masterplan5.png
 search_engine_optimization:
   page_title: Campus
   page_description: What do you think of when you think of a school building?
