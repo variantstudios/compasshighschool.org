@@ -12,7 +12,7 @@ layout: null
 		<link>https://compassfortcollins.org/feed-test.xml</link>
 		<description>Your latest Compass news</description>
 		<pubDate>{% assign postz = site.posts | sort:'date' | reverse %}{% for post in postz limit:1 %}{% unless post.draft %}{{ post.date | date_to_rfc822 }}{% endunless %}{% endfor %}</pubDate>
-		<atom:link href="https://compassfortcollins.org/feed.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://compassfortcollins.org/feed-test.xml" rel="self" type="application/rss+xml" />
 		{% assign postz = site.posts | sort:'date' | reverse %}{% for post in postz%}
           {% unless post.draft %}
             <item>
