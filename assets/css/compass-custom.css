@@ -546,7 +546,7 @@ transition: right .5s ease-in;
 #page-header-wrap .container * {
      color: #fff !important;
      text-shadow: 1px 1px 5px rgba(0,0,0,0.5);
-    align-self: flex-end;
+    /*align-self: flex-end;*/
     margin-bottom: 15px;
 }
     #page-header-wrap .container .subheader {
