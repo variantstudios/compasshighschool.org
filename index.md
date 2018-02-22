@@ -4,7 +4,7 @@ home_header:
   subtitle: >-
     We are not the box in which your child has to fit. 
 
-    Innovative, student-centered education for out-of-the-box students entering
+    Innovative, student-centered education for out of the box students entering
     grades 6-10 in 2018. Register now!
   image_path: /assets/images/parcel-575623-960-720.png
   call_to_action_text: Enrolling Now!
