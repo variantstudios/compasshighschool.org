@@ -1,9 +1,11 @@
 ---
 home_header:
   title: Compass Community Collaborative School
-  subtitle: |-
-    We are not the box your child has to fit in. 
-    Opening for students entering grades 6-10 in 2018. Register now!
+  subtitle: >-
+    We are not the box in which your child has to fit. 
+
+    Innovative, student-centered education for out-of-the-box students entering
+    grades 6-10 in 2018. Register now!
   image_path: /assets/images/parcel-575623-960-720.png
   call_to_action_text: Enrolling Now!
   call_to_action_link_path: '/parents/#iframe'
