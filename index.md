@@ -4,7 +4,7 @@ home_header:
   subtitle: >-
     A free, public charter school built by the community, for the community.
     Opening for students entering grades 6-10 in 2018. Register now!
-  image_path: /assets/images/maddi-lilly-final.jpg
+  image_path: /assets/images/parcel-575623-960-720.png
   call_to_action_text: Enrolling Now!
   call_to_action_link_path: '/parents/#iframe'
 carousel:
