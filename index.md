@@ -1,8 +1,8 @@
 ---
 home_header:
   title: Compass Community Collaborative School
-  subtitle: >-
-    A free, public charter school built by the community, for the community.
+  subtitle: |-
+    We are not the box your child has to fit in. 
     Opening for students entering grades 6-10 in 2018. Register now!
   image_path: /assets/images/parcel-575623-960-720.png
   call_to_action_text: Enrolling Now!
