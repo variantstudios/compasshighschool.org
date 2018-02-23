@@ -2,7 +2,7 @@
 home_header:
   title: Compass Community Collaborative School
   subtitle: >-
-    We are not the box in which your child has to fit. 
+    We are NOT the box in which your child has to fit. 
 
     Innovative, student-centered education for out of the box brilliance
     entering grades 6-10 in 2018. Register now!
