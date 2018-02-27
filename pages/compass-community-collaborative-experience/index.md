@@ -12,9 +12,16 @@ layout: default
 permalink: /compass-community-collaborative-experience/
 ---
 
-
 ![](/assets/images/versions/ccc---day-in-the-life---web---x----1300-4713x---.jpg)
 
-![](/assets/images/versions/levels-of-autonomy---web---x----1300-3186x---.jpg)
+## What does this look like in a daily schedule?
+
+## It looks healthy for families and kids:
+
+## ![](/assets/images/versions/school-day-schedule---x----1302-860x---.png)
+
+### Students aren't grouped by age into grade levels at Compass, they grow through Levels of Autonomy by demonstrating competency in academic and life skills:
+
+### ![](/assets/images/versions/levels-of-autonomy---web---x----1300-3186x---.jpg)
 
 &nbsp;
