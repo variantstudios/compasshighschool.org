@@ -17,6 +17,4 @@ I was so fortunate yesterday to bear witness to the students of PSD so powerfull
 
 The most compelling reason for my joining Compass was the chance to co-create a school with a culture of caring, trust, and respect so critical to learning and to safety. At each step in our development, I have been heartened that we are quite naturally becoming a restorative school – built around a core value of love. The commitment we have all shown and shared to mutual respect, creating and sustaining healthy relationships, and personal responsibility has convinced me that our students will believe that we care deeply about them both as uniquely important people and as capable learners. We are a community that naturally embodies social and emotional intelligence and practice patterns that not only prevent conflict and misunderstanding but also quickly move to solve the same. I look forward to facilitating a process of continued learning and growth among us that continues to build on our knowledge/skills, and intentional practice of SEL and Restorative Practices in Schools, so that we can best model and support the same in our Compass students and families.&nbsp;
 
-&nbsp;
-
 Pamela Barker, MA, PT<br>Social-Emotional Specialist<br>Compass Community Collaborative School
