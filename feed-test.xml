@@ -19,7 +19,7 @@ layout: null
              <title>{{ post.title | xml_escape }}</title>
              <description>
                  <![CDATA[
-                 {{ post.content | truncatewords: 4, "..." }}
+                 {{ post.content | truncatewords: 200, "..." }}
                  ]]>
               </description>
              <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
