@@ -19,7 +19,7 @@ layout: null
              <title>{{ post.title | xml_escape }}</title>
              <description>
                  <![CDATA[
-                 {{ post.content | truncatewords: 200, "..." }}
+                 {{ post.content | truncatewords: 200, "..." | replace: 'img src="/assets', 'img src="https://compassfortcollins.org/assets' }}
                  ]]>
               </description>
              <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
