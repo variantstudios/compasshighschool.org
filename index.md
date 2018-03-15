@@ -1,6 +1,6 @@
 ---
 home_header:
-  title: Compass Community Collaborative School
+  title:
   subtitle:
   image_path: /assets/images/screen-shot-2018-03-14-at-2-06-25-pm.png
   call_to_action_text: Enrolling Now!
