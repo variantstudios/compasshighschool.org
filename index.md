@@ -1,8 +1,8 @@
 ---
 home_header:
-  title:
-  subtitle:
-  image_path: /assets/images/screen-shot-2018-03-14-at-2-06-25-pm.png
+  title: Compass Community Collaborative School
+  subtitle: Genius in Midtown Fort Collins
+  image_path: /assets/images/ccc-big-things-are-coming-2.jpg
   call_to_action_text: Enrolling Now!
   call_to_action_link_path: '/parents/#iframe'
 carousel:
