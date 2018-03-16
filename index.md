@@ -2,7 +2,7 @@
 home_header:
   title:
   subtitle:
-  image_path: /assets/images/compass-school-find-your-genius.jpg
+  image_path: /assets/images/compass-school-find-your-genius2.png
   call_to_action_text: Enrolling Now!
   call_to_action_link_path: '/parents/#iframe'
 carousel:
