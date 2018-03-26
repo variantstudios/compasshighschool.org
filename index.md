@@ -39,7 +39,11 @@ announcements_and_events:
     meeting to meet others and get involved. <em>Monday, April 2, 2018, 6:30p at
     The Music District, 619 S. College Ave. We look forward to seeing
     you!</em></p><p><strong>Next CCC Board Meeting,</strong>&nbsp;Monday, April
-    2, 2018, 6:30-8p at the Music District, 619 S. College Ave.</p>
+    8, 2018, 6:30-8p at the Music District, 619 S. College
+    Ave.</p><p><strong>Create Your Own Superhero Day</strong>, April 7, 12p at
+    Gryphon Games and Comics. Fun for all ages!</p><p>STEM Conference at CSU for
+    girls in grades 6-8 on April 14. Register<a href="__notset__">
+    here&nbsp;</a> and look for our table to say hello!</p>
 search_engine_optimization:
   page_title:
   page_description:
