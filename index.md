@@ -29,7 +29,7 @@ announcements_and_events:
     <p><strong>ENROLL TODAY: Use our easy enrollment form on the website to
     enroll your child(ren) today. Students entering 6th-10th grade are eligible.
     If your child(ren) are enrolled through our website, we will email you to
-    ask you register to officially claim your
+    ask you to register to officially claim your
     space.&nbsp;</strong></p><p><strong>PARENT INFORMATION MEETING:</strong>
     Wednesday, April 11, from 6:30-8p at the downtown Poudre River
     Library.&nbsp;<em>Kids are always welcome, but we will not have a separate
