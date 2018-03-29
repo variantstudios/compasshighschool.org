@@ -1,6 +1,6 @@
 ---
 title: The Compass Campus
-date:
+date: 2018-03-29 20:23:37
 image_path:
 categories:
 iframe_content:
