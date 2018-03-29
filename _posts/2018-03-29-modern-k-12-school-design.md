@@ -9,7 +9,7 @@ search_engine_optimization:
   page_description:
 ---
 
-[![](/assets/images/edutopia-k-12-design-pic.webp)](https://www.edutopia.org/article/architecture-ideal-learning-environments)
+![](/assets/images/deerfield-hs-pic.jpg)
 
 As we get closer to the opening of Compass in August, we wanted to share some of the rationale for our campus design.&nbsp; We believe that school culture is everything.&nbsp; One of the most important components of culture is the design of the physical space you occupy.&nbsp; Spaces that encourage collaboration, transparency and technology are paramount.&nbsp; Spaces that invite kids to be themselves and support the school's educational model is just as important.
 
