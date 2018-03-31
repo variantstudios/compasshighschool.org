@@ -6,10 +6,7 @@
   image_path: /assets/images/sponsors/vs-1.png
 - name: Mesh Campus Fort Collins
   link:
-  image_path: /assets/images/mesh-resize.jpg
-- name: Daniels Fund
-  link: 'https://http://www.danielsfund.org/'
-  image_path: /assets/images/df-logo-horizontal-color.jpg
+  image_path:
 - name: Colorado State University Writing Project
   link: 'http://www.csuwritingproject.net/'
   image_path: /assets/images/Screen Shot 2017-07-26 at 1.36.47 PM.png
@@ -18,4 +15,4 @@
   image_path: /assets/images/logo-nobarriers-usa.png
 - name: Azimuth Creative Solutions
   link: 'https://www.f6s.com/azimuthcreativesolutions'
-  image_path: /assets/images/1171394-th1.jpg
+  image_path:
