@@ -9,6 +9,8 @@ search_engine_optimization:
   page_description:
 ---
 
+![](blob:https://app.cloudcannon.com/8e7bc91d-636d-49c5-a214-aa551a1c7668)
+
 It’s official!! Compass Community Collaborative School is a No Barriers School! Many of you came out this week to hear Erik Weihenmayer, the founder of [No Barriers](https://www.nobarriersusa.org/), speak at the [CSU Author Series](https://lib.colostate.edu/about/news-events/author-series/) about his incredibly inspiring life of adventure, personal growth, and his continued quest to elevate others. Throughout his talk about his life and experiences of climbing Everest and [kayaking through the Grand Canyon as a blind man](http://www.touchthetop.com/our-products-0), he shared characteristics of himself and a personal philosophy that aligned beautifully with the design of Compass…preparation, passionate exploration, purposeful learning, optimism, working hard, playing hard, learning from failure and near misses, reflection and iteration, innovation, camaraderie, and collaboration.
 
 It was exciting to hear Erik announce our partnership to a large, local crowd and to begin imagining our collaboration to unite our missions:
