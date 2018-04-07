@@ -1,5 +1,5 @@
 ---
-title: 'Experienced, Talented Educators Opening Compass'
+title: 'Experienced, talented educators are set for Compass'' first year'
 sub_title: >-
   Passionate, student-centered educators are bringing an innovative model of
   secondary education to Fort Collins!
