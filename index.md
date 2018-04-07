@@ -39,14 +39,15 @@ announcements_and_events:
     April 7, 12p at Gryphon Games and Comics. Fun for all
     ages!</p><p><strong>STEM Conference at CSU for girls in grades 6-8 on April
     14.</strong> Register at the Expanding Your Horizons website and look for
-    our table to say hello!</p><p><strong>Building Open House- 5-7p, April 21st.
-    </strong>Stop by for a look at our building that has been gutted and is now
-    getting started in it's reformation into a big, open, bright and beautiful
-    learning space. We will be grilling, so drop by to catch the vision and a
-    burger!</p><p><span style="font-size: 0.95em; letter-spacing:
-    0.01rem;"><strong>MALL COLLAGE -April 28th</strong>&nbsp;come help us create
-    art at the Foothills Fashion Mall to let us know what you think education
-    should look like. We will be there 11a-5p.&nbsp;</span></p>
+    our table to say hello!</p><p><strong>Building Open House - 5-7p, April
+    21st. </strong>Stop by for a look at our building (2105 S. College Ave.)
+    that has been gutted and is now getting started in its reformation into a
+    big, open, bright and beautiful learning space. We will be grilling, so drop
+    by to catch the vision and a burger!</p><p><span style="font-size: 0.95em;
+    letter-spacing: 0.01rem;"><strong>MALL COLLAGE -April
+    28th</strong>&nbsp;come help us create art at the Foothills Fashion Mall to
+    let us know what you think education should look like. We will be there
+    11a-5p.&nbsp;</span></p>
 search_engine_optimization:
   page_title:
   page_description:
