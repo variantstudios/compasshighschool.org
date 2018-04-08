@@ -37,7 +37,7 @@ I am an educational psychologist and trainer in Emotional Intelligence (EI) and 
 
 I am certified with Six Seconds Emotional Intelligence Network to deliver the Self-Science and EQ Matters curricula and SEI Emotional Intelligence Assessments and with the Yale Center for Emotional Intelligence to deliver the Anchors of Emotional Intelligence curriculum. I hold an alternative dispute resolution/mediation certificate with Mediators without Borders, am trained in Restorative Dialogue, and am an advanced facilitator of Restorative Justice practices. My research explores the intersection of SEL, Restorative Justice, and Transformational Learning.
 
-**Katie Malone, M.Ed. Science Teacher**
+**Katie Malone, M.Ed. Team Member**
 
 Having been in education for 12 years, I take my teaching philosophy from my ecology background: All of our destinies are intertwined and, as such, we all play a role in creating our best possible future. &nbsp;I have extensive experience in a variety of educational programs, from outdoor education, special education, AVID and Discovery to the International Baccalaureate Program, both Middle Years and Diploma. This work has pushed me to believe that all students are brilliant- they just need an atmosphere and community that recognizes that. &nbsp;Over the past few years, in designing and teaching Project-based Learning science courses, I’ve come to realize that it’s time for educators to change their perspective and begin to help kids find their voice and passions. We are all stronger when our students are empowered to be active citizens in their community and pushed to realize their potential, both as students and teachers. &nbsp;That is our purpose at Compass Community Collaborative School.
 
