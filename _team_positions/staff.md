@@ -1,5 +1,5 @@
 ---
 title: Staff
-order: '1'
+order: 1
 ---
 
