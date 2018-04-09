@@ -1,4 +1,5 @@
 ---
-title: 'Executive Team'
-order: 2
+title:
+order:
 ---
+
