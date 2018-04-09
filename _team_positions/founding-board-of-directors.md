@@ -1,4 +1,5 @@
 ---
-title: 'Founding Board of Directors'
-order: 1
+title: Board of Directors
+order: 2
 ---
+
