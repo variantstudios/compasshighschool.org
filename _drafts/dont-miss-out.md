@@ -28,7 +28,7 @@ This is likely the only year we will *not* have a lottery for admission. We alre
 
 * Sat. April 14th, *Expanding your Horizons*, CSU Biology Building, 9:00a-12:00p. [Click here for more info.](https://thecollaborative.colostate.edu/program_events/april-14-expanding-horizons-noco/)
 * Sat. April 21st, *[Construction Site](/campus/) Open House*, 2105 S. College Ave (just north of Whole Foods), 5:00-7:00p. Stop by to have a bite from the grill, meet and ask questions of Compass Staff and Families and see the future home of Compass before it gets all prettied up!
-* Sat. April 28th, *Foothills Fashion Mall ArtAttack*, 11:00a-5:00p. Come by to talk and art (yes, that’s a verb) about what school could look like if your could design it yourself *(hint: it looks a lot like Compass!)*.
+* Sat. April 28th, *Foothills Fashion Mall ArtAttack*, 11:00a-5:00p. Come by to talk and art (yes, that’s a verb) about what school could look like if you could design it yourself *(hint: it would look a lot like Compass!)*.
 
 We also have ongoing events through the spring and summer for registered students, so registrations on our [website](https://compassfortcollins.org) today and join us!
 
