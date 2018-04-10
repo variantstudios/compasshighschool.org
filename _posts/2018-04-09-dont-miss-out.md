@@ -9,7 +9,7 @@ search_engine_optimization:
   page_description:
 ---
 
-![](/assets/images/eye-pic.jpg)
+![Pencil drawing by an anonymous Physics major from Princeton. (http://applesloveorangespdx.blogspot.com/2010/10/6-8th-identity-unit-ideas.html)](/assets/images/eye-pic.jpg)
 
 If you want to gauge the temperature, poke around the edges, or dip your toes in the water before diving in, please join us at one of the upcoming Compass Community Collaborative School events this spring. At any and all of these events, your family will have the opportunity to meet Compass staff members and other enrolled and interested families. You will see, first hand, the quality of the educational program being offered by our award-winning team, and you will have the opportunity to register your child(ren) for 6th-10th grade beginning next school year.
 
