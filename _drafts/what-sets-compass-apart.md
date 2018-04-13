@@ -1,7 +1,7 @@
 ---
 title: What sets Compass apart?
 date:
-image_path:
+image_path: /assets/images/compass-school-find-your-genius2.png
 categories:
 iframe_content:
 search_engine_optimization:
