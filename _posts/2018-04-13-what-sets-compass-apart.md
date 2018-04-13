@@ -1,6 +1,6 @@
 ---
 title: What sets Compass apart?
-date:
+date: 2018-04-13 21:50:23
 image_path: /assets/images/compass-school-find-your-genius2.png
 categories:
 iframe_content:
@@ -15,7 +15,7 @@ search_engine_optimization:
 
 ### Students develop enthusiasm for learning by doing purposeful work in the real world.
 
-Compass students will be design thinkers and entrepreneurs because their interests, strengths, and passions will be at the heart of everything they do. They will work in multi-age teams with their classmates and our master teachers at Compass on hands-on “venture projects” that tap their curiosity and address community needs. They will network with university experts, Fort Collins professionals, and community partners to solve real problems in innovative ways. What sets Compass apart from traditional schools?
+Compass students will be design thinkers and entrepreneurs because their interests, strengths, and passions will be at the heart of everything they do. They will work in multi-age teams with their classmates and our master teachers at Compass on hands-on “venture projects” that tap their curiosity and address community needs. They will network with university experts, Fort Collins professionals, and community partners to solve real problems in innovative ways.&nbsp;
 
 &nbsp;
 
@@ -39,4 +39,4 @@ Learning shouldn’t be confined to the typical 8-3 school schedule, nine months
 
 ### Equity matters for everyone.
 
-Even though Fort Collins prides itself on being the Choice City, the truth is that the same privileges aren’t equally available to everyone who lives here. Compass will be a place of belonging where students from every population can receive the resources and support they need. Compass students be learners and leaders who create a more just and peaceful world.
+Even though Fort Collins prides itself on being the Choice City, the truth is that the same privileges aren’t equally available to everyone who lives here. Compass will be a place of belonging where students from every population can receive the resources and support they need. Compass students will be learners and leaders who create a more just and peaceful world.
