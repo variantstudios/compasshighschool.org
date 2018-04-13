@@ -17,6 +17,8 @@ search_engine_optimization:
 
 Compass students will be design thinkers and entrepreneurs because their interests, strengths, and passions will be at the heart of everything they do. They will work in multi-age teams with their classmates and our master teachers at Compass on hands-on “venture projects” that tap their curiosity and address community needs. They will network with university experts, Fort Collins professionals, and community partners to solve real problems in innovative ways. What sets Compass apart from traditional schools?
 
+&nbsp;
+
 *At Compass we believe that…*
 
 ### Learning happens everywhere.
