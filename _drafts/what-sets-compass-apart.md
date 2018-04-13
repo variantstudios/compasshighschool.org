@@ -9,6 +9,8 @@ search_engine_optimization:
   page_description:
 ---
 
+&nbsp;
+
 *At Compass we believe that...*
 
 ### Students develop enthusiasm for learning by doing purposeful work in the real world.
