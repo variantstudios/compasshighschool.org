@@ -23,7 +23,7 @@ Compass students will be design thinkers and entrepreneurs because their interes
 
 ### Learning happens everywhere.
 
-Our building is being renovated now into an exciting center for learning located at 2015 S. College Avenue, right on the MAX line near Whole Foods. Our building will serve as students’ home base, but their actual campus will be the City of Fort Collins…and the world! They will ride the Max to CSU for their science classes, learn in outdoor open spaces nearby, travel to Old Town to collaborate with business owners and community leaders, and participate in national and international partnerships.
+Our building is being renovated now into an exciting center for learning located at 2105 S. College Avenue, right on the MAX line near Whole Foods. Our building will serve as students’ home base, but their actual campus will be the City of Fort Collins…and the world! They will ride the Max to CSU for their science classes, learn in outdoor open spaces nearby, travel to Old Town to collaborate with business owners and community leaders, and participate in national and international partnerships.
 
 &nbsp;
 
