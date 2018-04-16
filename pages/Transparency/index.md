@@ -31,6 +31,14 @@ board_agenda:
 board_minutes:
   - title: 01/08/18 Board Meeting Minutes
     file_path: /assets/images/compass-bod-minutes-010818.docx
+  - title: 01/15/18 Board Special Meeting Minutes
+    file_path: /assets/images/compass-bod-special-meeting-minutes-011518.docx
+  - title: 01/24/18 Board Special Meeting Minutes
+    file_path: /assets/images/compass-bod-special-meeting-minutes-012418.docx
+  - title: 02/05/18 Board Meeting Minutes
+    file_path: /assets/images/compass-bod-minutes-020518.docx
+  - title: 03/05/18 Board Meeting Minutes
+    file_path: /assets/images/compass-bod-030518.docx
 permalink: /compass-x/
 layout: page
 iframe:
