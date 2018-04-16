@@ -29,8 +29,8 @@ board_agenda:
   - title: 4/9/18 Board Meeting
     file_path: /assets/images/board-of-directors-agenda-4-9-2018.pdf
 board_minutes:
-  - title: Coming soon
-    file_path:
+  - title: 01/08/18 Board Meeting Minutes
+    file_path: /assets/images/compass-bod-minutes-010818.docx
 permalink: /compass-x/
 layout: page
 iframe:
