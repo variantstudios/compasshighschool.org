@@ -1,105 +1,48 @@
 --- 
 layout: default 
 ---
-<div class="container main-content">
-  <div class="row heading-title" data-header-style="default">
-    <div class="col span_12 section-title blog-title">
-      <h1 class="entry-title">{{ page.title }}</h1>
 
-      <div id="single-below-header">
-        <span class="meta-date date updated">{{ page.date | date: "%a, %b %d, %Y" }}</span> 
-        {% for cat in page.categories %}
-        <span class="meta-category"><a href="{{ cat | prepend: '/blog/categories/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a></span>
-        {% endfor %}
-      </div>
-      <!--/single-below-header-->
-
-    </div>
-    <!--/section-title-->
-  </div>
-  <!--/row-->
-
-
-
-  <div class="row">
-
-    <div id="post-area" class="col span_9">
-      <article id="post-673" class="regular post type-post status-publish format-standard has-post-thumbnail">
-        <div class="inner-wrap animated">
-          <div class="post-content">
-            <div class="content-inner">
-              <img src="{{ page.image_path }}" />
-
-              {% if page.iframe_content %}
-                   <div class="videoWrapper">
-                    {{ page.iframe_content }}
-                  </div>
-                {% endif %}
-
-              {{ content }}
-            </div>
-              <!-- Pagination -->
-    <nav id="pagination"  class="clearfix" role="navigation">
-      {% if page.previous %}
-      <div class="prev"><a href="{{ page.previous.url }}" class="" title="{{ page.previous.title }}">Older</a></div>
-      {% endif %}
-      {% if page.next %}
-        <div class="next"><a href="{{ page.next.url }}" class="" title="{{ page.next.title }}">Newer</a></div>
-      {% endif %}
-    </nav>
-            <!--/content-inner-->
-          </div>
-          <!--/post-content-->
+<section class="blog-wrapper wrap">
+    <div class="blog-item clearfix">
+        <p>
+            <a href="/blog/">
+                < Back to all blogs</a>
+        </p>
+        <div class="left-image">
+            {% if page.image_path %}
+            <img src="{{ page.image_path }}" alt="{{ page.title }}"> {% endif %}
         </div>
-        <!--/inner-wrap-->
-      </article>
-      <!--/article-->
-
-
+        <div class="right-blog">
+            <a href="{{ post.url }}">
+                <h3>{{ page.title }}</h3>
+            </a>
+            <p>posted {{ page.date | date: "%a, %b %d, %Y" }}</p>
+            {% for cat in page.categories %}
+            <p class="category-label">Category: <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a></p>
+            {% endfor %} {% if page.tags %}
+            <ul class="tags">
+                <li>Tags:</li>
+                {% for tag in page.tags %}
+                <li class="tag-label"><a href="{{ tag | prepend: '/blog/tag/' | append: '/' }}">{{ tag | replace: '-', ' ' | capitalize }}</a></li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+            {{ content }}
+        </div>
     </div>
-    <!--/span_9-->
-
-
-    <div id="sidebar" class="col span_3 col_last">
-
-      <div id="categories-2" class="widget widget_categories">
-        <h4>Categories</h4>
-        <ul>
-          {% for category in site.categories %}
-          <li class="cat-item "><a href="{{category.url}}" title="{{category.title}}">{{category.title}}</a></li>
-          {% endfor %}
+    <nav class="pagination" role="navigation">
+        <ul class="pager">
+            {% if page.previous.url %}
+            <li class="previous left">
+                <a class="prev" href="{{page.previous.url}}">&laquo; {{ page.previous.title | truncate: 50 }}</a> {% endif %} {% if page.next.url %}
+            </li>{% endif %} {% if page.next.url %}
+            <li class="next right">
+                <a class="next" href="{{page.next.url}}">{{ page.next.title | truncate: 50 }} &raquo;</a>
+            </li>
         </ul>
-      </div>
-
-
-      <div class="post widget">
-        <h4>Blog Archive</h4>
-        <ul>
-          {% for post in site.posts %} {% unless post.next %}
-          <h3>{{ post.date | date: '%Y %b' }}</h3>
-          {% else %} {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %} {% capture nyear %}{{ post.next.date | date:
-          '%Y %b' }}{% endcapture %} {% if year != nyear %}
-          <h3>{{ post.date | date: '%Y %b' }}</h3>
-          {% endif %} {% endunless %}
-
-          <li>
-            <a href="{{ post.url }}">{{ post.title }}</a><br>
-            <span class="post-side-date">{{ post.date | date: "%a, %b %d, %Y" }}</span> 
-          </li>
-          {% endfor %}
+        {% endif %}
         </ul>
-      </div>
-
-
-
-    </div>
-    <!--/sidebar-->
-
-
-
-  </div>
-  <!--/row-->
-
-</div>
-
-<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us14.list-manage.com","uuid":"f92353bb4e553c0be87c16d55","lid":"e734d5f916"}) })</script>
+    </nav>
+    <!-- /.pagination -->
+    {% include comments.html %}
+</section>
