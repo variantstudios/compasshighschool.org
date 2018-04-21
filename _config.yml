@@ -19,15 +19,13 @@ plugins:
 # Pagination V2 Settings: https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 pagination:
   enabled: true
-  per_page: 8
-  #permalink: '/blog/:num/'
+  per_page: 9
+  permalink: '/:num/'
   title: ':title - page :num'
   limit: 0
-  sort_field: 'title'
-  #sort_reverse: false
-  # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
+  sort_field: 'date'
+  sort_reverse: true
   debug: true
-  # The default document collection to paginate if nothing is specified ('news' is default)
   collection: 'posts'
 
 # Permalinks
@@ -68,6 +66,8 @@ defaults:
     scope:
       type: posts
     values:
+      layout: post
+      class: single post
       _options:
         image_path: # Front matter field
           uploads_dir: "assets/images/posts/"

@@ -1,7 +1,7 @@
 .menu {
     padding: 0;
     margin: 0;
-    font-family: $heading-font-family;
+    font-family: $font-secondary;
     font-size: 1em;
     @include breakpoint($bp-medium, $no-query: '.no-mq') {
         text-align: right;
@@ -17,11 +17,11 @@
             padding: .75em 1em;
         }
         a {
-            font-weight: 700;
+            font-weight: 500;
             transition: color .5s ease;
             padding: 0;
             display: block;
-            color: #000;
+            color: $color-four;
             text-transform: uppercase;
             &:hover {
                 color: $color-one;
