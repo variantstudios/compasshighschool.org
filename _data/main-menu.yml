@@ -1,4 +1,5 @@
 - text: About
+  url: /about/
   subitems:
     - text: Why Compass
       url: /why-compass/
@@ -13,6 +14,7 @@
     - text: Our Team
       url: /our-team/
 - text: Involvement
+  url: /involvement/
   subitems:
     - text: Parents
       url: /parents/

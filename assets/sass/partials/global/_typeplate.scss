@@ -1,27 +1,73 @@
+@font-face {
+    font-family: 'Teko';
+    src: url('/assets/fonts/teko-medium-webfont.woff2') format('woff2'), url('/assets/fonts/teko-medium-webfont.woff') format('woff'), url('/assets/fonts/teko-medium-webfont.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/assets/fonts/montserrat-black-webfont.woff2') format('woff2'), url('/assets/fonts/montserrat-black-webfont.woff') format('woff'), url('/assets/fonts/montserrat-black-webfont.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/assets/fonts/montserrat-bold-webfont.woff2') format('woff2'), url('/assets/fonts/montserrat-bold-webfont.woff') format('woff'), url('/assets/fonts/montserrat-bold-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/assets/fonts/montserrat-medium-webfont.woff2') format('woff2'), url('/assets/fonts/montserrat-medium-webfont.woff') format('woff'), url('/assets/fonts/montserrat-medium-webfont.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Abhaya Libre';
+    src: url('/assets/fonts/abhayalibre-extrabold-webfont.woff2') format('woff2'), url('/assets/fonts/abhayalibre-extrabold-webfont.woff') format('woff'), url('/assets/fonts/abhayalibre-extrabold-webfont.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Abhaya Libre';
+    src: url('/assets/fonts/abhayalibre-regular-webfont.woff2') format('woff2'), url('/assets/fonts/abhayalibre-regular-webfont.woff') format('woff'), url('/assets/fonts/abhayalibre-regular-webfont.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
 // $BaseType
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
 $font-weight: normal;
 $line-height: 1.65;
 $mobile-font-size: 100;
 $mobile-font-base: 16 * ($mobile-font-size/100);
-$font-size: 100; // percentage value (16 * 112.5% = 18px)
-$font-base: 17 * ($font-size/100); // converts our percentage to a pixel value
-$font-family: serif; // Place your body font here, replace fallbacks as needed
-$heading-font-family: sans-serif; // Place your heading font here, replace fallbacks as needed
-
+$font-size: 112.5; // percentage value (16 * 112.5% = 18px)
+$font-base: 16 * ($font-size/100); // converts our percentage to a pixel value
+$font-family: 'Montserrat',
+sans-serif;
+$font-secondary: 'Teko',
+sans-serif;
+$heading-font-family: 'Abhaya Libre',
+serif;
 // $Paragraphs
 $indent-val: 1.5em;
-
 // Paragraph Styling Boolean
 $paragraph-vertical-whitespace: false;
-
 // $Icon-Font-Helper
 $icon-fonts: null;
-
 // $Pull-Quotes
 $pull-quote-fontsize: 4em;
 $pull-quote-opacity: 0.5;
 $pull-quote-color: #dc976e;
-
 // $Citation
 $cite-display: block;
 $cite-text-align: right;

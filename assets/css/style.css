@@ -1,4 +1,3 @@
-/* validation Colors */
 .clearfix:before, .clearfix:after {
   display: table;
   content: "";
@@ -7,14 +6,55 @@
   clear: both;
 }
 
+@font-face {
+  font-family: 'Teko';
+  src: url("/assets/fonts/teko-medium-webfont.woff2") format("woff2"), url("/assets/fonts/teko-medium-webfont.woff") format("woff"), url("/assets/fonts/teko-medium-webfont.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url("/assets/fonts/montserrat-black-webfont.woff2") format("woff2"), url("/assets/fonts/montserrat-black-webfont.woff") format("woff"), url("/assets/fonts/montserrat-black-webfont.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url("/assets/fonts/montserrat-bold-webfont.woff2") format("woff2"), url("/assets/fonts/montserrat-bold-webfont.woff") format("woff"), url("/assets/fonts/montserrat-bold-webfont.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url("/assets/fonts/montserrat-medium-webfont.woff2") format("woff2"), url("/assets/fonts/montserrat-medium-webfont.woff") format("woff"), url("/assets/fonts/montserrat-medium-webfont.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Abhaya Libre';
+  src: url("/assets/fonts/abhayalibre-extrabold-webfont.woff2") format("woff2"), url("/assets/fonts/abhayalibre-extrabold-webfont.woff") format("woff"), url("/assets/fonts/abhayalibre-extrabold-webfont.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Abhaya Libre';
+  src: url("/assets/fonts/abhayalibre-regular-webfont.woff2") format("woff2"), url("/assets/fonts/abhayalibre-regular-webfont.woff") format("woff"), url("/assets/fonts/abhayalibre-regular-webfont.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 html {
-  font: normal 100%/1.65 serif;
+  font: normal 112.5%/1.65 "Montserrat", sans-serif;
   -webkit-text-size-adjust: 100%;
   /* Prevent font scaling in landscape while allowing user zoom */
 }
 
 body {
-  color: #3D3D3D;
+  color: #4D4D4F;
 }
 
 p {
@@ -73,24 +113,16 @@ h6 {
     font-size: 1em;
   }
 }
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin: 16px 0;
   line-height: 1.3;
-  color: #272727;
-  font-family: sans-serif;
-}
-
-.page-title {
-  margin-bottom: 0;
-  text-transform: uppercase;
-  color: #545454;
-}
-
-.sub-title {
-  margin-top: 5px;
-  font-family: serif;
-  font-style: italic;
-  font-weight: normal;
+  color: #86B209;
+  font-family: "Abhaya Libre", serif;
 }
 
 a {
@@ -141,7 +173,7 @@ input[type="file"] {
           box-sizing: border-box;
   padding: 1em 1.25em;
   font-size: 100%;
-  font-family: sans-serif;
+  font-family: "Abhaya Libre", serif;
   border: 1px solid #D3D3D3;
   border-bottom: 0;
   border-radius: 0;
@@ -170,7 +202,7 @@ textarea {
   font-size: 100%;
   border: 1px solid #D3D3D3;
   border-radius: 0;
-  font-family: sans-serif;
+  font-family: "Abhaya Libre", serif;
 }
 textarea:active, textarea:focus {
   background: #fafafa;
@@ -183,14 +215,14 @@ input[type="submit"] {
   display: inline-block;
   text-decoration: none;
   text-align: center;
-  background-color: #4DA4F1;
-  border: 1px solid #1e8ced;
+  background-color: #86B209;
+  border: 1px solid #618107;
   border-radius: 2px;
   color: #fff;
   cursor: pointer;
   padding: .5em 1.25em;
   font-size: 95%;
-  font-family: sans-serif;
+  font-family: "Abhaya Libre", serif;
   -webkit-transition: all linear 0.2s;
   transition: all linear 0.2s;
   cursor: pointer;
@@ -200,11 +232,11 @@ input[type="submit"] {
   border-radius: 0;
 }
 input[type="submit"]:hover {
-  background-color: #449ff0;
+  background-color: #7fa809;
 }
 input[type="submit"]:hover {
-  background: #1e8ced;
-  border-color: #127fe0;
+  background: #618107;
+  border-color: #4f6905;
 }
 
 .btn {
@@ -216,31 +248,31 @@ input[type="submit"]:hover {
   display: block;
   text-decoration: none;
   text-align: center;
-  background-color: #4DA4F1;
-  border: 1px solid #1e8ced;
+  background-color: #86B209;
+  border: 1px solid #618107;
   border-radius: 2px;
   color: #fff;
   cursor: pointer;
   padding: .5em 1.25em;
   font-size: 95%;
-  font-family: sans-serif;
+  font-family: "Abhaya Libre", serif;
   -webkit-transition: all linear 0.2s;
   transition: all linear 0.2s;
 }
 .btn a:hover {
-  background-color: #449ff0;
+  background-color: #7fa809;
 }
 .btn a:hover {
-  background: #1e8ced;
-  border-color: #127fe0;
+  background: #618107;
+  border-color: #4f6905;
 }
 .btn a i {
   vertical-align: middle;
   padding-left: .5em;
 }
 .btn.alt a {
-  background-color: #F85655;
-  border: 1px solid #f62524;
+  background-color: #00AEEF;
+  border: 1px solid #0089bc;
   border-radius: 2px;
   color: #fff;
   cursor: pointer;
@@ -248,11 +280,11 @@ input[type="submit"]:hover {
   font-size: 95%;
 }
 .btn.alt a:hover {
-  background-color: #f84c4b;
+  background-color: #00a7e5;
 }
 .btn.alt a:hover {
-  background: #f62524;
-  border-color: #f50d0c;
+  background: #0089bc;
+  border-color: #0076a3;
 }
 
 form label {
@@ -304,7 +336,7 @@ table.sticky-enabled thead th, table.sticky-header thead th {
 ul.pager {
   margin: 1em 0 0;
   padding: 1em 0 0;
-  border-top: 1px solid #f73e3d;
+  border-top: 1px solid #009bd6;
 }
 ul.pager li {
   display: inline-block;
@@ -347,26 +379,26 @@ ul.pager li a:visited {
   display: block;
   background: #fff;
   padding: 1em 0;
-  font-family: sans-serif;
+  font-family: "Abhaya Libre", serif;
   font-weight: 700;
 }
 .sg-block .swatch.color-one {
-  background: #4DA4F1;
+  background: #86B209;
 }
 .sg-block .swatch.color-one span {
-  color: #4DA4F1;
+  color: #86B209;
 }
 .sg-block .swatch.color-two {
-  background: #F85655;
+  background: #00AEEF;
 }
 .sg-block .swatch.color-two span {
-  color: #F85655;
+  color: #00AEEF;
 }
 .sg-block .swatch.color-three {
-  background: #858585;
+  background: #ED197B;
 }
 .sg-block .swatch.color-three span {
-  color: #858585;
+  color: #ED197B;
 }
 .sg-block .main-nav, .sg-block .contact-form {
   margin-bottom: 2em;
@@ -441,7 +473,7 @@ ul.pager li a:visited {
 .menu {
   padding: 0;
   margin: 0;
-  font-family: sans-serif;
+  font-family: "Teko", sans-serif;
   font-size: 1em;
 }
 @media (min-width: 50em) {
@@ -470,16 +502,16 @@ ul.pager li a:visited {
   padding: .75em 1em;
 }
 .menu li a {
-  font-weight: 700;
+  font-weight: 500;
   -webkit-transition: color .5s ease;
   transition: color .5s ease;
   padding: 0;
   display: block;
-  color: #000;
+  color: #4D4D4F;
   text-transform: uppercase;
 }
 .menu li a:hover {
-  color: #4DA4F1;
+  color: #86B209;
 }
 .menu li a:active {
   position: relative;
@@ -506,7 +538,7 @@ ul.pager li a:visited {
     opacity: 0;
     width: 200px;
     text-align: left;
-    background: #4DA4F1;
+    background: #86B209;
     margin-bottom: -10px;
     -webkit-transition: all .1s ease-in;
     transition: all .1s ease-in;
@@ -531,7 +563,7 @@ ul.pager li a:visited {
   opacity: 0;
   width: 200px;
   text-align: left;
-  background: #4DA4F1;
+  background: #86B209;
   margin-bottom: -10px;
   -webkit-transition: all .1s ease-in;
   transition: all .1s ease-in;
@@ -711,7 +743,7 @@ form textarea {
   border-top: 2px solid #E8EBED !important;
   border-right: 2px solid #E8EBED !important;
   border-bottom: 2px solid #E8EBED !important;
-  color: #3D3D3D;
+  color: #4D4D4F;
 }
 form textarea {
   resize: none;
@@ -738,7 +770,7 @@ form .align-right {
   height: 25px;
   border-radius: 50%;
   margin-bottom: -5px;
-  border: 2px solid #4DA4F1;
+  border: 2px solid #86B209;
 }
 .blog-wrapper .right-blog ul {
   list-style: none;
@@ -748,7 +780,7 @@ form .align-right {
   display: inline-block;
 }
 .blog-wrapper .right-blog ul li.tag-label {
-  background: #4DA4F1;
+  background: #86B209;
   padding: 2px 5px;
   border-radius: 3px;
   font-size: .8rem;

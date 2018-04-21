@@ -1,7 +1,7 @@
 # Site settings
-title: "Jekyll Base"
+title: "Compass Community Collaborative School"
 email: "team@variantstudios.com"
-description: "Our base repo for jekyll-based sites that use CloudCannon"
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog/ - keep empty!
 url: "" # the base hostname & protocol for your site - don't include the forward slash
 #timezone: America/Denver - Don't set for CloudCannon...for reasons.
@@ -19,15 +19,13 @@ plugins:
 # Pagination V2 Settings: https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 pagination:
   enabled: true
-  per_page: 2
-  #permalink: '/blog/:num/'
+  per_page: 9
+  permalink: '/:num/'
   title: ':title - page :num'
   limit: 0
-  sort_field: 'title'
-  #sort_reverse: false
-  # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
+  sort_field: 'date'
+  sort_reverse: true
   debug: true
-  # The default document collection to paginate if nothing is specified ('news' is default)
   collection: 'posts'
 
 # Permalinks
@@ -57,12 +55,19 @@ collections:
     permalink: '/blog/tag/:title/'
   sg:
     output: false
+  careers:
+    output: true
+    permalink: '/careers/:title/'
+  team_positions:
+    output: false
 
 defaults:
   -
     scope:
       type: posts
     values:
+      layout: post
+      class: single post
       _options:
         image_path: # Front matter field
           uploads_dir: "assets/images/posts/"
@@ -71,6 +76,26 @@ defaults:
       type: sg
     values:
       layout: styleguide-block
+  -
+    scope:
+      type: careers
+    values:
+      layout: page
+      class: careers
+  -
+    scope:
+      type: team_positions
+    values:
+      title:
+      order:
+  -
+    scope:
+      type: categories
+    values:
+      layout: category
+      class: blog
+      pagination: 
+        enabled: true
 
 # Cloudcannon Options
 _options:
@@ -83,6 +108,9 @@ _options:
     uploads_dir: "assets/images/share"
 _comments:
   share_image_path: "The social share image needs to be at least 1200x1200px and if not that exact same size CloudCannon will scale and crop it to 1200x1200."
+
+# Cloudinary
+cloudinaryurl: 'https://res.cloudinary.com/compass-high-school/'
 
 # Google Analytics 
 google_analytics_tracking_id:
