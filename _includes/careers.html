@@ -1,7 +1,0 @@
-<h3>Available Careers:</h3>
- {% assign careers = site.careers | sort: 'posted_date' | reverse  %}
-{% for career in careers %}
-    {% if career.show == true %}
-        <p><a href="{{career.url}}">{{career.title}}</a></p>
-    {% endif %}
-{% endfor %}

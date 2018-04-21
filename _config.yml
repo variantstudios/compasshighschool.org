@@ -1,41 +1,48 @@
 # Site settings
-title: "Compass Community Collaborative School"
+title: "Jekyll Base"
 email: "team@variantstudios.com"
-description: ""
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://compassfortcollins.org" # the base hostname & protocol for your site
+description: "Our base repo for jekyll-based sites that use CloudCannon"
+baseurl: "" # the subpath of your site, e.g. /blog/ - keep empty!
+url: "" # the base hostname & protocol for your site - don't include the forward slash
 #timezone: America/Denver - Don't set for CloudCannon...for reasons.
-version: "3.1.6" # the version of jekyll
+version: "3.7.1" # the version of jekyll
 
 #CloudCannon defaults
 uploads_dir: "assets/images"
 
 # Gems for plugins
-gems:
+plugins:
   - jekyll-paginate-v2 # Needed to add paginate on Jekyll ver 3+
   - jekyll-sitemap # Simple jekyll plugin that creates a sitemap.xml file and you can exclude files by adding 'sitemap:false' to the frontmatter of any file(s).
+  - jekyll-include-cache # Cache jekyll includes to improve build times
+
+# Pagination V2 Settings: https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
+pagination:
+  enabled: true
+  per_page: 2
+  #permalink: '/blog/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'title'
+  #sort_reverse: false
+  # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
+  debug: true
+  # The default document collection to paginate if nothing is specified ('news' is default)
+  collection: 'posts'
 
 # Permalinks
 permalink: pretty
 
-# Pagination V2 Settings
-pagination:
-  enabled: true
-  per_page: 9
-  permalink: '/:num/'
-  title: ':title - page :num'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-  # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
-  debug: true
-  # The default document collection to paginate if nothing is specified ('posts' is default)
-  collection: 'posts'
-  # Optional, the default category to use, omit or just leave this as 'posts' to get a backwards-compatible behavior (all posts)
-  category: 'posts'
-
-# Cloudinary
-cloudinaryurl: 'https://res.cloudinary.com/compass-high-school/'
+# Compress HTML
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: true
+  startings: [html, head, body]
 
 #Collections
 collections:
@@ -44,52 +51,57 @@ collections:
     permalink: '/blog/:title/'
   categories:
     output: true
-    permalink: '/blog/categories/:title/'
-  team_positions:
-    output: false
+    permalink: '/blog/category/:title/'
   tags:
     output: true
-    permalink: '/blog/:title/'
-  careers:
-    output: true
-    permalink: '/careers/:title/'
-    
+    permalink: '/blog/tag/:title/'
+  sg:
+    output: false
+
 defaults:
   -
     scope:
       type: posts
     values:
-      layout: post
-      class: single
+      _options:
+        image_path: # Front matter field
+          uploads_dir: "assets/images/posts/"
   -
     scope:
-      type: careers
+      type: sg
     values:
-      layout: page
-      class: careers
-  -
-    scope:
-      type: team_positions
-    values:
-      title:
-      order:
-  -
-    scope:
-      type: categories
-    values:
-      layout: category
-      class: blog
-      pagination: 
-        enabled: true
+      layout: styleguide-block
 
-# typekit - Because we all need nice type faces.
-typekit:
+# Cloudcannon Options
+_options:
+  share_image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+    expandable: false
+    uploads_dir: "assets/images/share"
+_comments:
+  share_image_path: "The social share image needs to be at least 1200x1200px and if not that exact same size CloudCannon will scale and crop it to 1200x1200."
 
-# Google Analytics - What site isn't using it?!
-google_analytics_tracking_id: 'UA-81024453-1'
+# Google Analytics 
+google_analytics_tracking_id:
 
-exclude: ["vendor","node_modules","package.json","Gemfile","gulpfile.js","*.scss"]
-
-#social accounts
-twitter: 'compasshighfc'
-facebook_url: 'https://www.facebook.com/CompassHighSchoolFortCollins/?fref=ts'
+exclude: [
+  "collections",
+  "siteicon.png",
+  "npm-debug.log",
+  "Gemfile",
+  "Gemfile.lock",
+  "README.md",
+  "assets/**/*.md",
+  "gulpfile.js",
+  "node_modules",
+  "npm-shrinkwrap.json",
+  "package-lock.json",
+  "package.json",
+  "proofScripts.js",
+  "*.map",
+  "*.scss",
+  "assets/js/dev"
+  ]
