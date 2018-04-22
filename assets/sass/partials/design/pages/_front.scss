@@ -75,6 +75,12 @@
             font-family: $font-family;
             font-weight: 900;
         }
+        .logos {
+            display: flex;
+            .logo {
+                margin: 0 2rem;
+            }
+        }
     }
     .news-and-updates {
         display: flex;

@@ -1064,6 +1064,14 @@ form .align-right {
   font-family: "Montserrat", sans-serif;
   font-weight: 900;
 }
+.front .join-the-compass-community .logos {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.front .join-the-compass-community .logos .logo {
+  margin: 0 2rem;
+}
 .front .news-and-updates {
   display: -webkit-box;
   display: -ms-flexbox;
