@@ -1,0 +1,23 @@
+
+- text: Get Involved
+  url: /get-involved/
+  subitems:
+    - text: Community Partners
+      url: /community-partners/
+    - text: Volunteer
+      url: /volunteer/
+    - text: News and Updates
+      url: /blog/
+    - text: Contribute
+      url: /contribute/
+- text: Resources
+  url: /resources/
+  subitems:
+    - text: FAQs
+      url: /faqs/
+    - text: Transparency
+      url: /transparency/   
+    - text: Financial Transparency
+      url: /financial-transparency/
+    - text: Student Privacy
+      url: /student-privacy/

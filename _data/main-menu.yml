@@ -3,8 +3,8 @@
   subitems:
     - text: A Day in the Life
       url: /a-day-in-the-life/
-    - text: Student
-      url: /student/    
+    - text: Students
+      url: /students/    
     - text: Campus
       url: /campus/
     - text: Venture Projects
