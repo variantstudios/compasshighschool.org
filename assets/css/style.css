@@ -620,6 +620,20 @@ ul.pager li a:visited {
   margin-left: 8.33333%;
   clear: none;
 }
+.footer-wrapper .footer-inner .one .social-icons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.footer-wrapper .footer-inner .one .social-icons a {
+  margin: 0 .5rem;
+}
+.footer-wrapper .footer-inner .one .social-icons a:first-child {
+  margin-left: 0;
+}
+.footer-wrapper .footer-inner .one .social-icons a img {
+  height: 60px;
+}
 @media (min-width: 50em) {
   .footer-wrapper .footer-inner .two {
     width: 25%;
