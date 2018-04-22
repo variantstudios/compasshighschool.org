@@ -1,15 +1,36 @@
 - text: About
   url: /about/
-- text: Services
-  url: /services/
   subitems:
-    - text: Service Item 1
-      url: /#/
-    - text: Service Item 2
-      url: /#/
-    - text: Service Item 3
-      url: /#/
+    - text: Why Compass
+      url: /why-compass/
+    - text: Compass Experience
+      url: /compass-community-collaborative-experience/
+    - text: Campus
+      url: /campus/
+    - text: Research &amp; Resources
+      url: /research-resources-guiding-innovation/
+    - text: FAQs
+      url: /faqs/
+    - text: Our Team
+      url: /our-team/
+- text: Involvement
+  url: /involvement/
+  subitems:
+    - text: Parents
+      url: /parents/
+    - text: Students
+      url: /students/
+    - text: Community Partner Program
+      url: /community-partners/
+    - text: Become a Volunteer
+      url: /become-a-volunteer/
+    - text: Contribute to Compass!
+      url: '/contribute/?cfpage=project&#038;project_id=13261'
+- text: Transparency
+  url: /compass-x/
 - text: Blog
   url: /blog/
+- text: Careers
+  url: /careers/
 - text: Contact
-  url: /contact/
+  url: /contact-us/
