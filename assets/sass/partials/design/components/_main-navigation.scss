@@ -1,73 +1,80 @@
-.menu {
-    padding: 0;
-    margin: 0;
-    font-family: $font-secondary;
-    font-size: 1em;
-    @include breakpoint($bp-medium, $no-query: '.no-mq') {
-        text-align: right;
+.main-nav {
+    &>ul.menu>li:last-child {
+        padding-right: 0;
     }
-    li {
-        list-style: none;
+    .menu {
+        padding: 0;
         margin: 0;
-        display: block;
-        padding: .5em 0em;
-        position: relative;
+        font-family: $font-secondary;
+        font-size: 1em;
         @include breakpoint($bp-medium, $no-query: '.no-mq') {
-            display: inline-block;
-            padding: .75em 1em;
+            text-align: right;
         }
-        a {
-            font-weight: 500;
-            transition: color .5s ease;
-            padding: 0;
+        li {
+            list-style: none;
+            margin: 0;
             display: block;
-            color: $color-four;
-            text-transform: uppercase;
-            &:hover {
-                color: $color-one;
-            }
-            &:active {
-                position: relative;
-            }
-        }
-        // Show DropDown Menu
-        &:hover ul {
+            padding: .5em 0em;
+            position: relative;
             @include breakpoint($bp-medium, $no-query: '.no-mq') {
-                opacity: 1;
-                visibility: visible;
-                margin-top: 12px;
+                display: inline-block;
+                padding: .75em 1em;
             }
-        }
-        // DropDown Menu
-        ul {
-            padding: .4em 1em 0;
-            @include breakpoint($bp-medium, $no-query: '.no-mq') {
-                position: absolute;
-                visibility: hidden;
-                opacity: 0;
-                width: 200px;
-                text-align: left;
-                background: $color-one;
-                margin-bottom: -10px;
-                transition: all .1s ease-in;
-                padding: .3em 0;
-                li {
-                    margin: 0;
-                    padding: .45em .9em;
-                    font-size: 90%;
-                    display: block;
-                    a {
-                        color: #fff;
-                        &:hover {
+            a {
+                font-weight: 500;
+                font-size: 1.2rem;
+                transition: color .5s ease;
+                padding: 0;
+                display: block;
+                color: $color-four;
+                text-transform: uppercase;
+                &:hover {
+                    color: $color-one;
+                }
+                &:active {
+                    position: relative;
+                }
+            }
+            // Show DropDown Menu
+            &:hover ul {
+                @include breakpoint($bp-medium, $no-query: '.no-mq') {
+                    opacity: 1;
+                    visibility: visible;
+                    margin-top: 12px;
+                }
+            }
+            // DropDown Menu
+            ul {
+                padding: .4em 1em 0;
+                @include breakpoint($bp-medium, $no-query: '.no-mq') {
+                    text-align: right;
+                    right: 16px;
+                    position: absolute;
+                    visibility: hidden;
+                    opacity: 0;
+                    width: 180px;
+                    text-align: right;
+                    background: $color-one;
+                    //margin-bottom: -11px;
+                    transition: all .1s ease-in;
+                    padding: 0 0;
+                    li {
+                        margin: 0;
+                        padding: .2em .9em;
+                        display: block;
+                        a {
                             color: #fff;
+                            &:hover {
+                                color: $color-three;
+                            }
                         }
                     }
                 }
             }
         }
-    }
-    a,
-    a:visited {
-        text-decoration: none;
+        a,
+        a:visited {
+            text-decoration: none;
+        }
     }
 }

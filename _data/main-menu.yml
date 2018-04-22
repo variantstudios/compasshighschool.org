@@ -20,9 +20,6 @@
       url: /parent-resources/
 - text: Admissions
   url: /admissions/
-  subitems:
-    - text: Academics
-      url: /academics/
 - text: Our Team
   url: /our-team/
   subitems:
