@@ -10,7 +10,7 @@ iframe:
   url: 'https://docs.google.com/forms/d/e/1FAIpQLSesIEuDlrszWBtObcYACi5zkIGVbHNtzbSlcbQupavT5vBlmA/viewform?embedded=true'
   width: '2000'
   height: '1400'
-permalink: /become-a-volunteer/
+permalink: /volunteer/
 layout: page
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: Research and Resources Guiding our Innovation
+title: resources
 sub_title: 'We Keep Learning!'
 header_image: /assets/images/headers/blog.jpg
 search_engine_optimization:
-  page_title: Research and Resources Guiding our Innovation
+  page_title: resources
   page_description:
-permalink: /research-resources-guiding-innovation/
+permalink: /resources/
 layout: page
 ---
 

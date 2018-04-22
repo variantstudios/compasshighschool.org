@@ -1,11 +1,11 @@
 ---
-title: Why Compass?
-sub_title: We are charting a new course in secondary education.
+title: Venture Projects
+sub_title: 
 header_image: /assets/images/joaquin-and-boys-final-final.jpg
 search_engine_optimization:
-  page_title: Why Compass?
-  page_description: We are charting a new course in 6-12 education.
-permalink: /why-compass/
+  page_title: Venture Projects
+  page_description: 
+permalink: /venture-projects/
 layout: page
 ---
 

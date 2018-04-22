@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="72px" viewBox="0 0 55 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>waypoint</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="waypoint">
+                <path d="M24.6738021,70.5473265 C3.86289062,40.9262244 0,37.8861939 0,26.9999934 C0,12.0882627 12.3121224,0 27.5,0 C42.6878776,0 55,12.0882627 55,26.9999934 C55,37.8861939 51.1371094,40.9262244 30.3261979,70.5473265 C28.9605078,72.4842948 26.039349,72.4841542 24.6738021,70.5473265 Z M27.5,38.2499907 C33.8282943,38.2499907 38.9583333,33.2132263 38.9583333,26.9999934 C38.9583333,20.7867605 33.8282943,15.7499962 27.5,15.7499962 C21.1717057,15.7499962 16.0416667,20.7867605 16.0416667,26.9999934 C16.0416667,33.2132263 21.1717057,38.2499907 27.5,38.2499907 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

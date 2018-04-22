@@ -1,9 +1,9 @@
 ---
-title: Look Under the Hood
+title: Transparency
 sub_title: Agendas and Minutes from Board Meetings plus Financial Transparency
 header_image: /assets/images/img-2811.jpg
 search_engine_optimization:
-  page_title: CompassX
+  page_title: Transparency
   page_description:
 board_agenda:
   - title: 11/15/2017 - Agenda for FINAL Founding Board Meeting
@@ -39,8 +39,6 @@ board_minutes:
     file_path: /assets/images/compass-bod-minutes-020518.docx
   - title: 03/05/18 Board Meeting Minutes
     file_path: /assets/images/compass-bod-030518.docx
-permalink: /compass-x/
-layout: page
 iframe:
   title:
   url:
@@ -56,5 +54,7 @@ stripe:
   failure_message: >-
     There was an issue with your payment. Please try again or contact us for
     help.
+permalink: /transparency/
+layout: page
 ---
 
