@@ -5,7 +5,8 @@ body_class: front
 <div class="wrap clearfix">
     {% comment %} {{content}} {% endcomment %}
     <section class="find-your-genius">
-        <img src="/assets/images/templates/find-your-genius.png" alt="find-your-genius">
+        {% comment %} <img src="/assets/images/templates/find-your-genius.png" alt="find-your-genius"> {% endcomment %}
+         <img src="{{site.cloudinaryurl}}image/fetch/w_1528,h_549,c_fill,c_fill/{{site.url}}/assets/images/templates/find-your-genius.png" alt="find-your-genius" data-img="{{site.url}}/assets/images/templates/find-your-genius.png" data-width="1528px" data-height="549px">
     </section>
 
     <section class="secondary">
@@ -25,7 +26,7 @@ body_class: front
 
     <section class="ventue-project container-padding-medium">
         <div class="left">
-            <img src="/assets/images/front/front-venture-project.jpg" alt="Venture Project" />
+            <img src="{{site.cloudinaryurl}}image/fetch/w_416,h_416,c_fill,c_fill/{{site.url}}/assets/images/front/front-venture-project.jpg" alt="Venture Project" data-img="{{site.url}}/assets/images/front/front-venture-project.jpg" data-width="416px" data-height="416px">
         </div>
         <div class="right">
             <h2>Venture Project: Deep-Field Ecology </h2>
@@ -50,7 +51,8 @@ body_class: front
 
         </div>
         <div class="right">
-            <img src="/assets/images/front/front-that-one-teacher-video.jpg" alt="That One Teacher">
+            <img src="" alt="That One Teacher">
+            <img src="{{site.cloudinaryurl}}image/fetch/w_416,h_416,c_fill,c_fill/{{site.url}}/assets/images/front/front-that-one-teacher-video.jpg" alt="Venture Project" data-img="{{site.url}}/assets/images/front/front-that-one-teacher-video.jpg" data-width="416px" data-height="416px">
         </div>
 
     </section>
