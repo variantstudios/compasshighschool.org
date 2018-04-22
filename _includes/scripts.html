@@ -4,12 +4,10 @@
 <script type="text/javascript" src="/assets/js/prod/zepto.1.2.0.min.js"></script>
 <script type="text/javascript" src="/assets/js/prod/scripts.js"></script>
 
-
+{% if include.class == 'contact' %}
 <script type="text/javascript" src="/assets/js/prod/contact.js"></script>
 <script src='https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&render=explicit' async defer></script>
-
-
-{% if site.cloudinaryurl %}
+{% endif %} {% if site.cloudinaryurl %}
 <script src="/assets/js/prod/cloudinary.js"></script>
 {% endif %} {% if include.google_analytics_tracking_id %}
 <script src="https://cdn.jsdelivr.net/npm/ga-lite@1/dist/ga-lite.min.js" async></script>
