@@ -9,4 +9,9 @@ a.call-to-action {
     text-transform: uppercase;
     font-size: 1.5rem;
     display: inline-block;
+    transition: all 0.2s ease;
+    &:hover {
+        transform: scale(1.075);
+        box-shadow: 5px 20px 30px 0 rgba(0, 0, 0, 0.1);
+    }
 }

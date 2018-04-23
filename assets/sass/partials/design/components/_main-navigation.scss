@@ -52,12 +52,14 @@
                     position: absolute;
                     visibility: hidden;
                     opacity: 0;
-                    width: 180px;
+                    width: 200px;
                     text-align: right;
                     background: $color-one;
-                    //margin-bottom: -11px;
+                    margin-top: 1px;
                     transition: all .1s ease-in;
                     padding: 0 0;
+                    box-shadow: 5px 10px 20px 0 rgba(0, 0, 0, 0.3);
+                    border-radius: 0 0 3px 3px;
                     li {
                         margin: 0;
                         padding: .2em .9em;

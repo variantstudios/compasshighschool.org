@@ -542,12 +542,16 @@ ul.pager li a:visited {
     position: absolute;
     visibility: hidden;
     opacity: 0;
-    width: 180px;
+    width: 200px;
     text-align: right;
     background: #86B209;
+    margin-top: 1px;
     -webkit-transition: all .1s ease-in;
     transition: all .1s ease-in;
     padding: 0 0;
+    -webkit-box-shadow: 5px 10px 20px 0 rgba(0, 0, 0, 0.3);
+            box-shadow: 5px 10px 20px 0 rgba(0, 0, 0, 0.3);
+    border-radius: 0 0 3px 3px;
   }
   .main-nav .menu li ul li {
     margin: 0;
@@ -567,12 +571,16 @@ ul.pager li a:visited {
   position: absolute;
   visibility: hidden;
   opacity: 0;
-  width: 180px;
+  width: 200px;
   text-align: right;
   background: #86B209;
+  margin-top: 1px;
   -webkit-transition: all .1s ease-in;
   transition: all .1s ease-in;
   padding: 0 0;
+  -webkit-box-shadow: 5px 10px 20px 0 rgba(0, 0, 0, 0.3);
+          box-shadow: 5px 10px 20px 0 rgba(0, 0, 0, 0.3);
+  border-radius: 0 0 3px 3px;
 }
 .no-mq .main-nav .menu li ul li {
   margin: 0;
@@ -887,6 +895,15 @@ a.call-to-action {
   text-transform: uppercase;
   font-size: 1.5rem;
   display: inline-block;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+a.call-to-action:hover {
+  -webkit-transform: scale(1.075);
+      -ms-transform: scale(1.075);
+          transform: scale(1.075);
+  -webkit-box-shadow: 5px 20px 30px 0 rgba(0, 0, 0, 0.1);
+          box-shadow: 5px 20px 30px 0 rgba(0, 0, 0, 0.1);
 }
 
 form .form-super-group {
@@ -980,6 +997,9 @@ form .align-right {
   margin: 0 1rem 0 0;
   font-family: "Montserrat", sans-serif;
   font-weight: 900;
+}
+.front .curious a.call-to-action {
+  vertical-align: super;
 }
 .front .ventue-project {
   background-color: #dddfe1;
