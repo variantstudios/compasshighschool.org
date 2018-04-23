@@ -108,6 +108,7 @@
         background-color: $color-three; // Deep pink
         background: url('/assets/images/backgrounds/compass-pencils-pattern.png');
         margin: 0 0 2rem 0;
+        padding: 1rem 0 2rem 0;
         h2 {
             color: #fff;
             font-size: 2.5rem;
@@ -115,9 +116,50 @@
             font-family: $font-family;
             font-weight: 900;
             text-align: center;
+            margin-bottom: 2rem;
         }
         p {
             color: #fff;
+        }
+        .social-posts {
+            display: flex;
+            .social-post {
+                background: #fff;
+                position: relative;
+                margin: 0 1rem;
+                .social-tag {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    height: 50px;
+                    width: 50px;
+                    z-index: 2;
+                    background-color: #b9d531; // Fuego
+                    background-repeat: no-repeat;
+                    background-position: center center;
+                    background-size: 50%;
+                    padding: .5rem;
+                    &.facebook {
+                        background-image: url('/assets/images/icons/facebook2.svg');
+                        background-size: 40%;
+                    }
+                    &.instagram {
+                        background-image: url('/assets/images/icons/instagram2.svg');
+                    }
+                    &.twitter {
+                        background-image: url('/assets/images/icons/twitter2.svg');
+                    }
+                }
+                img {
+                    max-width: 366px;
+                    display: block;
+                }
+                .social-text {
+                    font-size: .7rem;
+                    color: #333333;
+                    margin: 1rem;
+                }
+            }
         }
     }
     .bottom {
