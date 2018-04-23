@@ -28,7 +28,6 @@ function fadeIn(el, display){
 
 
 
-
 if ($('body').hasClass('contact')) {
   if (queryString() === 'true') {
     //$('#contact-message').show();
@@ -46,12 +45,12 @@ if ($('body').hasClass('contact')) {
 var CaptchaCallback = function() { // eslint-disable-line no-unused-vars
   if ($('#RecaptchaField1').length) {
     grecaptcha.render('RecaptchaField1', {
-      sitekey: '6LeuZjwUAAAAANhqRiDEgtaygHtLtW8yQptaTmNB'
+      sitekey: '6LfxPSAUAAAAAHG-l97Z0Gu8nxRifPt9yTRPT-IQ'
     });
   }
   if ($('#RecaptchaField2').length) {
     grecaptcha.render('RecaptchaField2', {
-      sitekey: '6LeuZjwUAAAAANhqRiDEgtaygHtLtW8yQptaTmNB'
+      sitekey: '6LfxPSAUAAAAAHG-l97Z0Gu8nxRifPt9yTRPT-IQ'
     });
   }
 };
