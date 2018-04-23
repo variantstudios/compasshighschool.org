@@ -1,61 +1,67 @@
----
-layout: page
+--- 
+layout: page 
 pagination: 
-  enabled: true
+  enabled: true 
 ---
 <section class="blog-wrapper">
-  {% for post in paginator.posts %}
-    <article class="regular post type-post status-publish format-standard has-post-thumbnail hentry category-research masonry-blog-item clearfix">
-      <div class="inner-wrap">
+    {% for post in paginator.posts %}
+
+
+
+<article class="regular post type-post status-publish format-standard has-post-thumbnail hentry category-research masonry-blog-item clearfix">
+    <div class="inner-wrap">
         <div class="post-content">
-          <div class="content-inner">
-            <a href="{{ post.url }}" class="teaser-spot">
-              <span class="post-featured-img">
-                {% if post.image_path %}
-                <img width="500" height="298" src="{{ post.image_path }}" class="attachment-large size-large wp-post-image auto-height" alt="{{ post.title }} Pic" 
-                  title="" srcset="{{ post.image_path }} 500w, {{ post.image_path }} 300w" sizes="(max-width: 500px) 100vw, 500px">
-                {% endif %}
-                {% if post.iframe_content %}
-                   <div class="videoWrapper">
-                    {{ post.iframe_content }}
-                  </div>
-                {% endif %}
+            <div class="content-inner">
+              
+              <a href="{{ post.url }}" class="teaser-spot">
+                <span class="post-featured-img">
+                    {% if post.image_path %}
+                            <img width="500" height="298" src="{{ post.image_path }}" class="attachment-large size-large wp-post-image auto-height" alt="{{ post.title }} Pic" 
+                              title="" srcset="{{ post.image_path }} 500w, {{ post.image_path }} 300w" sizes="(max-width: 500px) 100vw, 500px">
+                    {% endif %}
+                    {% if post.iframe_content %}
+                              <div class="videoWrapper">
+                                {{ post.iframe_content }}
+                              </div>
+                    {% endif %}
                 </span>
-              </a>
-              <div class="article-content-wrap">
+            </a>
+
+            <div class="article-content-wrap">
                 <div class="post-header">
-                  <h2 class="title">
-                      <a href="{{ post.url }}">{{ post.title }}</a></h2>
+                    <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
                     {% for cat in post.categories %}
-        <span class="meta-category"><a href="{{ cat | prepend: '/blog/categories/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a></span>
-        {% endfor %}
-                </div><!--/post-header-->
-              <div class="excerpt">{{post.content | remove: '<p>' | remove: '</p>' | truncatewords: 20}}</div>
-              <a class="more-link" href="{{ post.url }}"><span class="continue-reading">Read More</span></a>						
-    </div><!--article-content-wrap-->
-    </div><div class="post-meta ">
-            <div class="date">{{ post.date | date: "%B %d, %Y" }}</div><!--/date-->
+                    <span class="meta-category"><a href="{{ cat | prepend: '/blog/categories/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a></span> 
+                    {% endfor %}
+                </div>
+                <div class="excerpt">{{post.content | remove: '<p>' | remove: '</p>' | truncatewords: 20}}</div>
+                <a class="more-link" href="{{ post.url }}"><span class="continue-reading">Read More</span></a>
+            </div>
+              
 
-          </div><!--/content-inner-->
-        </div><!--/post-content-->
-      </div><!--/inner-wrap-->
+            </div>
+            
+        </div>
+        <div class="post-meta ">
+              <div class="date">{{ post.date | date: "%B %d, %Y" }}</div>
+          </div>
+    </div>
 </article>
-  {% endfor %}
+
+
+    {% endfor %}
 </section>
- <!-- Pagination links -->
+<!-- Pagination links -->
 
-    {% if paginator.total_pages > 1 %}
-  <div id="pagination">
-      {% if paginator.previous_page %}
-          <a class="prev"  href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-      {% endif %}
-      {% if paginator.next_page %}
-          <a class="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-      {% endif %}
-  </div>
-  {% endif %}
+{% if paginator.total_pages > 1 %}
+<div id="pagination">
+    {% if paginator.previous_page %}
+    <a class="prev" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a> {% endif %} {% if paginator.next_page %}
+    <a class="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a> {% endif %}
+</div>
+{% endif %}
 
-<script src='/assets/js/masonry.pkgd.min.js'></script>
+<!-- <script src='/assets/js/masonry.pkgd.min.js'></script>
 
 <script>
   var container = document.querySelector('.blog-wrapper');
@@ -63,6 +69,15 @@ pagination:
     columnWidth: 50,
     itemSelector: '.post'
   });
-</script>
+</script> -->
 
-<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us14.list-manage.com","uuid":"f92353bb4e553c0be87c16d55","lid":"e734d5f916"}) })</script>
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+<script type="text/javascript">
+    require(["mojo/signup-forms/Loader"], function(L) {
+        L.start({
+            "baseUrl": "mc.us14.list-manage.com",
+            "uuid": "f92353bb4e553c0be87c16d55",
+            "lid": "e734d5f916"
+        })
+    })
+</script>
