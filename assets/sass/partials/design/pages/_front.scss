@@ -34,7 +34,24 @@
         }
         .right {
             h2 {
-                margin: 0;
+                color: $color-one;
+                display: inline;
+                font-size: 2.5rem;
+                margin: 0 1rem 0 0;
+                font-family: $font-family;
+                font-weight: 500;
+            }
+            h3 {
+                color: $color-one;
+                font-size: 2.5rem;
+                font-family: $font-family;
+                display: inline;
+                font-weight: 900;
+                margin: 0 0 1rem 0;
+            }
+            p a {
+                font-weight: 700;
+                text-decoration: none;
             }
             @include breakpoint($bp-medium,
             $no-query: ".no-mq") {
@@ -52,16 +69,40 @@
             $no-query: ".no-mq") {
                 @include grid-span(6, 2, $gutter: 1);
             }
+            h2 {
+                color: $color-one;
+                display: inline;
+                font-size: 2.5rem;
+                margin: 0 1rem 0 0;
+                font-family: $font-family;
+                font-weight: 900;
+            }
+            h3 {
+                color: $color-five;
+                font-family: $font-family;
+                font-weight: 700;
+            }
+            p a {
+                font-weight: 700;
+                text-decoration: none;
+            }
         }
         .right {
-            h2 {
-                margin: 0;
-            }
+            position: relative;
             @include breakpoint($bp-medium,
             $no-query: ".no-mq") {
-                @include grid-span(4,
-                8,
-                $gutter: 1);
+                @include grid-span(4, 8, $gutter: 1);
+            }
+            .play-button {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                transform-origin: 20% 40%;
+                &:hover {
+                    transform: scale(1.075) translate(-50%, -50%);
+                    box-shadow: 5px 20px 30px 0 rgba(0, 0, 0, 0.1);
+                }
             }
         }
     }
@@ -127,6 +168,12 @@
                 background: #fff;
                 position: relative;
                 margin: 0 1rem;
+                transition: all 0.2s ease;
+                text-decoration: none;
+                &:hover {
+                    transform: scale(1.05);
+                    box-shadow: 5px 10px 20px 0 rgba(0, 0, 0, 0.3);
+                }
                 .social-tag {
                     position: absolute;
                     top: 0;

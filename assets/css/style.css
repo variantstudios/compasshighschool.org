@@ -635,12 +635,21 @@ ul.pager li a:visited {
 }
 .footer-wrapper .footer-inner .one .social-icons a {
   margin: 0 .5rem;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+  text-decoration: none;
 }
 .footer-wrapper .footer-inner .one .social-icons a:first-child {
   margin-left: 0;
 }
 .footer-wrapper .footer-inner .one .social-icons a img {
   height: 60px;
+  width: 60px;
+}
+.footer-wrapper .footer-inner .one .social-icons a:hover {
+  -webkit-transform: scale(1.1);
+      -ms-transform: scale(1.1);
+          transform: scale(1.1);
 }
 @media (min-width: 50em) {
   .footer-wrapper .footer-inner .two {
@@ -708,6 +717,16 @@ ul.pager li a:visited {
   margin-left: 0;
   margin-right: 0;
   clear: none;
+}
+.footer-wrapper .footer-inner .three .right img {
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+  text-decoration: none;
+}
+.footer-wrapper .footer-inner .three .right img:hover {
+  -webkit-transform: scale(1.1);
+      -ms-transform: scale(1.1);
+          transform: scale(1.1);
 }
 .footer-wrapper .footer-inner .full {
   width: 100%;
@@ -922,6 +941,43 @@ a.call-to-action:hover {
           box-shadow: 5px 20px 30px 0 rgba(0, 0, 0, 0.1);
 }
 
+.play-button {
+  background: #ED197B;
+  border: 3px solid #fff;
+  border-radius: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 60px;
+  height: 60px;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+.play-button .arrow {
+  width: 0px;
+  height: 0px;
+  border-top: 15px solid transparent;
+  border-bottom: 15px solid transparent;
+  border-left: 20px solid #fff;
+  text-indent: 200%;
+  white-space: nowrap;
+  overflow: hidden;
+  display: block;
+}
+.play-button:hover {
+  -webkit-transform: scale(1.075);
+      -ms-transform: scale(1.075);
+          transform: scale(1.075);
+  -webkit-box-shadow: 5px 20px 30px 0 rgba(0, 0, 0, 0.1);
+          box-shadow: 5px 20px 30px 0 rgba(0, 0, 0, 0.1);
+}
+
 form .form-super-group {
   margin-top: .5rem;
 }
@@ -1043,7 +1099,24 @@ form .align-right {
   clear: none;
 }
 .front .ventue-project .right h2 {
-  margin: 0;
+  color: #86B209;
+  display: inline;
+  font-size: 2.5rem;
+  margin: 0 1rem 0 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+}
+.front .ventue-project .right h3 {
+  color: #86B209;
+  font-size: 2.5rem;
+  font-family: "Montserrat", sans-serif;
+  display: inline;
+  font-weight: 900;
+  margin: 0 0 1rem 0;
+}
+.front .ventue-project .right p a {
+  font-weight: 700;
+  text-decoration: none;
 }
 @media (min-width: 50em) {
   .front .ventue-project .right {
@@ -1081,8 +1154,25 @@ form .align-right {
   margin-left: 8.69565%;
   clear: none;
 }
-.front .that-one-teacher .right h2 {
-  margin: 0;
+.front .that-one-teacher .left h2 {
+  color: #86B209;
+  display: inline;
+  font-size: 2.5rem;
+  margin: 0 1rem 0 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+}
+.front .that-one-teacher .left h3 {
+  color: #58595B;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+.front .that-one-teacher .left p a {
+  font-weight: 700;
+  text-decoration: none;
+}
+.front .that-one-teacher .right {
+  position: relative;
 }
 @media (min-width: 50em) {
   .front .that-one-teacher .right {
@@ -1099,6 +1189,24 @@ form .align-right {
   margin-right: -100%;
   margin-left: 60.86957%;
   clear: none;
+}
+.front .that-one-teacher .right .play-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -webkit-transform-origin: 20% 40%;
+      -ms-transform-origin: 20% 40%;
+          transform-origin: 20% 40%;
+}
+.front .that-one-teacher .right .play-button:hover {
+  -webkit-transform: scale(1.075) translate(-50%, -50%);
+      -ms-transform: scale(1.075) translate(-50%, -50%);
+          transform: scale(1.075) translate(-50%, -50%);
+  -webkit-box-shadow: 5px 20px 30px 0 rgba(0, 0, 0, 0.1);
+          box-shadow: 5px 20px 30px 0 rgba(0, 0, 0, 0.1);
 }
 .front .join-the-compass-community {
   background-color: #00AEEF;
@@ -1170,6 +1278,16 @@ form .align-right {
   background: #fff;
   position: relative;
   margin: 0 1rem;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+  text-decoration: none;
+}
+.front .connect-with-compass .social-posts .social-post:hover {
+  -webkit-transform: scale(1.05);
+      -ms-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-box-shadow: 5px 10px 20px 0 rgba(0, 0, 0, 0.3);
+          box-shadow: 5px 10px 20px 0 rgba(0, 0, 0, 0.3);
 }
 .front .connect-with-compass .social-posts .social-post .social-tag {
   position: absolute;
