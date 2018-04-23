@@ -860,7 +860,9 @@ html body {
   overflow-x: hidden;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   -webkit-box-sizing: inherit;
           box-sizing: inherit;
 }
@@ -880,8 +882,22 @@ html body {
   max-width: 1600px;
 }
 
-main, header, footer, section, aside {
+main,
+header,
+footer,
+section,
+aside {
   display: block;
+}
+
+.inner-wrap {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.inner-wrap:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 a.call-to-action {
@@ -1131,6 +1147,7 @@ form .align-right {
   background-color: #ED197B;
   background: url("/assets/images/backgrounds/compass-pencils-pattern.png");
   margin: 0 0 2rem 0;
+  padding: 1rem 0 2rem 0;
 }
 .front .connect-with-compass h2 {
   color: #fff;
@@ -1139,9 +1156,52 @@ form .align-right {
   font-family: "Montserrat", sans-serif;
   font-weight: 900;
   text-align: center;
+  margin-bottom: 2rem;
 }
 .front .connect-with-compass p {
   color: #fff;
+}
+.front .connect-with-compass .social-posts {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.front .connect-with-compass .social-posts .social-post {
+  background: #fff;
+  position: relative;
+  margin: 0 1rem;
+}
+.front .connect-with-compass .social-posts .social-post .social-tag {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 50px;
+  width: 50px;
+  z-index: 2;
+  background-color: #b9d531;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 50%;
+  padding: .5rem;
+}
+.front .connect-with-compass .social-posts .social-post .social-tag.facebook {
+  background-image: url("/assets/images/icons/facebook2.svg");
+  background-size: 40%;
+}
+.front .connect-with-compass .social-posts .social-post .social-tag.instagram {
+  background-image: url("/assets/images/icons/instagram2.svg");
+}
+.front .connect-with-compass .social-posts .social-post .social-tag.twitter {
+  background-image: url("/assets/images/icons/twitter2.svg");
+}
+.front .connect-with-compass .social-posts .social-post img {
+  max-width: 366px;
+  display: block;
+}
+.front .connect-with-compass .social-posts .social-post .social-text {
+  font-size: .7rem;
+  color: #333333;
+  margin: 1rem;
 }
 .front .bottom {
   margin: 0 0 2rem 0;
