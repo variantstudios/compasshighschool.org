@@ -746,6 +746,8 @@ ul.pager li a:visited {
   color: #fff;
   text-decoration: none;
   font-weight: bold;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
 }
 .footer-wrapper .footer-inner .full p a:hover {
   color: #ED197B;
@@ -1149,18 +1151,18 @@ form .align-right {
 }
 @media (min-width: 50em) {
   .front .ventue-project .left {
-    width: 30.43478%;
+    width: 33.33333%;
     float: left;
     margin-right: -100%;
-    margin-left: 8.69565%;
+    margin-left: 8.33333%;
     clear: none;
   }
 }
 .no-mq .front .ventue-project .left {
-  width: 30.43478%;
+  width: 33.33333%;
   float: left;
   margin-right: -100%;
-  margin-left: 8.69565%;
+  margin-left: 8.33333%;
   clear: none;
 }
 .front .ventue-project .right h2 {
@@ -1185,18 +1187,18 @@ form .align-right {
 }
 @media (min-width: 50em) {
   .front .ventue-project .right {
-    width: 47.82609%;
+    width: 50%;
     float: left;
     margin-right: -100%;
-    margin-left: 43.47826%;
+    margin-left: 41.66667%;
     clear: none;
   }
 }
 .no-mq .front .ventue-project .right {
-  width: 47.82609%;
+  width: 50%;
   float: left;
   margin-right: -100%;
-  margin-left: 43.47826%;
+  margin-left: 41.66667%;
   clear: none;
 }
 .front .that-one-teacher {
@@ -1254,6 +1256,9 @@ form .align-right {
   margin-right: -100%;
   margin-left: 60.86957%;
   clear: none;
+}
+.front .that-one-teacher .right img {
+  width: 100%;
 }
 .front .that-one-teacher .right .play-button {
   position: absolute;
