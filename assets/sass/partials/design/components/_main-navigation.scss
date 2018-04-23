@@ -45,6 +45,7 @@
             }
             // DropDown Menu
             ul {
+                z-index: 4;
                 padding: .4em 1em 0;
                 @include breakpoint($bp-medium, $no-query: '.no-mq') {
                     text-align: right;

@@ -533,6 +533,7 @@ ul.pager li a:visited {
   margin-top: 12px;
 }
 .main-nav .menu li ul {
+  z-index: 4;
   padding: .4em 1em 0;
 }
 @media (min-width: 50em) {
@@ -925,13 +926,14 @@ a.call-to-action {
   background-color: #ED197B;
   border-radius: 32px;
   border: 5px solid #fff;
-  padding: 0 1.2rem 0 1.2rem;
+  padding: 0.2rem 1.2rem 0 1.2rem;
   font-family: "Teko", sans-serif;
   text-transform: uppercase;
   font-size: 1.5rem;
   display: inline-block;
   -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
+  position: relative;
 }
 a.call-to-action:hover {
   -webkit-transform: scale(1.075);
@@ -939,6 +941,7 @@ a.call-to-action:hover {
           transform: scale(1.075);
   -webkit-box-shadow: 5px 20px 30px 0 rgba(0, 0, 0, 0.1);
           box-shadow: 5px 20px 30px 0 rgba(0, 0, 0, 0.1);
+  top: -1px;
 }
 
 .play-button {
@@ -958,6 +961,7 @@ a.call-to-action:hover {
   height: 60px;
   -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
+  position: relative;
 }
 .play-button .arrow {
   width: 0px;
@@ -976,6 +980,7 @@ a.call-to-action:hover {
           transform: scale(1.075);
   -webkit-box-shadow: 5px 20px 30px 0 rgba(0, 0, 0, 0.1);
           box-shadow: 5px 20px 30px 0 rgba(0, 0, 0, 0.1);
+  top: -1px;
 }
 
 form .form-super-group {
@@ -1053,8 +1058,68 @@ form .align-right {
   text-align: right;
 }
 
+.front .find-your-genius {
+  text-align: center;
+  position: relative;
+}
+.front .find-your-genius .call-to-action {
+  position: absolute;
+  bottom: 40px;
+  z-index: 2;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+.front .find-your-genius .call-to-action:hover {
+  bottom: 39px;
+  top: auto;
+  -webkit-transform: scale(1.075) translateX(-50%);
+      -ms-transform: scale(1.075) translateX(-50%);
+          transform: scale(1.075) translateX(-50%);
+}
 .front .secondary {
   background-color: #fff;
+}
+.front .secondary h2 {
+  font-family: "Abhaya Libre", serif;
+  color: #86B209;
+  font-weight: 400;
+  font-size: 4rem;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
+.front .secondary h3 {
+  font-family: "Abhaya Libre", serif;
+  color: #00AEEF;
+  font-weight: 600;
+  font-size: 4rem;
+  margin: 0;
+  line-height: 1;
+}
+.front .secondary p {
+  font-size: 1.2rem;
+  margin: 1rem 0;
+}
+.front .secondary h4 {
+  color: #86B209;
+  display: inline;
+  font-size: 2.5rem;
+  margin: 0 1rem 0 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+}
+.front .secondary h5 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  color: #00AEEF;
+  font-size: 2rem;
+  display: inline-block;
+}
+.front .secondary a.call-to-action {
+  vertical-align: text-bottom;
+  margin: 1rem 0 0 1rem;
 }
 .front .curious {
   padding: 2.5rem 0;
@@ -1071,7 +1136,7 @@ form .align-right {
   font-weight: 900;
 }
 .front .curious a.call-to-action {
-  vertical-align: super;
+  vertical-align: text-bottom;
 }
 .front .ventue-project {
   background-color: #dddfe1;
@@ -1338,6 +1403,7 @@ form .align-right {
 
 .max-width-medium {
   max-width: 800px;
+  margin: 0 auto;
 }
 
 .container-padding-small {

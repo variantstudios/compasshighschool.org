@@ -1,9 +1,63 @@
 .front {
     .find-your-genius {
         //background-color: #b9d531; // Fuego
+        text-align: center;
+        position: relative;
+        .call-to-action {
+            position: absolute;
+            bottom: 40px;
+            z-index: 2;
+            left: 50%;
+            transform: translateX(-50%);
+            &:hover {
+                bottom: 39px;
+                top: auto;
+                transform: scale(1.075) translateX(-50%);
+            }
+        }
     }
     .secondary {
         background-color: #fff;
+        h2 {
+            font-family: $heading-font-family;
+            color: $color-one;
+            font-weight: 400;
+            font-size: 4rem;
+            margin: 0;
+            padding: 0;
+            line-height: 1;
+        }
+        h3 {
+            font-family: $heading-font-family;
+            color: $color-two;
+            font-weight: 600;
+            font-size: 4rem;
+            margin: 0;
+            line-height: 1;
+        }
+        p {
+            font-size: 1.2rem;
+            margin: 1rem 0;
+        }
+        h4 {
+            color: $color-one;
+            display: inline;
+            font-size: 2.5rem;
+            margin: 0 1rem 0 0;
+            font-family: $font-family;
+            font-weight: 900;
+        }
+        h5 {
+            font-family: $font-family;
+            font-weight: 700;
+            color: $color-two;
+            font-size: 2rem;
+            display: inline-block;
+        }
+        a.call-to-action {
+            vertical-align: text-bottom;
+            margin: 1rem 0 0 1rem;
+        }
     }
     .curious {
         padding: 2.5rem 0;
@@ -19,7 +73,7 @@
             font-weight: 900;
         }
         a.call-to-action {
-            vertical-align: super;
+            vertical-align: text-bottom;
         }
     }
     .ventue-project {
@@ -227,6 +281,7 @@
 
 .max-width-medium {
     max-width: 800px;
+    margin: 0 auto;
 }
 
 .container-padding-small {
