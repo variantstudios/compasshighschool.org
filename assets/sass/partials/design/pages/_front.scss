@@ -1,22 +1,20 @@
 .front {
     .find-your-genius {
-        //background-color: #b9d531; // Fuego
+        background-color: #fff;
         text-align: center;
         position: relative;
         animation-name: fadeIn;
         opacity: 0;
         animation-duration: 1s;
-        background: url('/assets/images/front/find-your-genius_bg.png');
-        background-position: 50% 50%;
+        background-position: top right;
+        background-repeat: no-repeat;
         animation-fill-mode: forwards;
-        /* Sets reference point to scale from */
-        background-size: cover;
-        /* Sets background image to cover entire element */
-        height: 550px;
-        margin: 0 0 2rem 0;
-        padding: 0 0 100px 0;
         overflow: hidden;
         width: 100%;
+        .find-your-genius-wrapper {
+            background: #b9d531 url('/assets/images/front/find-your-genius_bg.png');
+            height: 620px;
+        }
         .title {
             position: absolute;
             top: -190px;
@@ -24,51 +22,51 @@
             animation-name: slideDownfromLeft;
             animation-duration: 1s;
             animation-timing-function: ease;
-            animation-delay: .5s;
+            animation-delay: .2s;
             opacity: 0;
             animation-fill-mode: forwards;
         }
         .independent-learner {
             position: absolute;
-            top: -36px;
+            top: -56px;
             right: 364px;
             animation-name: slideDown;
             animation-duration: 1s;
             animation-timing-function: ease;
-            animation-delay: 1.5s;
+            animation-delay: .4s;
             opacity: 0;
             animation-fill-mode: forwards;
         }
         .future-designer {
             position: absolute;
-            bottom: -58px;
+            bottom: 10px;
             right: 170px;
             animation-name: slideUp;
             animation-duration: 1s;
             animation-timing-function: ease;
-            animation-delay: 2.5s;
+            animation-delay: .6s;
             opacity: 0;
             animation-fill-mode: forwards;
         }
         .creative-inventor {
             position: absolute;
             top: -45px;
-            right: -30px;
+            right: -55px;
             animation-name: slideRight;
             animation-duration: 1s;
             animation-timing-function: ease;
-            animation-delay: 2s;
+            animation-delay: .8s;
             opacity: 0;
             animation-fill-mode: forwards;
         }
         .call-to-action {
             position: absolute;
-            bottom: -25px;
+            bottom: 50px;
             z-index: 2;
             left: 50%;
             transform: translateX(-50%);
             &:hover {
-                bottom: -24px;
+                bottom: 51px;
                 top: auto;
                 transform: scale(1.075) translateX(-50%);
             }
@@ -245,18 +243,30 @@
         display: flex;
         .news-and-update {
             background-color: $color-one; // Citrus
-            margin: 0 1.5rem;
+            margin: 0 1rem;
             padding: .4rem .8rem;
+            width: 25%;
             h3 {
                 color: #fff;
                 font-family: $font-family;
                 font-weight: 900;
                 font-size: 1.2rem;
-                margin: 0;
+                margin: 0 0 .5rem 0;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                overflow: hidden;
             }
             h4 {
                 color: $color-three;
                 margin: 0;
+                font-size: 1.2rem;
+            }
+            img {
+                width: 100%;
+            }
+            p {
+                color: #fff;
+                font-size: .9rem;
             }
         }
     }
@@ -380,11 +390,14 @@
 
 @keyframes slideDownfromLeft {
     0% {
-        transform: translateY(-100%) translateX(-100%);
+        transform: translateY(-100%) translateX(-100%) scale(.8);
         opacity: 1;
     }
+    40% {
+        transform: translateY(5%) translateX(5%) scale(1);
+    }
     100% {
-        transform: translateY(0%) translateX(0%);
+        transform: translateY(0%) translateX(0%) scale(1);
         opacity: 1;
     }
 }
@@ -402,19 +415,19 @@
 
 @keyframes slideUp {
     0% {
-        transform: translateY(100%) translateX(100%) rotate(-360deg);
+        transform: translateY(100%) translateX(-100%) rotate(-360deg) scale(0);
         opacity: 1;
     }
     100% {
-        transform: translateY(0%) translateX(0%) rotate(0deg);
+        transform: translateY(0%) translateX(0%) rotate(0deg) scale(1);
         opacity: 1;
     }
 }
 
 @keyframes slideRight {
     0% {
-        transform: translateY(-100%) translateX(-100%) rotate(-360deg);
-        opacity: 1;
+        transform: translateY(-100%) translateX(200%) rotate(-360deg);
+        opacity: 0;
     }
     100% {
         transform: translateY(0%) translateX(0%) rotate(0deg);
