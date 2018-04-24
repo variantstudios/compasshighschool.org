@@ -5,14 +5,13 @@ body_class: front
 <div class="wrap clearfix">
     {% comment %} {{content}} {% endcomment %}
     <div class="find-your-genius">
-        {% comment %} <img src="/assets/images/templates/find-your-genius.png" alt="find-your-genius"> {% endcomment %}
-        <a href="#" class="call-to-action">Enroll Now</a>
-        <img src="/assets/images/front/find-your-genius_title.png" class="title">
-
-        <img src="/assets/images/front/independent-learner_button.png" class="independent-learner">
-        <img src="/assets/images/front/future-designer_button.png" class="future-designer">
-        <img src="/assets/images/front/creative-inventor_button.png" class="creative-inventor">
-        {% comment %} <img src="{{site.cloudinaryurl}}image/fetch/w_1528,h_549,c_fill,c_fill/{{site.url}}/assets/images/templates/find-your-genius.png" alt="find-your-genius" data-img="{{site.url}}/assets/images/templates/find-your-genius.png" data-width="1528px" data-height="549px"> {% endcomment %}
+        <div class="find-your-genius-wrapper">
+            <a href="#" class="call-to-action">Enroll Now</a>
+            <img src="/assets/images/front/find-your-genius_title.png" class="title">
+            <img src="/assets/images/front/independent-learner_button.png" class="independent-learner">
+            <img src="/assets/images/front/future-designer_button.png" class="future-designer">
+            <img src="/assets/images/front/creative-inventor_button.png" class="creative-inventor">
+        </div>
     </div>
 
     <section class="secondary">
@@ -84,35 +83,22 @@ body_class: front
     </section>
 
     <div class="news-and-updates container-padding-medium">
+        {% for post in site.posts limit:4 %}
+
         <article class="news-and-update">
-            <h3>STEM Conference at CSU for girls</h3>
+            <h3>{{post.title}}</h3>
             <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill/{{site.url}}/assets/images/rlw-uc03gwc-glenn-carstens-peters-1024x681.jpg" alt="STEM Conference at CSU for girls" data-img="{{site.url}}/assets/images/rlw-uc03gwc-glenn-carstens-peters-1024x681.jpg"
                 data-width="299px" data-height="199px">
 
-            <h4 class="date">Saturday, April 14 | 12p</h4>
-            <p>For grades 6-8. Register here and look for our table to say hello!</p>
+            <h4 class="date">{{post.date | date: "%A, %b %d %Y | %I %P" }}</h4>
+            <p>{{ post.content | markdownify | strip_html | truncatewords: 10 }}</p>
         </article>
-        <article class="news-and-update">
-            <h3>STEM Conference at CSU for girls</h3>
-            <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill/{{site.url}}/assets/images/rlw-uc03gwc-glenn-carstens-peters-1024x681.jpg" alt="STEM Conference at CSU for girls" data-img="{{site.url}}/assets/images/rlw-uc03gwc-glenn-carstens-peters-1024x681.jpg"
-                data-width="299px" data-height="199px">
-            <h4 class="date">Saturday, April 14 | 12p</h4>
-            <p>For grades 6-8. Register here and look for our table to say hello!</p>
-        </article>
-        <article class="news-and-update">
-            <h3>STEM Conference at CSU for girls</h3>
-            <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill/{{site.url}}/assets/images/rlw-uc03gwc-glenn-carstens-peters-1024x681.jpg" alt="STEM Conference at CSU for girls" data-img="{{site.url}}/assets/images/rlw-uc03gwc-glenn-carstens-peters-1024x681.jpg"
-                data-width="299px" data-height="199px">
-            <h4 class="date">Saturday, April 14 | 12p</h4>
-            <p>For grades 6-8. Register here and look for our table to say hello!</p>
-        </article>
-        <article class="news-and-update">
-            <h3>STEM Conference at CSU for girls</h3>
-            <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill/{{site.url}}/assets/images/rlw-uc03gwc-glenn-carstens-peters-1024x681.jpg" alt="STEM Conference at CSU for girls" data-img="{{site.url}}/assets/images/rlw-uc03gwc-glenn-carstens-peters-1024x681.jpg"
-                data-width="299px" data-height="199px">
-            <h4 class="date">Saturday, April 14 | 12p</h4>
-            <p>For grades 6-8. Register here and look for our table to say hello!</p>
-        </article>
+
+        {% endfor %}
+
+
+
+
     </div>
     <section class="connect-with-compass container-padding-small">
         <h2>Connect with Compass</h2>

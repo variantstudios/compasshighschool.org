@@ -701,7 +701,7 @@ ul.pager li a:visited {
   clear: none;
 }
 .footer-wrapper .footer-inner .three .right {
-  text-align: center;
+  text-align: left;
 }
 @media (min-width: 50em) {
   .footer-wrapper .footer-inner .three .right {
@@ -851,7 +851,7 @@ header.siteheader .espanol-link a:hover {
 }
 
 .wrap {
-  max-width: 1600px;
+  max-width: 100%;
   margin: 0 auto;
   padding: 0 2em;
 }
@@ -890,7 +890,7 @@ html body {
 }
 
 .wrap {
-  max-width: 1600px;
+  max-width: 100%;
   margin: 0 auto;
 }
 .wrap:after {
@@ -901,7 +901,7 @@ html body {
 
 .site-wrapper {
   margin: 0 auto;
-  max-width: 1600px;
+  max-width: 100%;
 }
 
 main,
@@ -1061,6 +1061,7 @@ form .align-right {
 }
 
 .front .find-your-genius {
+  background-color: #fff;
   text-align: center;
   position: relative;
   -webkit-animation-name: fadeIn;
@@ -1068,18 +1069,16 @@ form .align-right {
   opacity: 0;
   -webkit-animation-duration: 1s;
           animation-duration: 1s;
-  background: url("/assets/images/front/find-your-genius_bg.png");
-  background-position: 50% 50%;
+  background-position: top right;
+  background-repeat: no-repeat;
   -webkit-animation-fill-mode: forwards;
           animation-fill-mode: forwards;
-  /* Sets reference point to scale from */
-  background-size: cover;
-  /* Sets background image to cover entire element */
-  height: 550px;
-  margin: 0 0 2rem 0;
-  padding: 0 0 100px 0;
   overflow: hidden;
   width: 100%;
+}
+.front .find-your-genius .find-your-genius-wrapper {
+  background: #b9d531 url("/assets/images/front/find-your-genius_bg.png");
+  height: 620px;
 }
 .front .find-your-genius .title {
   position: absolute;
@@ -1091,15 +1090,15 @@ form .align-right {
           animation-duration: 1s;
   -webkit-animation-timing-function: ease;
           animation-timing-function: ease;
-  -webkit-animation-delay: .5s;
-          animation-delay: .5s;
+  -webkit-animation-delay: .2s;
+          animation-delay: .2s;
   opacity: 0;
   -webkit-animation-fill-mode: forwards;
           animation-fill-mode: forwards;
 }
 .front .find-your-genius .independent-learner {
   position: absolute;
-  top: -36px;
+  top: -56px;
   right: 364px;
   -webkit-animation-name: slideDown;
           animation-name: slideDown;
@@ -1107,15 +1106,15 @@ form .align-right {
           animation-duration: 1s;
   -webkit-animation-timing-function: ease;
           animation-timing-function: ease;
-  -webkit-animation-delay: 1.5s;
-          animation-delay: 1.5s;
+  -webkit-animation-delay: .4s;
+          animation-delay: .4s;
   opacity: 0;
   -webkit-animation-fill-mode: forwards;
           animation-fill-mode: forwards;
 }
 .front .find-your-genius .future-designer {
   position: absolute;
-  bottom: -58px;
+  bottom: 10px;
   right: 170px;
   -webkit-animation-name: slideUp;
           animation-name: slideUp;
@@ -1123,8 +1122,8 @@ form .align-right {
           animation-duration: 1s;
   -webkit-animation-timing-function: ease;
           animation-timing-function: ease;
-  -webkit-animation-delay: 2.5s;
-          animation-delay: 2.5s;
+  -webkit-animation-delay: .6s;
+          animation-delay: .6s;
   opacity: 0;
   -webkit-animation-fill-mode: forwards;
           animation-fill-mode: forwards;
@@ -1132,22 +1131,22 @@ form .align-right {
 .front .find-your-genius .creative-inventor {
   position: absolute;
   top: -45px;
-  right: -30px;
+  right: -55px;
   -webkit-animation-name: slideRight;
           animation-name: slideRight;
   -webkit-animation-duration: 1s;
           animation-duration: 1s;
   -webkit-animation-timing-function: ease;
           animation-timing-function: ease;
-  -webkit-animation-delay: 2s;
-          animation-delay: 2s;
+  -webkit-animation-delay: .8s;
+          animation-delay: .8s;
   opacity: 0;
   -webkit-animation-fill-mode: forwards;
           animation-fill-mode: forwards;
 }
 .front .find-your-genius .call-to-action {
   position: absolute;
-  bottom: -25px;
+  bottom: 50px;
   z-index: 2;
   left: 50%;
   -webkit-transform: translateX(-50%);
@@ -1155,7 +1154,7 @@ form .align-right {
           transform: translateX(-50%);
 }
 .front .find-your-genius .call-to-action:hover {
-  bottom: -24px;
+  bottom: 51px;
   top: auto;
   -webkit-transform: scale(1.075) translateX(-50%);
       -ms-transform: scale(1.075) translateX(-50%);
@@ -1388,19 +1387,31 @@ form .align-right {
 }
 .front .news-and-updates .news-and-update {
   background-color: #86B209;
-  margin: 0 1.5rem;
+  margin: 0 1rem;
   padding: .4rem .8rem;
+  width: 25%;
 }
 .front .news-and-updates .news-and-update h3 {
   color: #fff;
   font-family: "Montserrat", sans-serif;
   font-weight: 900;
   font-size: 1.2rem;
-  margin: 0;
+  margin: 0 0 .5rem 0;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 .front .news-and-updates .news-and-update h4 {
   color: #ED197B;
   margin: 0;
+  font-size: 1.2rem;
+}
+.front .news-and-updates .news-and-update img {
+  width: 100%;
+}
+.front .news-and-updates .news-and-update p {
+  color: #fff;
+  font-size: .9rem;
 }
 .front .connect-with-compass {
   background-color: #ED197B;
@@ -1535,25 +1546,33 @@ form .align-right {
 }
 @-webkit-keyframes slideDownfromLeft {
   0% {
-    -webkit-transform: translateY(-100%) translateX(-100%);
-            transform: translateY(-100%) translateX(-100%);
+    -webkit-transform: translateY(-100%) translateX(-100%) scale(0.8);
+            transform: translateY(-100%) translateX(-100%) scale(0.8);
     opacity: 1;
   }
+  40% {
+    -webkit-transform: translateY(5%) translateX(5%) scale(1);
+            transform: translateY(5%) translateX(5%) scale(1);
+  }
   100% {
-    -webkit-transform: translateY(0%) translateX(0%);
-            transform: translateY(0%) translateX(0%);
+    -webkit-transform: translateY(0%) translateX(0%) scale(1);
+            transform: translateY(0%) translateX(0%) scale(1);
     opacity: 1;
   }
 }
 @keyframes slideDownfromLeft {
   0% {
-    -webkit-transform: translateY(-100%) translateX(-100%);
-            transform: translateY(-100%) translateX(-100%);
+    -webkit-transform: translateY(-100%) translateX(-100%) scale(0.8);
+            transform: translateY(-100%) translateX(-100%) scale(0.8);
     opacity: 1;
   }
+  40% {
+    -webkit-transform: translateY(5%) translateX(5%) scale(1);
+            transform: translateY(5%) translateX(5%) scale(1);
+  }
   100% {
-    -webkit-transform: translateY(0%) translateX(0%);
-            transform: translateY(0%) translateX(0%);
+    -webkit-transform: translateY(0%) translateX(0%) scale(1);
+            transform: translateY(0%) translateX(0%) scale(1);
     opacity: 1;
   }
 }
@@ -1583,33 +1602,33 @@ form .align-right {
 }
 @-webkit-keyframes slideUp {
   0% {
-    -webkit-transform: translateY(100%) translateX(100%) rotate(-360deg);
-            transform: translateY(100%) translateX(100%) rotate(-360deg);
+    -webkit-transform: translateY(100%) translateX(-100%) rotate(-360deg) scale(0);
+            transform: translateY(100%) translateX(-100%) rotate(-360deg) scale(0);
     opacity: 1;
   }
   100% {
-    -webkit-transform: translateY(0%) translateX(0%) rotate(0deg);
-            transform: translateY(0%) translateX(0%) rotate(0deg);
+    -webkit-transform: translateY(0%) translateX(0%) rotate(0deg) scale(1);
+            transform: translateY(0%) translateX(0%) rotate(0deg) scale(1);
     opacity: 1;
   }
 }
 @keyframes slideUp {
   0% {
-    -webkit-transform: translateY(100%) translateX(100%) rotate(-360deg);
-            transform: translateY(100%) translateX(100%) rotate(-360deg);
+    -webkit-transform: translateY(100%) translateX(-100%) rotate(-360deg) scale(0);
+            transform: translateY(100%) translateX(-100%) rotate(-360deg) scale(0);
     opacity: 1;
   }
   100% {
-    -webkit-transform: translateY(0%) translateX(0%) rotate(0deg);
-            transform: translateY(0%) translateX(0%) rotate(0deg);
+    -webkit-transform: translateY(0%) translateX(0%) rotate(0deg) scale(1);
+            transform: translateY(0%) translateX(0%) rotate(0deg) scale(1);
     opacity: 1;
   }
 }
 @-webkit-keyframes slideRight {
   0% {
-    -webkit-transform: translateY(-100%) translateX(-100%) rotate(-360deg);
-            transform: translateY(-100%) translateX(-100%) rotate(-360deg);
-    opacity: 1;
+    -webkit-transform: translateY(-100%) translateX(200%) rotate(-360deg);
+            transform: translateY(-100%) translateX(200%) rotate(-360deg);
+    opacity: 0;
   }
   100% {
     -webkit-transform: translateY(0%) translateX(0%) rotate(0deg);
@@ -1619,9 +1638,9 @@ form .align-right {
 }
 @keyframes slideRight {
   0% {
-    -webkit-transform: translateY(-100%) translateX(-100%) rotate(-360deg);
-            transform: translateY(-100%) translateX(-100%) rotate(-360deg);
-    opacity: 1;
+    -webkit-transform: translateY(-100%) translateX(200%) rotate(-360deg);
+            transform: translateY(-100%) translateX(200%) rotate(-360deg);
+    opacity: 0;
   }
   100% {
     -webkit-transform: translateY(0%) translateX(0%) rotate(0deg);
