@@ -1063,10 +1063,91 @@ form .align-right {
 .front .find-your-genius {
   text-align: center;
   position: relative;
+  -webkit-animation-name: fadeIn;
+          animation-name: fadeIn;
+  opacity: 0;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  background: url("/assets/images/front/find-your-genius_bg.png");
+  background-position: 50% 50%;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+  /* Sets reference point to scale from */
+  background-size: cover;
+  /* Sets background image to cover entire element */
+  height: 550px;
+  margin: 0 0 2rem 0;
+  padding: 0 0 100px 0;
+  overflow: hidden;
+  width: 100%;
+}
+.front .find-your-genius .title {
+  position: absolute;
+  top: -190px;
+  left: -217px;
+  -webkit-animation-name: slideDownfromLeft;
+          animation-name: slideDownfromLeft;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  -webkit-animation-timing-function: ease;
+          animation-timing-function: ease;
+  -webkit-animation-delay: .5s;
+          animation-delay: .5s;
+  opacity: 0;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+.front .find-your-genius .independent-learner {
+  position: absolute;
+  top: -36px;
+  right: 364px;
+  -webkit-animation-name: slideDown;
+          animation-name: slideDown;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  -webkit-animation-timing-function: ease;
+          animation-timing-function: ease;
+  -webkit-animation-delay: 1.5s;
+          animation-delay: 1.5s;
+  opacity: 0;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+.front .find-your-genius .future-designer {
+  position: absolute;
+  bottom: -58px;
+  right: 170px;
+  -webkit-animation-name: slideUp;
+          animation-name: slideUp;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  -webkit-animation-timing-function: ease;
+          animation-timing-function: ease;
+  -webkit-animation-delay: 2.5s;
+          animation-delay: 2.5s;
+  opacity: 0;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+.front .find-your-genius .creative-inventor {
+  position: absolute;
+  top: -45px;
+  right: -30px;
+  -webkit-animation-name: slideRight;
+          animation-name: slideRight;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  -webkit-animation-timing-function: ease;
+          animation-timing-function: ease;
+  -webkit-animation-delay: 2s;
+          animation-delay: 2s;
+  opacity: 0;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 .front .find-your-genius .call-to-action {
   position: absolute;
-  bottom: 40px;
+  bottom: -25px;
   z-index: 2;
   left: 50%;
   -webkit-transform: translateX(-50%);
@@ -1074,7 +1155,7 @@ form .align-right {
           transform: translateX(-50%);
 }
 .front .find-your-genius .call-to-action:hover {
-  bottom: 39px;
+  bottom: -24px;
   top: auto;
   -webkit-transform: scale(1.075) translateX(-50%);
       -ms-transform: scale(1.075) translateX(-50%);
@@ -1435,6 +1516,119 @@ form .align-right {
   margin: 4rem 0;
 }
 
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes slideDownfromLeft {
+  0% {
+    -webkit-transform: translateY(-100%) translateX(-100%);
+            transform: translateY(-100%) translateX(-100%);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: translateY(0%) translateX(0%);
+            transform: translateY(0%) translateX(0%);
+    opacity: 1;
+  }
+}
+@keyframes slideDownfromLeft {
+  0% {
+    -webkit-transform: translateY(-100%) translateX(-100%);
+            transform: translateY(-100%) translateX(-100%);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: translateY(0%) translateX(0%);
+            transform: translateY(0%) translateX(0%);
+    opacity: 1;
+  }
+}
+@-webkit-keyframes slideDown {
+  0% {
+    -webkit-transform: translateY(-100%) translateX(-100%) rotate(0deg);
+            transform: translateY(-100%) translateX(-100%) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: translateY(0%) translateX(0%) rotate(360deg);
+            transform: translateY(0%) translateX(0%) rotate(360deg);
+    opacity: 1;
+  }
+}
+@keyframes slideDown {
+  0% {
+    -webkit-transform: translateY(-100%) translateX(-100%) rotate(0deg);
+            transform: translateY(-100%) translateX(-100%) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: translateY(0%) translateX(0%) rotate(360deg);
+            transform: translateY(0%) translateX(0%) rotate(360deg);
+    opacity: 1;
+  }
+}
+@-webkit-keyframes slideUp {
+  0% {
+    -webkit-transform: translateY(100%) translateX(100%) rotate(-360deg);
+            transform: translateY(100%) translateX(100%) rotate(-360deg);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: translateY(0%) translateX(0%) rotate(0deg);
+            transform: translateY(0%) translateX(0%) rotate(0deg);
+    opacity: 1;
+  }
+}
+@keyframes slideUp {
+  0% {
+    -webkit-transform: translateY(100%) translateX(100%) rotate(-360deg);
+            transform: translateY(100%) translateX(100%) rotate(-360deg);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: translateY(0%) translateX(0%) rotate(0deg);
+            transform: translateY(0%) translateX(0%) rotate(0deg);
+    opacity: 1;
+  }
+}
+@-webkit-keyframes slideRight {
+  0% {
+    -webkit-transform: translateY(-100%) translateX(-100%) rotate(-360deg);
+            transform: translateY(-100%) translateX(-100%) rotate(-360deg);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: translateY(0%) translateX(0%) rotate(0deg);
+            transform: translateY(0%) translateX(0%) rotate(0deg);
+    opacity: 1;
+  }
+}
+@keyframes slideRight {
+  0% {
+    -webkit-transform: translateY(-100%) translateX(-100%) rotate(-360deg);
+            transform: translateY(-100%) translateX(-100%) rotate(-360deg);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: translateY(0%) translateX(0%) rotate(0deg);
+            transform: translateY(0%) translateX(0%) rotate(0deg);
+    opacity: 1;
+  }
+}
 .blog-wrapper .blog-item {
   padding-bottom: 2em;
 }
