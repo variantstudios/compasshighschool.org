@@ -1483,6 +1483,9 @@ form .align-right {
   color: #333333;
   margin: 1rem;
 }
+.front .connect-with-compass .social-posts .social-post .social-text p {
+  color: #333333;
+}
 .front .bottom {
   margin: 0 0 2rem 0;
 }

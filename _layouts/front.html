@@ -58,7 +58,7 @@ body_class: front
 
         </div>
         <div class="right">
-            <a href="#" class="play-button"><span class="arrow">play</span></a>
+            <a href="https://www.youtube.com/watch?v=LoWF_ztpAbQ" class="play-button" target="_blank"><span class="arrow">play</span></a>
             <img src="/assets/images/front/front-that-one-teacher.jpg" alt="#ThatOneTeacher">
         </div>
     </section>
@@ -79,46 +79,24 @@ body_class: front
                 <span class="logo"><a href="https://toolboxcreative.com/" target="_blank" title="Toolbox Creative"><img src="{{site.cloudinaryurl}}image/fetch/{{site.url}}/assets/images/logos/toolbox--creative.png" alt="Toolbox Creative" data-img="{{site.url}}/assets/images/logos/toolbox--creative.png"></a></span>
             </div>
         </div>
-
     </section>
 
     <div class="news-and-updates container-padding-medium">
         {% for post in site.posts limit:4 %}
-
         <article class="news-and-update">
-            <h3>{{post.title}}</h3>
-            <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill/{{site.url}}/assets/images/rlw-uc03gwc-glenn-carstens-peters-1024x681.jpg" alt="STEM Conference at CSU for girls" data-img="{{site.url}}/assets/images/rlw-uc03gwc-glenn-carstens-peters-1024x681.jpg"
-                data-width="299px" data-height="199px">
-
+            <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+            <a href="{{post.url}}"><img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill/{{site.url}}{{post.image_path}}" alt="STEM Conference at CSU for girls" data-img="{{site.url}}{{post.image_path}}"
+                data-width="299px" data-height="199px"></a>
             <h4 class="date">{{post.date | date: "%A, %b %d %Y | %I %P" }}</h4>
             <p>{{ post.content | markdownify | strip_html | truncatewords: 10 }}</p>
         </article>
-
         {% endfor %}
-
-
-
-
     </div>
+
     <section class="connect-with-compass container-padding-small">
         <h2>Connect with Compass</h2>
         <div class="social-posts inner-wrap">
-            <a href="#" class="social-post">
-                <span class="social-tag facebook"></span>
-                <img src="/assets/images/front/social-test.jpg" alt="facebook">
-                <div class="social-text">Watch this space! So excited to conclude a great team meeting with a field trip to our new building! This is going to be such a great place to learn. We are enrolling now for grades 6-10. Spaces are filling up fast though!</div>
-            </a>
-            <a href="#" class="social-post">
-                <span class="social-tag instagram"></span>
-                <img src="/assets/images/front/social-test.jpg" alt="facebook">
-                <div class="social-text">We had so much fun helping you local #superheroes #findyourgenius. Thank you @gryphongames @fococomiccon @geekgirlbrunch @not_that_todd_jones @moriahpariah Laurissa Hughes, and Abe Akin on Create Your Own Superhero Day!</div>
-            </a>
-            <a href="#" class="social-post">
-                <span class="social-tag twitter"></span>
-                <img src="/assets/images/front/social-test.jpg" alt="facebook">
-                <div class="social-text">Join us at @gryphongames at noon on April 7th for Create Your Own #Superhero Day featuring a slew of local #artists, #writers, and #cosplayers from @fococomiccon and @geekgirlbrunch #kidscreate #kidartist #teenwriters #comics #createcomics</div>
-            </a>
         </div>
-
     </section>
+    
 </div>

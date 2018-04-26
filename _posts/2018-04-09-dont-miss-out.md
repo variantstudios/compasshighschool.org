@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out!
 date: 2018-04-09 00:00:00
-image_path:
+image_path: /assets/images/eye-pic.jpg
 categories:
 iframe_content:
 search_engine_optimization:
