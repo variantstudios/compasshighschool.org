@@ -48,18 +48,18 @@ body_class: front
     </section>
 
     <section class="that-one-teacher container-padding-medium container-margin-medium clearfix">
-        <div class="left">
+        <div class="left editable">
             <h2>#ThatOneTeacher</h2>
             <h3>Remember that one teacher? They made learning fun. They helped you discover who you really are. They made you feel smart — helped you realize you are smart.</h3>
 
             <p>They didn’t quite fit into the institutional box, and more importantly, they didn’t try to fit you into any box. Compass is a school designed by those teachers. Compass is a school full of those teachers, surrounded and supported by a community
                 of mentors from business, nonprofit and higher education organizations. That exceptional, life-changing learning experience you had isn’t the exception at Compass; it’s the rule.</p>
-            <p><a href="#">Share your story:</a> <strong>#ThatOneTeacher, #CompassFortCollins</strong></p>
+            <p><a href="https://twitter.com/intent/tweet?text=Put%20your%20message%20here.&hashtags=ThatOneTeacher%2C%20CompassFortCollins" target="_blank" rel="noopener noreferrer">Share your story:</a> <strong>#ThatOneTeacher, #CompassFortCollins</strong></p>
 
         </div>
         <div class="right">
             <a onclick="revealVideo('video','youtube')" class="play-button"><span class="arrow">play</span></a>
-            <img src="/assets/images/front/front-that-one-teacher.jpg" alt="#ThatOneTeacher">
+            <img src="{{page.that_one_teacher.video_thumbnail_path}}" alt="{{page.that_one_teacher.video_title}}">
         </div>
     </section>
 
@@ -70,13 +70,13 @@ body_class: front
                 in hands-on career exploration. Contact us for information on community engagement opportunities.</p>
             <p class="text-align-center"><a href="#" class="call-to-action">Become A Partner</a></p>
             <div class="logos">
-                <span class="logo"><a href="https://prettybrainy.com/" target="_blank" title="Pretty Brainy"><img src="{{site.cloudinaryurl}}image/fetch/{{site.url}}/assets/images/logos/pretty--brainy.png" alt="Pretty Brainy" data-img="{{site.url}}/assets/images/logos/pretty--brainy.png"></a></span>
+                <span class="logo"><a href="https://prettybrainy.com/" target="_blank" title="Pretty Brainy" rel="noopener noreferrer"><img src="{{site.cloudinaryurl}}image/fetch/{{site.url}}/assets/images/logos/pretty--brainy.png" alt="Pretty Brainy" data-img="{{site.url}}/assets/images/logos/pretty--brainy.png"></a></span>
 
-                <span class="logo"><a href="https://www.nobarriersusa.org/" target="_blank" title="No Barriers"><img src="{{site.cloudinaryurl}}image/fetch/{{site.url}}/assets/images/logos/no--barriers.png" alt="No Barriers" data-img="{{site.url}}/assets/images/logos/no--barriers.png"></a></span>
+                <span class="logo"><a href="https://www.nobarriersusa.org/" target="_blank" title="No Barriers" rel="noopener noreferrer"><img src="{{site.cloudinaryurl}}image/fetch/{{site.url}}/assets/images/logos/no--barriers.png" alt="No Barriers" data-img="{{site.url}}/assets/images/logos/no--barriers.png"></a></span>
                 
-                <span class="logo"><a href="https://www.variantstudios.com/" target="_blank" title="Variant Studios"><img src="{{site.cloudinaryurl}}image/fetch/{{site.url}}/assets/images/logos/variant--studios.png" alt="Variant Studios" data-img="{{site.url}}/assets/images/logos/variant--studios.png"></a></span>
+                <span class="logo"><a href="https://www.variantstudios.com/" target="_blank" title="Variant Studios" rel="noopener noreferrer"><img src="{{site.cloudinaryurl}}image/fetch/{{site.url}}/assets/images/logos/variant--studios.png" alt="Variant Studios" data-img="{{site.url}}/assets/images/logos/variant--studios.png"></a></span>
                 
-                <span class="logo"><a href="https://toolboxcreative.com/" target="_blank" title="Toolbox Creative"><img src="{{site.cloudinaryurl}}image/fetch/{{site.url}}/assets/images/logos/toolbox--creative.png" alt="Toolbox Creative" data-img="{{site.url}}/assets/images/logos/toolbox--creative.png"></a></span>
+                <span class="logo"><a href="https://toolboxcreative.com/" target="_blank" title="Toolbox Creative" rel="noopener noreferrer"><img src="{{site.cloudinaryurl}}image/fetch/{{site.url}}/assets/images/logos/toolbox--creative.png" alt="Toolbox Creative" data-img="{{site.url}}/assets/images/logos/toolbox--creative.png"></a></span>
             </div>
         </div>
     </section>
@@ -102,15 +102,17 @@ body_class: front
 
 </div>
 
+{% if page.that_one_teacher.youtube_video_id %}
 <div id="video" class="lightbox">
   <div class="lightbox-container">  
     <div class="lightbox-content">
       
       <button onclick="hideVideo('video','youtube')" class="lightbox-close">Close | ✕</button>
       <div class="video-container">
-        <iframe id="youtube" width="960" height="540" src="https://www.youtube.com/embed/LoWF_ztpAbQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
+        <iframe id="youtube" width="960" height="540" src="https://www.youtube.com/embed/{{page.that_one_teacher.youtube_video_id}}info=0" frameborder="0" allowfullscreen></iframe>
       </div>      
       
     </div>
   </div>
 </div>
+{% endif %}
