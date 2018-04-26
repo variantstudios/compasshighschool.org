@@ -1,7 +1,7 @@
 ---
 title: Open House Rescheduled
 date: 2018-04-21 00:00:00
-image_path:
+image_path: /assets/images/charter-school-progress-draft4-dusk-1.jpg
 categories:
 iframe_content:
 search_engine_optimization:
