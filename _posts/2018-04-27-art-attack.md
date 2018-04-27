@@ -1,6 +1,6 @@
 ---
 title: Art Attack
-date:
+date: 2018-04-27 10:20:00
 image_path:
 categories:
 iframe_content:
