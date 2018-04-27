@@ -65,11 +65,30 @@
             z-index: 2;
             left: 50%;
             transform: translateX(-50%);
+            animation-name: SlipIn;
+            animation-duration: .4s;
+            animation-timing-function: ease;
+            animation-delay: 1.8s;
+            opacity: 0;
+            animation-fill-mode: forwards;
             &:hover {
                 bottom: 51px;
                 top: auto;
                 transform: scale(1.075) translateX(-50%);
             }
+        }
+        .subtitle {
+            color: $color-three;
+            font-family: $font-family;
+            position: absolute;
+            bottom: 80px;
+            left: 150px;
+            animation-name: slideIn;
+            animation-duration: .6s;
+            animation-timing-function: ease;
+            animation-delay: 1.3s;
+            opacity: 0;
+            animation-fill-mode: forwards;
         }
     }
     .secondary {
@@ -168,6 +187,9 @@
                 @include grid-span(6,
                 6,
                 $gutter: 0);
+            }
+            .call-to-action {
+                text-align: right;
             }
         }
     }
@@ -449,6 +471,32 @@
     }
     100% {
         transform: translateY(0%) translateX(0%) rotate(0deg);
+        opacity: 1;
+    }
+}
+
+@keyframes slideIn {
+    0% {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0%);
+        opacity: 1;
+    }
+}
+
+@keyframes SlipIn {
+    0% {
+        transform: translateY(-100%) scale(1.2);
+        opacity: 0;
+    }
+    80% {
+        transform: translateY(10%) scale(.9);
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(0%) scale(1);
         opacity: 1;
     }
 }
