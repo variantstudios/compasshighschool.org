@@ -778,6 +778,9 @@ ul.pager li a:visited {
   position: relative;
 }
 
+header.siteheader {
+  max-width: 1200px;
+}
 header.siteheader .logo {
   text-align: center;
 }

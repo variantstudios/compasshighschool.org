@@ -1,4 +1,6 @@
 header.siteheader {
+    max-width: 1200px;
+    //padding: 0 2rem;
     .logo {
         text-align: center;
         @include breakpoint($bp-medium, $no-query: ".no-mq") {
