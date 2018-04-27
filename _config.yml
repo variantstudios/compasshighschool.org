@@ -114,6 +114,7 @@ _options:
     numberedlist: true
     code: true
     table: true
+    link: true
     right: align-to-right
     styles: /assets/css/wysiwyg.css
   share_image_path:
