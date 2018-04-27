@@ -99,6 +99,8 @@ defaults:
 
 # Cloudcannon Options
 _options:
+  content:
+    styles: /assets/css/wysiwyg.css
   share_image_path:
     width: 1200
     height: 1200
