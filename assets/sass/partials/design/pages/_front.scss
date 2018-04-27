@@ -137,7 +137,7 @@
     .curious {
         padding: 2.5rem 0;
         background-color: $color-eight; // Summer sky
-        background: url('/assets/images/backgrounds/blue-halftone-dot-pattern.png');
+        background: url('/assets/images/patterns/blue-halftone-dot-pattern.png');
         text-align: center;
         h2 {
             color: #fff;
@@ -153,7 +153,7 @@
     }
     .ventue-project {
         background-color: #dddfe1;
-        background: url('/assets/images/backgrounds/compass-nuts-and-bolts-pattern.png');
+        background: url('/assets/images/patterns/compass-nuts-and-bolts-pattern.png');
         @include clearfix;
         .left {
             @include breakpoint($bp-medium,
@@ -195,7 +195,7 @@
     }
     .that-one-teacher {
         background-color: #ebebeb;
-        background: url('/assets/images/backgrounds/compass-geometrics-pattern.png');
+        background: url('/assets/images/patterns/compass-geometrics-pattern.png');
         .left {
             @include breakpoint($bp-medium,
             $no-query: ".no-mq") {
@@ -306,7 +306,7 @@
     }
     .connect-with-compass {
         background-color: $color-three; // Deep pink
-        background: url('/assets/images/backgrounds/compass-pencils-pattern.png');
+        background: url('/assets/images/patterns/compass-pencils-pattern.png');
         margin: 0 0 2rem 0;
         padding: 1rem 0 2rem 0;
         h2 {
