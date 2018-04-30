@@ -15,7 +15,7 @@ $(document).ready(function() {
 //   return d;
 // }
 // Get the social json feed
-$.getJSON('https://file-eeggjttdkm.now.sh/compass-feed.json', function(data) {
+$.getJSON('https://compass-social-feed.herokuapp.com/feed.json', function(data) {
   // loop through the data. i is the count and f is the data
   $.each(data.slice(0,3), function(i, f) {
   // Check to see if the source is from instagram and then use the appropriate format/content
