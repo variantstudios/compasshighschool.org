@@ -31,7 +31,36 @@ header.siteheader {
     }
 }
 
-.header-wrapper {
-    padding: 1.5rem 0 0 0;
+#side-header {
+    padding: 1rem 0 0 0;
     background: $header-bg;
+    position: fixed;
+    top: 0;
+    height: 111px;
+    width: 100%;
+    z-index: 2;
+    transition: all .5s ease;
+    &.smaller {
+        height: 76px;
+        transition: all .5s ease;
+        padding: .5rem 0 0 0;
+        box-shadow: 5px 0px 20px 0 rgba(0, 0, 0, .1);
+        .logo {
+            transition: all .5s ease;
+            transform: scale(.7);
+        }
+        .main-nav {
+            //margin-top: -25px;
+            transition: all .5s ease;
+        }
+        .main-nav>ul.menu>li {
+            padding-top: 0;
+            margin-bottom: 0;
+            margin-top: -5px;
+            transition: all .5s ease;
+        }
+        .main-nav>ul.menu>:last-child {
+            margin-top: 0px;
+        }
+    }
 }

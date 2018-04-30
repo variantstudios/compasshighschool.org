@@ -11,7 +11,7 @@ layout: compress
 
 <body class=" {% if page.is_post %}post{% endif %} {{ page.url | slugify }} {% if page.body_class %}{{page.body_class}}{% endif %} {% if layout.body_class %}{{layout.body_class}}{% endif %}">
     {% comment %}{% include_cached browserupgrade.html %}{% endcomment %}
-    <div class="header-wrapper clearfix">
+    <div id="side-header" class="header-wrapper clearfix">
         {% include_cached header.html group=page.group url=page.url %}
     </div>
     {% if page.layout != 'front' %}

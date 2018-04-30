@@ -48,3 +48,31 @@ hideVideo = function(div,video_id) {
   document.getElementById(video_id).src = cleaned;
   document.getElementById(div).style.display = 'none';
 };
+
+// $(document).on('scroll', function(){
+//   console.log('scroll');
+//   if
+//   ($(document).scrollTop() > 117){
+//     $('.siteheader').addClass('shrink');
+//     console.log('shrink');
+//   }
+//   else
+//   {
+//     $('.siteheader').removeClass('shrink');
+//     console.log('no shrink');
+//   }
+// });
+
+function resizeHeaderOnScroll() {
+  var distanceY = window.pageYOffset || document.documentElement.scrollTop,
+    shrinkOn = 111,
+    headerEl = document.getElementById('side-header');
+  
+  if (distanceY > shrinkOn) {
+    headerEl.classList.add('smaller');
+  } else {
+    headerEl.classList.remove('smaller');
+  }
+}
+
+window.addEventListener('scroll', resizeHeaderOnScroll);

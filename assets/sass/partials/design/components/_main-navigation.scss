@@ -1,22 +1,47 @@
 .main-nav {
+    &>ul.menu>li {
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
     &>ul.menu>li:last-child {
         padding-right: 0;
+        float: right;
+        margin: 0.5rem 0 0 0;
+        a {
+            background: url('/assets/images/icons/search.svg') no-repeat center center;
+            background-size: cover;
+            height: 20px;
+            width: 20px;
+            @include hide-text;
+            &:hover {
+                background: url('/assets/images/icons/search_hover.svg') no-repeat center center;
+                background-size: cover;
+            }
+        }
+    }
+    &>ul.menu>li {
+        padding-top: 0;
+        margin-bottom: 0;
+        margin-top: 3px;
     }
     .menu {
         padding: 0;
-        margin: 0;
+        margin: -25px 0 0 0;
         font-family: $font-secondary;
         font-size: 1em;
-        @include breakpoint($bp-medium, $no-query: '.no-mq') {
+        @include breakpoint($bp-medium,
+        $no-query: '.no-mq') {
             text-align: right;
         }
         li {
+            transition: all .5s ease;
             list-style: none;
             margin: 0;
             display: block;
             padding: .5em 0em;
             position: relative;
-            @include breakpoint($bp-medium, $no-query: '.no-mq') {
+            @include breakpoint($bp-medium,
+            $no-query: '.no-mq') {
                 display: inline-block;
                 padding: .75em 1em;
             }
@@ -37,17 +62,19 @@
             }
             // Show DropDown Menu
             &:hover ul {
-                @include breakpoint($bp-medium, $no-query: '.no-mq') {
+                @include breakpoint($bp-medium,
+                $no-query: '.no-mq') {
                     opacity: 1;
                     visibility: visible;
-                    margin-top: 12px;
+                    //margin-top: 12px;
                 }
             }
             // DropDown Menu
             ul {
                 z-index: 4;
                 padding: .4em 1em 0;
-                @include breakpoint($bp-medium, $no-query: '.no-mq') {
+                @include breakpoint($bp-medium,
+                $no-query: '.no-mq') {
                     text-align: right;
                     right: 16px;
                     position: absolute;
