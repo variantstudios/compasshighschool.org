@@ -851,12 +851,11 @@ header.siteheader .espanol-link {
 header.siteheader .espanol-link a {
   color: #4D4D4F;
   text-decoration: none;
-  font-size: .8rem;
+  font-size: .7rem;
   -webkit-transition: all .5s ease;
   transition: all .5s ease;
 }
 header.siteheader .espanol-link a:hover {
-  text-decoration: underline;
   -webkit-transition: color .5s ease;
   transition: color .5s ease;
   color: #00AEEF;
@@ -940,7 +939,7 @@ main:after {
 }
 
 .mainfront-wrapper {
-  margin: 117px auto 0 auto;
+  margin: 111px auto 0 auto;
 }
 
 html {
