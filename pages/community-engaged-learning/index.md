@@ -7,6 +7,7 @@ search_engine_optimization:
 permalink: "/community-engaged-learning/"
 layout: page
 ---
+# Community-Engaged Learning
 
 ## “Why do I need to learn this?”
 

@@ -1,6 +1,5 @@
 ---
 title: FAQs
-sub_title: "We're All About Questions!"
 header_image: /assets/images/therese-at-board-final-final.jpg
 search_engine_optimization:
   page_title: FAQs for Compass High School
@@ -8,5 +7,7 @@ search_engine_optimization:
 permalink: /faqs/
 layout: page
 ---
-
+# FAQs
+Perlucentibus ture fameque, pectora non neque percutit caelo tempora additur et posset cuius. Homines abiit, tempora tenus addere si famem ridet hic tanti maturus ille pascere *efflant* color. Carcere corpora undas; [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+ iugulum suprema tanti, oscula hominis oraque requiescit sorores animasque, nec.
 

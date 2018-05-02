@@ -1,6 +1,5 @@
 ---
-title: Venture Projects
-sub_title: 
+title: Venture Projects 
 header_image: /assets/images/joaquin-and-boys-final-final.jpg
 search_engine_optimization:
   page_title: Venture Projects
@@ -8,7 +7,7 @@ search_engine_optimization:
 permalink: /venture-projects/
 layout: page
 ---
-
+# Venture Projects
 ## “Why do I need to learn this?”,
 
 and, “When will I ever use this?”, are questions students are asking in classes every day. Compass Community Collaborative School will provide them with the skills and opportunities to answer this question themselves. Through interdisciplinary and individualized learning plans and collaborative initiatives with local businesses and university partners, our mission is to help students discover learning with purpose. We are charting a new course at Compass Community Collaborative School– leaving behind the well-worn paths of schools designed to study individual academic disciplines at levels determined by age. We are creating a school that is student-centered and community-based. More than delivering curriculum, we are nurturing the development of intellectual intelligence, emotional intelligence, creativity, and curiosity in our students and their families.

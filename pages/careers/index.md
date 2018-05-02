@@ -1,6 +1,5 @@
 ---
 title: Careers
-sub_title: Stay tuned for job postings in early 2018!
 header_image: /assets/images/stratop-team-final-final.jpg
 search_engine_optimization:
   page_title: Careers
@@ -8,9 +7,7 @@ search_engine_optimization:
 permalink: /careers/
 layout: page
 ---
-
-
-## Careers
+# Careers
 
 Are you a trailblazer, observer, visionary, and innovator ready to discover learning with purpose alongside a team of students? We are. And we are looking for student-centered educators to join our team. We believe in place-based education that shifts learning out of the traditional classroom setting and puts kids back into the community ready to share their unique genius. We are Compass Community Collaborative School.
 

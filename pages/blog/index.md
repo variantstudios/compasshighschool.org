@@ -1,6 +1,5 @@
 ---
 title: Blog
-sub_title: Join us on our learning journey...
 header_image: '/assets/images/headers/blog.jpg'
 search_engine_optimization:
   page_title: "Blog"
@@ -11,3 +10,4 @@ permalink: /blog/
 layout: blog
 class: blog
 ---
+<h1>Compass Blog</h1>

@@ -1,6 +1,5 @@
 ---
 title: Información en español
-sub_title: We are charting a new course in secondary education.
 header_image: /assets/images/joaquin-and-boys-final-final.jpg
 search_engine_optimization:
   page_title: Información en español
@@ -8,9 +7,6 @@ search_engine_optimization:
 permalink: /espanol/
 layout: page
 ---
-
-
-## &nbsp;
 
 ***"&iquest;Por qu&eacute; tengo que aprender esto?"***<br><br>...y, "&iquest;Cu&aacute;ndo usar&eacute; esto?", son preguntas que los estudiantes hacen en las clases todos los d&iacute;as. Compass Community Collaborative School les proporcionar&aacute; las habilidades y oportunidades para responder a esta pregunta ellos mismos. A trav&eacute;s de proyectos que utilizan todas las &aacute;reas de contenido y asociaciones de colaboraci&oacute;n con empresas locales y la Universidad de Colorado State, nuestra misi&oacute;n es ayudar a los estudiantes a descubrir el aprendizaje con un prop&oacute;sito. Estamos creando una escuela centrada en el alumno y apoyada en la comunidad. M&aacute;s que solo contenido acad&eacute;mico, queremos nutrir la inteligencia intelectual, la inteligencia emocional, la creatividad y la curiosidad de los estudiantes.<br><br>Los estudiantes de 6&deg; grado y superiores est&aacute;n invitados a unirse a nuestra escuela secundaria para sobresalir en &aacute;reas de inter&eacute;s y fortaleza, obtener apoyo en &aacute;reas en las que necesitan ayuda y tener la oportunidad de explorar y contribuir con nuestra comunidad. Los estudiantes pueden obtener un t&iacute;tulo de asociado o certificado de comercio antes de la graduaci&oacute;n.
 

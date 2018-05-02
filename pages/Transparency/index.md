@@ -1,6 +1,5 @@
 ---
 title: Transparency
-sub_title: Agendas and Minutes from Board Meetings plus Financial Transparency
 header_image: /assets/images/img-2811.jpg
 search_engine_optimization:
   page_title: Transparency
@@ -57,4 +56,4 @@ stripe:
 permalink: /transparency/
 layout: page
 ---
-
+# Transparency

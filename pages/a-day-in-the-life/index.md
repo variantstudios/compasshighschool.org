@@ -1,7 +1,5 @@
 ---
 title: A Day in the Life
-sub_title:
-header_image: /assets/images/carlos-and-ty.jpg
 pdf:
   path: /assets/pdf/Compass Levels of Autonomy - Web.pdf
   pixel_height: 4250px
@@ -12,7 +10,7 @@ search_engine_optimization:
 permalink: /a-day-in-the-life/
 layout: page
 ---
-
+#  A Day in the Life
 At Compass, our schedule is different to facilitate our innovative educational model.
 
 * Families choose one of three start times with a corresponding end time. This lets teens get the sleep they need, and helps bring student’s schedules more in line with family needs.

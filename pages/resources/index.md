@@ -1,6 +1,5 @@
 ---
 title: resources
-sub_title: 'We Keep Learning!'
 header_image: /assets/images/headers/blog.jpg
 search_engine_optimization:
   page_title: resources
@@ -8,8 +7,6 @@ search_engine_optimization:
 permalink: /resources/
 layout: page
 ---
-
-
 ## Resources Informing the Work in the Development of Compass High School, Fort Collins, CO
 
 Berger, Warren. (2014). A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas. New York: Bloomsberry USA

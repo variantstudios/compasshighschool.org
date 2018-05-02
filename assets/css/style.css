@@ -65,11 +65,11 @@ p + p {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 3em;
 }
 
 h2 {
-  font-size: 1.8em;
+  font-size: 2.6em;
 }
 
 h3 {
@@ -77,15 +77,15 @@ h3 {
 }
 
 h4 {
-  font-size: 1.3em;
+  font-size: 1em;
 }
 
 h5 {
-  font-size: 1.2em;
+  font-size: 2.2em;
 }
 
 h6 {
-  font-size: 1em;
+  font-size: 2em;
 }
 
 @media (min-width: 0) and (max-width: 37.5em) {
@@ -1978,4 +1978,38 @@ form .align-right {
   margin-left: 0;
   margin-right: 0;
   clear: none;
+}
+
+body.not-front h1 {
+  color: #00AEEF;
+}
+body.not-front h2 {
+  font-family: "Montserrat", sans-serif;
+}
+body.not-front h3 {
+  font-family: "Montserrat", sans-serif;
+}
+body.not-front h4 {
+  font-family: "Montserrat", sans-serif;
+}
+body.not-front h5 {
+  font-family: "Montserrat", sans-serif;
+}
+body.not-front h6 {
+  font-family: "Montserrat", sans-serif;
+}
+body.not-front p a {
+  border-bottom: 2px #00AEEF solid;
+  -webkit-box-shadow: inset 0 -6px 0 #00AEEF;
+          box-shadow: inset 0 -6px 0 #00AEEF;
+  text-decoration: none;
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+  color: #4D4D4F;
+}
+body.not-front p a:hover {
+  -webkit-box-shadow: inset 0 -25px 0 #00AEEF;
+          box-shadow: inset 0 -25px 0 #00AEEF;
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
 }

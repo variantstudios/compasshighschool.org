@@ -1,6 +1,5 @@
 ---
 title: Students
-sub_title: Student-centered and passion-driven education for a lifetime.
 header_image: /assets/images/headers/students.jpg
 search_engine_optimization:
   page_title: Students
@@ -8,7 +7,7 @@ search_engine_optimization:
 permalink: /students/
 layout: page
 ---
-
+# Students
 
 ## School, your way
 

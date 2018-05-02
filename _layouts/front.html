@@ -1,6 +1,5 @@
----
+--- 
 layout: default 
-body_class: front 
 ---
 
 <div class="mainfront-wrapper clearfix">
@@ -17,15 +16,16 @@ body_class: front
     </div>
 
     <section class="secondary">
-    <div class="max-width-medium editable">
-	<h2>Love school.</h2>
-	<h2>Learn actively.</h2>
-	<h3>Change the world.</h3>
-	<p>Compass is Fort Collins' new <strong>tuition-free</strong> charter school. Students learn through active and engaging real-world projects &mdash; and graduate with a <strong>plan,</strong> a <strong>portfolio,</strong> and the tools to make a <strong>positive impact.</strong></p>
-	<h4>Now enrolling grades 6 &ndash; 10.</h4>
-	<h5>Space is limited.</h5>
-	<p><a class="call-to-action" href="#">Explore Compass</a></p>
-</div>
+        <div class="max-width-medium editable">
+            <h2>Love school.</h2>
+            <h2>Learn actively.</h2>
+            <h3>Change the world.</h3>
+            <p>Compass is Fort Collins' new <strong>tuition-free</strong> charter school. Students learn through active and engaging real-world projects &mdash; and graduate with a <strong>plan,</strong> a <strong>portfolio,</strong> and the tools to make
+                a <strong>positive impact.</strong></p>
+            <h4>Now enrolling grades 6 &ndash; 10.</h4>
+            <h5>Space is limited.</h5>
+            <p><a class="call-to-action" href="#">Explore Compass</a></p>
+        </div>
     </section>
 
     <section class="curious container-margin-medium editable">
@@ -35,15 +35,17 @@ body_class: front
 
     <section class="ventue-project container-padding-medium">
         <div class="left">
-            <img src="{{site.cloudinaryurl}}image/fetch/w_416,h_416,c_fill,c_fill/{{site.url}}{{page.venture_project.image_path}}" alt="{{page.venture_project.title}}" data-img="{{site.url}}{{page.venture_project.image_path}}" data-width="416px" data-height="416px" />
+            <img src="{{site.cloudinaryurl}}image/fetch/w_416,h_416,c_fill,c_fill/{{site.url}}{{page.venture_project.image_path}}" alt="{{page.venture_project.title}}" data-img="{{site.url}}{{page.venture_project.image_path}}" data-width="416px" data-height="416px"
+            />
         </div>
         <div class="right editable">
-	<h2>Venture Project:</h2>
-	<h3>Deep-Field Ecology</h3>
-	<p><a href="#">Purpose:</a> Rarely are youth given the opportunity to be truly exposed to the environment around them. Most of our lives we are insulated from the environment which we rely on to stay alive. As we continue to create technological advances in our society we continue to push ourselves out of nature in a way that prevents us from making deep connections with the earth and with ourselves. <a href="#">More</a></p>
-	<p><a href="#">Community Partners:</a> No Barriers, Colorado Mountain School, CSU Mountain Campus</p>
-	<p><a class="call-to-action" href="#">Venture Forth</a></p>
-</div>
+            <h2>Venture Project:</h2>
+            <h3>Deep-Field Ecology</h3>
+            <p><a href="#">Purpose:</a> Rarely are youth given the opportunity to be truly exposed to the environment around them. Most of our lives we are insulated from the environment which we rely on to stay alive. As we continue to create technological
+                advances in our society we continue to push ourselves out of nature in a way that prevents us from making deep connections with the earth and with ourselves. <a href="#">More</a></p>
+            <p><a href="#">Community Partners:</a> No Barriers, Colorado Mountain School, CSU Mountain Campus</p>
+            <p><a class="call-to-action" href="#">Venture Forth</a></p>
+        </div>
     </section>
 
     <section class="that-one-teacher container-padding-medium container-margin-medium clearfix">
@@ -65,15 +67,14 @@ body_class: front
     <section class="join-the-compass-community container-padding-medium">
         <div class="max-width-medium center-container">
             <div class="editable">
-            <h2>Join the Compass Community</h2>
-            <p>Join our growing list of community partners and start seeing the benefit of working with our students. Your organization — business, nonprofit, artistic, college, university, and government entities — can partner with our students to engage
-                in hands-on career exploration. Contact us for information on community engagement opportunities.</p>
+                <h2>Join the Compass Community</h2>
+                <p>Join our growing list of community partners and start seeing the benefit of working with our students. Your organization — business, nonprofit, artistic, college, university, and government entities — can partner with our students to engage
+                    in hands-on career exploration. Contact us for information on community engagement opportunities.</p>
             </div>
             <p class="text-align-center"><a href="#" class="call-to-action">Become A Partner</a></p>
             <div class="logos">
                 {% for partnes in page.join_the_compass_community_partners %}
-                <span class="logo"><a href="{{partnes.site_url}}" target="_blank" title="{{partnes.title}}" rel="noopener noreferrer"><img src="{{site.cloudinaryurl}}image/fetch/{{site.url}}{{partnes.logo_path}}" alt="{{partnes.title}}" data-img="{{partnes.logo_path}}" /></a></span>
-                {% endfor %}
+                <span class="logo"><a href="{{partnes.site_url}}" target="_blank" title="{{partnes.title}}" rel="noopener noreferrer"><img src="{{site.cloudinaryurl}}image/fetch/{{site.url}}{{partnes.logo_path}}" alt="{{partnes.title}}" data-img="{{partnes.logo_path}}" /></a></span>                {% endfor %}
             </div>
         </div>
     </section>
@@ -82,11 +83,11 @@ body_class: front
         {% for post in site.posts limit:4 %}
         <article class="news-and-update">
             <a href="{{post.url}}">
-            <h3>{{post.title}}</h3>
-            <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill/{{site.url}}{{post.image_path}}" alt="STEM Conference at CSU for girls" data-img="{{site.url}}{{post.image_path}}" data-width="299px" data-height="199px" />
-            <h4 class="date">{{post.date | date: "%A, %b %d %Y | %I %P" }}</h4>
-            <p>{{ post.content | strip_html | truncatewords: 10 }}</p>
-        </a>
+                <h3>{{post.title}}</h3>
+                <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill/{{site.url}}{{post.image_path}}" alt="STEM Conference at CSU for girls" data-img="{{site.url}}{{post.image_path}}" data-width="299px" data-height="199px" />
+                <h4 class="date">{{post.date | date: "%A, %b %d %Y | %I %P" }}</h4>
+                <p>{{ post.content | strip_html | truncatewords: 10 }}</p>
+            </a>
         </article>
         {% endfor %}
     </div>
@@ -101,15 +102,15 @@ body_class: front
 
 {% if page.that_one_teacher.youtube_video_id %}
 <div id="video" class="lightbox">
-  <div class="lightbox-container">  
-    <div class="lightbox-content">
-      
-      <button onclick="hideVideo('video','youtube')" class="lightbox-close">Close | ✕</button>
-      <div class="video-container">
-        <iframe id="youtube" width="960" height="540" src="https://www.youtube-nocookie.com/embed/{{page.that_one_teacher.youtube_video_id}}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-      </div>      
-      
+    <div class="lightbox-container">
+        <div class="lightbox-content">
+
+            <button onclick="hideVideo('video','youtube')" class="lightbox-close">Close | ✕</button>
+            <div class="video-container">
+                <iframe id="youtube" width="960" height="540" src="https://www.youtube-nocookie.com/embed/{{page.that_one_teacher.youtube_video_id}}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+            </div>
+
+        </div>
     </div>
-  </div>
 </div>
 {% endif %}
