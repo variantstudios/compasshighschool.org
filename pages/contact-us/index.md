@@ -1,6 +1,5 @@
 ---
 title: Contact Us
-sub_title:
 header_image:
 search_engine_optimization:
   page_title: Contact Us
@@ -17,6 +16,5 @@ _comments:
   to: 'Add the email address(es) you would like to send this to and if you want to send to more than one you can add commas between them, for example: hello1@test.com,hello2@test.com'
   thank_you_message: This is the message the visitor sees after they submit a contact message.
 ---
-
 
 # Contact Us

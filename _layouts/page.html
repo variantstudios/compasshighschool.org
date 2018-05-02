@@ -4,13 +4,35 @@ layout: default
 <div class="background">
 {% comment %} <img src="/assets/images/backgrounds/note-cards-on-the-board.jpg" alt="Compass background" class="bg"> {% endcomment %}
   <section class="subpage wrap">
-    <h1 class="pagetitle">{{ page.title }}</h1>
-    <h2 class="subtitle">{{ page.subtitle }}</h2>
     <div>{{ content }}</div>
-    {% if page.url contains "contact" %}
+    
+    {% if page.url contains "contribute" %}
+     {% include contribute.html %}
+    {% elsif page.url contains "faqs" %}
+      {% include faqs.html %}
+    {% elsif page.url contains "contact-us" %}
       {% include contact-form.html %}
-      {% elsif page.url contains "about" %}
-        {% comment %} {% include team.html %} {% endcomment %}
+    {% elsif page.url contains "our-team" %}
+      {% include team.html %}
+    {% elsif page.url contains "careers" %}
+      {% include careers.html %}
+    {% elsif page.url contains "community-partners" %}
+      {% include sponsors.html %}
+    {% elsif page.permalink == "/transparency/" %}
+      {% include board.html %}
     {% endif %}
+
+    {% if page.stripe.show == true %}
+        {% include stripe.html %}
+    {% endif %}
+
+    {% if page.iframe.url %}
+    <div id="iframe">
+    <h3>{{page.iframe.title}}</h3>
+    <iframe src="{{page.iframe.url}}" width="{{page.iframe.width}}" height="{{page.iframe.height}}" frameborder="0">Loading...</iframe>
+    </div>
+    {% endif %}
+
   </section>
 </div>
+

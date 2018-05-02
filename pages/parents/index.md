@@ -1,5 +1,5 @@
 ---
-title:
+title: Parents
 sub_title: 'PARENTS: We want the best for our children and their future.'
 header_image: /assets/images/ccc-rockstars-final-final.jpg
 search_engine_optimization:
@@ -13,7 +13,7 @@ iframe:
   width: '2000'
   height: '1300'
 ---
-
+# Parents
 
 ## Parents get to play a part!
 

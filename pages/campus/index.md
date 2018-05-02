@@ -1,6 +1,5 @@
 ---
 title: Campus
-sub_title: What do you think of when you think of a school building?
 header_image: /assets/images/masterplan5.png
 search_engine_optimization:
   page_title: Campus
@@ -8,7 +7,7 @@ search_engine_optimization:
 permalink: /campus/
 layout: page
 ---
-
+# Campus
 Classrooms, cafeterias, and hallways lined with lockers?
 
 Just like Compass Community Collaborative will not “act” like any school in Fort Collins, it won’t look like any school in town either. Open, flexible spaces, and a kitchen for cooking healthy food will support our students, staff, and community partners.

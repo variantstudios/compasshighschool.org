@@ -5,4 +5,5 @@
 /why-compass/ /venture-projects/
 /compass-x/ /transparency/
 /become-a-volunteer/ /volunteer/
-/research-resources-guiding-innovation/ /resources/
+/research-resources-guiding-innovation/ /parent-resources/
+/resources/ /parent-resources/
