@@ -8,6 +8,9 @@
         </div>
     </div>
     <nav class="main-nav">
-        {% include nav.html nav=site.data.main-menu %}
+        <input type="checkbox" class="menu-btn" id="menu-btn" />
+        <label class="menu-icon" for="menu-btn">
+                <span class="navicon"></span>
+            </label> {% include nav.html nav=site.data.main-menu %}
     </nav>
 </header>
