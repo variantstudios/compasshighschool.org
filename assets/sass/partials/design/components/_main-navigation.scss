@@ -161,7 +161,7 @@
             // DropDown Menu
             ul {
                 z-index: 4;
-                padding: .5em 0 0 1.5em;
+                padding: 0 0 0 1.5em;
                 opacity: 1;
                 visibility: visible;
                 @include breakpoint($bp-medium,
@@ -182,7 +182,7 @@
                     border-radius: 0 0 3px 3px;
                     li {
                         margin: 0;
-                        padding: .2em .9em;
+                        padding: .4em .9em;
                         display: block;
                         a {
                             color: #fff;

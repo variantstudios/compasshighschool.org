@@ -314,17 +314,19 @@
     .news-and-updates {
         display: flex;
         flex-wrap: wrap;
+        justify-content: center;
         .news-and-update {
             background-color: $color-one; // Citrus
-            margin: 0 1rem;
+            margin: .5rem;
             padding: .4rem .8rem;
-            width: 23%;
+            width: 45%;
             position: relative;
             text-decoration: none;
             transition: all 0.2s ease;
             @include breakpoint(1300px,
             $no-query: ".no-mq") {
-                width: 25%;
+                width: 22%;
+                margin: 0 1rem;
             }
             &:hover {
                 transform: scale(1.05);

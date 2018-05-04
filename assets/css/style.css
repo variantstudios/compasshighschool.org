@@ -775,7 +775,7 @@ ul.pager li a:visited {
 }
 .main-nav > .menu li ul {
   z-index: 4;
-  padding: .5em 0 0 1.5em;
+  padding: 0 0 0 1.5em;
   opacity: 1;
   visibility: visible;
 }
@@ -800,7 +800,7 @@ ul.pager li a:visited {
   }
   .main-nav > .menu li ul li {
     margin: 0;
-    padding: .2em .9em;
+    padding: .4em .9em;
     display: block;
   }
   .main-nav > .menu li ul li a {
@@ -830,7 +830,7 @@ ul.pager li a:visited {
 }
 .no-mq .main-nav > .menu li ul li {
   margin: 0;
-  padding: .2em .9em;
+  padding: .4em .9em;
   display: block;
 }
 .no-mq .main-nav > .menu li ul li a {
@@ -1957,12 +1957,15 @@ form .align-right {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 .front .news-and-updates .news-and-update {
   background-color: #86B209;
-  margin: 0 1rem;
+  margin: .5rem;
   padding: .4rem .8rem;
-  width: 23%;
+  width: 45%;
   position: relative;
   text-decoration: none;
   -webkit-transition: all 0.2s ease;
@@ -1970,11 +1973,13 @@ form .align-right {
 }
 @media (min-width: 81.25em) {
   .front .news-and-updates .news-and-update {
-    width: 25%;
+    width: 22%;
+    margin: 0 1rem;
   }
 }
 .no-mq .front .news-and-updates .news-and-update {
-  width: 25%;
+  width: 22%;
+  margin: 0 1rem;
 }
 .front .news-and-updates .news-and-update:hover {
   -webkit-transform: scale(1.05);
