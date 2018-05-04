@@ -6,17 +6,17 @@ layout: default
   <section class="subpage wrap">
     <div>{{ content }}</div>
     
-    {% if page.url contains "contribute" %}
+    {% if page.permalink == "/contribute/" %}
      {% include contribute.html %}
-    {% elsif page.url contains "faqs" %}
+    {% elsif page.permalink == "/faqs/" %}
       {% include faqs.html %}
-    {% elsif page.url contains "contact-us" %}
+    {% elsif page.permalink == "/contact-us/" %}
       {% include contact-form.html %}
-    {% elsif page.url contains "our-team" %}
+    {% elsif page.permalink == "/our-team/" %}
       {% include team.html %}
-    {% elsif page.url contains "careers" %}
+    {% elsif page.permalink == "/careers/" %}
       {% include careers.html %}
-    {% elsif page.url contains "community-partners" %}
+    {% elsif page.permalink == "/community-partners/" %}
       {% include sponsors.html %}
     {% elsif page.permalink == "/transparency/" %}
       {% include board.html %}

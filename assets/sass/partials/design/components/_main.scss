@@ -12,4 +12,8 @@ main {
 
 .mainfront-wrapper {
     margin: 111px auto 0 auto;
+    display: none;
+    @include breakpoint($bp-medium, $no-query: '.no-mq') {
+        display: block;
+    }
 }
