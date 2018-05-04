@@ -38,7 +38,7 @@ layout: default
 
     <section class="ventue-project container-padding-medium">
         <div class="left">
-            <img src="{{site.cloudinaryurl}}image/fetch/w_416,h_416,c_fill,c_fill/{{site.url}}{{page.venture_project.image_path}}" alt="{{page.venture_project.title}}" data-img="{{site.url}}{{page.venture_project.image_path}}" data-width="416px" data-height="416px"
+            <img src="{{site.cloudinaryurl}}image/fetch/w_416,h_416,c_fill,c_fill,q_jpegmini/{{site.url}}{{page.venture_project.image_path}}" alt="{{page.venture_project.title}}" data-img="{{site.url}}{{page.venture_project.image_path}}" data-width="416px" data-height="416px"
             />
         </div>
         <div class="right editable">
@@ -63,7 +63,8 @@ layout: default
         </div>
         <div class="right">
             <a onclick="revealVideo('video','youtube')" class="play-button"><span class="arrow">play</span></a>
-            <img src="{{page.that_one_teacher.video_thumbnail_path}}" alt="{{page.that_one_teacher.video_title}}" />
+            <img src="{{site.cloudinaryurl}}image/fetch/q_jpegmini/{{site.url}}{{page.that_one_teacher.video_thumbnail_path}}" alt="{{page.that_one_teacher.video_title}}" data-img="{{page.that_one_teacher.video_thumbnail_path}}" />
+
         </div>
     </section>
 
@@ -87,7 +88,7 @@ layout: default
         <article class="news-and-update">
             <a href="{{post.url}}">
                 <h3>{{post.title}}</h3>
-                <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill/{{site.url}}{{post.image_path}}" alt="STEM Conference at CSU for girls" data-img="{{site.url}}{{post.image_path}}" data-width="299px" data-height="199px" />
+                <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill,q_jpegmini/{{site.url}}{{post.image_path}}" alt="STEM Conference at CSU for girls" data-img="{{site.url}}{{post.image_path}}" data-width="299px" data-height="199px" />
                 <h4 class="date">{{post.date | date: "%A, %b %d %Y | %I %P" }}</h4>
                 <p>{{ post.content | strip_html | truncatewords: 10 }}</p>
             </a>
