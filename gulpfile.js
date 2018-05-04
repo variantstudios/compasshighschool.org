@@ -14,7 +14,14 @@ var gulp = require('gulp'),
   fs = require('graceful-fs'),
   https = require('https'),
   gzip = require('gulp-gzip'),
-  path = require('path');
+  path = require('path'),
+  svgmin = require('gulp-svgmin');
+
+gulp.task('svg', function () {
+  return gulp.src('./assets/images/icons/*.svg')
+    .pipe(svgmin())
+    .pipe(gulp.dest('./assets/images/icons/'));
+});
 
 // var messages = {
 //   jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
@@ -81,7 +88,7 @@ gulp.task('watch', function () {
   gulp.watch('assets/js/dev/**', ['scripts']);
   gulp.watch(
     [
-      '**.md', '**.html', '_layouts/**.html', '_includes/**.html', '_includes/svg/**.html', '_data/**',
+      '**.md', '**.html', '_layouts/**.html', '_includes/**.html', '_data/**',
       'pages/**', 'assets/**.csv', 'assets/images/**', 'posts/**'
     ],
     ['jekyll-rebuild']
@@ -103,14 +110,15 @@ gulp.task('compass', function () {
       browsers: ['last 2 version', 'safari 5', 'ie 7', 'ie 8', 'ie 9', 'opera 12.1', 'ios 6', 'android 4']
     }))
     .pipe(gulp.dest('assets/css'))
-    .pipe(cleanCSS({debug: true, compatibility: 'ie8'}, (details) => {
+    .pipe(cleanCSS({compatibility: 'ie8'}, (details) => {
       console.log(`${details.name}: ${details.stats.originalSize}`);
       console.log(`${details.name}: ${details.stats.minifiedSize}`);
     }))
     .pipe(browserSync.reload({
       stream: true
     }))
-    .pipe(gulp.dest('_site/assets/css'));
+    //.pipe(gulp.dest('_site/assets/css'));
+    .pipe(gulp.dest('assets/css'));
 });
 
 // Minify CSS, Clean and Other Things
