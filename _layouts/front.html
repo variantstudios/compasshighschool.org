@@ -86,7 +86,7 @@ layout: default
         <article class="news-and-update">
             <a href="{{post.url}}">
                 <h3>{{post.title}}</h3>
-                <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill,q_jpegmini/{{site.url}}{{post.image_path}}" alt="STEM Conference at CSU for girls" data-img="{{site.url}}{{post.image_path}}" data-width="299px" data-height="199px" />
+                <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill,q_65/{{site.url}}{{post.image_path}}" alt="STEM Conference at CSU for girls" data-img="{{site.url}}{{post.image_path}}" data-width="299px" data-height="199px" />
                 <h4 class="date">{{post.date | date: "%A, %b %d %Y | %I %P" }}</h4>
                 <p>{{ post.content | strip_html | truncatewords: 10 }}</p>
             </a>
