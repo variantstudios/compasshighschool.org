@@ -13,29 +13,52 @@
         width: 100%;
         .find-your-genius-wrapper {
             background: #b9d531 url('/assets/images/front/find-your-genius_bg.png');
+            background-position: top center;
             height: 620px;
         }
         .title {
             position: absolute;
-            top: -190px;
-            left: -217px;
+            top: -95px;
+            left: -108px;
             animation-name: slideDownfromLeft;
             animation-duration: 1s;
             animation-timing-function: ease;
             animation-delay: .2s;
             opacity: 0;
             animation-fill-mode: forwards;
+            background: url('/assets/images/front/find-your-genius_title_md.png') no-repeat top left;
+            width: 568px;
+            height: 401px;
+            @include breakpoint(1300px,
+            $no-query: ".no-mq") {
+                top: -190px;
+                left: -217px;
+                background: url('/assets/images/front/find-your-genius_title.png') no-repeat top left;
+                width: 908px;
+                height: 642px;
+            }
         }
         .independent-learner {
             position: absolute;
-            top: -56px;
-            right: 364px;
+            top: 12px;
+            right: 238px;
             animation-name: slideDown;
             animation-duration: 1s;
             animation-timing-function: ease;
             animation-delay: .4s;
             opacity: 0;
             animation-fill-mode: forwards;
+            background: url('/assets/images/front/independent-learner_button_md.png') no-repeat top left;
+            width: 179px;
+            height: 175px;
+            @include breakpoint(1300px,
+            $no-query: ".no-mq") {
+                top: -56px;
+                right: 364px;
+                background: url('/assets/images/front/independent-learner_button.png') no-repeat top left;
+                width: 357px;
+                height: 350px;
+            }
         }
         .future-designer {
             position: absolute;
@@ -47,6 +70,17 @@
             animation-delay: .6s;
             opacity: 0;
             animation-fill-mode: forwards;
+            background: url('/assets/images/front/future-designer_button_md.png') no-repeat top left;
+            width: 179px;
+            height: 175px;
+            @include breakpoint(1300px,
+            $no-query: ".no-mq") {
+                bottom: 10px;
+                right: 170px;
+                background: url('/assets/images/front/future-designer_button.png') no-repeat top left;
+                width: 357px;
+                height: 350px;
+            }
         }
         .creative-inventor {
             position: absolute;
@@ -58,6 +92,17 @@
             animation-delay: .8s;
             opacity: 0;
             animation-fill-mode: forwards;
+            background: url('/assets/images/front/creative-inventor_button_md.png') no-repeat top left;
+            width: 179px;
+            height: 175px;
+            @include breakpoint(1300px,
+            $no-query: ".no-mq") {
+                top: -45px;
+                right: -55px;
+                background: url('/assets/images/front/creative-inventor_button.png') no-repeat top left;
+                width: 357px;
+                height: 350px;
+            }
         }
         .call-to-action {
             position: absolute;
@@ -89,6 +134,11 @@
             animation-delay: 1.3s;
             opacity: 0;
             animation-fill-mode: forwards;
+            font-size: 1.8rem;
+            @include breakpoint(1300px,
+            $no-query: ".no-mq") {
+                font-size: 2rem;
+            }
         }
     }
     .secondary {
@@ -263,14 +313,21 @@
     }
     .news-and-updates {
         display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
         .news-and-update {
             background-color: $color-one; // Citrus
-            margin: 0 1rem;
+            margin: .5rem;
             padding: .4rem .8rem;
-            width: 25%;
+            width: 45%;
             position: relative;
             text-decoration: none;
             transition: all 0.2s ease;
+            @include breakpoint(1300px,
+            $no-query: ".no-mq") {
+                width: 22%;
+                margin: 0 1rem;
+            }
             &:hover {
                 transform: scale(1.05);
                 box-shadow: 5px 10px 20px 0 rgba(0, 0, 0, 0.3);
@@ -320,12 +377,21 @@
         }
         .social-posts {
             display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            /* horizontal */
             .social-post {
                 background: #fff;
                 position: relative;
-                margin: 0 1rem;
+                width: 100%;
+                margin: 1rem;
                 transition: all 0.2s ease;
                 text-decoration: none;
+                @include breakpoint($bp-medium,
+                $no-query: ".no-mq") {
+                    margin: 1rem .5rem;
+                    width: 30%;
+                }
                 &:hover {
                     transform: scale(1.05);
                     box-shadow: 5px 10px 20px 0 rgba(0, 0, 0, 0.3);
@@ -354,8 +420,12 @@
                     }
                 }
                 img {
-                    max-width: 366px;
+                    min-width: 100%;
                     display: block;
+                    @include breakpoint(1300px,
+                    $no-query: ".no-mq") {
+                        //max-width: 366px;
+                    }
                 }
                 .social-text {
                     font-size: .7rem;
