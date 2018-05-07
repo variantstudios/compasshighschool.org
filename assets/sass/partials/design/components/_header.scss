@@ -13,6 +13,9 @@ header.siteheader {
         @include breakpoint($bp-medium, $no-query: ".no-mq") {
             @include grid-span(6, 7, $gutter: 0);
             text-align: right;
+            position: absolute;
+            top: 10px;
+            right: 10px;
         }
         a {
             color: $color-four;
@@ -36,7 +39,7 @@ header.siteheader {
 }
 
 #side-header {
-    padding: 1rem 0 0 0;
+    padding: 1rem 1rem 0 1rem;
     background: $header-bg;
     position: fixed;
     top: 0;

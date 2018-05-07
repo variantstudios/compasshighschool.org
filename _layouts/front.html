@@ -76,7 +76,7 @@ layout: default
             <p class="text-align-center"><a href="#" class="call-to-action">Become A Partner</a></p>
             <div class="logos">
                 {% for partnes in page.join_the_compass_community_partners %}
-                <span class="logo"><a href="{{partnes.site_url}}" target="_blank" title="{{partnes.title}}" rel="noopener noreferrer"><img src="{{site.cloudinaryurl}}image/fetch/{{site.url}}{{partnes.logo_path}}" alt="{{partnes.title}}" data-img="{{partnes.logo_path}}" /></a></span>                {% endfor %}
+                <span class="partner-logo"><a href="{{partnes.site_url}}" target="_blank" title="{{partnes.title}}" rel="noopener noreferrer"><img src="{{site.cloudinaryurl}}image/fetch/{{site.url}}{{partnes.logo_path}}" alt="{{partnes.title}}" data-img="{{partnes.logo_path}}" /></a></span>                {% endfor %}
             </div>
         </div>
     </section>

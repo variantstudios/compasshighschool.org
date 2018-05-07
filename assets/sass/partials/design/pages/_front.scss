@@ -143,22 +143,31 @@
     }
     .secondary {
         background-color: #fff;
+        padding: 0 1rem;
         h2 {
             font-family: $heading-font-family;
             color: $color-one;
             font-weight: 400;
-            font-size: 4rem;
+            font-size: 3rem;
             margin: 0;
             padding: 0;
             line-height: 1;
+            @include breakpoint($bp-medium,
+            $no-query: ".no-mq") {
+                font-size: 4rem;
+            }
         }
         h3 {
             font-family: $heading-font-family;
             color: $color-two;
             font-weight: 600;
-            font-size: 4rem;
+            font-size: 3rem;
             margin: 0;
             line-height: 1;
+            @include breakpoint($bp-medium,
+            $no-query: ".no-mq") {
+                font-size: 4rem;
+            }
         }
         p {
             font-size: 1.2rem;
@@ -167,17 +176,25 @@
         h4 {
             color: $color-one;
             display: inline;
-            font-size: 2.5rem;
+            font-size: 2rem;
             margin: 0 1rem 0 0;
             font-family: $font-family;
             font-weight: 900;
+            @include breakpoint($bp-medium,
+            $no-query: ".no-mq") {
+                font-size: 2.5rem;
+            }
         }
         h5 {
             font-family: $font-family;
             font-weight: 700;
             color: $color-two;
-            font-size: 2rem;
+            font-size: 1.6rem;
             display: inline-block;
+            @include breakpoint($bp-medium,
+            $no-query: ".no-mq") {
+                font-size: 2rem;
+            }
         }
         a.call-to-action {
             vertical-align: text-bottom;
@@ -206,27 +223,45 @@
         background: url('/assets/images/patterns/compass-nuts-and-bolts-pattern.png');
         @include clearfix;
         .left {
+            float: none;
+            width: 100%;
+            @include breakpoint($bp-small,
+            $no-query: ".no-mq") {
+                float: left;
+                width: 163px;
+                margin: 0 1rem 0 0;
+            }
             @include breakpoint($bp-medium,
             $no-query: ".no-mq") {
-                @include grid-span(4, 2, $gutter: 0);
+                @include grid-span(4,
+                2,
+                $gutter: 1);
             }
         }
         .right {
             h2 {
                 color: $color-one;
                 display: inline;
-                font-size: 2.5rem;
+                font-size: 2rem;
                 margin: 0 1rem 0 0;
                 font-family: $font-family;
                 font-weight: 500;
+                @include breakpoint($bp-small,
+                $no-query: ".no-mq") {
+                    font-size: 2.5rem;
+                }
             }
             h3 {
                 color: $color-one;
-                font-size: 2.5rem;
+                font-size: 2rem;
                 font-family: $font-family;
                 display: inline;
                 font-weight: 900;
                 margin: 0 0 1rem 0;
+                @include breakpoint($bp-small,
+                $no-query: ".no-mq") {
+                    font-size: 2.5rem;
+                }
             }
             p a {
                 font-weight: 700;
@@ -239,7 +274,11 @@
                 $gutter: 0);
             }
             .call-to-action {
-                text-align: right;
+                text-align: center;
+                @include breakpoint($bp-medium,
+                $no-query: ".no-mq") {
+                    text-align: right;
+                }
             }
         }
     }
@@ -254,15 +293,24 @@
             h2 {
                 color: $color-one;
                 display: inline;
-                font-size: 2.5rem;
+                font-size: 1.8rem;
                 margin: 0 1rem 0 0;
                 font-family: $font-family;
                 font-weight: 900;
+                @include breakpoint($bp-medium,
+                $no-query: ".no-mq") {
+                    font-size: 2.5rem;
+                }
             }
             h3 {
                 color: $color-five;
                 font-family: $font-family;
                 font-weight: 700;
+                font-size: 1.2em;
+                @include breakpoint($bp-medium,
+                $no-query: ".no-mq") {
+                    font-size: 1.4em;
+                }
             }
             p a {
                 font-weight: 700;
@@ -306,8 +354,15 @@
         }
         .logos {
             display: flex;
-            .logo {
-                margin: 0 2rem;
+            flex-wrap: wrap;
+            .partner-logo {
+                flex: 1 1 40%;
+                margin: 0 1rem 1rem 0;
+                @include breakpoint($bp-small,
+                $no-query: ".no-mq") {
+                    margin: 0 2rem;
+                    flex: 1;
+                }
             }
         }
     }
@@ -319,10 +374,14 @@
             background-color: $color-one; // Citrus
             margin: .5rem;
             padding: .4rem .8rem;
-            width: 45%;
+            width: 100%;
             position: relative;
             text-decoration: none;
             transition: all 0.2s ease;
+            @include breakpoint($bp-small,
+            $no-query: ".no-mq") {
+                width: 45%;
+            }
             @include breakpoint(1300px,
             $no-query: ".no-mq") {
                 width: 22%;
@@ -383,12 +442,17 @@
             .social-post {
                 background: #fff;
                 position: relative;
-                width: 100%;
                 margin: 1rem;
                 transition: all 0.2s ease;
                 text-decoration: none;
+                width: 100%;
+                @include breakpoint($bp-small,
+                $no-query: ".no-mq") {
+                    flex: 1 1 32%;
+                }
                 @include breakpoint($bp-medium,
                 $no-query: ".no-mq") {
+                    flex: initial;
                     margin: 1rem .5rem;
                     width: 30%;
                 }
@@ -468,7 +532,11 @@
 }
 
 .container-padding-medium {
-    padding: 2rem 0;
+    padding: 2rem;
+    @include breakpoint($bp-large,
+    $no-query: '.no-mq') {
+        padding: 2rem 0;
+    }
 }
 
 .container-padding-large {
