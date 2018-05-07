@@ -117,8 +117,8 @@ gulp.task('compass', function () {
     .pipe(browserSync.reload({
       stream: true
     }))
-    //.pipe(gulp.dest('_site/assets/css'));
-    .pipe(gulp.dest('assets/css'));
+    .pipe(gulp.dest('_site/assets/css'));
+  //.pipe(gulp.dest('assets/css'));
 });
 
 // Minify CSS, Clean and Other Things

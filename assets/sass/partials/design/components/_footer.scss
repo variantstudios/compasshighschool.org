@@ -1,6 +1,12 @@
 .footer-wrapper {
     background-color: $color-two; // Deep sky blue
     margin: 2rem 0 0 0;
+    .footer-inner.clearfix.container-padding-medium {
+        padding-bottom: 0;
+        @include breakpoint($bp-medium, $no-query: ".no-mq") {
+            padding-bottom: 2rem;
+        }
+    }
     .footer-inner {
         p {
             color: #fff;
@@ -14,11 +20,20 @@
             font-weight: 900;
         }
         .one {
-            @include breakpoint($bp-medium, $no-query: ".no-mq") {
+            @include breakpoint($bp-small, $no-query: ".no-mq") {
+                @include grid-span(6, 1, $gutter: 0);
+            }
+            @include breakpoint($bp-large, $no-query: ".no-mq") {
                 @include grid-span(4, 2, $gutter: 0);
             }
             .social-icons {
                 display: flex;
+                justify-content: center;
+                margin-bottom: 1rem;
+                @include breakpoint($bp-medium, $no-query: ".no-mq") {
+                    justify-content: left;
+                    margin-bottom: 0;
+                }
                 a {
                     margin: 0 .5rem;
                     &:first-child {
@@ -37,22 +52,42 @@
             }
         }
         .two {
-            @include breakpoint($bp-medium, $no-query: ".no-mq") {
+            @include breakpoint($bp-small, $no-query: ".no-mq") {
+                @include grid-span(6, 7, $gutter: 0);
+            }
+            @include breakpoint($bp-large, $no-query: ".no-mq") {
                 @include grid-span(3, 6, $gutter: 0);
             }
         }
         .three {
-            @include breakpoint($bp-medium, $no-query: ".no-mq") {
+            padding-top: 2rem;
+            text-align: center;
+            // @include grid-span(12, 1, $gutter: 0);
+            clear: both;
+            width: 100%;
+            @include breakpoint($bp-large, $no-query: ".no-mq") {
                 @include grid-span(3, 9, $gutter: 0);
+                text-align: left;
+                padding-top: 0;
             }
             .left {
-                @include breakpoint($bp-medium, $no-query: ".no-mq") {
+                width: 100%;
+                p {
+                    margin: 0;
+                    font-size: .9rem;
+                }
+                @include breakpoint(1200px, $no-query: ".no-mq") {
                     @include grid-span(8, 1, $gutter: 0);
+                    text-align: left;
+                    p {
+                        margin: auto auto 1.5em;
+                    }
                 }
             }
             .right {
-                //text-align: center;
-                @include breakpoint($bp-medium, $no-query: ".no-mq") {
+                display: none;
+                @include breakpoint(1200px, $no-query: ".no-mq") {
+                    display: block;
                     @include grid-span(4, 9, $gutter: 0);
                 }
                 text-align: left;
@@ -70,7 +105,7 @@
             width: 100%;
             text-align: center;
             p {
-                font-size: .9rem;
+                font-size: .6rem;
                 margin-bottom: .5rem;
                 a {
                     color: #fff;
@@ -80,6 +115,12 @@
                     &:hover {
                         color: $color-three;
                     }
+                }
+            }
+            padding: 0 2rem;
+            @include breakpoint($bp-large, $no-query: ".no-mq") {
+                p {
+                    font-size: .8rem;
                 }
             }
         }
