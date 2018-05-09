@@ -26,8 +26,8 @@ carousel_side_section:
   video_path: 'https://www.youtube.com/embed/CjSeH0K9PLY'
 announcements_and_events:
   content_html: >-
-    <p><strong>PARENT INFORMATION MEETING:</strong> Thursday, May 3, from
-    6:30-8p at the Northside Aztlan Community Center (112 Willow
+    <p><strong>BILINGUAL PARENT INFORMATION MEETING:</strong> Thursday, May 10,
+    from 6:30-8p at the Northside Aztlan Community Center (112 Willow
     Street).&nbsp;<em>Kids are always welcome, but we will not have a separate
     breakout activity for them this evening.</em></p><p><strong>PARENT ADVISORY
     COUNCIL MEETING</strong>: All enrolled parents are invited to get more
@@ -35,14 +35,13 @@ announcements_and_events:
     to meet others and get involved. It will take place on&nbsp;<em>Monday, May
     7, 2018, 6:30p at The Music District, 619 S. College Ave. We look forward to
     seeing you!</em></p><p><strong>Next CCC Board Meeting:</strong>&nbsp;Monday,
-    May 7, 2018, 6:30-8p at the Music District, 619 S. College
-    Ave.</p><p><strong>Building "Sneak Peek" has been POSTPONED DUE TO
-    COOKOUT-UNFRIENDLY WEATHER- now scheduled for 5-7p, MAY
+    June 11, 2018, 6:30-8p at the Music District, 619 S. College
+    Ave.</p><p><strong>Building "Sneak Peek" and&nbsp; COOKOUT 5-7p, MAY
     12th.&nbsp;</strong>Stop by for a look at our building (2105 S. College
     Ave.) that has just been gutted and is now beginning its reformation into a
-    big, open, bright and beautiful learning space. We will be grilling, so drop
-    by to catch the vision and a burger!</p><p><span style="font-size: 0.95em;
-    letter-spacing: 0.01rem;"><strong>MALL COLLAGE - April
+    big, open, bright and beautiful learning space. Staff will be grilling, so
+    drop by to catch the vision and a burger!</p><p><span style="font-size:
+    0.95em; letter-spacing: 0.01rem;"><strong>MALL COLLAGE - April
     28:</strong>&nbsp;Come help us create art at the Foothills Fashion Mall to
     let us know what you think education should look like. We will be there
     11a-5p.&nbsp;</span></p>
