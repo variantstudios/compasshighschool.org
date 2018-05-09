@@ -48,10 +48,7 @@ announcements_and_events:
     6:30p at The Music District, 619 S. College Ave. We look forward to seeing
     you!</em></p><p><strong>Next CCC Board Meeting:</strong>&nbsp;Monday, June
     11, 2018, 6:30-8p at the Music District, 619 S. College
-    Ave.</p><p>&nbsp;</p><p><span style="font-size: 0.95em; letter-spacing:
-    0.01rem;"><strong>MALL COLLAGE - April 28:</strong>&nbsp;Come help us create
-    art at the Foothills Fashion Mall to let us know what you think education
-    should look like. We will be there 11a-5p.&nbsp;</span></p>
+    Ave.</p><p>&nbsp;</p><p>&nbsp;</p>
 search_engine_optimization:
   page_title:
   page_description:
