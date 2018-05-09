@@ -41,11 +41,11 @@ announcements_and_events:
     obtenge respuestas a sus preguntas sobre la nueva opcion de escuela
     secundaria en Fort Collins. Comida sera servida. <strong>Monday, May 14,
     6-7p </strong>at the North Club House, Timber Ridge Neighborhood. 3717 S.
-    Taft Hill Rd.</p><p><strong>PARENT ADVISORY COUNCIL MEETING</strong>: All
-    enrolled parents are invited to get more involved in the development of CCC.
-    Please join us for our 5th PAC meeting to meet others and get involved. It
-    will take place on&nbsp;<em>Monday, May 7, 2018, 6:30p at The Music
-    District, 619 S. College Ave. We look forward to seeing
+    Taft Hill Rd. Food will be served!</p><p><strong>PARENT ADVISORY COUNCIL
+    MEETING</strong>: All enrolled parents are invited to get more involved in
+    the development of CCC. Please join us for our 5th PAC meeting to meet
+    others and get involved. It will take place on&nbsp;<em>Monday, May 7, 2018,
+    6:30p at The Music District, 619 S. College Ave. We look forward to seeing
     you!</em></p><p><strong>Next CCC Board Meeting:</strong>&nbsp;Monday, June
     11, 2018, 6:30-8p at the Music District, 619 S. College
     Ave.</p><p>&nbsp;</p><p><span style="font-size: 0.95em; letter-spacing:
