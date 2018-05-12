@@ -1,9 +1,9 @@
 ---
 title: Fort Collins Economic Development
 date: 2018-05-12 11:30:00
-image_path: 'https://youtu.be/WbmuZFQzFik'
+image_path:
 categories:
-iframe_content:
+iframe_content: 'https://youtu.be/WbmuZFQzFik'
 search_engine_optimization:
   page_title:
   page_description:
