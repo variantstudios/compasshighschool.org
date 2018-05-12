@@ -12,7 +12,7 @@ search_engine_optimization:
   page_description:
 ---
 
-As you may have noticed, Fort Collins is focused on strong economic development in throughout the city.  To hear a bit about the projects and sites that are presently a focus, check out this video.  
+As you may have noticed, Fort Collins is focused on strong economic development throughout the city.&nbsp; To hear a bit about the projects and sites that are presently a focus, check out this video.&nbsp;&nbsp;
 
 You may even catch some information about a new school under development.
 
