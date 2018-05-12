@@ -12,7 +12,3 @@ search_engine_optimization:
 ![](/assets/images/compass-sneak-peek-1.png)
 
 Hope to see you there tonight!
-
-&nbsp;
-
-&nbsp;
