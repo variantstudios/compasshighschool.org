@@ -74,5 +74,3 @@ search_engine_optimization:
 ##### <br>What would constitute a "perfect day"?
 
 *75 degrees, sunny, mountain lake with things to jump off of, a comfy spot to sit and have a conversation with someone interesting and funny*
-
-#####
