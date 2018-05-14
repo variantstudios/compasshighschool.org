@@ -1,6 +1,6 @@
 ---
 title: Careers
-sub_title: Stay tuned for job postings in early 2018!
+sub_title: We have positions available!
 header_image: /assets/images/stratop-team-final-final.jpg
 search_engine_optimization:
   page_title: Careers
@@ -8,7 +8,6 @@ search_engine_optimization:
 permalink: /careers/
 layout: page
 ---
-
 
 ## Careers
 
