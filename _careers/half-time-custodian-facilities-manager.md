@@ -6,6 +6,10 @@ show: true
 
 &nbsp;
 
+![](/assets/images/compass-logo.jpg)
+
+## Half-Time Custodian Facilities Manager
+
 ### Who are we?
 
 We are a new charter school opening in mid-town Fort Collins in August 2018, serving a diverse population of students in grades 6-10 from across the Northern Colorado region. Employing a hands-on learning curriculum, we will inspire thoughtful and creative problem-solvers who aspire to live with integrity and compassion and have the skills to be positive change-makers in the world. Compass Community Collaborative is dedicated to personalized, competency-based learning to help all students discover learning with purpose; to author the best story of their lives and our collective future.
@@ -52,10 +56,10 @@ An annual pass to ride the Fort Collins MAX bus
 
 Send a letter of interest and resume to jan@compassfortcollins.org to tell us about yourself and why you think you are an excellent candidate for this position in our school.
 
-### **Deadline for applicants: **
+### \*\*Deadline for applicants: \*\*
 
 May 25, 2018 5p
 
-### **Job starts: &nbsp; **
+### \*\*Job starts: &nbsp; \*\*
 
 August 13, 2018 and follows the Poudre School District high school calendar for the school year 2018/19.
