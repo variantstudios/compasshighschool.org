@@ -6,6 +6,10 @@ show: true
 
 &nbsp;
 
+### Paraprofessional Special Education Support
+
+### &nbsp;
+
 ### **Who are we?**
 
 Are you a trailblazer, observer, visionary, and innovator ready to discover learning with purpose alongside a team of students and professional educators? We are. And we are looking for a paraprofessional to join our team. We believe in place-based education that shifts learning out of the traditional classroom setting and puts kids back into the community ready to share their unique genius. We are Compass Community Collaborative School.
