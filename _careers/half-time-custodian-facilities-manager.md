@@ -6,8 +6,6 @@ show: true
 
 &nbsp;
 
-![](/assets/images/compass-logo.jpg)
-
 ## Half-Time Custodian Facilities Manager
 
 ### Who are we?
