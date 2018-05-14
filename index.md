@@ -29,26 +29,15 @@ announcements_and_events:
     <p><strong>BILINGUAL PARENT INFORMATION MEETING:</strong>&nbsp;Venga a
     conocer el equipo de Compass y obtenge respuestas a sus preguntas sobre la
     nueva opcion de escuela secundaria en Fort Collins. Comida sera servida.
-    Thursday, May 10, from 6:30-8p at the Northside Aztlan Community Center (112
-    Willow Street).&nbsp;<em>Kids are always welcome, but we will not have a
-    separate breakout activity for them this
-    evening.</em></p><p><strong>Building "Sneak Peek" and&nbsp; COOKOUT 5-7p,
-    MAY 12th.&nbsp;</strong>Stop by for a look at our building (2105 S. College
-    Ave.) that has just been gutted and is now beginning its reformation into a
-    big, open, bright and beautiful learning space. Staff will be grilling, so
-    drop by to catch the vision and a burger!</p><p><strong>BILINGUAL PARENT
-    INFORMATION MEETING:</strong>&nbsp;Venga a conocer el equipo de Compass y
-    obtenge respuestas a sus preguntas sobre la nueva opcion de escuela
-    secundaria en Fort Collins. Comida sera servida. <strong>Monday, May 14,
-    6-7p </strong>at the North Club House, Timber Ridge Neighborhood. 3717 S.
-    Taft Hill Rd. Food will be served!</p><p><strong>PARENT ADVISORY COUNCIL
-    MEETING</strong>: All enrolled parents are invited to get more involved in
-    the development of CCC. Please join us for our 5th PAC meeting to meet
-    others and get involved. It will take place on&nbsp;<em>Monday, May 7, 2018,
-    6:30p at The Music District, 619 S. College Ave. We look forward to seeing
-    you!</em></p><p><strong>Next CCC Board Meeting:</strong>&nbsp;Monday, June
-    11, 2018, 6:30-8p at the Music District, 619 S. College
-    Ave.</p><p>&nbsp;</p><p>&nbsp;</p>
+    <strong>Monday, May 14, 6-7p </strong>at the North Club House, Timber Ridge
+    Neighborhood. 3717 S. Taft Hill Rd. Food will be
+    served!</p><p><strong>PARENT ADVISORY COUNCIL MEETING</strong>: All enrolled
+    parents are invited to get more involved in the development of CCC. Please
+    join us for our 5th PAC meeting to meet others and get involved. It will
+    take place on&nbsp;<em>Monday, May 7, 2018, 6:30p at The Music District, 619
+    S. College Ave. We look forward to seeing you!</em></p><p><strong>Next CCC
+    Board Meeting:</strong>&nbsp;Monday, June 11, 2018, 6:30-8p at the Music
+    District, 619 S. College Ave.</p><p>&nbsp;</p><p>&nbsp;</p>
 search_engine_optimization:
   page_title:
   page_description:
