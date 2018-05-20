@@ -56,14 +56,11 @@ stripe:
 permalink: /transparency/
 layout: page
 ---
+
 # Transparency
 
 ### Agendas and Minutes from Board Meetings plus Financial Transparency
 
-Financial Transparency
+[Financial Transparency](/financial-transparency/)
 
-Student Privacy
-
-
-
-
+[Student Privacy](/student-privacy/)
