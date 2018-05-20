@@ -1,13 +1,22 @@
 ---
 title: Levels of Autonomy
-sub_title: 
-header_image: 
+sub_title:
+header_image: /assets/images/backgrounds/maddie-and-lilly.jpg
 search_engine_optimization:
   page_title: Levels of Autonomy
-  page_description: 
+  page_description:
 permalink: /levels-of-autonomy/
 layout: page
 ---
+
 # Levels of Autonomy
-Perlucentibus ture fameque, pectora non neque percutit caelo tempora additur et posset cuius. Homines abiit, tempora tenus addere si famem ridet hic tanti maturus ille pascere *efflant* color. Carcere corpora undas; [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
- iugulum suprema tanti, oscula hominis oraque requiescit sorores animasque, nec.
+
+Students aren’t grouped by age into grade levels at Compass, rather they “level up” through four Levels of Autonomy by demonstrating achievement&nbsp; in&nbsp;[core academic and life skills](/academics/).&nbsp; This ensures that students are learning what they need to learn when they are ready to learn it, not just because of their age.
+
+(image)
+
+### LEVELING UP
+
+Compass students are ready for the next level when they have acquired academic skills required at any level, when their 360 Team (including student, certified teacher, family member, and outside community member) determines their readiness, and when they have earned digital badges in the appropriate Compass Competencies.&nbsp; Different students will move through these levels at their own pace.&nbsp; For example, an older, more mature student may “level up” more quickly than a young student, who may remain an Explorer for longer.
+
+Download our '[Compass Student Levels of Autonomy](/assets/pdf/Compass Levels of Autonomy - Web.pdf){: target="_blank"}'
