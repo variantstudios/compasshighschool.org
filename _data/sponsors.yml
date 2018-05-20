@@ -1,5 +1,5 @@
 - name: Big Picture Learning
-  link: www.bigpicture.org
+  link: 'http://www.bigpicture.org'
   image_path: /assets/images/BigPicture Logo.jpg
 - name: Variant Studios
   link: 'https://www.variantstudios.com/'
