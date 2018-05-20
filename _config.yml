@@ -130,25 +130,6 @@ _options:
     expandable: false
     uploads_dir: "assets/images/share"
     
-# _options:
-#   some_markdown:
-#     bold: true
-#     table: true
-#   _text:
-#     italic: true
-#   _block:
-#     format: p h3
-#     undo: true
-#     redo: true
-#   content:
-#     format: p h1 h2 h3 h4 h5 h6 pre address div
-#     bold: true
-#     numberedlist: true
-#     code: true
-#     table: true
-#     right: align-to-right
-#     styles: /_sass/_content-typography.scss    
-    
 _comments:
   share_image_path: "The social share image needs to be at least 1200x1200px and if not that exact same size CloudCannon will scale and crop it to 1200x1200."
 
