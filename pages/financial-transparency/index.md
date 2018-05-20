@@ -1,6 +1,6 @@
 ---
 title: Financial Transparency
-header_image: /assets/images/backgrounds/csu-lab-joaquin.jpg
+header_image: /assets/images/backgrounds/group-shot-notepads.jpg
 search_engine_optimization:
   page_title: "Financial Transparency"
   page_description: ""
