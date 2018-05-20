@@ -173,7 +173,7 @@ input[type="file"] {
           box-sizing: border-box;
   padding: 1em 1.25em;
   font-size: 100%;
-  font-family: "Abhaya Libre", serif;
+  font-family: "Montserrat", sans-serif;
   border: 1px solid #D3D3D3;
   border-bottom: 0;
   border-radius: 0;
@@ -222,7 +222,7 @@ input[type="submit"] {
   cursor: pointer;
   padding: .5em 1.25em;
   font-size: 95%;
-  font-family: "Abhaya Libre", serif;
+  font-family: "Montserrat", sans-serif;
   -webkit-transition: all linear 0.2s;
   transition: all linear 0.2s;
   cursor: pointer;
@@ -255,7 +255,7 @@ input[type="submit"]:hover {
   cursor: pointer;
   padding: .5em 1.25em;
   font-size: 95%;
-  font-family: "Abhaya Libre", serif;
+  font-family: "Montserrat", sans-serif;
   -webkit-transition: all linear 0.2s;
   transition: all linear 0.2s;
 }
@@ -1541,6 +1541,24 @@ a.call-to-action:hover {
   width: 100%;
   left: 0;
   top: 0;
+}
+
+.gsc-control-cse {
+  background: none;
+  border: none;
+}
+.gsc-control-cse table td {
+  padding: 0;
+}
+.gsc-control-cse input[type=text] {
+  border: none !important;
+}
+.gsc-control-cse gsc-input.input[type=text] {
+  border: none !important;
+}
+.gsc-control-cse .gsc-search-box-tools .gsc-search-box .gsc-input {
+  padding: 1rem !important;
+  background: none !important;
 }
 
 form .form-super-group {

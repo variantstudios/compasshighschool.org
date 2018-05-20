@@ -1,38 +1,19 @@
----
-layout: default
+--- 
+layout: default 
 ---
 <div class="background">
-{% comment %} <img src="/assets/images/backgrounds/note-cards-on-the-board.jpg" alt="Compass background" class="bg"> {% endcomment %}
-  <section class="subpage wrap">
-    <div>{{ content }}</div>
-    
-    {% if page.permalink == "/contribute/" %}
-     {% include contribute.html %}
-    {% elsif page.permalink == "/faqs/" %}
-      {% include faqs.html %}
-    {% elsif page.permalink == "/contact-us/" %}
-      {% include contact-form.html %}
-    {% elsif page.permalink == "/our-team/" %}
-      {% include team.html %}
-    {% elsif page.permalink == "/careers/" %}
-      {% include careers.html %}
-    {% elsif page.permalink == "/community-partners/" %}
-      {% include sponsors.html %}
-    {% elsif page.permalink == "/transparency/" %}
-      {% include board.html %}
-    {% endif %}
+    {% comment %} <img src="/assets/images/backgrounds/note-cards-on-the-board.jpg" alt="Compass background" class="bg"> {% endcomment %}
+    <section class="subpage wrap">
+        <div>{{ content }}</div>
 
-    {% if page.stripe.show == true %}
-        {% include stripe.html %}
-    {% endif %}
+        {% if page.permalink == "/contribute/" %} {% include contribute.html %} {% elsif page.permalink == "/faqs/" %} {% include faqs.html %} {% elsif page.permalink == "/contact-us/" %} {% include contact-form.html %} {% elsif page.permalink == "/search/" %}
+        {% include google-search.html %} {% elsif page.permalink == "/our-team/" %} {% include team.html %} {% elsif page.permalink == "/careers/" %} {% include careers.html %} {% elsif page.permalink == "/community-partners/" %} {% include sponsors.html
+        %} {% elsif page.permalink == "/transparency/" %} {% include board.html %} {% endif %} {% if page.stripe.show == true %} {% include stripe.html %} {% endif %} {% if page.iframe.url %}
+        <div id="iframe">
+            <h3>{{page.iframe.title}}</h3>
+            <iframe src="{{page.iframe.url}}" width="{{page.iframe.width}}" height="{{page.iframe.height}}" frameborder="0">Loading...</iframe>
+        </div>
+        {% endif %}
 
-    {% if page.iframe.url %}
-    <div id="iframe">
-    <h3>{{page.iframe.title}}</h3>
-    <iframe src="{{page.iframe.url}}" width="{{page.iframe.width}}" height="{{page.iframe.height}}" frameborder="0">Loading...</iframe>
-    </div>
-    {% endif %}
-
-  </section>
+    </section>
 </div>
-
