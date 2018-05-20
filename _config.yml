@@ -105,9 +105,12 @@ _options:
   _text:
     italic: true
   _block:
-    format: p h3
-    undo: true
-    redo: true
+    # format: p h3
+    # undo: true
+    # redo: true
+    left: align-to-left
+    center: align-to-center
+    right: align-to-right
   content:
     removeformat: true
     format: p h1 h2 h3 h4 h5 h6 pre address div
@@ -119,9 +122,9 @@ _options:
     table: true
     link: true
     image: true
-    left: align-to-left
-    center: align-to-center
-    right: align-to-right
+    # left: align-to-left
+    # center: align-to-center
+    # right: align-to-right
     styles: /assets/css/wysiwyg.scss
   share_image_path:
     width: 1200
