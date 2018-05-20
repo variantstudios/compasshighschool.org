@@ -7,7 +7,9 @@ search_engine_optimization:
 permalink: /resources/
 layout: page
 ---
-## Resources Informing the Work in the Development of Compass High School, Fort Collins, CO
+# Resources
+
+### Resources Informing the Work in the Development of Compass High School, Fort Collins, CO
 
 Berger, Warren. (2014). A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas. New York: Bloomsberry USA
 
@@ -85,7 +87,7 @@ Zhao, Yong, et.al. (2016). A Take Action Guide to World Class Learners: How to M
 
 [http://www.theatlantic.com/education/archive/2015/08/why-school-should-start-later/401489/](http://www.theatlantic.com/education/archive/2015/08/why-school-should-start-later/401489/)
 
-## School and Education Models:
+### School and Education Models:
 
 Big Picture Learning Schools: [http://www.bigpicture.org/about-us/](http://www.bigpicture.org/about-us/)
 
@@ -105,7 +107,7 @@ Jeffco Open School: [https://sites.google.com/a/jeffcoschools.us/jcos/](https://
 
 Watershed School, Boulder, CO
 
-## Rich Websites:
+### Rich Websites:
 
 Education Redesign Lab: [http://edredesign.org](http://edredesign.org)
 
@@ -119,7 +121,7 @@ XQ Super School Project – Website: [http://www.XQsuperschool.org](http://www.X
 
 Coalition for Access, Affordability, and Success – Website: [https://www.insidehighered.com/news/2015/09/29/80-colleges-and-universities-announce-plan-new-application-and-new-approach](https://www.insidehighered.com/news/2015/09/29/80-colleges-and-universities-announce-plan-new-application-and-new-approach)
 
-## Adolescent brain and brain learning research:
+### Adolescent brain and brain learning research:
 
 Carol Dweck (2006). MIndset: The New Psychology of Success. New York: Random House.
 

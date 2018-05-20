@@ -1,6 +1,6 @@
 ---
 title: Transparency
-header_image: /assets/images/img-2811.jpg
+header_image: /assets/images/backgrounds/ccc-rockstars.jpg
 search_engine_optimization:
   page_title: Transparency
   page_description:
@@ -57,3 +57,13 @@ permalink: /transparency/
 layout: page
 ---
 # Transparency
+
+### Agendas and Minutes from Board Meetings plus Financial Transparency
+
+Financial Transparency
+
+Student Privacy
+
+
+
+

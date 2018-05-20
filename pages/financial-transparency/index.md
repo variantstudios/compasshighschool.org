@@ -9,4 +9,4 @@ layout: page
 ---
 # Financial Transparency
 
-## Agendas and Minutes from Board Meetings plus Financial Transparency
+Coming Soon
