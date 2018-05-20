@@ -1,5 +1,6 @@
 ---
 title: Admissions
+header_image: /assets/images/backgrounds/ccc-rockstars.jpg
 search_engine_optimization:
   page_title: Admissions
   page_description:
