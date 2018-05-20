@@ -11,5 +11,3 @@ layout: page
 # Financial Transparency
 
 Coming Soon
-
-{% highlight ruby %}&nbsp;<br>print “hello world”&nbsp;<br>{% endhighlight %}
