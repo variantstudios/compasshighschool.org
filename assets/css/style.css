@@ -202,7 +202,7 @@ textarea {
   font-size: 100%;
   border: 1px solid #D3D3D3;
   border-radius: 0;
-  font-family: "Abhaya Libre", serif;
+  font-family: "Montserrat", sans-serif;
 }
 textarea:active, textarea:focus {
   background: #fafafa;
