@@ -11,7 +11,13 @@
         border: none !important;
     }
     .gsc-search-box-tools .gsc-search-box .gsc-input {
-        padding: 1rem !important;
+        padding: 0 .5rem 0 0 !important;
         background: none !important;
+        margin: 10px !important;
+    }
+    .gsc-search-button-v2 {
+        background: $color-two;
+        border: none;
+        padding: 11px 27px;
     }
 }
