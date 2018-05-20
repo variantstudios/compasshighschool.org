@@ -3,7 +3,7 @@ h1 {
 }
 
 h2 {
-    font-size: 2.6em;
+    font-size: 2.2em;
 }
 
 h3 {
@@ -15,11 +15,11 @@ h4 {
 }
 
 h5 {
-    font-size: 2.2em;
+    font-size: .8em;
 }
 
 h6 {
-    font-size: 2em;
+    font-size: .6em;
 }
 
 @include breakpoint($bp-small-down) {

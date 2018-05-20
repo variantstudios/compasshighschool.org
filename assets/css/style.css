@@ -69,7 +69,7 @@ h1 {
 }
 
 h2 {
-  font-size: 2.6em;
+  font-size: 2.2em;
 }
 
 h3 {
@@ -81,11 +81,11 @@ h4 {
 }
 
 h5 {
-  font-size: 2.2em;
+  font-size: .8em;
 }
 
 h6 {
-  font-size: 2em;
+  font-size: .6em;
 }
 
 @media (min-width: 0) and (max-width: 37.5em) {
@@ -412,6 +412,10 @@ ul.pager li a:visited {
 }
 .sg-block .main-nav, .sg-block .contact-form {
   margin-bottom: 2em;
+}
+
+iframe {
+  width: 100%;
 }
 
 @media (min-width: 50em) {
@@ -2673,25 +2677,25 @@ form .align-right {
   clear: none;
 }
 
-body.not-front h1 {
+body.not-front section.subpage h1 {
   color: #00AEEF;
 }
-body.not-front h2 {
+body.not-front section.subpage h2 {
   font-family: "Montserrat", sans-serif;
 }
-body.not-front h3 {
+body.not-front section.subpage h3 {
   font-family: "Montserrat", sans-serif;
 }
-body.not-front h4 {
+body.not-front section.subpage h4 {
   font-family: "Montserrat", sans-serif;
 }
-body.not-front h5 {
+body.not-front section.subpage h5 {
   font-family: "Montserrat", sans-serif;
 }
-body.not-front h6 {
+body.not-front section.subpage h6 {
   font-family: "Montserrat", sans-serif;
 }
-body.not-front p a {
+body.not-front section.subpage p a {
   border-bottom: 2px #00AEEF solid;
   -webkit-box-shadow: inset 0 -6px 0 #00AEEF;
           box-shadow: inset 0 -6px 0 #00AEEF;
@@ -2700,7 +2704,22 @@ body.not-front p a {
   transition: all .3s ease;
   color: #4D4D4F;
 }
-body.not-front p a:hover {
+body.not-front section.subpage p a:hover {
+  -webkit-box-shadow: inset 0 -25px 0 #00AEEF;
+          box-shadow: inset 0 -25px 0 #00AEEF;
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+}
+body.not-front section.subpage ul li a {
+  border-bottom: 2px #00AEEF solid;
+  -webkit-box-shadow: inset 0 -6px 0 #00AEEF;
+          box-shadow: inset 0 -6px 0 #00AEEF;
+  text-decoration: none;
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+  color: #4D4D4F;
+}
+body.not-front section.subpage ul li a:hover {
   -webkit-box-shadow: inset 0 -25px 0 #00AEEF;
           box-shadow: inset 0 -25px 0 #00AEEF;
   -webkit-transition: all .3s ease;
