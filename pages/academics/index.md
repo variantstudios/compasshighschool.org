@@ -22,11 +22,13 @@ Our certified teachers work with students to ensure that they graduate with all 
 * Compass students participate daily in the highly individualized&nbsp;[Summit Learning Platform](https://www.summitlearning.org/){: target="_blank"}.&nbsp; Students progress is continuously monitored to guarantee that every student is moving towards meeting academic standards. Independent work is supported by our teachers-as-coaches.
 * Compass&nbsp;[Venture Projects](/venture-projects/)&nbsp;are co-created by certified teachers, community members, and students to intentionally meet academic standards across disciplines.
 
+&nbsp;
+
 ### COMPASS COMPETENCIES
 
 Compass students do more than just master traditional academic content.&nbsp; At Compass, we award digital badges when students demonstrate mastery of eight core competencies.&nbsp; These are the skills colleges want.&nbsp; These are the skills employers want.&nbsp; These are the skills that make Compass students successful in life.
 
-(image)
+![](/assets/images/cutting-edge.png)
 
 ### COLLEGE COURSES AND INTERNSHIPS
 
@@ -72,7 +74,7 @@ Small group seminars and online academic skill development and practice research
 
 With the guidance of evidence-based research, we have created eight core competencies that will drive instruction, reflection, and assessment of mastery for both staff and students. In addition to academic common core standards and next generation science standards, master of these eight skills will guide teacher evaluation and measure student achievement:
 
-(image)
+![](/assets/images/cutting-edge.png)
 
 ### Community Involvement
 
