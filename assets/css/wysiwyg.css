@@ -1,11 +1,11 @@
-.in-page--call-to-action {
+span.in-page--call-to-action {
     padding: 2.5rem 0;
     margin: 2rem 0;
     background-color: #2AACE2;
     background: url(/assets/images/patterns/blue-halftone-dot-pattern.png);
     text-align: center;
 }
-.in-page--call-to-action h2 {
+span.in-page--call-to-action h2 {
     color: #fff;
     display: inline;
     font-size: 3rem;
@@ -13,10 +13,10 @@
     font-family: "Montserrat", sans-serif;
     font-weight: 900;
 }
-.in-page--call-to-action a {
+span.in-page--call-to-action a {
     vertical-align: text-bottom;
 }
-.in-page--call-to-action a {
+span.in-page--call-to-action a {
     color: #fff;
     text-decoration: none;
     background-color: #ED197B;
