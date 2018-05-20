@@ -114,6 +114,8 @@ _options:
     bold: true
     numberedlist: true
     bulletedlist: true
+    outdent: true
+    indent: true
     table: true
     link: true
     left: align-to-left
