@@ -2696,3 +2696,20 @@ body.not-front p a:hover {
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
 }
+
+.board {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.board .board-wrapper {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+.board .board-wrapper ul {
+  padding: 0;
+}
+.board .board-wrapper ul li {
+  display: block;
+}

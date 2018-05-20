@@ -57,3 +57,13 @@ permalink: /transparency/
 layout: page
 ---
 # Transparency
+
+### Agendas and Minutes from Board Meetings plus Financial Transparency
+
+Financial Transparency
+
+Student Privacy
+
+
+
+
