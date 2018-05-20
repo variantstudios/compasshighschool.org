@@ -7,7 +7,18 @@ search_engine_optimization:
 permalink: "/admissions/"
 layout: page
 ---
+
 # Admissions
 
-Perlucentibus ture fameque, pectora non neque percutit caelo tempora additur et posset cuius. Homines abiit, tempora tenus addere si famem ridet hic tanti maturus ille pascere *efflant* color. Carcere corpora undas; [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
- iugulum suprema tanti, oscula hominis oraque requiescit sorores animasque, nec.
+### 2018-2019 SCHOOL YEAR
+
+We currently have space on a first-come first-serve basis. &nbsp;Space is limited, and since announcing out central location, is filling fast. &nbsp;
+
+* Fill out the Intent to Enroll form. &nbsp;This begins the registration process, but filling out this form DOES NOT REGISTER YOUR CHILD.
+* Watch your inbox and mailbox for registration information. You will have the option of either filling out the online PDF, or waiting for a registration form in the mail.&nbsp;
+
+[Intent to Enroll Form](/parents/#iframe).
+
+### FUTURE COMPASS STUDENTS
+
+We fully anticipate moving to a lottery system for admissions beginning in 2019-2020.
