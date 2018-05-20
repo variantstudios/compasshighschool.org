@@ -91,8 +91,9 @@ layout: default
                 <h3>{{post.title}}</h3>
                 {% if post.image_path %}
                 <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill,q_65/{{site.url}}{{post.image_path}}" alt="{{post.title}}" data-img="{{site.url}}{{post.image_path}}" data-width="300px" data-height="200px" />
-                {% elseif %}
+                {% else %}
                 <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill,q_65/{{site.url}}/assets/images/blog-placeholder.png" alt="{{post.title}}" data-img="{{site.url}}/assets/images/blog-placeholder.png" data-width="300px" data-height="200px" />
+                {% endif %}
                 <h4 class="date">{{post.date | date: "%A, %b %d %Y | %I %P" }}</h4>
                 <p>{{ post.content | strip_html | truncatewords: 10 }}</p>
             </a>
