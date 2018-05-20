@@ -7,6 +7,7 @@ search_engine_optimization:
 permalink: /resources/
 layout: page
 ---
+
 # Resources
 
 ### Resources Informing the Work in the Development of Compass High School, Fort Collins, CO
@@ -89,37 +90,37 @@ Zhao, Yong, et.al. (2016). A Take Action Guide to World Class Learners: How to M
 
 ### School and Education Models:
 
-Big Picture Learning Schools: [http://www.bigpicture.org/about-us/](http://www.bigpicture.org/about-us/)
+[Big Picture Learning Schools](http://www.bigpicture.org/about-us/){: target="_blank"}
 
-Compass Montessori School, Golden, CO: [https://sites.google.com/a/compassmontessorievents.com/compass-main/home](https://sites.google.com/a/compassmontessorievents.com/compass-main/home)
+[Compass Montessori School, Golden, CO](https://sites.google.com/a/compassmontessorievents.com/compass-main/home){: target="_blank"}
 
-Design 39 Campus: [https://sites.google.com/site/design39campus/](https://sites.google.com/site/design39campus/)
+[Design 39 Campus](https://sites.google.com/site/design39campus/){: target="_blank"}
 
-Education Reimagined: [http://education-reimagined.org/](http://education-reimagined.org/)
+[Education Reimagined](http://education-reimagined.org/){: target="_blank"}
 
-Health Sciences High and Middle College: [http://hshmc.org](http://hshmc.org)
+[Health Sciences High and Middle College](http://hshmc.org){: target="_blank"}
 
-High Tech High, in San Diego, CA: [http://www.hightechhigh.org/schools/HTHPL/](http://www.hightechhigh.org/schools/HTHPL/) (also featured in Sundance award-winning film: Most Likely to Succeed which we are planning to screen in Fort Collins this winter)
+[High Tech High, in San Diego, CA](http://www.hightechhigh.org/schools/HTHPL/){: target="_blank"}: (also featured in Sundance award-winning film: Most Likely to Succeed which we are planning to screen in Fort Collins this winter)
 
-School of Environmental Studies, Apple Valley, MN: [http://sesmn.org/](http://sesmn.org/)
+[School of Environmental Studies, Apple Valley, MN](http://sesmn.org/){: target="_blank"}
 
-Jeffco Open School: [https://sites.google.com/a/jeffcoschools.us/jcos/](https://sites.google.com/a/jeffcoschools.us/jcos/)
+[Jeffco Open School](https://sites.google.com/a/jeffcoschools.us/jcos/){: target="_blank"}
 
-Watershed School, Boulder, CO
+[Watershed School, Boulder, CO](http://www.watershedschool.org/){: target="_blank"}
 
 ### Rich Websites:
 
-Education Redesign Lab: [http://edredesign.org](http://edredesign.org)
+[Education Redesign Lab](http://edredesign.org){: target="_blank"}
 
-Knowledge Works Website: [http://www.knowledgeworks.org](http://www.knowledgeworks.org)
+[Knowledge Works Website](http://www.knowledgeworks.org){: target="_blank"}
 
-ReSchool Colorado: [http://dkfoundation.org/our-work/reschool-colorado/reschool-colorado](http://dkfoundation.org/our-work/reschool-colorado/reschool-colorado)
+[ReSchool Colorado](http://dkfoundation.org/our-work/reschool-colorado/reschool-colorado){: target="_blank"}
 
-Q.E.D. Foundation [http://qedfoundation.org/](http://qedfoundation.org/)
+[Q.E.D. Foundation](http://qedfoundation.org/){: target="_blank"}
 
-XQ Super School Project – Website: [http://www.XQsuperschool.org](http://www.XQsuperschool.org)
+[XQ Super School Project](http://www.XQsuperschool.org){: target="_blank"}
 
-Coalition for Access, Affordability, and Success – Website: [https://www.insidehighered.com/news/2015/09/29/80-colleges-and-universities-announce-plan-new-application-and-new-approach](https://www.insidehighered.com/news/2015/09/29/80-colleges-and-universities-announce-plan-new-application-and-new-approach)
+[Coalition for Access, Affordability, and Success]( https://www.insidehighered.com/news/2015/09/29/80-colleges-and-universities-announce-plan-new-application-and-new-approach){: target="_blank"}
 
 ### Adolescent brain and brain learning research:
 
@@ -131,4 +132,4 @@ Feinberg, Cara. (June, 1015). “The Science of Scarcity” Harvard Magazine.
 
 Giedd, Jay N. (June 2015). “The Amazing Teen Brain” *Scientific American Magazine.*
 
-Siegel, Dan Dr. – videos, books, website: [http://drdansiegel.com/](http://drdansiegel.com/)
+[Siegel, Dan Dr. – videos, books, website](http://drdansiegel.com/){: target="_blank"}
