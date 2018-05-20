@@ -14,14 +14,6 @@ layout: page
 
 And, “When will I ever use this?”, are questions students are asking in classes every day. Compass Community Collaborative School will provide them with the skills and opportunities to answer this question themselves. Through interdisciplinary and individualized learning plans and collaborative initiatives with local businesses and university partners, our mission is to help students discover learning with purpose. We are charting a new course at Compass Community Collaborative School– leaving behind the well-worn paths of schools designed to study individual academic disciplines at levels determined by age. We are creating a school that is student-centered and community-based. More than delivering curriculum, we are nurturing the development of intellectual intelligence, emotional intelligence, creativity, and curiosity in our students and their families.
 
-<div class="in-page--call-to-action">&nbsp;</div>
-
-<div class="in-page--call-to-action">Title</div>
-
-<div class="in-page--call-to-action"><a target="_blank" href="https://google.com">Link</a></div>
-
-<div class="in-page--call-to-action">&nbsp;</div>
-
 <div class="in-page--call-to-action">Fort Collins has many school choices, and now with the opening of Compass in 2018, there will be an innovative addition to our Choice City&rsquo;s menu. Students entering 6th grade and above are invited to join our secondary school to excel in areas of interest and strength, get support in areas in which they need help, and to have the opportunity to explore and contribute to our community. Students can earn an associate&rsquo;s degree or trade certificate before graduation, and will have training in project development and strategic planning that will serve them throughout their adolescence and adulthood, no matter where their compass guides them.</div>
 
 ## CCC Mission
