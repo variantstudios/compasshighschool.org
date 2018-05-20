@@ -1,6 +1,5 @@
 ---
 title: Levels of Autonomy
-sub_title:
 header_image: /assets/images/backgrounds/maddie-and-lilly.jpg
 search_engine_optimization:
   page_title: Levels of Autonomy

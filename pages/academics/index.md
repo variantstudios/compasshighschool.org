@@ -1,6 +1,5 @@
 ---
 title: Academics
-sub_title:
 header_image: /assets/images/backgrounds/csu-lab-boys.jpg
 search_engine_optimization:
   page_title: Academics
