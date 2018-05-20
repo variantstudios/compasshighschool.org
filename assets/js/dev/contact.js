@@ -28,7 +28,7 @@ function fadeIn(el, display){
 
 
 
-if ($('body').hasClass('contact')) {
+if ($('body').hasClass('contact-us')) {
   if (queryString() === 'true') {
     //$('#contact-message').show();
     // $('#contact-form').hide();
