@@ -118,7 +118,6 @@ _options:
     indent: true
     table: true
     link: true
-    code: true
     left: align-to-left
     center: align-to-center
     right: align-to-right
