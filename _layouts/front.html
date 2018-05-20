@@ -76,7 +76,10 @@ layout: default
             <p class="text-align-center"><a href="#" class="call-to-action">Become A Partner</a></p>
             <div class="logos">
                 {% for partnes in page.join_the_compass_community_partners %}
-                <span class="partner-logo"><a href="{{partnes.site_url}}" target="_blank" title="{{partnes.title}}" rel="noopener noreferrer"><img src="{{site.cloudinaryurl}}image/fetch/{{site.url}}{{partnes.logo_path}}" alt="{{partnes.title}}" data-img="{{partnes.logo_path}}" /></a></span>                {% endfor %}
+                <span class="partner-logo"><a href="{{partnes.site_url}}" target="_blank" title="{{partnes.title}}" rel="noopener noreferrer">
+                    <img src="{{site.cloudinaryurl}}image/fetch/{{site.url}}{{partnes.logo_path}}" alt="{{partnes.title}}" data-img="{{partnes.logo_path}}" />
+                </a></span>
+                {% endfor %}
             </div>
         </div>
     </section>
@@ -86,7 +89,11 @@ layout: default
         <article class="news-and-update">
             <a href="{{post.url}}">
                 <h3>{{post.title}}</h3>
-                <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill,q_65/{{site.url}}{{post.image_path}}" alt="STEM Conference at CSU for girls" data-img="{{site.url}}{{post.image_path}}" data-width="299px" data-height="199px" />
+                {% if post.image_path %}
+                <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill,q_65/{{site.url}}{{post.image_path}}" alt="{{post.title}}" data-img="{{site.url}}{{post.image_path}}" data-width="300px" data-height="200px" />
+                {% else %}
+                <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill,q_65/{{site.url}}/assets/images/blog-placeholder.png" alt="{{post.title}}" data-img="{{site.url}}/assets/images/blog-placeholder.png" data-width="300px" data-height="200px" />
+                {% endif %}
                 <h4 class="date">{{post.date | date: "%A, %b %d %Y | %I %P" }}</h4>
                 <p>{{ post.content | strip_html | truncatewords: 10 }}</p>
             </a>
