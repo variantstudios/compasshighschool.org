@@ -7,6 +7,9 @@ search_engine_optimization:
 permalink: /financial-transparency/
 layout: page
 ---
+
 # Financial Transparency
 
 Coming Soon
+
+{% highlight ruby %}&nbsp;<br>print “hello world”&nbsp;<br>{% endhighlight %}
