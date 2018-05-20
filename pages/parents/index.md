@@ -1,6 +1,5 @@
 ---
 title: Parents
-sub_title: 'PARENTS: We want the best for our children and their future.'
 header_image: /assets/images/ccc-rockstars-final-final.jpg
 search_engine_optimization:
   page_title: Parents
