@@ -1,35 +1,33 @@
-span.in-page--call-to-action {
+div.in-page--call-to-action {
     padding: 2.5rem 0;
     margin: 2rem 0;
     background-color: #2AACE2;
     background: url(/assets/images/patterns/blue-halftone-dot-pattern.png);
     text-align: center;
-}
-span.in-page--call-to-action h2 {
-    color: #fff;
-    display: inline;
-    font-size: 3rem;
-    margin: 0 1rem 0 0;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 900;
-}
-span.in-page--call-to-action a {
-    vertical-align: text-bottom;
-}
-span.in-page--call-to-action a {
-    color: #fff;
-    text-decoration: none;
-    background-color: #ED197B;
-    border-radius: 32px;
-    border: 5px solid #fff;
-    padding: 0.2rem 1.2rem 0 1.2rem;
-    font-family: "Teko", sans-serif;
-    text-transform: uppercase;
-    font-size: 1.5rem;
-    display: inline-block;
-    -webkit-transition: all 0.2s ease;
-    transition: all 0.2s ease;
-    position: relative;
+    h2 {
+        color: #fff;
+        display: inline;
+        font-size: 3rem;
+        margin: 0 1rem 0 0;
+        font-family: "Montserrat", sans-serif;
+        font-weight: 900;
+    }
+    a {
+        vertical-align: text-bottom;
+        color: #fff;
+        text-decoration: none;
+        background-color: #ED197B;
+        border-radius: 32px;
+        border: 5px solid #fff;
+        padding: 0.2rem 1.2rem 0 1.2rem;
+        font-family: "Teko", sans-serif;
+        text-transform: uppercase;
+       font-size: 1.5rem;
+        display: inline-block;
+        -webkit-transition: all 0.2s ease;
+        transition: all 0.2s ease;
+        position: relative;
+    }
 }
 .align-to-left {
     text-align: left;
