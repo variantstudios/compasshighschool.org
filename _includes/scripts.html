@@ -1,4 +1,4 @@
-{% if page.layout == 'front' %}
+{% comment %} {% if page.layout == 'front' %}
 <script>
     var cb = function() {
         var l = document.createElement('link');
@@ -12,8 +12,8 @@
     if (raf) raf(cb);
     else window.addEventListener('load', cb);
 </script>
-{% endif %}
-<!--<link rel="stylesheet" href="/assets/css/style.css" media="screen">-->
+{% endif %} {% endcomment %}
+<link rel="stylesheet" href="/assets/css/style.css" media="screen">
 
 <script src="/assets/js/prod/modernizr-2.8.3.min.js"></script>
 <script src="/assets/js/prod/zepto.1.2.0.min.js"></script>

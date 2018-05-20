@@ -1,6 +1,6 @@
 .footer-wrapper {
     background-color: $color-two; // Deep sky blue
-    margin: 2rem 0 0 0;
+    // margin: 2rem 0 0 0;
     .footer-inner.clearfix.container-padding-medium {
         padding-bottom: 0;
         @include breakpoint($bp-medium, $no-query: ".no-mq") {
