@@ -121,7 +121,7 @@ _options:
     left: align-to-left
     center: align-to-center
     right: align-to-right
-    styles: /assets/css/wysiwyg.css
+    styles: /assets/css/wysiwyg.scss
   share_image_path:
     width: 1200
     height: 1200
