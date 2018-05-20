@@ -1,5 +1,3 @@
-
-
 function queryString() {
   var queryString = window.location.search;
   var varArray = queryString.split('&');
@@ -24,20 +22,13 @@ function fadeIn(el, display){
   })();
 }
 
-
-
-
-
 if ($('body').hasClass('contact-us')) {
   if (queryString() === 'true') {
-    //$('#contact-message').show();
-    // $('#contact-form').hide();
     var el = document.querySelector('#contact-message');
     fadeIn(el);
     $('.hide').hide();
   } else {
     $('#contact-message').hide();
-    // $('#contact-form').show();
     $('.hide').show();
   }
 }
