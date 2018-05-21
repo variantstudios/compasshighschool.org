@@ -18,8 +18,9 @@
 <script src="/assets/js/prod/modernizr-2.8.3.min.js"></script>
 <script src="/assets/js/prod/zepto.1.2.0.min.js"></script>
 <script src="/assets/js/prod/scripts.js"></script>
-
-{% if include.class == 'contact' %}
+{% if page.layout == 'front' %}
+<script src="/assets/js/prod/front.js"></script>
+{% endif %} {% if include.class == 'contact' %}
 <script src="/assets/js/prod/contact.js"></script>
 <script src='https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&render=explicit' async defer></script>
 {% endif %} {% comment %} {% if site.cloudinaryurl %}

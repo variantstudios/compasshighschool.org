@@ -8,30 +8,6 @@ $(document).ready(function() {
   }
 });
 
-// Date format function for the social feed.
-// function getFormattedDate(){
-//   var d = new Date();
-//   d = d.getFullYear() + '-' + ('0' + (d.getMonth() + 1)).slice(-2) + '-' + ('0' + d.getDate()).slice(-2);
-//   return d;
-// }
-// Get the social json feed
-$.getJSON('https://compass-social-feed.herokuapp.com/feed.json', function(data) {
-  // loop through the data. i is the count and f is the data
-  $.each(data.slice(0,3), function(i, f) {
-  // Check to see if the source is from instagram and then use the appropriate format/content
-    if (f.source.name == 'instagram') {
-      var socialRow = '<a href="' + f.link + '" class="social-post" target="_blank">' +
-      '<span class="social-tag instagram"></span>' +
-      '<img src="' + f.images.content.url + '" alt="instagram">' +
-      '<div class="social-text"><p class="date">' + (f.created_time).slice(0,10) + '</p>' +
-      '<p>' + f.content + '</p></div></a>';
-      $(socialRow).appendTo('.social-posts');
-      // Check to see if the source is from twitter and then use the appropriate format/content  
-      //console.log(f);
-    } 
-  });
-});
-
 // YouTube Responsive Lightbox
 // Function to reveal lightbox and adding YouTube autoplay
 var revealVideo; // eslint-disable-line no-unused-vars
