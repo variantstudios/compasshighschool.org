@@ -2725,7 +2725,7 @@ body.not-front section.subpage ul li a:hover {
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
 }
-body.not-front section.subpage p.in-page--call-to-action {
+body.not-front section.subpage p.cta {
   padding: 2.5rem 0;
   margin: 2rem 0;
   background-color: #2AACE2;
@@ -2738,7 +2738,7 @@ body.not-front section.subpage p.in-page--call-to-action {
   font-family: "Montserrat", sans-serif;
   font-weight: 900;
 }
-body.not-front section.subpage p.in-page--call-to-action a {
+body.not-front section.subpage p.cta a {
   vertical-align: text-bottom;
   color: #fff;
   text-decoration: none;
