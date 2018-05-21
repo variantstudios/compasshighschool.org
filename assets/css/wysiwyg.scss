@@ -4,15 +4,16 @@ p.in-page--call-to-action {
     background-color: #2AACE2;
     background: url(/assets/images/patterns/blue-halftone-dot-pattern.png);
     text-align: center;
-    h2 {
+}
+p.in-page--call-to-action h2 {
         color: #fff;
         display: inline;
         font-size: 3rem;
         margin: 0 1rem 0 0;
         font-family: "Montserrat", sans-serif;
         font-weight: 900;
-    }
-    a {
+}
+p.in-page--call-to-action a {
         vertical-align: text-bottom;
         color: #fff;
         text-decoration: none;
