@@ -122,9 +122,6 @@ _options:
     table: true
     link: true
     image: true
-    # left: align-to-left
-    # center: align-to-center
-    # right: align-to-right
     styles: /assets/css/wysiwyg.css
   share_image_path:
     width: 1200
