@@ -2734,12 +2734,10 @@ body.not-front section.subpage p.cta {
   color: #fff;
   display: block;
   font-size: 3rem;
-  margin: 0 1rem 0 0;
   font-family: "Montserrat", sans-serif;
   font-weight: 900;
 }
 body.not-front section.subpage p.cta a {
-  vertical-align: text-bottom;
   color: #fff;
   text-decoration: none;
   background-color: #ED197B;
@@ -2753,6 +2751,14 @@ body.not-front section.subpage p.cta a {
   -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
   position: relative;
+}
+body.not-front section.subpage p.cta a:hover {
+  -webkit-transform: scale(1.075);
+      -ms-transform: scale(1.075);
+          transform: scale(1.075);
+  -webkit-box-shadow: 5px 20px 30px 0 rgba(0, 0, 0, 0.1);
+          box-shadow: 5px 20px 30px 0 rgba(0, 0, 0, 0.1);
+  top: -1px;
 }
 
 .board {
