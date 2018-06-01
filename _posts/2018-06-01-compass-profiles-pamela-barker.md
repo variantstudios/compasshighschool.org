@@ -19,15 +19,15 @@ search_engine_optimization:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-#### Staff: Pam Barker
+### Staff: Pam Barker
 
-###### **Social Emotional Learning and Restorative Practices Specialist**
+#### **Social Emotional Learning and Restorative Practices Specialist**
 
-###### &nbsp;
+#### &nbsp;
 
 ###### Six Word Memoir:&nbsp;
 
-"Curiosity, nature, and movement kept me"
+*"Curiosity, nature, and movement kept me"*
 
 &nbsp;
 
