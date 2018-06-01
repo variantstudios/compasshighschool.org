@@ -21,7 +21,7 @@ search_engine_optimization:
 
 ### Staff: Pam Barker
 
-#### **Social Emotional Learning and Restorative Practices Specialist**
+#### **Compass Culture Architect: Social Emotional Learning and Restorative Practices Specialist**
 
 #### &nbsp;
 
