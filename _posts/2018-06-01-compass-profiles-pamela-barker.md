@@ -1,6 +1,6 @@
 ---
 title: 'Compass Profiles: Pamela Barker'
-date: 2018-05-13 00:00:00
+date: 2018-06-01 11:15:00
 image_path:
 categories:
 iframe_content:
