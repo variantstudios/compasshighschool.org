@@ -14,6 +14,8 @@ At Compass, academic content is based on design principles that reflect our comm
 
 Our innovative educational model was co-created by award winning educators, community members, business owners, artists, and students, and is backed up by best practices in education and evidence-based research.&nbsp; You can find out more about the science behind Compass in&nbsp;[Resources](/resources/){: target="_blank"}.
 
+### &nbsp;
+
 ### ACADEMIC STANDARDS
 
 Our certified teachers work with students to ensure that they graduate with all necessary academic requirements to be successful in their post-secondary lives.
@@ -25,13 +27,17 @@ Our certified teachers work with students to ensure that they graduate with all 
 
 ### COMPASS COMPETENCIES
 
-Compass students do more than just master traditional academic content.&nbsp; At Compass, we award digital badges when students demonstrate mastery of eight core competencies.&nbsp; These are the skills colleges want.&nbsp; These are the skills employers want.&nbsp; These are the skills that make Compass students successful in life.
+Compass students do more than just master traditional academic content.&nbsp; At Compass, we award digital badges when students demonstrate mastery of specific skill sets.&nbsp; These are the skills colleges want.&nbsp; These are the skills employers want.&nbsp; These are the skills that make Compass students successful in life.
 
-![](/assets/images/cutting-edge.png)
+With the guidance of evidence-based research, we have created eight core competencies that will drive instruction, reflection, and assessment of mastery for both staff and students. In addition to academic common core standards and next generation science standards, mastering these eight competencies will guide teacher evaluation and measure student achievement:
+
+![](/assets/images/competencies-infographic-1.png)
 
 ### COLLEGE COURSES AND INTERNSHIPS
 
 All Compass students will graduate with at least one college course and a learning internship, supported by our partnership with local businesses and Big Picture Learning.
+
+### &nbsp;
 
 ### MORE THAN “JUST AN ACADEMIC TRANSCRIPT”
 
@@ -41,6 +47,8 @@ Compass students will have more than just a regular high school transcript to sh
 * A letter of recommendation from a local business and/or organization
 * A clear post-secondary plan for success
 
+&nbsp;
+
 ### MAKING THE GRADE
 
 Compass students will not receive traditional grades for their work.&nbsp; Students are expected to learn because they see the value of their work—not to receive an “external reward.”&nbsp; Compass students produce and present real work, and are responsible for the outcomes…just like in the “real world.”
@@ -48,6 +56,8 @@ Compass students will not receive traditional grades for their work.&nbsp; Stude
 * No grades does NOT mean low expectations.&nbsp; We know that students rise to the expectations we place on them.&nbsp; And at Compass, our expectations for student behavior and performance are high.
 * No letter grades fosters intrinsic motivation, which fosters a deeper meaning from education.
 * Students work will be translated to letter grades in a transcript upon graduation for college admissions.
+
+&nbsp;
 
 ### Learner Outcomes (formerly Foundations)
 
@@ -69,11 +79,9 @@ Small group seminars and online academic skill development and practice research
 * Flexible daily schedule and year-round learning
 * Future ready: college preparation, career planning and community engagement
 
-### Compass Competencies
+&nbsp;
 
-With the guidance of evidence-based research, we have created eight core competencies that will drive instruction, reflection, and assessment of mastery for both staff and students. In addition to academic common core standards and next generation science standards, master of these eight skills will guide teacher evaluation and measure student achievement:
-
-![](/assets/images/cutting-edge.png)
+&nbsp;
 
 ### Community Involvement
 
