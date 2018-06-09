@@ -30,6 +30,8 @@ board_agenda:
     file_path: /assets/images/board-of-directors-agenda-4-9-2018.pdf
   - title: 05/07/18 Board Meeting
     file_path: /assets/images/board-of-directors-agenda-5-7-2018.docx
+  - title: 06/11/18 Board Meeting
+    file_path: /assets/images/board-of-directors-agenda-6-11-2018.docx
 board_minutes:
   - title: 01/08/18 Board Meeting Minutes
     file_path: /assets/images/compass-bod-minutes-010818.docx
