@@ -32,8 +32,6 @@ Newer students will work in and around the school and will choose from among tea
 
 ![](/assets/images/versions/school-day-schedule-1---x----1302-860x---.png)
 
-## &nbsp;
-
 ## Community Partner Projects
 
 Students will become part of a larger community as they experience opportunities to work as volunteers and interns with city government, Colorado State University professors and students, and a multitude of local businesses and nonprofits. All students will graduate having had at least one extensive internship in the community. These first-hand experiences will help create meaning and relevancy for students as they co-create a future for themselves and our community.
