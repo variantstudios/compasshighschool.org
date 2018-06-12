@@ -21,6 +21,8 @@ Curious [Let’s Connect](/contact-us/)
 
 &nbsp;
 
+&nbsp;
+
 ## CCC Mission
 
 The mission of Compass Community Collaborative School is to help students discover learning with purpose, to be authors of the best possible story of their lives and of our collective future. We recognize the unique attributes and needs of adolescents and actively support their development of identity, competency, and agency. We ask questions instead of giving answers. We provide resources instead of assignments. We embrace our community’s entrepreneurial nature and energy. Our teachers and our local, national, and international partners collaborate with our students and their families to chart a path of opportunity. Our students graduate as co-creators of a learning life.
@@ -30,3 +32,21 @@ The mission of Compass Community Collaborative School is to help students discov
 Our future ready school was designed by a diverse team of educators, students, artists, parents, business owners, and community leaders in an entrepreneurial business incubator where we are embedding secondary education into real world problem solving and meaningful work.
 
 With the help and expertise of a “360 Team” (made up of a teacher, family member, and community mentor) our students, ages 11-19, will earn academic credit in state and international academic standards and digital badges in eight skill areas as they work on community-engaged ventures that inspire deep learning of academic, social emotional, and future ready skills. At Compass, we see collaborative design, research, and problem solving as a game changer for how adolescents view their place in our community, and how the community views the capacities of our youth. Opposed to the current model where kids spend everyday in a building separate from the “real world”, we will have adolescents working in multi-age, interdisciplinary teams, and side-by-side with community members to actively participate in the creation of our future. Individualized and competency-based, students will be challenged every day to grow and to demonstrate their learning in a multitude of real-world applications.
+
+## Compass Design Foundations
+
+Our design principles reflect the school’s commitment to creating a student-centered learning environment that is healthy for adolescents, families, and staff and that prepares students to be positive change-makers in a rapidly changing world.
+
+* Student-centered, community-engaged learning in service to a greater social cause (education in context and with purpose)
+* Small group seminars and online academic skill development and practice research-based and student-driven curriculum
+* Design thinking
+* Intentional, inclusive, and positive school climate and culture
+* Explicit and active support of physical and mental health and wellness
+* Social and emotional learning
+* Restorative practices for connection and constructive engagement of conflict
+* Diversity by design and equity of opportunity
+* Environmental sustainability and regeneration
+* Staff and community mentors are co-learners and collaborators with students
+* Team teaching
+* Flexible daily schedule and year-round learning
+* Future ready: college preparation, career planning and community engagement
