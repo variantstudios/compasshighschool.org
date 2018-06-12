@@ -18,10 +18,12 @@ Compass purposely chose a building that was centrally located and linked to our 
 * BUS: We are adjacent to the Spring Creek&nbsp;[MAX](http://www.ridetransfort.com/max){: target="_blank"}&nbsp;station.&nbsp; Take the MAX from home to school, connect through other&nbsp;[TRANSFORT](http://www.ridetransfort.com/){: target="_blank"}&nbsp;routes, or consider parking at another MAXstop.&nbsp; Youth 17 and under ride the MAX for free.
 * CAR: We realize that there are times you will be driving your student to school.&nbsp; See attached drop off routes for more information.&nbsp; Students will not be allowed to drive to Compass.&nbsp;
 
+&nbsp;
+
 ### MEALS
 
 Coming soon.
 
 ### THE SCIENCE BEHIND COMPASS
 
-Visit [Resources](/resources/) for more about what makes Compass tick.
+Visit [Resources](/resources/) for more about what makes Compass work.
