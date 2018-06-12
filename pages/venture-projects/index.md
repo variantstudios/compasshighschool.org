@@ -34,8 +34,4 @@ Newer students will work in and around the school and will choose from among tea
 
 ## Community Partner Projects
 
-Students will become part of a larger community as they experience opportunities to work as volunteers and interns with city government, Colorado State University professors and students, and a multitude of local businesses and nonprofits. All students will graduate having had at least one extensive internship in the community. These first-hand experiences will help create meaning and relevancy for students as they co-create a future for themselves and our community.
-
 Additional ways that we are breaking down barriers between school and community include our monthly Community Conclaves and our monthly “Lunch and Learn” programs. Compass will host “lunch and learn” presentations on various topics of interest to students and their families and these events will be open to the public. The Community Conclaves will be special evening events in which businesses, students, and citizens with ideas for Compass ventures, or particular problems they are concerned about solving, can pitch their ideas to the Compass community to develop opportunities for collaboration.
-
-&nbsp;
