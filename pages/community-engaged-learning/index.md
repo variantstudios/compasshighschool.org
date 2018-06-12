@@ -19,10 +19,6 @@ Curious [Let’s Connect](/contact-us/)
 
 <div>Fort Collins has many school choices, and now with the opening of Compass in 2018, there will be an innovative addition to our Choice City&rsquo;s menu. Students entering 6th grade and above are invited to join our secondary school to excel in areas of interest and strength, get support in areas in which they need help, and to have the opportunity to explore and contribute to our community. Students can earn an associate&rsquo;s degree or trade certificate before graduation, and will have training in project development and strategic planning that will serve them throughout their adolescence and adulthood, no matter where their compass guides them.</div>
 
-&nbsp;
-
-&nbsp;
-
 ## CCC Mission
 
 The mission of Compass Community Collaborative School is to help students discover learning with purpose, to be authors of the best possible story of their lives and of our collective future. We recognize the unique attributes and needs of adolescents and actively support their development of identity, competency, and agency. We ask questions instead of giving answers. We provide resources instead of assignments. We embrace our community’s entrepreneurial nature and energy. Our teachers and our local, national, and international partners collaborate with our students and their families to chart a path of opportunity. Our students graduate as co-creators of a learning life.
@@ -50,3 +46,5 @@ Our design principles reflect the school’s commitment to creating a student-ce
 * Team teaching
 * Flexible daily schedule and year-round learning
 * Future ready: college preparation, career planning and community engagement
+
+&nbsp;
