@@ -104,7 +104,7 @@ Our design principles reflect the school’s commitment to creating a student-ce
 
 With the guidance of evidence-based research, we have created eight core competencies that will drive instruction, reflection, and assessment of mastery for both staff and students. In addition to academic common core standards and next generation science standards, master of these eight skills will guide teacher evaluation and measure student achievement:
 
-## ![](/assets/images/competencies-infographic-2.png)
+## ![](/assets/images/versions/badges---x----1346-818x---.jpg)
 
 ## Community Involvement
 
@@ -121,7 +121,3 @@ Compass Community Collaborative will be an active partner with parents to help r
 Partnering with families is part of what will make our climate and culture exceptional. In addition to being part of our Presentations of Learning (student led conferences) three times a year, we will also welcome our families to evening classes to learn English, computer skills, and tricks of the trade in the difficult job of parenting. Additionally, parents will be an important connection to the working world by offering internships, project ideas, business connections, and expertise for our students. Other classes and opportunities for parents and families will be created on a year-by-year basis in response to family needs and interests.
 
 *One of our highest priorities at Compass is to take care of our families; we welcome ideas and opportunities to make your student’s success a family affair.*
-
-## Registering Students NOW!
-
-Compass Community Collaborative School’s opening date is August, 2018. We will be accepting students going into 6th through 10th grade only for our inaugural year. If you are interested in enrolling your student please&nbsp; complete the Intent to Enroll form.
