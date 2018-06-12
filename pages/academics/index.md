@@ -14,8 +14,6 @@ At Compass, academic content is based on design principles that reflect our comm
 
 Our innovative educational model was co-created by award winning educators, community members, business owners, artists, and students, and is backed up by best practices in education and evidence-based research.&nbsp; You can find out more about the science behind Compass in&nbsp;[Resources](/resources/){: target="_blank"}.
 
-### &nbsp;
-
 ## ACADEMIC STANDARDS
 
 Our certified teachers work with students to ensure that they graduate with all necessary academic requirements to be successful in their post-secondary lives.
@@ -23,7 +21,7 @@ Our certified teachers work with students to ensure that they graduate with all 
 * Compass students participate daily in the highly individualized&nbsp;[Summit Learning Platform](https://www.summitlearning.org/){: target="_blank"}.&nbsp; Students progress is continuously monitored to guarantee that every student is moving towards meeting academic standards. Independent work is supported by our teachers-as-coaches.
 * Compass&nbsp;[Venture Projects](/venture-projects/)&nbsp;are co-created by certified teachers, community members, and students to intentionally meet academic standards across disciplines.
 
-## COMPASS COMPETENCIES
+## <br>COMPASS COMPETENCIES
 
 Compass students do more than just master traditional academic content.&nbsp; At Compass, we award digital badges when students demonstrate mastery of specific skill sets.&nbsp; These are the skills colleges want.&nbsp; These are the skills employers want.&nbsp; These are the skills that make Compass students successful in life.
 
@@ -51,7 +49,7 @@ Compass students will not receive traditional grades for their work.&nbsp; Stude
 
 * No grades does NOT mean low expectations.&nbsp; We know that students rise to the expectations we place on them.&nbsp; And at Compass, our expectations for student behavior and performance are high.
 * No letter grades fosters intrinsic motivation, which fosters a deeper meaning from education.
-* Students work will be translated to letter grades in a transcript upon graduation for college admissions.
+* Students work will be translated to letter grades in a transcript upon graduation for college admissions.<br>&nbsp;
 
 ### Community Involvement
 
