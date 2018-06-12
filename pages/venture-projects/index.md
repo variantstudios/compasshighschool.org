@@ -7,7 +7,9 @@ search_engine_optimization:
 permalink: /venture-projects/
 layout: page
 ---
+
 # Venture Projects
+
 ## “Why do I need to learn this?”,
 
 and, “When will I ever use this?”, are questions students are asking in classes every day. Compass Community Collaborative School will provide them with the skills and opportunities to answer this question themselves. Through interdisciplinary and individualized learning plans and collaborative initiatives with local businesses and university partners, our mission is to help students discover learning with purpose. We are charting a new course at Compass Community Collaborative School– leaving behind the well-worn paths of schools designed to study individual academic disciplines at levels determined by age. We are creating a school that is student-centered and community-based. More than delivering curriculum, we are nurturing the development of intellectual intelligence, emotional intelligence, creativity, and curiosity in our students and their families.
@@ -46,6 +48,30 @@ Mornings can be very stressful. When teens are hard to awaken, and family member
 
 Our design principles reflect the school’s commitment to creating a student-centered learning environment that is healthy for adolescents, families, and staff and that prepares students to be positive change-makers in a rapidly changing world.
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 * Student-centered, community-engaged learning in service to a greater social cause (education in context and with purpose)
 
 * Small group seminars and online academic skill development and practice research-based and student-driven curriculum
@@ -72,11 +98,13 @@ Our design principles reflect the school’s commitment to creating a student-ce
 
 * Future ready: college preparation, career planning and community engagement
 
+&nbsp;
+
 ## Compass Competencies
 
 With the guidance of evidence-based research, we have created eight core competencies that will drive instruction, reflection, and assessment of mastery for both staff and students. In addition to academic common core standards and next generation science standards, master of these eight skills will guide teacher evaluation and measure student achievement:
 
-## ![](/assets/images/versions/badges---x----1346-818x---.jpg)
+## ![](/assets/images/competencies-infographic-2.png)
 
 ## Community Involvement
 
