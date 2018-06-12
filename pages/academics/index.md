@@ -25,6 +25,8 @@ Our certified teachers work with students to ensure that they graduate with all 
 
 &nbsp;
 
+&nbsp;
+
 ### COMPASS COMPETENCIES
 
 Compass students do more than just master traditional academic content.&nbsp; At Compass, we award digital badges when students demonstrate mastery of specific skill sets.&nbsp; These are the skills colleges want.&nbsp; These are the skills employers want.&nbsp; These are the skills that make Compass students successful in life.
@@ -49,6 +51,8 @@ Compass students will have more than just a regular high school transcript to sh
 
 &nbsp;
 
+&nbsp;
+
 ### MAKING THE GRADE
 
 Compass students will not receive traditional grades for their work.&nbsp; Students are expected to learn because they see the value of their work—not to receive an “external reward.”&nbsp; Compass students produce and present real work, and are responsible for the outcomes…just like in the “real world.”
@@ -59,25 +63,11 @@ Compass students will not receive traditional grades for their work.&nbsp; Stude
 
 &nbsp;
 
-### Learner Outcomes (formerly Foundations)
+&nbsp;
 
-Our design principles reflect the school’s commitment to creating a student-centered learning environment that is healthy for adolescents, families, and staff and that prepares students to be positive change-makers in a rapidly changing world.
+### &nbsp;
 
-Student-centered, community-engaged learning in service to a greater social cause (education in context and with purpose)
-
-Small group seminars and online academic skill development and practice research-based and student-driven curriculum
-
-* Design thinking
-* Intentional, inclusive, and positive school climate and culture
-* Explicit and active support of physical and mental health and wellness
-* Social and emotional learning
-* Restorative practices for connection and constructive engagement of conflict
-* Diversity by design and equity of opportunity
-* Environmental sustainability and regeneration
-* Staff and community mentors are co-learners and collaborators with students
-* Team teaching
-* Flexible daily schedule and year-round learning
-* Future ready: college preparation, career planning and community engagement
+&nbsp;
 
 &nbsp;
 
