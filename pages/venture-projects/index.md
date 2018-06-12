@@ -16,17 +16,7 @@ and, “When will I ever use this?”, are questions students are asking in clas
 
 Fort Collins has many school choices, and now with the opening of Compass in 2018, there will be an innovative addition to our Choice City’s menu. Students entering 6th grade and above are invited to join our secondary school to excel in areas of interest and strength, get support in areas in which they need help, and to have the opportunity to explore and contribute to our community. Students can earn an associate’s degree or trade certificate before graduation, and will have training in project development and strategic planning that will serve them throughout their adolescence and adulthood, no matter where their compass guides them.
 
-## CCC Mission
-
-The mission of Compass Community Collaborative School is to help students discover learning with purpose, to be authors of the best possible story of their lives and of our collective future. We recognize the unique attributes and needs of adolescents and actively support their development of identity, competency, and agency. We ask questions instead of giving answers. We provide resources instead of assignments. We embrace our community’s entrepreneurial nature and energy. Our teachers and our local, national, and international partners collaborate with our students and their families to chart a path of opportunity. Our students graduate as co-creators of a learning life.
-
-## Why Compass?
-
-Our future ready school was designed by a diverse team of educators, students, artists, parents, business owners, and community leaders in an entrepreneurial business incubator where we are embedding secondary education into real world problem solving and meaningful work.
-
-&nbsp; With the help and expertise of a “360 Team” (made up of a teacher, family member, and community mentor) our students, ages 11-19, will earn academic credit in state and international academic standards and digital badges in eight skill areas as they work on community-engaged ventures that inspire deep learning of academic, social emotional, and future ready skills. At Compass, we see collaborative &nbsp;design, research, and problem solving as a game changer for how adolescents view their place in our community, and how the community views the capacities of our youth. Opposed to the current model where kids spend everyday in a building separate from the “real world”, we will have adolescents working in multi-age, interdisciplinary teams, and side-by-side with community members to actively participate in the creation of our future. Individualized and competency-based, students will be challenged every day to grow and to demonstrate their learning in a multitude of real-world applications.
-
-![](/assets/images/versions/yay---x----4032-3024x---.jpg)
+## ![](/assets/images/versions/yay---x----4032-3024x---.jpg)
 
 ## The CCC Difference
 
@@ -38,15 +28,37 @@ Newer students will work in and around the school and will choose from among tea
 
 ![](/assets/images/versions/ccc-quality-venture-projects---x----1275-1650x---.jpg)
 
-## Our daily schedule is different, too!
-
-Mornings can be very stressful. When teens are hard to awaken, and family members need to be in different places at different times, mornings can turn into a race against the clock. To allow our families to take some of the stress out of the morning routine, and to give teens a chance to get the sleep that brain research demonstrates they need, we are providing flexibility in the daily start and end times for Compass. Student’s start and end time will be established with each family at the beginning of each semester, however, all students and staff will be directly involved in CCC school work for a minimum of 7.5 hours per day.
+## &nbsp;
 
 ![](/assets/images/versions/school-day-schedule-1---x----1302-860x---.png)
 
 ## Foundations
 
 Our design principles reflect the school’s commitment to creating a student-centered learning environment that is healthy for adolescents, families, and staff and that prepares students to be positive change-makers in a rapidly changing world.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -97,6 +109,8 @@ Our design principles reflect the school’s commitment to creating a student-ce
 * Flexible daily schedule and year-round learning
 
 * Future ready: college preparation, career planning and community engagement
+
+&nbsp;
 
 &nbsp;
 
