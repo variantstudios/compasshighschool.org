@@ -32,93 +32,7 @@ Newer students will work in and around the school and will choose from among tea
 
 ![](/assets/images/versions/school-day-schedule-1---x----1302-860x---.png)
 
-## Foundations
-
-Our design principles reflect the school’s commitment to creating a student-centered learning environment that is healthy for adolescents, families, and staff and that prepares students to be positive change-makers in a rapidly changing world.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-* Student-centered, community-engaged learning in service to a greater social cause (education in context and with purpose)
-
-* Small group seminars and online academic skill development and practice research-based and student-driven curriculum
-
-* Design thinking
-
-* Intentional, inclusive, and positive school climate and culture
-
-* Explicit and active support of physical and mental health and wellness
-
-* Social and emotional learning
-
-* Restorative practices for connection and constructive engagement of conflict
-
-* Diversity by design and equity of opportunity
-
-* Environmental sustainability and regeneration
-
-* Staff and community mentors are co-learners and collaborators with students
-
-* Team teaching
-
-* Flexible daily schedule and year-round learning
-
-* Future ready: college preparation, career planning and community engagement
-
-&nbsp;
-
-&nbsp;
-
-## Compass Competencies
-
-With the guidance of evidence-based research, we have created eight core competencies that will drive instruction, reflection, and assessment of mastery for both staff and students. In addition to academic common core standards and next generation science standards, master of these eight skills will guide teacher evaluation and measure student achievement:
-
-## ![](/assets/images/versions/badges---x----1346-818x---.jpg)
+## &nbsp;
 
 ## Community Involvement
 
@@ -126,12 +40,4 @@ Students will become part of a larger community as they experience opportunities
 
 Additional ways that we are breaking down barriers between school and community include our monthly Community Conclaves and our monthly “Lunch and Learn” programs. Compass will host “lunch and learn” presentations on various topics of interest to students and their families and these events will be open to the public. The Community Conclaves will be special evening events in which businesses, students, and citizens with ideas for Compass ventures, or particular problems they are concerned about solving, can pitch their ideas to the Compass community to develop opportunities for collaboration.
 
-## Family Involvement
-
-Compass Community Collaborative will be an active partner with parents to help raise the next generation of change makers.
-
-![](/assets/images/versions/parents-final---x----1169-877x---.jpg)
-
-Partnering with families is part of what will make our climate and culture exceptional. In addition to being part of our Presentations of Learning (student led conferences) three times a year, we will also welcome our families to evening classes to learn English, computer skills, and tricks of the trade in the difficult job of parenting. Additionally, parents will be an important connection to the working world by offering internships, project ideas, business connections, and expertise for our students. Other classes and opportunities for parents and families will be created on a year-by-year basis in response to family needs and interests.
-
-*One of our highest priorities at Compass is to take care of our families; we welcome ideas and opportunities to make your student’s success a family affair.*
+&nbsp;
