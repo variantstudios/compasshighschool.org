@@ -7,13 +7,16 @@ search_engine_optimization:
 permalink: /students/
 layout: page
 ---
+
 # Students
 
 ## School, your way
 
 As a student at Compass Community Collaborative School you will collaborate with staff, peers, and community partners to design learning ventures based on your interests and the requirements of your personal path to graduation. Working on real world issues in multi-age, interdisciplinary teams, you will learn math, science, language arts, social sciences, art, and Spanish. Equally as important, you will learn and practice 21st Century Skills in all of your ventures to help you become an outstanding thinker, an effective communicator, a creative designer, and a master problem-solver.
 
-We will have a flexible schedule that allows you to plan with your family for an arrival time at school or your internship between 8-9:30 a.m. and a departure time between 3:30- 5 p.m. Daily morning meetings in Advisories (9:30 a.m.) will assure you start the day connected to the school community, physically and mentally ready to learn. Extending our learning connection beyond our campus will include partnering with local businesses, colleges, and nonprofits to give you the opportunity to apply your skills and expand your comfort zones so you can contribute to our community and the world in meaningful, powerful ways.
+## Our daily schedule is different, too!
+
+Mornings can be very stressful. When teens are hard to awaken, and family members need to be in different places at different times, mornings can turn into a race against the clock. To allow our families to take some of the stress out of the morning routine, and to give teens a chance to get the sleep that brain research demonstrates they need, we are providing flexibility in the daily start and end times for Compass. Student’s start and end time will be established with each family at the beginning of each semester, however, all students and staff will be directly involved in CCC school work for a minimum of 7.5 hours per day. We will have a flexible schedule that allows you to plan with your family for an arrival time at school or your internship between 8-9:30 a.m. and a departure time between 3:30- 5 p.m. Daily morning meetings in Advisories (9:30 a.m.) will assure you start the day connected to the school community, physically and mentally ready to learn. Extending our learning connection beyond our campus will include partnering with local businesses, colleges, and nonprofits to give you the opportunity to apply your skills and expand your comfort zones so you can contribute to our community and the world in meaningful, powerful ways.
 
 ## Opportunities For You
 
