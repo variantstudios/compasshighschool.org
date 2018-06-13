@@ -28,4 +28,4 @@ We sincerely believe that our common, shared lunchtime, on our campus, is a perf
 
 ## THE SCIENCE BEHIND COMPASS
 
-Visit [Resources](/resources/) for more about what makes Compass work.
+The design of Compass involved research collected from successful and innovative school programs from across the United States. Please visit our&nbsp;[Resources](/resources/)&nbsp;section for more insight and evidence about what makes Compass work so well for students.
