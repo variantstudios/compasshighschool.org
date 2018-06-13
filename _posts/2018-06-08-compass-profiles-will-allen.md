@@ -27,73 +27,49 @@ search_engine_optimization:
 
 "I overcame adversity with my resiliency"
 
-&nbsp;
-
 ###### What's your educational specialty/background?
 
 Spanish and video production
-
-&nbsp;
 
 ###### Why Compass?
 
 I have always wanted to teach students how to think for themselves and to help them find their unique purpose in life.
 
-&nbsp;
-
 ###### Besides your specialty, what other talents and interests do you want to share with our community?
 
 Photography, Prop Design, Choir, Film/Video, International travel
-
-&nbsp;
 
 ###### What previous life experiences are you bringing to the Compass Community?
 
 19-years as a classroom teacher, 10 years as an elementary and high school administrator, college teaching, technology expertise
 
-&nbsp;
-
 ###### What is your dream project/partnership at Compass?
 
 A partnership with the Colorado School of Film and/or with a film production studio in Hollywood
-
-&nbsp;
 
 ###### What do you believe?
 
 I believe that most people are inherently good at heart and on their own journey of self discovery.
 
-&nbsp;
-
 ###### What are five things that you know to be true?
 
 My families love for me, We can overcome almost any obstacle with the support of our friends and family, Dogs are sent from Heaven to give us unconditional love, Our experiences in life shape our world view (sometimes not for the better), Contentment is harder to find than happiness
-
-&nbsp;
 
 ###### What is one question that you are still searching for an answer to?
 
 Are we living versions of our life in alternate realities?
 
-&nbsp;
-
 ###### What is the greatest accomplishment of your life?
 
 Marrying my best friend and bringing three amazing people into the world to share their passions and hopes
-
-&nbsp;
 
 ###### If you could wake up tomorrow with one new quality or ability, what would it be?
 
 To fly
 
-&nbsp;
-
 ###### For what in your life do you feel the most grateful?
 
 For another day to spend with my friends and family
-
-&nbsp;
 
 ###### What would constitute a "perfect day"?
 
