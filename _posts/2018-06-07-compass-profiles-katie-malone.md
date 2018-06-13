@@ -19,7 +19,7 @@ search_engine_optimization:
 
 ### Staff: Katie Malone
 
-#### Teacher-Adviser: Science
+#### Teacher-Adviser: Science<br>Compass Curator
 
 #### &nbsp;
 
