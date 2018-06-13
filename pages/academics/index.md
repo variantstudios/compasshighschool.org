@@ -21,9 +21,7 @@ Our certified teachers work with students to ensure that they graduate with all 
 * Compass students participate daily in the highly individualized&nbsp;[Summit Learning Platform](https://www.summitlearning.org/){: target="_blank"}.&nbsp; Students progress is continuously monitored to guarantee that every student is moving towards meeting academic standards. Independent work is supported by our teachers-as-coaches.
 * Compass&nbsp;[Venture Projects](/venture-projects/)&nbsp;are co-created by certified teachers, community members, and students to intentionally meet academic standards across disciplines.
 
-&nbsp;
-
-## <br>COMPASS COMPETENCIES
+## COMPASS COMPETENCIES
 
 Compass students do more than just master traditional academic content.&nbsp; At Compass, we award digital badges when students demonstrate mastery of specific skill sets.&nbsp; These are the skills colleges want.&nbsp; These are the skills employers want.&nbsp; These are the skills that make Compass students successful in life.
 
