@@ -57,10 +57,8 @@ permalink: /transparency/
 layout: page
 ---
 
-# Transparency
+# Operational Transparency
 
-### Agendas and Minutes from Board Meetings plus Financial Transparency
+### Board Meeting Agendas and Meeting Minutes from the CCCS Governing Board&nbsp;
 
-[Financial Transparency](/financial-transparency/)
-
-[Student Privacy](/student-privacy/)
+&nbsp;
