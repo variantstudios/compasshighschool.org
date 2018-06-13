@@ -8,9 +8,7 @@ permalink: /resources/
 layout: page
 ---
 
-# Resources
-
-### Resources Informing the Work in the Development of Compass High School, Fort Collins, CO
+## Resources Informing the Work in the Development of Compass High School, Fort Collins, CO
 
 Berger, Warren. (2014). A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas. New York: Bloomsberry USA
 
@@ -120,7 +118,7 @@ Zhao, Yong, et.al. (2016). A Take Action Guide to World Class Learners: How to M
 
 [XQ Super School Project](http://www.XQsuperschool.org){: target="_blank"}
 
-[Coalition for Access, Affordability, and Success]( https://www.insidehighered.com/news/2015/09/29/80-colleges-and-universities-announce-plan-new-application-and-new-approach){: target="_blank"}
+[Coalition for Access, Affordability, and Success](https://www.insidehighered.com/news/2015/09/29/80-colleges-and-universities-announce-plan-new-application-and-new-approach){: target="_blank"}
 
 ### Adolescent brain and brain learning research:
 
