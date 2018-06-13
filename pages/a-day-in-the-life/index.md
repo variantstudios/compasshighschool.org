@@ -22,8 +22,6 @@ At Compass, our schedule is different to facilitate our innovative educational m
 * Compass students have individualized mathematics and English instruction with [Summit Learning Platform](https://www.summitlearning.org/){: target="_blank"}&nbsp;at the beginning and/or end of the day.&nbsp; Certified teachers are always available for personal coaching.
 * Large, flexible blocks of time allow for students to make the most of their [Venture Projects](/venture-projects/).&nbsp; The longer blocks of time facilitates cooperation with our community partners, and allows plenty of time for college courses and internships.
 
-&nbsp;
-
 ### Check out what a day at Compass looks like:
 
 **Compass Community Collaborative School Daily Schedule:**
@@ -34,5 +32,3 @@ At Compass, our schedule is different to facilitate our innovative educational m
 * 12:20 p.m.<br>**Community Lunch**
 * 01:10-3:10p<br>**Venture Block** -community-engaged venture projects (includes academic curriculum seminars and Summit Learning Platform), or college classes, or internships.
 * 03:15-4:45p<br>**Flex Time** - Students who arrived at 7:55 a.m. depart at 3:15 p.m., students who arrive at 8:40 a.m. depart at 4:00 p.m., students who arrive at 9:30 depart at 4:45 p.m.. Summit Learning Platform for math and/or English in 45 minute blocks, and/or small group lessons and individual tutoring may be scheduled for this time period.
-
-&nbsp;
