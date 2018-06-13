@@ -8,6 +8,6 @@ permalink: /student-privacy/
 layout: page
 ---
 
-# Student Data Privacy
+# CCCS Student Data Privacy Policy
 
 Coming Soon.
