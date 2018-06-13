@@ -10,13 +10,13 @@ layout: page
 
 # Venture Projects
 
-## Human-Centered Design<br>&nbsp;
+## Human-Centered Design
 
-Add content
+## &nbsp;
 
-&nbsp;
+At Compass, we utilize a human-centered design approach to venture project design.&nbsp; This process offers our students a chance to deeply understand the communities we wish to serve, to truly understand what is at the heart of a given problem, to design with those who may face the challenges we attempt to solve, to dream up scores of ideas, and to create innovative, thoughtful solutions that are grounded in our community's needs.
 
-## ![](/assets/images/versions/yay---x----4032-3024x---.jpg)
+## ![](/assets/images/compass-hcd.png)
 
 ## The CCC Difference
 
@@ -33,3 +33,5 @@ Newer students will work in and around the school and will choose from among tea
 ## Community Partner Projects
 
 Additional ways that we are breaking down barriers between school and community include our monthly Community Conclaves and our monthly “Lunch and Learn” programs. Compass will host “lunch and learn” presentations on various topics of interest to students and their families and these events will be open to the public. The Community Conclaves will be special evening events in which businesses, students, and citizens with ideas for Compass ventures, or particular problems they are concerned about solving, can pitch their ideas to the Compass community to develop opportunities for collaboration.
+
+&nbsp;
