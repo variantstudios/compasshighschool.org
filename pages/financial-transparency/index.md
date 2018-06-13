@@ -8,6 +8,6 @@ permalink: /financial-transparency/
 layout: page
 ---
 
-# Financial Transparency
+# CCCS Financial Transparency
 
 Coming Soon
