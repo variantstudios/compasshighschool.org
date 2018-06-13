@@ -31,7 +31,7 @@ Compass Community Collaborative will be an active partner with parents to help r
 
 Partnering with families is part of what will make our climate and culture exceptional. In addition to being part of our Presentations of Learning (student led conferences) three times a year, we will also welcome our families to evening classes to learn English, computer skills, and tricks of the trade in the difficult job of parenting. Additionally, parents will be an important connection to the working world by offering internships, project ideas, business connections, and expertise for our students. Other classes and opportunities for parents and families will be created on a year-by-year basis in response to family needs and interests.
 
-One of our highest priorities at Compass is to take care of our families; we welcome ideas and opportunities to make your student’s success a family affair.
+One of our highest priorities at Compass is to take care of our families. We welcome ideas and opportunities to make your student’s success a family affair.
 
 ## THE PAC (Parents Action Council)
 
