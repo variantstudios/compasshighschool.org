@@ -28,9 +28,7 @@ Newer students will work in and around the school and will choose from among tea
 
 ![](/assets/images/versions/ccc-quality-venture-projects---x----1275-1650x---.jpg)
 
-## &nbsp;
-
-![](/assets/images/versions/school-day-schedule-1---x----1302-860x---.png)
+&nbsp;
 
 ## Community Partner Projects
 
