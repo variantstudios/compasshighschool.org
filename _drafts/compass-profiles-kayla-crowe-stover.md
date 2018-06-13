@@ -45,7 +45,7 @@ I am a big foodie. Before I was a teacher, I worked in the restaurant industry f
 
 ###### What is your dream project/partnership at Compass?
 
-A project about untold stories. I recently heard a TedTalk about Native American resistant groups, a topic I've always been fascinated about, and the speaker gave a statistic that the highest growing youth population in our country are Native Americans. As I continued to listen, I wept over the silenced stories of these young Americans and I wondered where these silenced stories are in our backyard. Why do we find it difficult asking people to share their stories? For example military vets, immigrants, the new kid in class. How do relationships change when we reach out and ask about a person's story? When our stories are shared we no longer become invisible, and when other people listen to our stories with compassion change becomes possible.
+A project about untold stories. I recently heard a TedTalk about Native American resistant groups, a topic I've always been fascinated about, and the speaker gave a statistic that the highest growing youth population in our country are Native Americans. As I continued to listen, I wept over the silenced stories of these young Americans and I wondered where these silenced stories are in our backyard. Why do we find it difficult asking people to share their stories? For example, military vets, immigrants, the new kid in class. How do relationships change when we reach out and ask about a person's story? When our stories are shared we no longer become invisible, and when other people listen to our stories with compassion change becomes possible.
 
 ###### What do you believe?
 
@@ -64,7 +64,5 @@ A project about untold stories. I recently heard a TedTalk about Native American
 A "perfect day" would be spent with my family completely present. To be fully engaged in my children's imaginative play without worrying about what needs to come next. We'd eat when we got hungry and sleep when we got tired. We'd lay under a shady tree or jump in a lake if we got hot. We'd snuggle under blankets and read so many books if we got cold. We'd all pick up an instrument to jam on (even if we don't know how to play) and dance together.
 
 The best part about my perfect day is that I've been privileged to have already had so many!
-
-&nbsp;
 
 &nbsp;
