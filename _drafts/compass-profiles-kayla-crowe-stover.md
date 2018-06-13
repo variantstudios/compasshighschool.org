@@ -35,8 +35,6 @@ B.A. English
 
 Working on Compass has made me the best version of my teacher self, and continuing to be that person is the best thing I can do for kids.
 
-&nbsp;
-
 ###### Besides your specialty, what other talents and interests do you want to share with our community?
 
 I am a life-long dancer. I enjoy all kinds of dance, specifically modern and lyrical. I also like using my English background to create stories through choreography. Music and movement evoke emotions that can be conveyed thematically through different art forms.
