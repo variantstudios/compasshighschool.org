@@ -14,7 +14,7 @@ Students aren’t grouped by age into grade levels at Compass, rather they “le
 
 ![](/assets/images/levels-of-autonomy---web.jpg)
 
-### LEVELING UP
+## LEVELING UP
 
 Compass students are ready for the next level when they have acquired academic skills required at any level, when their 360 Team (including student, certified teacher, family member, and outside community member) determines their readiness, and when they have earned digital badges in the appropriate Compass Competencies.&nbsp; Different students will move through these levels at their own pace.&nbsp; For example, an older, more mature student may “level up” more quickly than a young student, who may remain an Explorer for longer.
 
