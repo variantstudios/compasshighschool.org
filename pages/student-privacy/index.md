@@ -7,6 +7,7 @@ search_engine_optimization:
 permalink: /student-privacy/
 layout: page
 ---
-# Student Privacy
+
+# Student Data Privacy
 
 Coming Soon.
