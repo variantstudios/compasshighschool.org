@@ -196,9 +196,23 @@
     become the benchmark model for educational innovation nationwide.
   team_position: staff
   image_path:
-- name: Katie Malone
+- name: 'Katie Malone, M. Ed.'
   position: Science Teacher
-  bio:
+  bio: >-
+    Having been in education for 12 years, I take my teaching philosophy from my
+    ecology background: All of our destinies are intertwined and, as such, we
+    all play a role in creating our best possible future.  I have extensive
+    experience in a variety of educational programs, from outdoor education,
+    special education, AVID and Discovery to the International Baccalaureate
+    Program, both Middle Years and Diploma.  This work has pushed me to believe
+    that all students are brilliant- they just need an atmosphere and community
+    that recognizes that.  Over the past few years, in designing and teaching
+    Project-based Learning science courses, I’ve come to realize that it’s time
+    for educators to change their perspective and begin to help kids find their
+    voice and passions.  We are all stronger when our students are empowered to
+    be active citizens in their community and pushed to realize their potential,
+    both as students and teachers.  That is our purpose at Compass Community
+    Collaborative School.
   team_position: staff
   image_path: /assets/images/katie---small.png
 - name: Chris Schneider
