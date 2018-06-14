@@ -18,12 +18,12 @@ Our innovative educational model was co-created by award winning educators, comm
 
 Our certified teachers work with students to ensure that they graduate with all necessary academic requirements to be successful in their post-secondary lives.
 
-* Compass students participate daily in the highly individualized&nbsp;[Summit Learning Platform](https://www.summitlearning.org/){: target="_blank"}.&nbsp; Students progress is continuously monitored to guarantee that every student is moving towards meeting academic standards. Independent work is supported by our teachers-as-coaches.
-* Compass&nbsp;[Venture Projects](/venture-projects/)&nbsp;are co-created by certified teachers, community members, and students to intentionally meet academic standards across disciplines.
+* Compass&nbsp;[Venture Projects](/venture-projects/)&nbsp;are co-created by certified teachers, community members, and students to intentionally meet academic standards across disciplines.&nbsp; Using human-centered design principles, venture projects allow students to work closely with the community, explore their personal interests and passions, and develop the skills needed at the next stage of their lives, what we call the Compass Competencies (outlined below).
+* In addition, Compass students participate daily in the highly individualized&nbsp;[Summit Learning Platform](https://www.summitlearning.org/){: target="_blank"}, a system allowing students to supplement their project work with focused academic work designed specifically to support their academic needs for successful completion of their Venture Projects.&nbsp; In addition, Summit provides an opportunity for students to get support in math and english during their daily flex-time.&nbsp; Students progress is continuously monitored to guarantee that every student is moving towards meeting academic standards, both within Summit and as part of their personal 360 support team.&nbsp; This independent work is supported by our teacher-advisers.
 
 ## COMPASS COMPETENCIES
 
-Compass students do more than just master traditional academic content.&nbsp; At Compass, we award digital badges when students demonstrate mastery of specific skill sets.&nbsp; These are the skills colleges want.&nbsp; These are the skills employers want.&nbsp; These are the skills that make Compass students successful in life.
+As mentioned, Compass students do more than just master traditional academic content.&nbsp; At Compass, we award digital badges when students demonstrate mastery of specific skill sets.&nbsp; These are the skills colleges want.&nbsp; These are the skills employers want.&nbsp; These are the skills that make Compass students successful in life.
 
 With the guidance of evidence-based research, we have created eight core competencies that will drive instruction, reflection, and assessment of mastery for both staff and students. In addition to academic common core standards and next generation science standards, mastering these eight competencies will guide teacher evaluation and measure student achievement:
 
@@ -31,20 +31,22 @@ With the guidance of evidence-based research, we have created eight core compete
 
 ## COLLEGE COURSES AND INTERNSHIPS
 
-All Compass students will graduate with at least one college course and a learning internship, supported by our partnership with local businesses and Big Picture Learning. Students will become part of a larger community as they experience opportunities to work as volunteers and interns with city government, Colorado State University professors and students, and a multitude of local businesses and nonprofits. All students will graduate having had at least one extensive internship in the community. These first-hand experiences will help create meaning and relevancy for students as they co-create a future for themselves and our community.
+All Compass students will graduate with at least one college course and a learning internship, supported by our partnership with local businesses and B[ig Picture Learning](https://www.bigpicture.org/){: target="_blank"}. Students will become part of a larger community as they experience opportunities to work as volunteers and interns with city government, Colorado State University professors and students, and a multitude of local businesses and nonprofits. These first-hand experiences will help create meaning and relevancy for students as they co-create a future for themselves and our community.
 
 ## MORE THAN “JUST AN ACADEMIC TRANSCRIPT”
 
 Compass students will have more than just a regular high school transcript to show to colleges and employers.&nbsp; All Compass students graduate with:
 
-* A digital portfolio of Venture Projects and Internships&nbsp;
+* A digital portfolio documenting Venture Projects, community internships and digital badges/microcredentials demonstrating their personal Compass Competency development and mastery of technical skill sets (i.e. - HTML, Python, 3D design, etc.)
 * A letter of recommendation from a local business and/or organization
-* A clear post-secondary plan for success
+* A clear post-secondary plan for success including financial considerations
 
 ## MAKING THE GRADE
 
-Compass students will not receive traditional grades for their work.&nbsp; Students are expected to learn because they see the value of their work—not to receive an “external reward.”&nbsp; Compass students produce and present real work, and are responsible for the outcomes…just like in the “real world.”
+Compass students will not simply receive traditional grades for their work.&nbsp; Students are expected to learn because they see the value of their work—not to receive an “external reward.”&nbsp; Compass students produce and present real work, and are responsible for the outcomes…just like in the “real world.”
 
-* No grades does NOT mean low expectations.&nbsp; We know that students rise to the expectations we place on them.&nbsp; And at Compass, our expectations for student behavior and performance are high.
-* No letter grades fosters intrinsic motivation, which fosters a deeper meaning from education.
+* Pushing beyond traditional grades does NOT mean low expectations.&nbsp; We know that students rise to the expectations we place on them.&nbsp; And at Compass, our expectations for student behavior and performance are high.
+* This process fosters intrinsic motivation, which fosters a deeper meaning from education.
 * Students work will be translated to letter grades in a transcript upon graduation for college admissions.
+
+&nbsp;
