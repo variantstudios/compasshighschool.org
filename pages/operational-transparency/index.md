@@ -53,7 +53,7 @@ stripe:
   failure_message: >-
     There was an issue with your payment. Please try again or contact us for
     help.
-permalink: /transparency/
+permalink: /operational-transparency/
 layout: page
 ---
 
