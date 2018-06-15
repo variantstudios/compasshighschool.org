@@ -10,4 +10,6 @@ layout: page
 
 # CCCS Financial Transparency
 
-Coming Soon
+As part of our ongoing financial transparency, the following documents are available to the general public:
+
+[Automatic Waivers for Charter Schools](/assets/Financial-Documents/Automatic Waivers for Charter Schools.pdf)
