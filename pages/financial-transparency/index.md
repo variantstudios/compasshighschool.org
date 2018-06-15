@@ -14,6 +14,14 @@ As part of our ongoing financial transparency, the following documents are avail
 
 [Automatic Waivers for Charter Schools](/assets/Financial-Documents/Automatic Waivers for Charter Schools.pdf)
 
+Compass Tax Exemption Form 990
+
+Compass Adopted Budget
+
+Compass Financial Audit
+
+Compass Salary Schedule and Policies
+
 [Poudre School District Fiscal Transparency](https://www.psdschools.org/your-district/finance-budget/financial-transparency)
 
 [Public Financial Transparency Website](https://coloradok12financialtransparency.com/#/)
