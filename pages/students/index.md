@@ -12,7 +12,7 @@ layout: page
 
 ## School, your way
 
-As a student at Compass Community Collaborative School you will collaborate with staff, peers, and community partners to design learning ventures based on your interests and the requirements of your personal path to graduation. Working on real world issues in multi-age, interdisciplinary teams, you will learn math, science, language arts, social sciences, art, and Spanish. Equally as important, you will learn and practice 21st Century Skills in all of your ventures to help you become an outstanding thinker, an effective communicator, a creative designer, and a master problem-solver.
+As a student at Compass Community Collaborative School, you will collaborate with staff, peers of all ages, and community partners to design "learning ventures" based on your interests, real-world issues, and your own graduation requirements. You will learn math, science, language arts, social sciences, art, and Spanish by actually applying them to projects you care about. In the process, you will become an outstanding thinker, an effective communicator, a creative designer, and a master problem-solver.
 
 ## Our daily schedule is different, too!
 
