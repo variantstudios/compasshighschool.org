@@ -12,7 +12,7 @@ layout: page
 
 At Compass, academic content is based on design principles that reflect our commitment to creating a student-centered learning environment that is healthy for adolescents, families, and staff and that prepares students to be positive change-makers in a rapidly changing world.
 
-Our innovative educational model was co-created by award winning educators, community members, business owners, artists, and students, and is backed up by best practices in education and evidence-based research.&nbsp; You can find out more about the science behind Compass in&nbsp;[Resources](/resources/){: target="_blank"}.
+Our innovative educational model was co-created by award winning educators, community members, business owners, artists, and students. This model is supported by best practices in education and years of evidence-based research.&nbsp; You can find out more about the science behind Compass in&nbsp;[Resources](/resources/){: target="_blank"}.
 
 ## ACADEMIC STANDARDS
 
