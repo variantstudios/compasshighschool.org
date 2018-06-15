@@ -26,12 +26,12 @@ At Compass, our schedule is different from traditional schools in line with our 
 
 **Compass Community Collaborative School Daily Schedule:**
 
-* 07:55 -09:25a<br>**Flex Time**-Each semester, families set an arrival time for 7:55 a.m., 8:40 a.m.,or 9:30 a.m. Students work with Summit Learning Platform in 45 minute blocks of individualized, online learning of Math and/or English. Small group lessons and individual tutoring may be scheduled for this time period. ELD class session during one of these 45 minute blocks.
+* 07:55-09:25<br>**Flex Time:&nbsp;**Each semester, families set an arrival time for 7:55, 8:40, or 9:30. Students work in 45-minute blocks on math and/or English.&nbsp; Small-group lessons and individual tutoring may be scheduled for this time period, and students are non-native English speakers can receive extra support, as needed.&nbsp;
 
-* 09:30-10:15a<br>**Advisory** - closely aged group will stay together with a staff leader in two year rotations for four days a week<br>**Conclave**- On Wednesdays, advisory will be replaced with Compass Conclave, where staff and students will share updates, successes, and struggles in their current project work.<br>&nbsp;
-* 10:20-12:20p<br>**Venture Block** - community-engaged venture projects (includes academic curriculum seminars and Summit Learning Platform), or college classes, or internships.&nbsp;<br>&nbsp;
-* 12:20 p.m.<br>**Community Lunch**<br>&nbsp;
-* 01:10-3:10p<br>**Venture Block** -community-engaged venture projects (includes academic curriculum seminars and Summit Learning Platform), or college classes, or internships.<br>&nbsp;
-* 03:15-4:45p<br>**Flex Time** - Students who arrived at 7:55 a.m. depart at 3:15 p.m., students who arrive at 8:40 a.m. depart at 4:00 p.m., students who arrive at 9:30 depart at 4:45 p.m.. Summit Learning Platform for math and/or English in 45 minute blocks, and/or small group lessons and individual tutoring may be scheduled for this time period.
+* 09:30-10:15<br>**Advisory:** Closely aged group of students stay together to work with a Teacher-Adviser for four days a week on a two-year rotation.<br>**Conclave:&nbsp;**On Wednesdays, Advisory is replaced with Compass Conclave, where staff and students share updates, successes, and struggles in their current project work.<br>&nbsp;
+* 10:20-12:20<br>**Venture Block:** Students work on community-engaged venture projects which includes academic curriculum, seminars and work on individualized learning activities.<br>&nbsp;
+* 12:20-1:10<br>**Community Lunch**<br>&nbsp;
+* 01:10-3:10<br>**Venture Block:** Students continue working on community-engaged venture projects.<br>&nbsp;
+* 03:15-4:45<br>**Flex Time:**&nbsp;Students who arrived at 7:55 depart at 3:15; students who arrived at 8:40 depart at 4:00; students who arrived at 9:30 depart at 4:45. Students who choose the later start time will participate individualized learning for math and/or English. Small-group lessons and individual tutoring may also be scheduled for this time period.
 
 &nbsp;
