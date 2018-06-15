@@ -30,4 +30,14 @@ A School Service On-Demand Provider is an entity that provides a service subject
 
 *Providers may be used with only particular student project groups or classrooms, and are not necessarily used school-wide. This list will be updated at the beginning and mid-point of each school year.*<br><br>NOTICE TO ON-DEMAND PROVIDERS: if Compass Community Collaborative School ceases to use, or refuses to use an on-demand school service provider pursuant to Colorado Revised Statutes 22-16-107 (3)(c), the school will post the name of the on-demand provider, accompanied by any written response that the on-demand provider may submit, on this website, and will notify the Colorado Department of Education which will post on its website the on-demand provider's name and any written response.
 
-&nbsp;
+### POUDRE SCHOOL DISTRICT BOARD POLICIES
+
+In accordance with CRS 22-16-107, Poudre School District has adopted the following Board policies addressing student information privacy and protection.
+
+[JRCB Privacy and Protection of Confidential Student Information](https://9eb1bb01-a-23acab0d-s-sites.googlegroups.com/a/weldre4.k12.co.us/board-of-education/section-j-students/JRCB?attachauth=ANoY7coJdh7sOXETLASZjmVAA29JYhhFhDw0EDwCHlK6RARyeB-U96JDdUGPogYrWLtw98tomNKe45yNPBaR7Qtc0qCEZOdsv6UQJp6NfbGnRsczCiGonWAFeZfBc9i2PxAOcgA-jsmazy8mv4ytnAPjhmoLymSy5LfQps_1VfacUB6LEMOTmQqb_BWyuVbYWceK7fPzwLOinVvYOdOAevTL8xPL2_hau7-MM-IwvsKLVCDjH_jUuUE%3D&amp;attredirects=1){: target="_blank"}
+
+[JRCB-R Privacy and Protection of Confidential Student Information](https://9eb1bb01-a-23acab0d-s-sites.googlegroups.com/a/weldre4.k12.co.us/board-of-education/section-j-students/JRCB-R?attachauth=ANoY7coblJ0i7rW0JWRHmefj-UCJplr-G2o_mDeRDdL5l2ImWSlhSQHADIUOFZj78e2naqq9mcFANefH24shFj1990tDljuCmpzKUok0T2J8HB-a7lXW7ZrEgX3DbtDZu6UnAz-esSsjZ2KP_1KK70nzZ1hKtm9NsbFSTq3xtri6Dz2-GcRCcx-mUleK8g8BRmhVNt_scihmf6JBUBKQs5w8PXpsHEkCMMdPhcWqAebERh4GVcawpHmzQU_4sTdnQ24P0E4hd79M&amp;attredirects=1){: target="_blank"}
+
+### ADDITIONAL RESOURCES
+
+Student Privacy Pledge<br>Colorado Department of Education - Data Privacy and Security<br>Data Quality Campaign
