@@ -22,7 +22,7 @@ At Compass, our schedule is different from traditional schools in line with our 
 * Individualization: Compass students have individualized mathematics and English instruction with [Summit Learning Platform](https://www.summitlearning.org/){: target="_blank"}&nbsp;at the beginning and/or end of the day.&nbsp; Certified teachers provide personal support during this academic time.
 * Flexible learning time: We don't use a traditional bell schedule at schedule. Instead, students have large, flexible blocks of time that allow them to make the most of their [Venture Projects](/venture-projects/).&nbsp; This facilitates cooperation with our community partners, and give students plenty of time for advanced learning on CSU's campus, on-site seminars and off-site internships.&nbsp;
 
-## Check out what a day at Compass looks like:
+## Check out what a typical day at Compass looks like:
 
 **Compass Community Collaborative School Daily Schedule:**
 
