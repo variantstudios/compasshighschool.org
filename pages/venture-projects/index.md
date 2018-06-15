@@ -12,11 +12,9 @@ layout: page
 
 ## Human-Centered Design
 
-## &nbsp;
+At Compass, we utilize a human-centered design approach to Venture Project design.&nbsp; This process offers our students a chance to deeply understand the communities we wish to serve, to truly understand what is at the heart of a given problem, to design with those who may face the challenges we attempt to solve, to dream up scores of ideas, and to create innovative, thoughtful solutions that are grounded in our community’s needs.
 
-At Compass, we utilize a human-centered design approach to venture project design.&nbsp; This process offers our students a chance to deeply understand the communities we wish to serve, to truly understand what is at the heart of a given problem, to design with those who may face the challenges we attempt to solve, to dream up scores of ideas, and to create innovative, thoughtful solutions that are grounded in our community's needs.
-
-## ![](/assets/images/compass-hcd.png)
+## ![](/assets/images/compass-hcd-2.png)
 
 ## The CCC Difference
 
