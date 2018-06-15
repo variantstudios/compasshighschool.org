@@ -13,3 +13,7 @@ layout: page
 As part of our ongoing financial transparency, the following documents are available to the general public:
 
 [Automatic Waivers for Charter Schools](/assets/Financial-Documents/Automatic Waivers for Charter Schools.pdf)
+
+[Poudre School District Fiscal Transparency](https://www.psdschools.org/your-district/finance-budget/financial-transparency)
+
+[Public Financial Transparency Website](https://coloradok12financialtransparency.com/#/)
