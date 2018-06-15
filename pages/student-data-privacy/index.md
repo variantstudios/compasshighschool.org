@@ -40,4 +40,4 @@ In accordance with CRS 22-16-107, Poudre School District has adopted the followi
 
 ### ADDITIONAL RESOURCES
 
-Student Privacy Pledge<br>Colorado Department of Education - Data Privacy and Security<br>Data Quality Campaign
+[Student Privacy Pledge](https://studentprivacypledge.org/privacy-pledge/){: target="_blank"}<br>[Colorado Department of Education - Data Privacy and Security](https://www.cde.state.co.us/dataprivacyandsecurity/parentinfo){: target="_blank"}<br>[Data Quality Campaign](https://dataqualitycampaign.org/){: target="_blank"}
