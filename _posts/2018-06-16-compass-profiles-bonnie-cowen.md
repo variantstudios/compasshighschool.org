@@ -1,6 +1,6 @@
 ---
 title: 'Compass Profiles: Bonnie Cowen'
-date:
+date: 2018-06-16 18:09:50
 image_path:
 categories:
 iframe_content:
