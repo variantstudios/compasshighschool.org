@@ -12,12 +12,14 @@ layout: page
 
 ## “Why do I need to learn this? When will I ever use it?”
 
-Students ask these question in their classes every day. Compass Community Collaborative School provides them with the skills and opportunities to answer these questions themselves. Through interdisciplinary and individualized learning plans and collaborative initiatives with local businesses and university partners, our mission is to help students discover learning with purpose. We have charted a new course at Compass Community Collaborative School – leaving behind the well-worn paths of schools designed to study individual academic disciplines at levels determined by age. Compass is student-centered and community-based. More than delivering curriculum, we nurture the development of intellectual intelligence, emotional intelligence, creativity, and curiosity in our students and their families.
+Students ask these questions in their classes every day. Compass Community Collaborative School provides them with the skills and opportunities to answer these questions themselves. Through interdisciplinary and individualized learning plans and collaborative initiatives with local businesses and university partners, our mission is to help students discover learning with purpose. We have charted a new course at Compass Community Collaborative School – leaving behind the well-worn paths of schools designed to study individual academic disciplines at levels determined by age. Compass is student-centered and community-based. More than delivering curriculum, we nurture the development of intellectual intelligence, emotional intelligence, creativity, and curiosity in our students and their families.
 
 Curious [Let’s Connect](/contact-us/)
 {: .cta}
 
 <div>Compass provides an innovative addition to the menu of school choices in Fort Collins. Here, we provide students entering 6th grade and above with opportunities to excel in areas of interest and strength, get support where they need help, and have the opportunity to explore and contribute to our community. Students can earn an associate degree or trade certificate before graduation and receive training in project development and strategic planning that will serve them throughout their adolescence and adulthood, no matter where their inner compass guides them.</div>
+
+&nbsp;
 
 ## CCC Mission
 
@@ -47,6 +49,8 @@ The design principles reflect our intention to create a student-centered learnin
 * Team teaching
 * Flexible daily schedule and year-round learning
 * Future-ready focus on college preparation, career planning and community engagement
+
+&nbsp;
 
 &nbsp;
 
