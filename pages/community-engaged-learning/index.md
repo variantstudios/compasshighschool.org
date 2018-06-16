@@ -19,8 +19,6 @@ Curious [Let’s Connect](/contact-us/)
 
 <div>Compass provides an innovative addition to the menu of school choices in Fort Collins. Here, we provide students entering 6th grade and above with opportunities to excel in areas of interest and strength, get support where they need help, and have the opportunity to explore and contribute to our community. Students can earn an associate degree or trade certificate before graduation and receive training in project development and strategic planning that will serve them throughout their adolescence and adulthood, no matter where their inner compass guides them.</div>
 
-&nbsp;
-
 ## CCC Mission
 
 Our mission is to help students discover learning with purpose, to be authors of the best possible story of their lives and of our collective future. We recognize the unique attributes and needs of adolescents and actively support their development of identity, competency, and agency. We ask questions instead of giving answers. We provide resources instead of assignments. We embrace our community’s entrepreneurial nature and energy. Our teachers and our local, national, and international partners collaborate with our students and their families to chart a path of opportunity. Our students graduate as co-creators of a learning life.
@@ -49,9 +47,5 @@ The design principles reflect our intention to create a student-centered learnin
 * Team teaching
 * Flexible daily schedule and year-round learning
 * Future-ready focus on college preparation, career planning and community engagement
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
