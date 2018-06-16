@@ -9,13 +9,15 @@ search_engine_optimization:
   page_description:
 ---
 
+![](/assets/images/bonnie005-1.png)
+
 *This summer, we will be highlighting members of the Compass Community.&nbsp; This could include staff members, founding families, volunteers, board members, school designers, students or community partners.*
 
 *Get to know us.*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### ![](/assets/images/bonnie005.png)
+### &nbsp;
 
 ### Staff: Bonnie Cowen
 
@@ -63,7 +65,7 @@ I think it would be cool to be able to do backflips. Lots of them. Lots of them 
 
 ###### What would constitute a "perfect day"?
 
-Wake up late morning, have a strong cup of coffee with cream and sugar, sit in the woods by the river with a compelling read, ride bikes to a sushi lunch, root for a Chicago Cubs win while sitting in perfect afternoon baseball weather at Wrigley Field, cook delicious dinner with my dearest peeps at home (with lots of laughter), and then head out to watch a favorite band play into the night...
+Wake up late morning, have a strong cup of coffee with cream and sugar, sit in the woods by the river with a compelling read, ride bikes to a sushi lunch, root for a Chicago Cubs win while sitting in perfect afternoon baseball weather at Wrigley Field, cook delicious dinner with my dearest peeps at home (with lots of laughter), and then head out to watch a favorite band play into the night…
 
 ###### What are some of your favorite quotes?
 
