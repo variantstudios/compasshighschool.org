@@ -4,7 +4,7 @@
     - text: A Day in the Life
       url: /a-day-in-the-life/
     - text: Students
-      url: /students/    
+      url: /students/
     - text: Campus
       url: /campus/
     - text: Venture Projects
@@ -18,6 +18,8 @@
       url: /levels-of-autonomy/
     - text: Parent Resources
       url: /parent-resources/
+    - text: 2018-19 School Calendar
+      url:
 - text: Admissions
   url: /admissions/
 - text: Our Team
