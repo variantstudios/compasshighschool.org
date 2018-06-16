@@ -1,50 +1,186 @@
 - faq_category_title: Charter Schools
   faqs:
-    - question: What is a charter school and how is it different than a private or other public school?
-      answer_html: '<p>Charter schools are public schools. There is no tuition required. Charter schools are authorized and overseen by the State or a local District school board, but they have their own Board of Directors. Like other charter schools in Fort Collins, we will have a lottery for admission.</p>'
+    - question: >-
+        What is a charter school and how is it different than a private or other
+        public school?
+      answer_html: >-
+        <p>Charter schools are public schools. There is no tuition required.
+        Charter schools are authorized and overseen by the State or a local
+        District school board, but they have their own Board of Directors. Like
+        other charter schools in Fort Collins, we will have a lottery for
+        admission.</p>
 - faq_category_title: School Day
   faqs:
-    - question: Will there be school buses available to transport students to and from Compass?
-      answer_html: '<p>For the most part, families will be responsible for getting their children to and from school each day. We will locate our school near public transportation and bikeable routes so that students can get to school on their own. We will help families set up carpools from different parts of Fort Collins. Eventually, we plan to have a fleet of vans that may be available to pick students up if we have several students coming from one neighborhood.</p>'
+    - question: >-
+        Will there be school buses available to transport students to and from
+        Compass?
+      answer_html: >-
+        <p>For the most part, families will be responsible for getting their
+        children to and from school each day. We will locate our school near
+        public transportation and bikeable routes so that students can get to
+        school on their own. We will help families set up carpools from
+        different parts of Fort Collins. Eventually, we plan to have a fleet of
+        vans that may be available to pick students up if we have several
+        students coming from one neighborhood.</p>
     - question: Will there be a dress code?
-      answer_html: '<p>CCC will expect students to dress professionally during the school day. We will also provide all students with Compass tee shirts and polos that students will be expected to wear when they are working out in the community.</p>'
+      answer_html: >-
+        <p>CCC will expect students to dress professionally during the school
+        day. We will also provide all students with Compass tee shirts and polos
+        that students will be expected to wear when they are working out in the
+        community.</p>
     - question: Will there be homework?
-      answer_html: '<p>All students will be assigned weekly reading. Additionally, students will usually have work to do at home to move their learning ventures forward.</p>'
+      answer_html: >-
+        <p>All students will be assigned weekly reading. Additionally, students
+        will usually have work to do at home to move their learning ventures
+        forward.</p>
     - question: What are the benefits of multi-age grouping?
-      answer_html: '<p>Adolescents are socially focused, learning best when they are happy, challenged, and socially engaged. By working in multi-age groups, younger students have more mature peer models, and older students are held accountable for being those positive role models. It is a natural, inspiring, and effective way for humans to work.</p>'
+      answer_html: >-
+        <p>Adolescents are socially focused, learning best when they are happy,
+        challenged, and socially engaged. By working in multi-age groups,
+        younger students have more mature peer models, and older students are
+        held accountable for being those positive role models. It is a natural,
+        inspiring, and effective way for humans to work.</p>
     - question: What are the hours of the school day?
-      answer_html: '<p>All students and staff will be on campus for a minimum of seven hours per day. Student&rsquo;s start and end time will be established with family at the beginning of each semester, but students must arrive between 8a.m. and 9:30a.m. and depart between 3:00 p.m. and 5:00 p.m.</p>'
+      answer_html: >-
+        <p>All students and staff will be on campus for a minimum of seven hours
+        per day. Student&rsquo;s start and end time will be established with
+        family at the beginning of each semester, but students must arrive
+        between 8a.m. and 9:30a.m. and depart between 3:00 p.m. and 5:00
+        p.m.</p>
 - faq_category_title: Calendar
   faqs:
     - question: Will the academic calendar be the same as other schools in Fort Collins?
-      answer_html: '<p>Yes, the academic calendar will be similar to others in Fort Collins, however, students will be expected to plan for learning over the summer and be prepared to present evidence of their learning at the start of the next school year. Staff will help students design these learning projects so as to complement and enhance family needs and plans.</p>'
+      answer_html: >-
+        <p>Yes, the academic calendar is similar to others in Fort Collins,
+        however, students will be expected to plan for learning over the summer
+        and be prepared to present evidence of their learning at the start of
+        the next school year. Staff will help students design these learning
+        projects so as to complement and enhance family needs and
+        plans.</p><p>&nbsp;</p>
 - faq_category_title: School Size
   faqs:
-    - question: How many students will the school have and what will the student to staff ratio be?
-      answer_html: '<p>Compass plans to open with 200 students and grow to between 350 and 525 depending on our facilities. The student to staff ratio will be maintained at 1 staff member to 25 students or fewer.</p>'
+    - question: >-
+        How many students will the school have and what will the student to
+        staff ratio be?
+      answer_html: >-
+        <p>Compass plans to open with 200 students and grow to between 350 and
+        525 depending on our facilities. The student to staff ratio will be
+        maintained at 1 staff member to 25 students or fewer.</p>
 - faq_category_title: Graduation and College Admission
   faqs:
-    - question: How will Compass High School ensure that students will have the opportunity go to a college or university of their choice?
-      answer_html: '<p>Our curriculum will be highly individualized so as to offer challenge and growth for every student. We will build on strengths and interests, but also continually push students to try new things.</p><p>Students will be tested three times a year (MAPS testing) to measure their growth, and all students will be prepared for annual PARCC, CMAS, and for college entrance exams such as SAT tests.</p><p>Compass students will take a college class as part of their graduation requirements. This may be a credit-bearing, online course from any university in the country, or a classroom course at FRCC or CSU. We believe that students need to experience a college course before they leave high school in order to be best prepared and feel confident in their skills to attend college.</p><p>Students will graduate with a web-based portfolio of work to demonstrate both their academic skills and their 21st Century skills mastery. They will also have a professional resume and a letter of reference from a professional with whom they completed an extensive job internship. All of these assets will help them get into a college or university of their choice, but more importantly, they will be invaluable in demonstrating a student has the grit and persistence to successfully finish college with a degree.</p><p>Graduation requirements from Compass will ensure that each student has met at least one of the following criteria:</p><ul><li>Has been accepted into a college of their choice with a reasonable plan for payment</li><li>Has been accepted into a gap year program with a reasonable plan for payment</li><li>Has been hired for a self-sustaining job in which they will continue to grow and learn</li><li>Has been accepted into an internship/apprenticeship, or certificate program of their choice</li></ul>'
+    - question: >-
+        How will Compass High School ensure that students will have the
+        opportunity go to a college or university of their choice?
+      answer_html: >-
+        <p>Our curriculum will be highly individualized so as to offer challenge
+        and growth for every student. We will build on strengths and interests,
+        but also continually push students to try new things.</p><p>Students
+        will be tested three times a year (MAPS testing) to measure their
+        growth, and all students will be prepared for annual PARCC, CMAS, and
+        for college entrance exams such as SAT tests.</p><p>Compass students
+        will take a college class as part of their graduation requirements. This
+        may be a credit-bearing, online course from any university in the
+        country, or a classroom course at FRCC or CSU. We believe that students
+        need to experience a college course before they leave high school in
+        order to be best prepared and feel confident in their skills to attend
+        college.</p><p>Students will graduate with a web-based portfolio of work
+        to demonstrate both their academic skills and their 21st Century skills
+        mastery. They will also have a professional resume and a letter of
+        reference from a professional with whom they completed an extensive job
+        internship. All of these assets will help them get into a college or
+        university of their choice, but more importantly, they will be
+        invaluable in demonstrating a student has the grit and persistence to
+        successfully finish college with a degree.</p><p>Graduation requirements
+        from Compass will ensure that each student has met at least one of the
+        following criteria:</p><ul><li>Has been accepted into a college of their
+        choice with a reasonable plan for payment</li><li>Has been accepted into
+        a gap year program with a reasonable plan for payment</li><li>Has been
+        hired for a self-sustaining job in which they will continue to grow and
+        learn</li><li>Has been accepted into an internship/apprenticeship, or
+        certificate program of their choice</li></ul>
 - faq_category_title: Student Assessment
   faqs:
     - question: What standardized assessments will Compass students take?
-      answer_html: '<p>Compass students will take all state required standardized assessments, including the SAT college entrance exam. In order to track academic growth, students will also be assessed three times a year in reading and mathematics using nationally standardized MAPS tests.</p>'
-    - question: Why is Compass using a different model for assessing and transcripting student work?
-      answer_html: '<p>In our rapidly changing world, we believe that equipping students with the skills to be lifelong learners and positive change-makers is our number one job. Students will learn Colorado core content standards with the help of certified, highly-qualified teachers. However, they will learn these standards at different times, in a multitude of ways, throughout their years at Compass High School.In order to keep students from focusing on grades instead of learning, they will build a professional portfolio of their learning products and earn degrees inside eight, skill-focused digital badges while they are working at Compass High School. Ultimately, academic work will be assigned grades based on competency levels attained so that students will have transcripts for other schools, but this is not the form of feedback we will use as students demonstrate their learning.</p>'
+      answer_html: >-
+        <p>Compass students will take all state required standardized
+        assessments, including the SAT college entrance exam. In order to track
+        academic growth, students will also be assessed three times a year in
+        reading and mathematics using nationally standardized MAPS tests.</p>
+    - question: >-
+        Why is Compass using a different model for assessing and transcripting
+        student work?
+      answer_html: >-
+        <p>In our rapidly changing world, we believe that equipping students
+        with the skills to be lifelong learners and positive change-makers is
+        our number one job. Students will learn Colorado core content standards
+        with the help of certified, highly-qualified teachers. However, they
+        will learn these standards at different times, in a multitude of ways,
+        throughout their years at Compass High School.In order to keep students
+        from focusing on grades instead of learning, they will build a
+        professional portfolio of their learning products and earn degrees
+        inside eight, skill-focused digital badges while they are working at
+        Compass High School. Ultimately, academic work will be assigned grades
+        based on competency levels attained so that students will have
+        transcripts for other schools, but this is not the form of feedback we
+        will use as students demonstrate their learning.</p>
 - faq_category_title: Student Safety
   faqs:
-    - question: How will Compass ensure student safety with all of the community collaborations?
-      answer_html: '<p>Compass, like all schools, takes the safety of students very seriously. All community mentors who work with students one on one will be required to get fingerprinted and have a background check. There will also be training for our students and community mentors about appropriate and professional expectations, including the need for all students to be in common spaces (where other people will be around) with their mentors.</p><p>Older students may be independently traveling on public transportation to their satellite campuses and internships. Parents will sign a blanket permission slip at the beginning of each semester when the student designs their plan of learning with their Compass advisor to allow this travel and work outside of our school building. Parents will have contact information for the alternate learning locations and students will be required to wear a chipped badge at all times when they are off campus. The chipped badge will allow administrators at the school to locate the student if there is any question as to their whereabouts (this is like the software that Apple uses in their &ldquo;find my iphone app&rdquo;).</p>'
+    - question: >-
+        How will Compass ensure student safety with all of the community
+        collaborations?
+      answer_html: >-
+        <p>Compass, like all schools, takes the safety of students very
+        seriously. All community mentors who work with students one on one will
+        be required to get fingerprinted and have a background check. There will
+        also be training for our students and community mentors about
+        appropriate and professional expectations, including the need for all
+        students to be in common spaces (where other people will be around) with
+        their mentors.</p><p>Older students may be independently traveling on
+        public transportation to their satellite campuses and internships.
+        Parents will sign a blanket permission slip at the beginning of each
+        semester when the student designs their plan of learning with their
+        Compass advisor to allow this travel and work outside of our school
+        building. Parents will have contact information for the alternate
+        learning locations and students will be required to wear a chipped badge
+        at all times when they are off campus. The chipped badge will allow
+        administrators at the school to locate the student if there is any
+        question as to their whereabouts (this is like the software that Apple
+        uses in their &ldquo;find my iphone app&rdquo;).</p>
 - faq_category_title: Special Needs
   faqs:
-    - question: How will students with identified special needs benefit from the Compass High School educational model?
-      answer_html: '<p>Compass High School is individualized, competency-based, strengths-based, and hands-on education. We believe all types of learners will benefit from our curriculum model, our culture of care, and our flexible start and end times for our school day. We will have certified Special Education teachers on our staff. Please meet with us directly to consider your child&rsquo;s needs and our available staffing so we can make the best placements possible.</p>'
+    - question: >-
+        How will students with identified special needs benefit from the Compass
+        High School educational model?
+      answer_html: >-
+        <p>Compass High School is individualized, competency-based,
+        strengths-based, and hands-on education. We believe all types of
+        learners will benefit from our curriculum model, our culture of care,
+        and our flexible start and end times for our school day. We will have
+        certified Special Education teachers on our staff. Please meet with us
+        directly to consider your child&rsquo;s needs and our available staffing
+        so we can make the best placements possible.</p>
 - faq_category_title: Curriculum
   faqs:
-    - question: 'Will Compass offer arts, music, and physical education? Will it have competitive sports teams?'
-      answer_html: '<p>Our high school will integrate arts, music, and PE, but it will not have standard competitive sports programs like the other high schools. Because of our flexible schedule, students may arrange to return to their neighborhood school to play on sports teams.</p>'
+    - question: >-
+        Will Compass offer arts, music, and physical education? Will it have
+        competitive sports teams?
+      answer_html: >-
+        <p>Our high school will integrate arts, music, and PE, but it will not
+        have standard competitive sports programs like the other high schools.
+        Because of our flexible schedule, students may arrange to return to
+        their neighborhood school to play on sports teams.</p>
 - faq_category_title: Teachers
   faqs:
-    - question: Will the teachers be certified teachers and will they be highly qualified in a wide variety of academic subject areas?
-      answer_html: '<p>Yes, Compass High School will have highly qualified, Colorado certified teachers in English, Math, Science, Social Studies, Special Education, and English Language Acquisition. We will also have specialized, non-certified teachers as staff and instructors at our school and in the community to widen the diversity of adults with whom students and staff may collaborate and learn. For example, our kitchen manager will be an experienced chef and kitchen manager who will work with students to learn about cooking, nutrition, and other life skills.</p>'
+    - question: >-
+        Will the teachers be certified teachers and will they be highly
+        qualified in a wide variety of academic subject areas?
+      answer_html: >-
+        <p>Yes, Compass High School will have highly qualified, Colorado
+        certified teachers in English, Math, Science, Social Studies, Special
+        Education, and English Language Acquisition. We will also have
+        specialized, non-certified teachers as staff and instructors at our
+        school and in the community to widen the diversity of adults with whom
+        students and staff may collaborate and learn. For example, our kitchen
+        manager will be an experienced chef and kitchen manager who will work
+        with students to learn about cooking, nutrition, and other life
+        skills.</p>
