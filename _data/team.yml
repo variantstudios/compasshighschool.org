@@ -349,3 +349,18 @@
     revolution, computational fluid dynamics and the nature of the spirit.
   team_position: founding-board-of-directors
   image_path:
+- name: Danny Hanlon
+  position: English / ELD Teacher
+  bio:
+  team_position: staff
+  image_path: /assets/images/dannysmock.png
+- name: Marty Wiseman
+  position: Facilities Manager
+  bio:
+  team_position: staff
+  image_path: /assets/images/martyscrewdriver.png
+- name: Adrian Ortiz
+  position: Paraprofessional
+  bio:
+  team_position: staff
+  image_path:
