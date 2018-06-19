@@ -48,14 +48,21 @@ body.not-front section.subpage {
     }
     p.cta {
         padding: 2.5rem 0;
-        margin: 2rem -33.33%;
+        margin: 2rem auto;
+        @include breakpoint($bp-medium, $no-query: ".no-mq") {
+            margin: 2rem -54px;
+        }
+        @include breakpoint($bp-large, $no-query: ".no-mq") {
+            margin: 2rem -90px;
+        }
         background-color: #2AACE2;
         background-image: url(/assets/images/patterns/blue-halftone-dot-pattern.png);
         text-align: center;
         color: #fff;
         display: block;
         font-size: 3rem;
-        font-family: "Montserrat", sans-serif;
+        font-family: "Montserrat",
+        sans-serif;
         font-weight: 900;
         a {
             color: #fff;
