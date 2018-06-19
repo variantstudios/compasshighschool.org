@@ -14,5 +14,11 @@
     margin: 0 auto 2rem auto;
     padding: 2rem;
     max-width: 1200px;
-    background: rgba(255, 255, 255, 0.85);
+    background: rgba(255, 255, 255, 0.9);
+    @include breakpoint($bp-medium, $no-query: ".no-mq") {
+        padding: 2rem 3rem;
+    }
+    @include breakpoint($bp-large, $no-query: ".no-mq") {
+        padding: 2rem 5rem;
+    }
 }

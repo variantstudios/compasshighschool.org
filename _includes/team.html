@@ -7,7 +7,11 @@
 
 {% for item in team %}  
   <div class="team--member clearfix">
-    <img src="{{ item.image_path }}" alt="{{ item.name }}"/>
+    {% if item.image_path %}
+    <div class="team--member-img">
+      <img src="{{ item.image_path }}" alt="{{ item.name }}"/>
+    </div>
+    {% endif %}
     <div class="team--member-details">
       <h3>{{ item.name }}</h3>
       <h6>{{ item.position }} </h6>
