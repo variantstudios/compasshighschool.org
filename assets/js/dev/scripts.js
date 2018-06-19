@@ -42,12 +42,6 @@ $(document).ready(function() {
       // For URLs like https://youtu.be/xLrLlu6KDss
       id = this.pathname.substr(1);
     }
-    // Check that the ID only has alphanumeric characters, to make sure that
-    // we don't introduce any XSS vulnerabilities.
-    // var validatedID;
-    // if (id && id.match(/^[a-zA-Z0-9]*$/)) {
-    //   validatedID = id;
-    // }
     // Add the embedded YouTube video, and remove the link.
     if (id) {
       $(this)

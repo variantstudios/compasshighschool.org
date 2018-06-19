@@ -12,7 +12,7 @@ layout: page
 
 As part of our ongoing financial transparency, the following documents are available to the general public:
 
-[Automatic Waivers for Charter Schools](/assets/Financial-Documents/Automatic Waivers for Charter Schools.pdf)
+[Automatic Waivers for Charter Schools](/assets/pdf/financial-documents/Automatic Waivers for Charter Schools.pdf)
 
 Compass Tax Exemption Form 990
 

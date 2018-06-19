@@ -746,12 +746,12 @@ iframe {
 @media (min-width: 50em) {
   .main-nav > .menu li {
     display: inline-block;
-    padding: .75em .6em;
+    padding: .75em .5em;
   }
 }
 .no-mq .main-nav > .menu li {
   display: inline-block;
-  padding: .75em .6em;
+  padding: .75em .5em;
 }
 @media (min-width: 75em) {
   .main-nav > .menu li {
@@ -948,7 +948,6 @@ iframe {
   margin-left: 0;
 }
 .footer-wrapper .footer-inner .one .social-icons a img {
-  height: 60px;
   width: 60px;
 }
 .footer-wrapper .footer-inner .one .social-icons a:hover {
@@ -1739,8 +1738,6 @@ form .align-right {
 }
 .front .find-your-genius .title {
   position: absolute;
-  top: -95px;
-  left: -108px;
   -webkit-animation-name: slideDownfromLeft;
           animation-name: slideDownfromLeft;
   -webkit-animation-duration: 1s;
@@ -1752,30 +1749,65 @@ form .align-right {
   opacity: 0;
   -webkit-animation-fill-mode: forwards;
           animation-fill-mode: forwards;
-  background: url("/assets/images/front/find-your-genius_title_md.png") no-repeat top left;
-  width: 568px;
-  height: 401px;
+  background: url("/assets/images/front/find-your-genius_title_md.png") no-repeat 0 0;
+  background-size: contain;
+  top: -45px;
+  left: -93px;
+  width: 100%;
+  height: 226px;
 }
-@media (min-width: 81.25em) {
+@media (min-width: 25em) {
+  .front .find-your-genius .title {
+    width: 440px;
+    height: 324px;
+    top: -32px;
+    left: -36px;
+  }
+}
+.no-mq .front .find-your-genius .title {
+  width: 440px;
+  height: 324px;
+  top: -32px;
+  left: -36px;
+}
+@media (min-width: 37.5em) {
+  .front .find-your-genius .title {
+    top: -104px;
+    left: -69px;
+    background: url("/assets/images/front/find-your-genius_title.png") no-repeat 0 0;
+    background-size: contain;
+    width: 100%;
+    height: 476px;
+  }
+}
+.no-mq .front .find-your-genius .title {
+  top: -104px;
+  left: -69px;
+  background: url("/assets/images/front/find-your-genius_title.png") no-repeat 0 0;
+  background-size: contain;
+  width: 100%;
+  height: 476px;
+}
+@media (min-width: 50em) {
   .front .find-your-genius .title {
     top: -190px;
     left: -217px;
-    background: url("/assets/images/front/find-your-genius_title.png") no-repeat top left;
-    width: 908px;
-    height: 642px;
+    background: url("/assets/images/front/find-your-genius_title.png") no-repeat 0 0;
+    background-size: contain;
+    width: 100%;
+    height: 576px;
   }
 }
 .no-mq .front .find-your-genius .title {
   top: -190px;
   left: -217px;
-  background: url("/assets/images/front/find-your-genius_title.png") no-repeat top left;
-  width: 908px;
-  height: 642px;
+  background: url("/assets/images/front/find-your-genius_title.png") no-repeat 0 0;
+  background-size: contain;
+  width: 100%;
+  height: 576px;
 }
 .front .find-your-genius .independent-learner {
   position: absolute;
-  top: 12px;
-  right: 238px;
   -webkit-animation-name: slideDown;
           animation-name: slideDown;
   -webkit-animation-duration: 1s;
@@ -1790,11 +1822,36 @@ form .align-right {
   background: url("/assets/images/front/independent-learner_button_md.png") no-repeat top left;
   width: 179px;
   height: 175px;
+  top: 170px;
+  left: -29px;
 }
-@media (min-width: 81.25em) {
+@media (min-width: 25em) {
+  .front .find-your-genius .independent-learner {
+    top: -28px;
+    left: -29px;
+  }
+}
+.no-mq .front .find-your-genius .independent-learner {
+  top: -28px;
+  left: -29px;
+}
+@media (min-width: 50em) {
+  .front .find-your-genius .independent-learner {
+    top: -28px;
+    right: 196px;
+    left: auto;
+  }
+}
+.no-mq .front .find-your-genius .independent-learner {
+  top: -28px;
+  right: 196px;
+  left: auto;
+}
+@media (min-width: 75em) {
   .front .find-your-genius .independent-learner {
     top: -56px;
     right: 364px;
+    left: auto;
     background: url("/assets/images/front/independent-learner_button.png") no-repeat top left;
     width: 357px;
     height: 350px;
@@ -1803,14 +1860,13 @@ form .align-right {
 .no-mq .front .find-your-genius .independent-learner {
   top: -56px;
   right: 364px;
+  left: auto;
   background: url("/assets/images/front/independent-learner_button.png") no-repeat top left;
   width: 357px;
   height: 350px;
 }
 .front .find-your-genius .future-designer {
   position: absolute;
-  bottom: 10px;
-  right: 170px;
   -webkit-animation-name: slideUp;
           animation-name: slideUp;
   -webkit-animation-duration: 1s;
@@ -1825,10 +1881,49 @@ form .align-right {
   background: url("/assets/images/front/future-designer_button_md.png") no-repeat top left;
   width: 179px;
   height: 175px;
+  top: 191px;
+  right: 0px;
 }
-@media (min-width: 81.25em) {
+@media (min-width: 25em) {
+  .front .find-your-genius .future-designer {
+    top: 251px;
+    left: -30px;
+    right: auto;
+  }
+}
+.no-mq .front .find-your-genius .future-designer {
+  top: 251px;
+  left: -30px;
+  right: auto;
+}
+@media (min-width: 37.5em) {
+  .front .find-your-genius .future-designer {
+    top: 270px;
+    left: -16px;
+    right: auto;
+  }
+}
+.no-mq .front .find-your-genius .future-designer {
+  top: 270px;
+  left: -16px;
+  right: auto;
+}
+@media (min-width: 50em) {
+  .front .find-your-genius .future-designer {
+    top: 270px;
+    right: 12px;
+    left: auto;
+  }
+}
+.no-mq .front .find-your-genius .future-designer {
+  top: 270px;
+  right: 12px;
+  left: auto;
+}
+@media (min-width: 75em) {
   .front .find-your-genius .future-designer {
     bottom: 10px;
+    left: auto;
     right: 170px;
     background: url("/assets/images/front/future-designer_button.png") no-repeat top left;
     width: 357px;
@@ -1837,6 +1932,7 @@ form .align-right {
 }
 .no-mq .front .find-your-genius .future-designer {
   bottom: 10px;
+  left: auto;
   right: 170px;
   background: url("/assets/images/front/future-designer_button.png") no-repeat top left;
   width: 357px;
@@ -1844,8 +1940,6 @@ form .align-right {
 }
 .front .find-your-genius .creative-inventor {
   position: absolute;
-  top: -45px;
-  right: -55px;
   -webkit-animation-name: slideRight;
           animation-name: slideRight;
   -webkit-animation-duration: 1s;
@@ -1860,8 +1954,34 @@ form .align-right {
   background: url("/assets/images/front/creative-inventor_button_md.png") no-repeat top left;
   width: 179px;
   height: 175px;
+  top: -32px;
+  right: 0px;
 }
-@media (min-width: 81.25em) {
+@media (min-width: 25em) {
+  .front .find-your-genius .creative-inventor {
+    top: auto;
+    bottom: 150px;
+    right: 0;
+  }
+}
+.no-mq .front .find-your-genius .creative-inventor {
+  top: auto;
+  bottom: 150px;
+  right: 0;
+}
+@media (min-width: 37.5em) {
+  .front .find-your-genius .creative-inventor {
+    top: 0;
+    right: 0;
+    left: auto;
+  }
+}
+.no-mq .front .find-your-genius .creative-inventor {
+  top: 0;
+  right: 0;
+  left: auto;
+}
+@media (min-width: 75em) {
   .front .find-your-genius .creative-inventor {
     top: -45px;
     right: -55px;
@@ -1879,9 +1999,13 @@ form .align-right {
 }
 .front .find-your-genius .call-to-action {
   position: absolute;
-  bottom: 50px;
   z-index: 2;
-  left: 50%;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  bottom: 48px;
+  width: 90%;
   -webkit-transform: translateX(-50%);
       -ms-transform: translateX(-50%);
           transform: translateX(-50%);
@@ -1904,12 +2028,38 @@ form .align-right {
       -ms-transform: scale(1.075) translateX(-50%);
           transform: scale(1.075) translateX(-50%);
 }
+@media (min-width: 50em) {
+  .front .find-your-genius .call-to-action {
+    bottom: 42px;
+    display: inline;
+    width: 175px;
+  }
+}
+.no-mq .front .find-your-genius .call-to-action {
+  bottom: 42px;
+  display: inline;
+  width: 175px;
+}
+@media (min-width: 81.25em) {
+  .front .find-your-genius .call-to-action {
+    bottom: 42px;
+    left: 50%;
+    right: auto;
+    width: auto;
+  }
+}
+.no-mq .front .find-your-genius .call-to-action {
+  bottom: 42px;
+  left: 50%;
+  right: auto;
+  width: auto;
+}
 .front .find-your-genius .subtitle {
   color: #ED197B;
   font-family: "Montserrat", sans-serif;
   position: absolute;
-  bottom: 80px;
-  left: 150px;
+  bottom: 150px;
+  width: 100%;
   -webkit-animation-name: slideIn;
           animation-name: slideIn;
   -webkit-animation-duration: .6s;
@@ -1921,15 +2071,49 @@ form .align-right {
   opacity: 0;
   -webkit-animation-fill-mode: forwards;
           animation-fill-mode: forwards;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
 }
-@media (min-width: 81.25em) {
+@media (min-width: 25em) {
   .front .find-your-genius .subtitle {
-    font-size: 2rem;
+    bottom: 100px;
   }
 }
 .no-mq .front .find-your-genius .subtitle {
+  bottom: 100px;
+}
+@media (min-width: 50em) {
+  .front .find-your-genius .subtitle {
+    width: 100%;
+    font-size: 2rem;
+    bottom: 80px;
+    left: 0;
+    right: 0;
+    text-align: center;
+  }
+}
+.no-mq .front .find-your-genius .subtitle {
+  width: 100%;
   font-size: 2rem;
+  bottom: 80px;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+@media (min-width: 75em) {
+  .front .find-your-genius .subtitle {
+    width: auto;
+    bottom: 80px;
+    left: 150px;
+    right: auto;
+    text-align: center;
+  }
+}
+.no-mq .front .find-your-genius .subtitle {
+  width: auto;
+  bottom: 80px;
+  left: 150px;
+  right: auto;
+  text-align: center;
 }
 .front .secondary {
   background-color: #fff;
@@ -2151,10 +2335,18 @@ form .align-right {
 .front .that-one-teacher .left h2 {
   color: #86B209;
   display: inline;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   margin: 0 1rem 0 0;
   font-family: "Montserrat", sans-serif;
   font-weight: 900;
+}
+@media (min-width: 37.5em) {
+  .front .that-one-teacher .left h2 {
+    font-size: 1.8rem;
+  }
+}
+.no-mq .front .that-one-teacher .left h2 {
+  font-size: 1.8rem;
 }
 @media (min-width: 50em) {
   .front .that-one-teacher .left h2 {
@@ -2231,10 +2423,18 @@ form .align-right {
 .front .join-the-compass-community h2 {
   color: #fff;
   display: inline;
-  font-size: 2.5rem;
+  font-size: 1.8rem;
   margin: 0;
   font-family: "Montserrat", sans-serif;
   font-weight: 900;
+}
+@media (min-width: 50em) {
+  .front .join-the-compass-community h2 {
+    font-size: 2.5rem;
+  }
+}
+.no-mq .front .join-the-compass-community h2 {
+  font-size: 2.5rem;
 }
 .front .join-the-compass-community .logos {
   display: -webkit-box;
@@ -2788,7 +2988,7 @@ body.not-front section.subpage ul li a:hover {
 }
 body.not-front section.subpage p.cta {
   padding: 2.5rem 0;
-  margin: 2rem -33.33%;
+  margin: 2rem auto;
   background-color: #2AACE2;
   background-image: url(/assets/images/patterns/blue-halftone-dot-pattern.png);
   text-align: center;
@@ -2797,6 +2997,22 @@ body.not-front section.subpage p.cta {
   font-size: 3rem;
   font-family: "Montserrat", sans-serif;
   font-weight: 900;
+}
+@media (min-width: 50em) {
+  body.not-front section.subpage p.cta {
+    margin: 2rem -54px;
+  }
+}
+.no-mq body.not-front section.subpage p.cta {
+  margin: 2rem -54px;
+}
+@media (min-width: 62.5em) {
+  body.not-front section.subpage p.cta {
+    margin: 2rem -90px;
+  }
+}
+.no-mq body.not-front section.subpage p.cta {
+  margin: 2rem -90px;
 }
 body.not-front section.subpage p.cta a {
   color: #fff;

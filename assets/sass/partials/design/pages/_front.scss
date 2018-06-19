@@ -18,30 +18,60 @@
         }
         .title {
             position: absolute;
-            top: -95px;
-            left: -108px;
             animation-name: slideDownfromLeft;
             animation-duration: 1s;
             animation-timing-function: ease;
             animation-delay: .2s;
             opacity: 0;
             animation-fill-mode: forwards;
-            background: url('/assets/images/front/find-your-genius_title_md.png') no-repeat top left;
-            width: 568px;
-            height: 401px;
-            @include breakpoint(1300px,
+            background: url('/assets/images/front/find-your-genius_title_md.png') no-repeat 0 0;
+            background-size: contain;
+            top: -45px;
+            left: -93px;
+            width: 100%;
+            height: 226px;
+            @include breakpoint(400px,
+            $no-query: ".no-mq") {
+                // top: -97px;
+                // left: -83px;
+                // width: 458px;
+                // height: 324px;
+                // top: -30px;
+                // left: 2px;
+                width: 440px;
+                height: 324px;
+                top: -32px;
+                left: -36px;
+            }
+            @include breakpoint(600px,
+            $no-query: ".no-mq") {
+                top: -104px;
+                left: -69px;
+                background: url('/assets/images/front/find-your-genius_title.png') no-repeat 0 0;
+                background-size: contain;
+                width: 100%;
+                height: 476px;
+            }
+            @include breakpoint(800px,
             $no-query: ".no-mq") {
                 top: -190px;
                 left: -217px;
-                background: url('/assets/images/front/find-your-genius_title.png') no-repeat top left;
-                width: 908px;
-                height: 642px;
+                background: url('/assets/images/front/find-your-genius_title.png') no-repeat 0 0;
+                background-size: contain;
+                width: 100%;
+                height: 576px;
+            }
+            @include breakpoint(1200px,
+            $no-query: ".no-mq") {
+                // top: -190px;
+                // left: -217px;
+                // background: url('/assets/images/front/find-your-genius_title.png') no-repeat top left;
+                // width: 908px;
+                // height: 642px;
             }
         }
         .independent-learner {
             position: absolute;
-            top: 12px;
-            right: 238px;
             animation-name: slideDown;
             animation-duration: 1s;
             animation-timing-function: ease;
@@ -51,10 +81,24 @@
             background: url('/assets/images/front/independent-learner_button_md.png') no-repeat top left;
             width: 179px;
             height: 175px;
-            @include breakpoint(1300px,
+            top: 170px;
+            left: -29px;
+            @include breakpoint(400px,
+            $no-query: ".no-mq") {
+                top: -28px;
+                left: -29px;
+            }
+            @include breakpoint(800px,
+            $no-query: ".no-mq") {
+                top: -28px;
+                right: 196px;
+                left: auto;
+            }
+            @include breakpoint(1200px,
             $no-query: ".no-mq") {
                 top: -56px;
                 right: 364px;
+                left: auto;
                 background: url('/assets/images/front/independent-learner_button.png') no-repeat top left;
                 width: 357px;
                 height: 350px;
@@ -62,8 +106,6 @@
         }
         .future-designer {
             position: absolute;
-            bottom: 10px;
-            right: 170px;
             animation-name: slideUp;
             animation-duration: 1s;
             animation-timing-function: ease;
@@ -73,9 +115,30 @@
             background: url('/assets/images/front/future-designer_button_md.png') no-repeat top left;
             width: 179px;
             height: 175px;
-            @include breakpoint(1300px,
+            top: 191px;
+            right: 0px;
+            @include breakpoint(400px,
+            $no-query: ".no-mq") {
+                top: 251px;
+                left: -30px;
+                right: auto;
+            }
+            @include breakpoint(600px,
+            $no-query: ".no-mq") {
+                top: 270px;
+                left: -16px;
+                right: auto;
+            }
+            @include breakpoint(800px,
+            $no-query: ".no-mq") {
+                top: 270px;
+                right: 12px;
+                left: auto;
+            }
+            @include breakpoint(1200px,
             $no-query: ".no-mq") {
                 bottom: 10px;
+                left: auto;
                 right: 170px;
                 background: url('/assets/images/front/future-designer_button.png') no-repeat top left;
                 width: 357px;
@@ -84,8 +147,6 @@
         }
         .creative-inventor {
             position: absolute;
-            top: -45px;
-            right: -55px;
             animation-name: slideRight;
             animation-duration: 1s;
             animation-timing-function: ease;
@@ -95,7 +156,21 @@
             background: url('/assets/images/front/creative-inventor_button_md.png') no-repeat top left;
             width: 179px;
             height: 175px;
-            @include breakpoint(1300px,
+            top: -32px;
+            right: 0px;
+            @include breakpoint(400px,
+            $no-query: ".no-mq") {
+                top: auto;
+                bottom: 150px;
+                right: 0;
+            }
+            @include breakpoint(600px,
+            $no-query: ".no-mq") {
+                top: 0;
+                right: 0;
+                left: auto;
+            }
+            @include breakpoint(1200px,
             $no-query: ".no-mq") {
                 top: -45px;
                 right: -55px;
@@ -106,9 +181,13 @@
         }
         .call-to-action {
             position: absolute;
-            bottom: 50px;
             z-index: 2;
-            left: 50%;
+            left: 0;
+            right: 0;
+            margin-left: auto;
+            margin-right: auto;
+            bottom: 48px;
+            width: 90%;
             transform: translateX(-50%);
             animation-name: SlipIn;
             animation-duration: .4s;
@@ -121,23 +200,55 @@
                 top: auto;
                 transform: scale(1.075) translateX(-50%);
             }
+            @include breakpoint(400px,
+            $no-query: ".no-mq") {}
+            @include breakpoint(800px,
+            $no-query: ".no-mq") {
+                bottom: 42px;
+                display: inline;
+                width: 175px;
+            }
+            @include breakpoint(1300px,
+            $no-query: ".no-mq") {
+                bottom: 42px;
+                left: 50%;
+                right: auto;
+                width: auto;
+            }
         }
         .subtitle {
             color: $color-three;
             font-family: $font-family;
             position: absolute;
-            bottom: 80px;
-            left: 150px;
+            bottom: 150px;
+            width: 100%;
             animation-name: slideIn;
             animation-duration: .6s;
             animation-timing-function: ease;
             animation-delay: 1.3s;
             opacity: 0;
             animation-fill-mode: forwards;
-            font-size: 1.8rem;
-            @include breakpoint(1300px,
+            font-size: 1.6rem;
+            @include breakpoint(400px,
             $no-query: ".no-mq") {
+                bottom: 100px;
+            }
+            @include breakpoint(800px,
+            $no-query: ".no-mq") {
+                width: 100%;
                 font-size: 2rem;
+                bottom: 80px;
+                left: 0;
+                right: 0;
+                text-align: center;
+            }
+            @include breakpoint(1200px,
+            $no-query: ".no-mq") {
+                width: auto;
+                bottom: 80px;
+                left: 150px;
+                right: auto;
+                text-align: center;
             }
         }
     }
@@ -293,10 +404,14 @@
             h2 {
                 color: $color-one;
                 display: inline;
-                font-size: 1.8rem;
+                font-size: 1.5rem;
                 margin: 0 1rem 0 0;
                 font-family: $font-family;
                 font-weight: 900;
+                @include breakpoint($bp-small,
+                $no-query: ".no-mq") {
+                    font-size: 1.8rem;
+                }
                 @include breakpoint($bp-medium,
                 $no-query: ".no-mq") {
                     font-size: 2.5rem;
@@ -347,10 +462,14 @@
         h2 {
             color: #fff;
             display: inline;
-            font-size: 2.5rem;
+            font-size: 1.8rem;
             margin: 0;
             font-family: $font-family;
             font-weight: 900;
+            @include breakpoint($bp-medium,
+            $no-query: ".no-mq") {
+                font-size: 2.5rem;
+            }
         }
         .logos {
             display: flex;

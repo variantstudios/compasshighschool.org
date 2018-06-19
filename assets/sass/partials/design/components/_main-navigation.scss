@@ -129,7 +129,7 @@
             @include breakpoint($bp-medium,
             $no-query: '.no-mq') {
                 display: inline-block;
-                padding: .75em .6em;
+                padding: .75em .5em;
             }
             @include breakpoint(1200px,
             $no-query: '.no-mq') {
