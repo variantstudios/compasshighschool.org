@@ -65,7 +65,7 @@ p + p {
 }
 
 h1 {
-  font-size: 3em;
+  font-size: 3.5em;
 }
 
 h2 {
@@ -90,7 +90,7 @@ h6 {
 
 @media (min-width: 0) and (max-width: 37.5em) {
   h1 {
-    font-size: 1.7em;
+    font-size: 2.2em;
   }
 
   h2 {
@@ -1485,7 +1485,23 @@ a.call-to-action:hover {
   margin: 0 auto 2rem auto;
   padding: 2rem;
   max-width: 1200px;
-  background: rgba(255, 255, 255, 0.85);
+  background: rgba(255, 255, 255, 0.9);
+}
+@media (min-width: 50em) {
+  .subpage {
+    padding: 2rem 3rem;
+  }
+}
+.no-mq .subpage {
+  padding: 2rem 3rem;
+}
+@media (min-width: 62.5em) {
+  .subpage {
+    padding: 2rem 5rem;
+  }
+}
+.no-mq .subpage {
+  padding: 2rem 5rem;
 }
 
 .lightbox {
@@ -1578,6 +1594,51 @@ a.call-to-action:hover {
   background: #00AEEF;
   border: none;
   padding: 11px 27px;
+}
+
+@media (min-width: 50em) {
+  .team--member {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0 0 2rem 0;
+  }
+  .team--member img {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+  }
+}
+.no-mq .team--member {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0 2rem 0;
+}
+.no-mq .team--member img {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+@media (min-width: 50em) {
+  .team--member .team--member-details {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    margin: 0 0 0 2rem;
+  }
+  .team--member .team--member-details h3 {
+    margin-top: 0;
+  }
+}
+.no-mq .team--member .team--member-details {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  margin: 0 0 0 2rem;
+}
+.no-mq .team--member .team--member-details h3 {
+  margin-top: 0;
 }
 
 form .form-super-group {
@@ -2742,6 +2803,8 @@ body.not-front section.subpage p.cta a {
   text-decoration: none;
   background-color: #ED197B;
   border-radius: 32px;
+  -webkit-box-shadow: none;
+          box-shadow: none;
   border: 5px solid #fff;
   padding: 0.2rem 1.2rem 0 1.2rem;
   font-family: "Teko", sans-serif;
@@ -2751,6 +2814,7 @@ body.not-front section.subpage p.cta a {
   -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
   position: relative;
+  top: -8px;
 }
 body.not-front section.subpage p.cta a:hover {
   -webkit-transform: scale(1.075);
@@ -2758,7 +2822,7 @@ body.not-front section.subpage p.cta a:hover {
           transform: scale(1.075);
   -webkit-box-shadow: 5px 20px 30px 0 rgba(0, 0, 0, 0.1);
           box-shadow: 5px 20px 30px 0 rgba(0, 0, 0, 0.1);
-  top: -1px;
+  top: -9px;
 }
 
 .board {
