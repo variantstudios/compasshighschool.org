@@ -2,7 +2,7 @@
   position: School Leader
   bio: "While I have had many job titles over the course of my career, the thread that binds them together is my passion for learning. I have three master’s degrees, two in science and one in Educational Leadership, as well as a principal’s license. I have \_been a dedicated public educator for fourteen years in Fort Collins, serving as a high school classroom teacher, a department leader, a Dean of Students, and as a district-wide high school interventions facilitator.\n\nI became a teacher to change the world. What better way to create a more just and humane planet for all of us than to help orchestrate a rich learning ecosystem that inspires creativity, develops intellect, and fosters compassionate action around the globe? My commitment to social justice and to public education as a critical foundation for our democracy are matched by my responsiveness to data, research, and the educational demands of our rapidly changing world. As a clear, open, and trustworthy communicator, I will effectively lead Compass Community Collaborative School through its startup years with the partnership of an experienced, highly qualified, and committed team that will ensure that Compass stays student-centered and mission-driven. I am honored to be facilitating the work of a team of creative, thoughtful, and energetic change agents who are committed to writing the next chapter in public education. Compass Community Collaborative School is revolutionizing education for students, for their families, for the city of Fort Collins, and for the world."
   team_position: staff
-  image_path: /assets/images/jan---small.png
+  image_path: /assets/images/janwithorchid.png
 - name: 'Jason Malone, M.Ed.'
   position: Assistant School Leader
   bio: "As a public educator in Fort Collins for the past eighteen years, I’ve always been focused on not just my students’ learning, but my own. I believe that the best teachers are also lifelong students, which is one of the reasons I’m drawn to the work we are doing at Compass Community Collaborative School. I’ve worked as an International Baccalaureate Program Coordinator for the past decade as well as an IB Workshop Leader, Consultant and Program Evaluator working with schools all over North America. My collaborative spirit and desire for learning has also led to my work with the Colorado State University Writing Project, a professional organization of teachers working to improve writing and communication skills in K-12 students on the Front Range. This has reinforced my desire to break down walls of traditional discrete subject courses (science, math, history, etc.) and help kids see that education is greater and more powerful than what they often learn in the traditional classroom. Yet no experience has had a greater impact on my view of education than my work as a teacher of high school epistemology – the study of knowledge – for the past decade. \_Leading students through this course helped solidify my understanding of the power of self in the learning process. To understand the world around you, it is first important to understand yourself; how your personal experiences and beliefs impact the way you see and interpret your world. This honoring of identity and the power of each individual student is at the center of my teaching philosophy and our work at Compass."
@@ -39,7 +39,7 @@
     Restorative Justice practices. My research explores the intersection of SEL,
     Restorative Justice, and Transformational Learning.
   team_position: staff
-  image_path: /assets/images/pam---small.png
+  image_path: /assets/images/pamdenim.png
 - name: 'Sam Gleeson, B.Sc.'
   position: Science/Math Teacher
   bio: >-
@@ -235,7 +235,7 @@
     have been published in American Diplomacy, The American Historian, and
     Principal Leadership.
   team_position: founding-board-of-directors
-  image_path:
+  image_path: /assets/images/russtipofthehat.png
 - name: 'Gina Curler, M.A., Parent of future CCC student'
   position: Board Vice President
   bio: >-
@@ -260,7 +260,7 @@
     Costa Rica.  When not entrenched in raising children or starting Compass and
     No Barriers, I enjoy ceramics and playing cello.
   team_position: founding-board-of-directors
-  image_path:
+  image_path: /assets/images/ginachinoncello.png
 - name: 'Anthony Burrell, CPA, School Finance Director, KIPP Colorado'
   position: Board Treasurer
   bio: >-
@@ -295,7 +295,7 @@
     I am excited to pay that gift forward by serving on the Compass Community
     Collaborative School Board.
   team_position: founding-board-of-directors
-  image_path:
+  image_path: /assets/images/suriyaswordatside.png
 - name: 'Mark Schreiber, M.Ed., M.Sc., Maker Consultant and Entrepreneur'
   position: Board Member
   bio: >-
@@ -316,7 +316,7 @@
     Additionally, I have sat on the NSF Creative IT panel, school boards, and
     currently curate for Google’s Startup Digest for all things Maker.
   team_position: founding-board-of-directors
-  image_path:
+  image_path: /assets/images/markclaws.png
 - name: 'Jim Hutchinson, PhD, Aims Community College Curriculum Designer'
   position: Board Member
   bio: >-
@@ -332,7 +332,7 @@
     am so excited to be part of the development of Compass Community
     Collaborative School.
   team_position: founding-board-of-directors
-  image_path:
+  image_path: /assets/images/jimbootsonshoulder.png
 - name: 'Jofat Castillo, B.Sc., Entrepreneur'
   position: Board Member
   bio: >-
