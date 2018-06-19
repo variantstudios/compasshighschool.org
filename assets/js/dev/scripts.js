@@ -6,49 +6,60 @@ $(document).ready(function() {
   } else {
     $('html').addClass('no-mq');
   }
+
+  // Header
+  function resizeHeaderOnScroll() {
+    var distanceY = window.pageYOffset || document.documentElement.scrollTop,
+      shrinkOn = 111,
+      headerEl = document.getElementById('side-header');
+    
+    if (distanceY > shrinkOn) {
+      headerEl.classList.add('smaller');
+    } else {
+      headerEl.classList.remove('smaller');
+    }
+  }
+  window.addEventListener('scroll', resizeHeaderOnScroll);
+
+  $('a').each(function() {
+    // Exit quickly if this is the wrong type of URL
+    if (this.protocol !== 'http:' && this.protocol !== 'https:') {
+      return;
+    } else if ( this.target == '_blank') {
+      return;
+    }
+
+    // Find the ID of the YouTube video
+    var id, matches;
+    if (
+      this.hostname === 'youtube.com' ||
+      this.hostname === 'www.youtube.com'
+    ) {
+      // For URLs like https://www.youtube.com/watch?v=xLrLlu6KDss
+      matches = this.search.match(/[?&]v=([^&]*)/);
+      id = matches && matches[1];
+    } else if (this.hostname === 'youtu.be') {
+      // For URLs like https://youtu.be/xLrLlu6KDss
+      id = this.pathname.substr(1);
+    }
+    // Check that the ID only has alphanumeric characters, to make sure that
+    // we don't introduce any XSS vulnerabilities.
+    // var validatedID;
+    // if (id && id.match(/^[a-zA-Z0-9]*$/)) {
+    //   validatedID = id;
+    // }
+    // Add the embedded YouTube video, and remove the link.
+    if (id) {
+      $(this)
+        .before ('<div class="videoWrapper"><iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/' + id + '?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>')
+        .remove();
+    }
+  });
+
+  
+
 });
 
-// YouTube Responsive Lightbox
-// Function to reveal lightbox and adding YouTube autoplay
-var revealVideo; // eslint-disable-line no-unused-vars
-revealVideo = function(div,video_id) {
-  var video = document.getElementById(video_id).src;
-  document.getElementById(video_id).src = video+'&autoplay=1'; // adding autoplay to the URL
-  document.getElementById(div).style.display = 'block';
-};
-// Hiding the lightbox and removing YouTube autoplay
-var hideVideo; // eslint-disable-line no-unused-vars
-hideVideo = function(div,video_id) {
-  var video = document.getElementById(video_id).src;
-  var cleaned = video.replace('&autoplay=1',''); // removing autoplay form url
-  document.getElementById(video_id).src = cleaned;
-  document.getElementById(div).style.display = 'none';
-};
 
-// $(document).on('scroll', function(){
-//   console.log('scroll');
-//   if
-//   ($(document).scrollTop() > 117){
-//     $('.siteheader').addClass('shrink');
-//     console.log('shrink');
-//   }
-//   else
-//   {
-//     $('.siteheader').removeClass('shrink');
-//     console.log('no shrink');
-//   }
-// });
 
-function resizeHeaderOnScroll() {
-  var distanceY = window.pageYOffset || document.documentElement.scrollTop,
-    shrinkOn = 111,
-    headerEl = document.getElementById('side-header');
-  
-  if (distanceY > shrinkOn) {
-    headerEl.classList.add('smaller');
-  } else {
-    headerEl.classList.remove('smaller');
-  }
-}
 
-window.addEventListener('scroll', resizeHeaderOnScroll);
