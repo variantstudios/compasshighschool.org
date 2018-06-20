@@ -18,7 +18,9 @@ We currently have space on a first-come first-serve basis. &nbsp;Space is limite
 * Fill out the Intent to Enroll form. &nbsp;This begins the registration process, but filling out this form **DOES NOT REGISTER YOUR CHILD**.
 * Watch your inbox and mailbox for registration information. You will have the option of either filling out the online PDF, or waiting for a registration form in the mail.&nbsp;
 
-[Intent to Enroll Form](/parents/#iframe).
+&nbsp;
+
+[Intent to Enroll Form](https://goo.gl/forms/O1KBtoU4DtiBFLVe2){: target="_blank"}.
 
 ### FUTURE COMPASS STUDENTS
 
