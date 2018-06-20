@@ -1,6 +1,6 @@
 ---
 title: 'Compass Profiles: Christina Schneider'
-date:
+date: 2018-06-20 16:01:34
 image_path:
 categories:
 iframe_content:
