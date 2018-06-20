@@ -1,6 +1,6 @@
 ---
 title: Compass Sneak Peek Reminder
-date: 2018-05-12 00:00:00
+date: 2018-05-12 17:00:00
 image_path: /assets/images/blog/Compass-Sneak-Peek-Reminder.png
 categories:
 iframe_content:
