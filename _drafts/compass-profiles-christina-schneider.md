@@ -39,30 +39,30 @@ search_engine_optimization:
 
 &nbsp;
 
-What are five things that you know to be true?
+###### Besides your specialty, what other talents and interests do you want to share with our community?
 
-Life is not fair.
+*The love of the outdoors, being adventurous and open to new experiences, literature (especially local authors)*
 
-Fair is not equal.
+###### What previous life experiences are you bringing to the Compass Community?
 
-The people we surround ourselves with matter; we need to choose them remarkably.
+*I've never been afraid to step off of a ledge even if it means that I am turning my life upside down. I truly believe in going after what it is you desire in all aspects of life while showing everyone you come across kindness and compassion.*
 
-The words we say matter; language shapes the way we think about and perceive reality.
+###### What is your dream project/partnership at Compass?
 
-Humor is a saving grace
+*A project with the CSU Energy Institute*
 
-What is one question you are still searching for the answer to?
+###### What do you believe?
 
-Which came first, the chicken or the egg?<br>I also wrestle with the concept that space is infinite.
+*I believe that life is short and we need to embrace every opportunity that is in our path. Everything happens for a reason even though we may not understand what that reason is in many of our life experiences.*
 
-If you could wake up tomorrow with one new quality or ability, what would it be?
+###### What is the greatest accomplishment of your life?
 
-I think it would be cool to be able to do backflips. Lots of them. Lots of them in a row. If I could do, say, a triple backflip, I’m pretty certain I would exit scene in this fashion, often. I’d say, “Good-bye,” or “fill-in-the-blank” for whatever fits the occasion properly… then backflip-backflip-backflip. Cowen Out. Yep, that would be sweet.
+*My daughter, 13, and my son, 10.*
 
-What would constitute a “perfect day”?
+###### For what in your life do you feel the most grateful?
 
-Wake up late morning, have a strong cup of coffee with cream and sugar, sit in the woods by the river with a compelling read, ride bikes to a sushi lunch, root for a Chicago Cubs win while sitting in perfect afternoon baseball weather at Wrigley Field, cook delicious dinner with my dearest peeps at home (with lots of laughter), and then head out to watch a favorite band play into the night…
+*The relationships I have built personally and professionally*
 
-What are some of your favorite quotes?
+###### What would constitute a “perfect day”?
 
-Here’s a few of mine:<br>“Respect 90.” – Joe Maddon<br>“Knowing yourself is the beginning of all wisdom.” – Aristotle<br>“When I despair, I remember that all through history the way of truth and love have always won. There have been tyrants and murderers, and for a time, they can seem invincible, but in the end, they always fall. Think of it, always.” ― Mahatma Gandhi
+*Spending time outside in the mountain air finding beauty in the simplest of things*​​​​​​​
