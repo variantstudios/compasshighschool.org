@@ -388,7 +388,18 @@
   image_path: /assets/images/dannysmock.png
 - name: Marty Wiseman
   position: Facilities Manager
-  bio:
+  bio: >-
+    I am an "old school" mechanic. My experience as a mechanic began in my youth
+    learning from my Dad, wrenching on race cars. I went on to join the US
+    Marine Corps where I learned and performed Aviation Mechanics. I am a US
+    Certified Airframe and Power plant Mechanic and have worked in various
+    industries performing many different aspects of maintenance my entire
+    career. My adult daughter and my life partner's three children bring joy to
+    my life and I love the experience of parenting again. At home I can be found
+    working on my Model A (converting it to an electric car), doing yoga or
+    biking the back roads of Northern Colorado. I have a lot to offer to
+    Compass, my life experience has taught me much and I have always wanted to
+    pass on what I have learned and make a difference in my community.
   team_position: staff
   image_path: /assets/images/martyscrewdriver.png
 - name: Darian Ortiz
