@@ -4,7 +4,7 @@
   team_position: staff
   image_path: /assets/images/janwithorchid.png
 - name: 'Jason Malone, M.Ed.'
-  position: Assistant School Leader
+  position: Assistant School Lead
   bio: "As a public educator in Fort Collins for the past eighteen years, I’ve always been focused on not just my students’ learning, but my own. I believe that the best teachers are also lifelong students, which is one of the reasons I’m drawn to the work we are doing at Compass Community Collaborative School. I’ve worked as an International Baccalaureate Program Coordinator for the past decade as well as an IB Workshop Leader, Consultant and Program Evaluator working with schools all over North America. My collaborative spirit and desire for learning has also led to my work with the Colorado State University Writing Project, a professional organization of teachers working to improve writing and communication skills in K-12 students on the Front Range. This has reinforced my desire to break down walls of traditional discrete subject courses (science, math, history, etc.) and help kids see that education is greater and more powerful than what they often learn in the traditional classroom. Yet no experience has had a greater impact on my view of education than my work as a teacher of high school epistemology – the study of knowledge – for the past decade. \_Leading students through this course helped solidify my understanding of the power of self in the learning process. To understand the world around you, it is first important to understand yourself; how your personal experiences and beliefs impact the way you see and interpret your world. This honoring of identity and the power of each individual student is at the center of my teaching philosophy and our work at Compass."
   team_position: staff
   image_path: /assets/images/jason-small.png
@@ -15,8 +15,8 @@
   image_path: /assets/images/will---small.png
 - name: 'Pamela Barker, MA, PT'
   position: >-
-    Social Emotional Learning and Restorative Practices Specialist, Community
-    Engagement Coordinator
+    Culture Architect: Social Emotional Learning and Restorative Practices
+    Specialist
   bio: >-
     I am an educational psychologist and trainer in Emotional Intelligence (EI)
     and Social and Emotional Learning (SEL), a parenting coach, and conflict
@@ -41,7 +41,7 @@
   team_position: staff
   image_path: /assets/images/pamdenim.png
 - name: 'Sam Gleeson, B.Sc.'
-  position: Science/Math Teacher
+  position: 'Teacher-Adviser: Math/Science'
   bio: >-
     I have been a teacher in Fort Collins for four years. Over the last three
     years I have worked to bring more opportunities to my students by creating
@@ -64,7 +64,7 @@
   team_position: staff
   image_path: /assets/images/sam---small.png
 - name: 'Kayla Crowe-Stover, B.A.'
-  position: English Teacher
+  position: 'Teacher-Adviser: English'
   bio: >-
     I was fortunate to be hired for an English teacher position in Poudre School
     District immediately after completing my bachelors degree at Colorado State
@@ -92,7 +92,7 @@
   team_position: staff
   image_path: /assets/images/kayla-small.png
 - name: 'Dawn DuPriest, M.Ed'
-  position: Mathematics and Computer Science Teacher
+  position: 'Teacher-Adviser: Math/Computer Science'
   bio: >-
     After working as a software engineer for almost a decade, I followed my
     heart and became a math, science, and technology teacher in Poudre School
@@ -115,7 +115,7 @@
   team_position: staff
   image_path: /assets/images/dawn---small.png
 - name: 'Bonnie Cowen, M.Ed.'
-  position: Social Studies Teacher
+  position: 'Teacher-Adviser: Social Studies; Compass Historian'
   bio: >-
     After graduating from Kent State University, I moved to Colorado to fulfill
     a year-long volunteer service commitment.  Ultimately, I was hired to
@@ -143,7 +143,7 @@
   team_position: staff
   image_path: /assets/images/bonnie-small2.png
 - name: 'Adam Fallik, M. Ed.'
-  position: Special Education Teacher
+  position: 'Teacher-Adviser: Special Education'
   bio: >-
     In 2002 I got a job working with adults with developmental disabilities,
     with an emphasis on community accessibility and recreation. For more than
@@ -197,7 +197,7 @@
   team_position: staff
   image_path:
 - name: 'Katie Malone, M. Ed.'
-  position: Science Teacher
+  position: 'Teacher-Adviser: Science; Compass Curator'
   bio: >-
     Having been in education for 12 years, I take my teaching philosophy from my
     ecology background: All of our destinies are intertwined and, as such, we
@@ -382,7 +382,7 @@
   team_position: founding-board-of-directors
   image_path:
 - name: 'Danny Hanlon, B.A.'
-  position: English / English Language Development Teacher
+  position: 'Teacher-Adviser: English/English Language Development'
   bio: >-
     I unexpectedly found my calling as an educator on a trip I took to China in
     1998 shortly after receiving my bachelor’s degree in Humanities from
@@ -427,7 +427,7 @@
   team_position: staff
   image_path: /assets/images/martyscrewdriver.png
 - name: Darian Ortiz
-  position: Paraprofessional
+  position: Student Support Specialist
   bio:
   team_position: staff
   image_path:
