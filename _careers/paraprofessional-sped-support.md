@@ -2,7 +2,7 @@
 title: Paraprofessional SpEd Support
 posted_date: 2018-05-14 00:00:00
 show: true
-background_option: blue-halftone-dot-pattern
+background_option: grey-geometrics-pattern
 background_image:
 search_engine_optimization:
   page_title:
