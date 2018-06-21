@@ -1,4 +1,10 @@
---- search_engine_optimization: page_title: page_description: share_image_path: layout: page ---
+--- 
+search_engine_optimization:
+  page_title: 
+  page_description:
+  share_image_path:
+layout: page 
+---
 
 <section class="blog-preface">{{ content }}</section>
 
@@ -22,7 +28,8 @@
             <p>posted {{ post.date | date: "%a, %b %d, %Y" }}</p>
             {% for cat in post.categories %}
             <p class="category-label">Category: <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a></p>
-            {% endfor %} {% if post.tags %} {% endif %} {% if post.description %}
+            {% endfor %} 
+            {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
         </div>

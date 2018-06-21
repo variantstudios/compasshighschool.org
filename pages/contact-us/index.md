@@ -2,11 +2,11 @@
 title: Contact Us
 header_image:
 search_engine_optimization:
-  page_title: Contact Us
+  page_title: Contact the Compass Community Collaborative School
   page_description:
 webform:
   subject: 'Compass Community Collaborative School: Contact Form'
-  to: 'team@variantstudios.com,jan@compasshighschool.org'
+  to: 'jan@compasshighschool.org,team@variantstudios.com'
   thank_you_message: Thank you. Your message has been sent. We will contact you shortly.
 permalink: /contact-us/
 layout: page

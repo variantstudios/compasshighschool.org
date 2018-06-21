@@ -50,16 +50,3 @@ The design principles reflect our intention to create a student-centered learnin
 * Flexible daily schedule and year-round learning
 * Future-ready focus on college preparation, career planning and community engagement
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;

@@ -8,10 +8,10 @@ layout: default
             <a href="/blog/">
                 < Back to all blogs</a>
         </p>
-        <div class="left-image">
+        <!-- <div class="left-image">
             {% if page.image_path %}
             <img src="{{ page.image_path }}" alt="{{ page.title }}"> {% endif %}
-        </div>
+        </div> -->
         <div class="right-blog">
             <a href="{{ post.url }}">
                 <h3>{{ page.title }}</h3>
@@ -19,14 +19,7 @@ layout: default
             <p>posted {{ page.date | date: "%a, %b %d, %Y" }}</p>
             {% for cat in page.categories %}
             <p class="category-label">Category: <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a></p>
-            {% endfor %} {% if page.tags %}
-            <ul class="tags">
-                <li>Tags:</li>
-                {% for tag in page.tags %}
-                <li class="tag-label"><a href="{{ tag | prepend: '/blog/tag/' | append: '/' }}">{{ tag | replace: '-', ' ' | capitalize }}</a></li>
-                {% endfor %}
-            </ul>
-            {% endif %}
+            {% endfor %}
             {{ content }}
         </div>
     </div>
