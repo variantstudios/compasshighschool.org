@@ -7,7 +7,7 @@ layout: default
     <div class="find-your-genius">
         <div class="find-your-genius-wrapper">
             <h2 class="subtitle">{{page.find_your_genius.sub_title}}</h2>
-            <a href="{{page.find_your_genius.call_to_action_url}}" class="call-to-action editable">{{page.find_your_genius.call_to_action_title}}</a>
+            <a href="{{page.find_your_genius.call_to_action_url}}" class="call-to-action">{{page.find_your_genius.call_to_action_title}}</a>
 
             <span class="title"></span>
             <span class="independent-learner"></span>
@@ -70,7 +70,7 @@ layout: default
                 <p>Join our growing list of community partners and start seeing the benefit of working with our students. Your organization — business, nonprofit, artistic, college, university, and government entities — can partner with our students to engage
                     in hands-on career exploration. Contact us for information on community engagement opportunities.</p>
             </div>
-            <p class="text-align-center"><a href="#" class="editable call-to-action">Become A Partner</a></p>
+            <p class="text-align-center editable"><a href="#" class="call-to-action">Become A Partner</a></p>
             <div class="logos">
                 {% for partnes in page.join_the_compass_community_partners %}
                 <span class="partner-logo"><a href="{{partnes.site_url}}" target="_blank" title="{{partnes.title}}" rel="noopener noreferrer">
