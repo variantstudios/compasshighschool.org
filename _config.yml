@@ -137,7 +137,7 @@ _comments:
 # Cloudinary
 cloudinaryurl: 'https://res.cloudinary.com/compass-high-school/'
 
-# Google Analytics 
+# Google Analytics  UA-81024453-1
 google_analytics_tracking_id:
 
 exclude: [
