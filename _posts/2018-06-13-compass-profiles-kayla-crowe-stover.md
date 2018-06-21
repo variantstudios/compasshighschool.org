@@ -2,7 +2,8 @@
 title: 'Compass Profiles: Kayla Crowe-Stover'
 date: 2018-06-13 14:00:00
 image_path: '/assets/images/kayla003.jpg'
-categories:
+categories: 
+  - compass-profiles
 iframe_content:
 search_engine_optimization:
   page_title:

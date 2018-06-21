@@ -3,6 +3,7 @@ title: Summer Exhibition of Learning
 date: 2017-10-07 11:59:03
 image_path:
 categories:
+  - uncategorized
 iframe_content:
 search_engine_optimization:
   page_title:

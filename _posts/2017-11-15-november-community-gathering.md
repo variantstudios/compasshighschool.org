@@ -3,6 +3,7 @@ title: November Community Gathering
 date: 2017-11-15 16:43:37
 image_path:
 categories:
+  - uncategorized
 iframe_content:
 search_engine_optimization:
   page_title:

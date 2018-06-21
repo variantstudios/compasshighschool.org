@@ -3,6 +3,7 @@ title: No Barriers & Compass
 date: 2018-04-01 00:00:00
 image_path: /assets/images/fullsizeoutput-63e.jpeg
 categories:
+  - uncategorized
 iframe_content:
 search_engine_optimization:
   page_title:

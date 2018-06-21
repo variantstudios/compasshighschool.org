@@ -3,6 +3,7 @@ title: Why Compass? A Conversation
 date: 2017-12-11 00:00:00
 image_path:
 categories:
+  - uncategorized
 iframe_content:
 search_engine_optimization:
   page_title:

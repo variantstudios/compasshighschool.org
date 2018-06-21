@@ -3,6 +3,7 @@ title: Our Charter is Approved!
 date: 2017-11-15 17:11:53
 image_path:
 categories:
+  - uncategorized
 iframe_content:
 search_engine_optimization:
   page_title:

@@ -3,6 +3,7 @@ title: To New Beginnings
 date: 2018-05-26 15:15:00
 image_path: '/assets/images/fullsizeoutput-743.jpg'
 categories:
+  - uncategorized
 iframe_content:
 search_engine_optimization:
   page_title:
