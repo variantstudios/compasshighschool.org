@@ -3,6 +3,7 @@ title: The Compass Campus
 date: 2018-03-29 20:23:37
 image_path: /assets/images/charter-school-progress-draft4.jpg
 categories:
+  - uncategorized
 iframe_content:
 search_engine_optimization:
   page_title:

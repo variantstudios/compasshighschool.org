@@ -3,6 +3,7 @@ title: Compass Sneak Peek Reminder
 date: 2018-05-12 11:30:00
 image_path:
 categories:
+  - uncategorized
 iframe_content:
 search_engine_optimization:
   page_title:

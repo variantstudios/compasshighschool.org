@@ -3,6 +3,7 @@ title: Print the Legend
 date: 2017-10-15 19:51:14
 image_path:
 categories:
+  - uncategorized
 iframe_content:
 search_engine_optimization:
   page_title:

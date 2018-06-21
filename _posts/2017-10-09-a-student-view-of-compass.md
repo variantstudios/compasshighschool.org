@@ -3,6 +3,7 @@ title: A student view of Compass
 date: 2017-10-09 22:30:00
 image_path:
 categories:
+  - uncategorized
 iframe_content:
 search_engine_optimization:
   page_title:

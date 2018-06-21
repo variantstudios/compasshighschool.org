@@ -50,11 +50,6 @@ collections:
   categories:
     output: true
     permalink: '/blog/category/:title/'
-  tags:
-    output: true
-    permalink: '/blog/tag/:title/'
-  sg:
-    output: false
   careers:
     output: true
     permalink: '/careers/:title/'
@@ -71,11 +66,6 @@ defaults:
       _options:
         image_path: # Front matter field
           uploads_dir: "assets/images/posts/"
-  -
-    scope:
-      type: sg
-    values:
-      layout: styleguide-block
   -
     scope:
       type: careers

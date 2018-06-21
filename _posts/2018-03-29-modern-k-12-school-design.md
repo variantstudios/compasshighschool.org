@@ -3,6 +3,7 @@ title: Modern K-12 School Design
 date: 2018-03-29 20:38:41
 image_path:
 categories:
+  - uncategorized
 iframe_content:
 search_engine_optimization:
   page_title:

@@ -3,6 +3,7 @@ title: Reflections on our Prototype
 date: 2018-01-17 16:41:00
 image_path:
 categories:
+  - uncategorized
 iframe_content:
 search_engine_optimization:
   page_title:

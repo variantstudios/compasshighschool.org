@@ -3,6 +3,7 @@ title: Inspired to Connect and Grow
 date: 2018-03-01 23:46:10
 image_path:
 categories:
+  - uncategorized
 iframe_content:
 search_engine_optimization:
   page_title:

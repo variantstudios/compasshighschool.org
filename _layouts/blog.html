@@ -15,28 +15,19 @@ layout: page
             {% if post.image_path %}
             <a href="{{ post.url }}">
                 {% if post.image_path  %}
-                <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill,q_65/{{site.url}}{{ post.image_path }}" alt="{{ post.title }}" data-img="{{site.url}}{{site.url}}{{ post.image_path }}" data-width="300px" data-height="200px">
+                <img src="{{site.cloudinaryurl}}image/fetch/w_299,c_fill,c_fill,q_65/{{site.url}}{{ post.image_path }}" alt="{{ post.title }}" data-img="{{site.url}}{{site.url}}{{ post.image_path }}" data-width="300px" data-height="200px">
                 {% else %}
-                <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill,q_65/{{site.url}}/assets/images/blog-placeholder.png" alt="{{post.title}}" data-img="{{site.url}}/assets/images/blog-placeholder.png" data-width="300px" data-height="200px" />
+                <img src="{{site.cloudinaryurl}}image/fetch/w_299,c_fill,c_fill,q_65/{{site.url}}/assets/images/blog-placeholder.png" alt="{{post.title}}" data-img="{{site.url}}/assets/images/blog-placeholder.png" data-width="300px" data-height="200px" />
                 {% endif %}
-            </a>
-            {% endif %}
+            </a> {% endif %}
         </div>
         <div class="right-blog">
-            <a href="{{ post.url }}">
-                <h3>{{ post.title }}</h3>
-            </a>
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
             <p>posted {{ post.date | date: "%a, %b %d, %Y" }}</p>
             {% for cat in post.categories %}
             <p class="category-label">Category: <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a></p>
-            {% endfor %} {% if post.tags %}
-            <ul class="tags">
-                <li>Tags:</li>
-                {% for tag in post.tags %}
-                <li class="tag-label"><a href="{{ tag | prepend: '/blog/tag/' | append: '/' }}">{{ tag | replace: '-', ' ' | capitalize }}</a></li>
-                {% endfor %}
-            </ul>
-            {% endif %} {% if post.description %}
+            {% endfor %} 
+            {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
         </div>

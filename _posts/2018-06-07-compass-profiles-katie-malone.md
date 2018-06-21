@@ -2,7 +2,8 @@
 title: 'Compass Profiles: Katie Malone'
 date: 2018-06-07 11:30:00
 image_path: '/assets/images/katie002.jpg'
-categories:
+categories: 
+  - compass-profiles
 iframe_content:
 search_engine_optimization:
   page_title:

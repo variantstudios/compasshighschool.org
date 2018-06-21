@@ -3,6 +3,7 @@ title: We've Defended.
 date: 2017-10-27 16:57:10
 image_path:
 categories:
+  - uncategorized
 iframe_content:
 search_engine_optimization:
   page_title:

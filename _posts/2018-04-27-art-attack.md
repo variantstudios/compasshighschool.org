@@ -3,6 +3,7 @@ title: Art Attack
 date: 2018-04-27 10:20:00
 image_path:
 categories:
+  - uncategorized
 iframe_content:
 search_engine_optimization:
   page_title:

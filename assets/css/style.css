@@ -2938,6 +2938,34 @@ form .align-right {
   clear: none;
 }
 
+.pagination {
+  text-align: center;
+}
+.pagination a,
+.pagination span,
+.pagination em {
+  margin: 0 .5rem;
+}
+.pagination em {
+  font-weight: 700;
+}
+.pagination a {
+  border-bottom: 2px #00AEEF solid;
+  -webkit-box-shadow: inset 0 -6px 0 #00AEEF;
+          box-shadow: inset 0 -6px 0 #00AEEF;
+  text-decoration: none;
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+  color: #4D4D4F;
+  padding: 0 .2rem;
+}
+.pagination a:hover {
+  -webkit-box-shadow: inset 0 -25px 0 #00AEEF;
+          box-shadow: inset 0 -25px 0 #00AEEF;
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+}
+
 body.not-front section.subpage h1 {
   color: #00AEEF;
 }
