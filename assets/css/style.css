@@ -2555,6 +2555,9 @@ form .align-right {
   color: #fff;
   font-size: .9rem;
 }
+.front .news-and-updates .more-blog-link {
+  margin: 1.5rem 0 0 0;
+}
 .front .connect-with-compass {
   background-color: #ED197B;
   background: url("/assets/images/patterns/compass-pencils-pattern.png");
