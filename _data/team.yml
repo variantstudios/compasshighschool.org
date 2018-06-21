@@ -142,6 +142,54 @@
     most authentic selves.
   team_position: staff
   image_path: /assets/images/bonnie-small2.png
+- name: 'Katie Malone, M. Ed.'
+  position: 'Teacher-Adviser: Science; Compass Curator'
+  bio: >-
+    Having been in education for 12 years, I take my teaching philosophy from my
+    ecology background: All of our destinies are intertwined and, as such, we
+    all play a role in creating our best possible future.  I have extensive
+    experience in a variety of educational programs, from outdoor education,
+    special education, AVID and Discovery to the International Baccalaureate
+    Program, both Middle Years and Diploma.  This work has pushed me to believe
+    that all students are brilliant- they just need an atmosphere and community
+    that recognizes that.  Over the past few years, in designing and teaching
+    Project-based Learning science courses, I’ve come to realize that it’s time
+    for educators to change their perspective and begin to help kids find their
+    voice and passions.  We are all stronger when our students are empowered to
+    be active citizens in their community and pushed to realize their potential,
+    both as students and teachers.  That is our purpose at Compass Community
+    Collaborative School.
+  team_position: staff
+  image_path: /assets/images/katie---small.png
+- name: 'Danny Hanlon, B.A.'
+  position: 'Teacher-Adviser: English/English Language Development'
+  bio: >-
+    I unexpectedly found my calling as an educator on a trip I took to China in
+    1998 shortly after receiving my bachelor’s degree in Humanities from
+    CU-Boulder.  Armed only with my intuition and enthusiasm, I developed a
+    two-week English immersion camp for Chinese teens driven solely by their
+    curiosity about American English and culture.  My love of languages,
+    curiosity about other cultures, and passion for kids led me to pursue a
+    teaching certificate and to specialize in English language acquisition.  In
+    addition to serving as both a middle and high school teacher, I have held
+    the role of Spanish interpreter, student and family advocate, curriculum
+    trainer, language program specialist, witty husband, and human jungle gym
+    (father).  I have also partnered with both the University of Northern
+    Colorado and Colorado State University education schools to help content
+    teachers effectively meet the needs of linguistically diverse students. 
+    Once I began teaching and co-teaching Language Arts classes, I realized that
+    the language scaffolds and differentiation strategies I had been utilizing
+    with my ELD students also made learning more accessible for all my
+    students.  I have always endeavored to be a steadfast advocate for student
+    equity, and I will no longer stand by to watch any student be denied an
+    opportunity due to a test score or a label.  CCC models true integration by
+    encouraging students to authentically connect and collaborate across
+    different age and ability levels.   Our school is dedicated not only to
+    fostering students’ academic success but to producing positive youth
+    ambassadors for our community who are prepared for the unexpected challenges
+    of tomorrow.
+  team_position: staff
+  image_path: /assets/images/dannyaccents.png
 - name: 'Adam Fallik, M. Ed.'
   position: 'Teacher-Adviser: Special Education'
   bio: >-
@@ -169,6 +217,27 @@
     As Buzz Lightyear emphatically states, “To Infinity and Beyond!”
   team_position: staff
   image_path: /assets/images/adam-small.png
+- name: Darian Ortiz
+  position: Student Support Specialist
+  bio: Coming Soon...
+  team_position: staff
+  image_path:
+- name: Marty Wiseman
+  position: Facilities Manager
+  bio: >-
+    I am an "old school" mechanic. My experience as a mechanic began in my youth
+    learning from my Dad, wrenching on race cars. I went on to join the US
+    Marine Corps where I learned and performed Aviation Mechanics. I am a US
+    Certified Airframe and Power plant Mechanic and have worked in various
+    industries performing many different aspects of maintenance my entire
+    career. My adult daughter and my life partner's three children bring joy to
+    my life and I love the experience of parenting again. At home I can be found
+    working on my Model A (converting it to an electric car), doing yoga or
+    biking the back roads of Northern Colorado. I have a lot to offer to
+    Compass, my life experience has taught me much and I have always wanted to
+    pass on what I have learned and make a difference in my community.
+  team_position: staff
+  image_path: /assets/images/martyscrewdriver.png
 - name: 'Jenny Findlay, M.A.'
   position: Director of Development
   bio: >-
@@ -196,25 +265,6 @@
     become the benchmark model for educational innovation nationwide.
   team_position: staff
   image_path:
-- name: 'Katie Malone, M. Ed.'
-  position: 'Teacher-Adviser: Science; Compass Curator'
-  bio: >-
-    Having been in education for 12 years, I take my teaching philosophy from my
-    ecology background: All of our destinies are intertwined and, as such, we
-    all play a role in creating our best possible future.  I have extensive
-    experience in a variety of educational programs, from outdoor education,
-    special education, AVID and Discovery to the International Baccalaureate
-    Program, both Middle Years and Diploma.  This work has pushed me to believe
-    that all students are brilliant- they just need an atmosphere and community
-    that recognizes that.  Over the past few years, in designing and teaching
-    Project-based Learning science courses, I’ve come to realize that it’s time
-    for educators to change their perspective and begin to help kids find their
-    voice and passions.  We are all stronger when our students are empowered to
-    be active citizens in their community and pushed to realize their potential,
-    both as students and teachers.  That is our purpose at Compass Community
-    Collaborative School.
-  team_position: staff
-  image_path: /assets/images/katie---small.png
 - name: Chris Schneider
   position: D.R.E.A.M. Coach
   bio: >-
@@ -349,22 +399,6 @@
     currently curate for Google’s Startup Digest for all things Maker.
   team_position: founding-board-of-directors
   image_path: /assets/images/markclaws.png
-- name: 'Jim Hutchinson, PhD, Aims Community College Curriculum Designer'
-  position: Board Member
-  bio: >-
-    I have worked as an educator in wide variety of roles including an English
-    teacher in Japan, an elementary teacher on the Zuni reservation, a secondary
-    media and technology integration specialist and a university instructor.
-    Over the years, I have developed a passion for project-based learning and
-    work to provide new teachers with new models of teaching and learning that
-    focus on engagement and shift the focus to students and asks them to be
-    responsible for their own learning. While I’m excited to see a number of
-    changes going on in education toward these goals, I also feel new schools
-    are best able to implement wholly innovative approaches, and that is why I
-    am so excited to be part of the development of Compass Community
-    Collaborative School.
-  team_position: founding-board-of-directors
-  image_path: /assets/images/jimbootsonshoulder.png
 - name: 'Jofat Castillo, B.Sc., Entrepreneur'
   position: Board Member
   bio: >-
@@ -381,53 +415,19 @@
     revolution, computational fluid dynamics and the nature of the spirit.
   team_position: founding-board-of-directors
   image_path:
-- name: 'Danny Hanlon, B.A.'
-  position: 'Teacher-Adviser: English/English Language Development'
+- name: 'Jim Hutchinson, PhD, Aims Community College Curriculum Designer'
+  position: Board Member
   bio: >-
-    I unexpectedly found my calling as an educator on a trip I took to China in
-    1998 shortly after receiving my bachelor’s degree in Humanities from
-    CU-Boulder.  Armed only with my intuition and enthusiasm, I developed a
-    two-week English immersion camp for Chinese teens driven solely by their
-    curiosity about American English and culture.  My love of languages,
-    curiosity about other cultures, and passion for kids led me to pursue a
-    teaching certificate and to specialize in English language acquisition.  In
-    addition to serving as both a middle and high school teacher, I have held
-    the role of Spanish interpreter, student and family advocate, curriculum
-    trainer, language program specialist, witty husband, and human jungle gym
-    (father).  I have also partnered with both the University of Northern
-    Colorado and Colorado State University education schools to help content
-    teachers effectively meet the needs of linguistically diverse students. 
-    Once I began teaching and co-teaching Language Arts classes, I realized that
-    the language scaffolds and differentiation strategies I had been utilizing
-    with my ELD students also made learning more accessible for all my
-    students.  I have always endeavored to be a steadfast advocate for student
-    equity, and I will no longer stand by to watch any student be denied an
-    opportunity due to a test score or a label.  CCC models true integration by
-    encouraging students to authentically connect and collaborate across
-    different age and ability levels.   Our school is dedicated not only to
-    fostering students’ academic success but to producing positive youth
-    ambassadors for our community who are prepared for the unexpected challenges
-    of tomorrow.
-  team_position: staff
-  image_path: /assets/images/dannyaccents.png
-- name: Marty Wiseman
-  position: Facilities Manager
-  bio: >-
-    I am an "old school" mechanic. My experience as a mechanic began in my youth
-    learning from my Dad, wrenching on race cars. I went on to join the US
-    Marine Corps where I learned and performed Aviation Mechanics. I am a US
-    Certified Airframe and Power plant Mechanic and have worked in various
-    industries performing many different aspects of maintenance my entire
-    career. My adult daughter and my life partner's three children bring joy to
-    my life and I love the experience of parenting again. At home I can be found
-    working on my Model A (converting it to an electric car), doing yoga or
-    biking the back roads of Northern Colorado. I have a lot to offer to
-    Compass, my life experience has taught me much and I have always wanted to
-    pass on what I have learned and make a difference in my community.
-  team_position: staff
-  image_path: /assets/images/martyscrewdriver.png
-- name: Darian Ortiz
-  position: Student Support Specialist
-  bio:
-  team_position: staff
-  image_path:
+    I have worked as an educator in wide variety of roles including an English
+    teacher in Japan, an elementary teacher on the Zuni reservation, a secondary
+    media and technology integration specialist and a university instructor.
+    Over the years, I have developed a passion for project-based learning and
+    work to provide new teachers with new models of teaching and learning that
+    focus on engagement and shift the focus to students and asks them to be
+    responsible for their own learning. While I’m excited to see a number of
+    changes going on in education toward these goals, I also feel new schools
+    are best able to implement wholly innovative approaches, and that is why I
+    am so excited to be part of the development of Compass Community
+    Collaborative School.
+  team_position: founding-board-of-directors
+  image_path: /assets/images/jimbootsonshoulder.png
