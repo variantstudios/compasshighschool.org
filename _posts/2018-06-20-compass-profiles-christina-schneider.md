@@ -1,6 +1,7 @@
 ---
 title: 'Compass Profiles: Christina Schneider'
 date: 2018-06-20 16:01:34
+background_option:
 image_path: '/assets/images/chris-3.jpg'
 categories: 
   - compass-profiles
