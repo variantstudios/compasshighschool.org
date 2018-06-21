@@ -2,19 +2,20 @@
 title: Paraprofessional SpEd Support
 posted_date: 2018-05-14 00:00:00
 show: true
-background_option: 
+background_option: blue-halftone-dot-pattern
 background_image:
 search_engine_optimization:
-  page_title: 
+  page_title:
   page_description:
 ---
+
 ---
 
-&nbsp;
+ 
 
 ### Paraprofessional Special Education Support
 
-### &nbsp;
+###  
 
 ### **Who are we?**
 
@@ -22,11 +23,11 @@ Are you a trailblazer, observer, visionary, and innovator ready to discover lear
 
 We will open in August 2018, serving a diverse population of students in grades 6-10 from across Northern Colorado. Employing a hands-on learning curriculum, we will inspire thoughtful and creative problem-solvers who aspire to live with integrity and compassion and have the skills to be positive change-makers in the world. Compass Community Collaborative is dedicated to personalized, competency-based learning to help all students discover learning with purpose; to author the best story of their lives and our collective future.
 
-### **What are we looking for? &nbsp;**
+### **What are we looking for?  **
 
 Compass is looking for a full-time (40 hours/week) person who loves to work with adolescents, especially those who need extra support during the school day. These students, like all students, need to know that you care about them as people, that you are learning alongside them, and that you will help them advocate for themselves as they practice mastery of academic and social emotional skills. You will work under the direction of our Special Education teacher, but you will collaborate with all staff in the building as you work with students in our school building and out in the community (we will travel by MAX bus and foot). You will support students working on a computer-based curriculum (Summit Learning Platform) as well as on venture projects that involve real-world application of academic skills (reading, writing, researching, applying mathematics to problem solving) and social emotional skills (collaborating with peers and community partners, planning and completing work, conflict management).
 
-### **Desired Mindsets & Habits &nbsp;**
+### **Desired Mindsets & Habits  **
 
 Demonstrates a strong belief in the Compass core values (Love, Community, Equity & Integration, Entrepreneurship, Cultural Diversity)
 
@@ -100,6 +101,6 @@ Send a letter of interest and resume to jan@compassfortcollins.org to tell us ab
 
 May 25, 2018 5p
 
-### **Job starts:** &nbsp;
+### **Job starts:**  
 
 August 15, 2018 and follows the Poudre School District high school calendar for the school year 2018/19.
