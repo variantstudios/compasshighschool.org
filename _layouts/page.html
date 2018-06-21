@@ -1,8 +1,8 @@
 --- 
 layout: default 
 ---
-<div class="background" style="background-image: url({% if page.header_image %}{{page.header_image}}{% else %}/assets/images/backgrounds/note-cards-on-the-board.jpg{% endif %});" >
-    {% comment %}<img src="" alt="Compass background" class="bg"> {% endcomment %}
+<div {% if page.background_option != "image" or page.background_option != null %} class="background {{page.background_option}}" {% else %} class="background" {% endif %} {% if page.background_option == "image" or page.background_option == null  %}
+style="background-image: url({% if page.background_image %}{{page.background_image}}{% else %}/assets/images/backgrounds/note-cards-on-the-board.jpg{% endif %});" {% endif %} >
     <section class="subpage wrap">
         <div>{{ content }}</div>
 

@@ -1,10 +1,16 @@
 ---
 title: A student view of Compass
 date: 2017-10-09 22:30:00
+background_option: 
+background_image: 
 image_path:
 categories:
   - uncategorized
-iframe_content:
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title:
   page_description:

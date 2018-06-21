@@ -1,10 +1,16 @@
 ---
 title: Inspired to Connect and Grow
 date: 2018-03-01 23:46:10
+background_option: 
+background_image: 
 image_path:
 categories:
   - uncategorized
-iframe_content:
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title:
   page_description:

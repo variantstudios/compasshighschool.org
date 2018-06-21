@@ -1,10 +1,16 @@
 ---
 title: 'Compass Profiles: Will Allen'
 date: 2018-06-08 12:00:00
+background_option: 
+background_image: 
 image_path: '/assets/images/will001.jpg'
 categories: 
   - compass-profiles
-iframe_content:
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title:
   page_description:

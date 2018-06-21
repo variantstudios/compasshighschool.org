@@ -1,10 +1,16 @@
 ---
 title: Bored Out of their Minds
 date: 2017-02-05 00:00:00
+background_option: 
+background_image: 
 image_path: /assets/images/boredom-pic.jpg
 categories:
   - research-that-guides-compass
-iframe_content:
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title: Bored Out of their Minds
   page_description:

@@ -1,10 +1,16 @@
 ---
 title: A Taste of Student Passions
 date: 2018-01-28 15:17:19
+background_option: 
+background_image: 
 image_path:
 categories:
   - uncategorized
-iframe_content:
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title:
   page_description:

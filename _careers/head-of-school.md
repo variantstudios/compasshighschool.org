@@ -2,6 +2,12 @@
 title: School Leader Hired
 posted_date: 2018-01-02 00:00:00
 show: false
+background_option: 
+background_image:
+search_engine_optimization:
+  page_title: 
+  page_description:
+---
 ---
 
 ####  

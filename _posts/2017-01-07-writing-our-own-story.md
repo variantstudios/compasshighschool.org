@@ -1,15 +1,23 @@
 ---
 title: "Writing our own Story"
 date: 2017-01-07T00:00:00.000Z
+background_option: 
+background_image: 
 image_path: 
 categories:
   - compass-voices
   - research-that-guides-compass
-iframe_content: '<iframe width="560" height="315" src="https://www.youtube.com/embed/LuD2Aa0zFiA" frameborder="0" allowfullscreen></iframe>'
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title: "Writing our own Story"
   page_description: ""
 ---
+[https://www.youtube.com/watch?v=LuD2Aa0zFiA](https://www.youtube.com/watch?v=LuD2Aa0zFiA)
+
 One of the concepts that sets Compass High School apart is our focus on identity: who we are, where we come from and how we see the world.  Our mission in working with students is clear…
 
 *to help students discover learning with purpose; to author the best possible story of their lives and of our collective future.*

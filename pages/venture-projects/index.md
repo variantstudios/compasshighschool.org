@@ -1,6 +1,7 @@
 ---
 title: Venture Projects 
-header_image: /assets/images/joaquin-and-boys-final-final.jpg
+background_option: image
+background_image: /assets/images/joaquin-and-boys-final-final.jpg
 search_engine_optimization:
   page_title: Venture Projects
   page_description: 

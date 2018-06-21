@@ -1,11 +1,17 @@
 ---
 title: Solving Real Problems – by Carron Silva
 date: 2016-07-29 00:00:00
+background_option: 
+background_image: 
 image_path: /assets/images/cropped-image.png
 categories:
   - community-voices
   - compass-voices
-iframe_content:
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title: Solving Real Problems – by Carron Silva
   page_description:

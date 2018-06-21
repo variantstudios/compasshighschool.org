@@ -131,7 +131,9 @@ _options:
     
 _comments:
   share_image_path: "The social share image needs to be at least 1200x1200px and if not that exact same size CloudCannon will scale and crop it to 1200x1200."
-  background_option: "Choose a background style for your page. If you pick image make sure you upload a background image. If you choose a style other than image it'll ignore an image if you have uploaded one for your backgroud (that case you'll need to pick image if you want to use that image)."
+  background_option: "Choose a background style for your page. If you pick image make sure you upload a background image. If you choose a style other than image it'll ignore any image you might have uploaded."
+  background_image: "Upload a large (at least 1600px wide) image that will be used for the page's background."
+  
 # Cloudinary
 cloudinaryurl: 'https://res.cloudinary.com/compass-high-school/'
 

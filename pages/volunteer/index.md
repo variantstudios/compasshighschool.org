@@ -1,6 +1,7 @@
 ---
 title: Become a Volunteer
-header_image: /assets/images/img-2669.jpg
+background_option: image
+background_image: /assets/images/img-2669.jpg
 search_engine_optimization:
   page_title: Become a Volunteer
   page_description:

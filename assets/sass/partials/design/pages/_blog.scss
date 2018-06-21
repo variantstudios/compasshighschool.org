@@ -65,4 +65,24 @@
             transition: all .3s ease;
         }
     }
+    ul.pager {
+        @include breakpoint($bp-medium, $no-query: ".no-mq") {
+            display: flex;
+        }
+        li {
+            padding: 0;
+            @include breakpoint($bp-medium, $no-query: ".no-mq") {
+                flex: 1;
+            }
+            &.left {
+                text-align: left;
+            }
+            &.right {
+                text-align: right;
+            }
+            a {
+                margin: 0;
+            }
+        }
+    }
 }
