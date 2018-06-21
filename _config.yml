@@ -87,6 +87,14 @@ defaults:
       pagination: 
         enabled: true
 
+# Static Options
+background-options:
+  - image
+  - grey-geometrics-pattern
+  - pink-pencils-pattern
+  - grey-nuts-and-bolts-pattern
+  - blue-halftone-dot-pattern
+
 # Cloudcannon Options
 _options:
   some_markdown:

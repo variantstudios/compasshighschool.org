@@ -24,9 +24,14 @@ layout: page
         <div class="right-blog">
             <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
             <p>posted {{ post.date | date: "%a, %b %d, %Y" }}</p>
-            {% for cat in post.categories %}
-            <p class="category-label">Category: <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a></p>
+            
+            {% if post.categories %}
+            <p class="category-label">Categories: 
+            {% for cat in post.categories %} <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a>
             {% endfor %} 
+            </p>
+            {% endif %}
+
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
