@@ -1,6 +1,7 @@
 ---
 title: Contact Us
-header_image:
+background_option: 
+background_image:
 search_engine_optimization:
   page_title: Contact the Compass Community Collaborative School
   page_description:

@@ -1,6 +1,7 @@
 ---
 title: Blog
-header_image: '/assets/images/headers/blog.jpg'
+background_option: image
+background_image: '/assets/images/headers/blog.jpg'
 search_engine_optimization:
   page_title: "Blog"
   page_description: "Join us on our learning journey..."

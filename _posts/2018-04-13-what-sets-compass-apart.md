@@ -1,10 +1,16 @@
 ---
 title: What sets Compass apart?
 date: 2018-04-13 21:50:23
+background_option: 
+background_image: 
 image_path: /assets/images/compass-school-find-your-genius2.png
 categories:
   - uncategorized
-iframe_content:
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title:
   page_description:

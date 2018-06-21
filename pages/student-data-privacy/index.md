@@ -1,6 +1,7 @@
 ---
 title: Student Data Privacy
-header_image: /assets/images/backgrounds/ccc-rockstars.jpg
+background_option: image
+background_image: /assets/images/backgrounds/ccc-rockstars.jpg
 search_engine_optimization:
   page_title: Student Privacy
   page_description:

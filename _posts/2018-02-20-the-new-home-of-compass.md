@@ -1,10 +1,16 @@
 ---
 title: The New Home of Compass
 date: 2018-02-20 03:17:37
+background_option: 
+background_image: 
 image_path: /assets/images/versions/compass-master-plan---x----1000-862x---.jpg
 categories:
   - uncategorized
-iframe_content:
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title:
   page_description:

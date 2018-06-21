@@ -2,10 +2,17 @@
 title: 'Compass Profiles: Christina Schneider'
 date: 2018-06-20 16:01:00
 background_option: grey-geometrics-pattern
+background_image:
+background_option: 
+background_image: 
 image_path: /assets/images/chris-3.jpg
 categories:
   - compass-profiles
-iframe_content:
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title:
   page_description:

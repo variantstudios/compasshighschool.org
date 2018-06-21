@@ -2985,6 +2985,42 @@ form .align-right {
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
 }
+@media (min-width: 50em) {
+  .pagination ul.pager {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+.no-mq .pagination ul.pager {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.pagination ul.pager li {
+  padding: 0;
+}
+@media (min-width: 50em) {
+  .pagination ul.pager li {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+  }
+}
+.no-mq .pagination ul.pager li {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+.pagination ul.pager li.left {
+  text-align: left;
+}
+.pagination ul.pager li.right {
+  text-align: right;
+}
+.pagination ul.pager li a {
+  margin: 0;
+}
 
 body.not-front section.subpage h1 {
   color: #00AEEF;

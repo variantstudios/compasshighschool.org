@@ -1,10 +1,16 @@
 ---
 title: 'Compass Profiles: Pamela Barker'
 date: 2018-06-01 11:15:00
+background_option: 
+background_image: 
 image_path: '/assets/images/pamphoto.jpg'
 categories: 
   - compass-profiles
-iframe_content:
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title:
   page_description:

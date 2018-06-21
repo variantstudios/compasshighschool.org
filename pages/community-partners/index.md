@@ -1,6 +1,7 @@
 ---
 title: Community Partner Program
-header_image: /assets/images/sam-at-the-board-final.jpg
+background_option: image
+background_image: /assets/images/sam-at-the-board-final.jpg
 search_engine_optimization:
   page_title: Community Partner Program
   page_description: >-

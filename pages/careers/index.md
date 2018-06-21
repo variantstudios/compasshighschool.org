@@ -1,6 +1,7 @@
 ---
 title: Careers
-header_image: /assets/images/stratop-team-final-final.jpg
+background_option: image
+background_image: /assets/images/stratop-team-final-final.jpg
 search_engine_optimization:
   page_title: Careers
   page_description:

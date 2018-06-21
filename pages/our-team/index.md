@@ -1,6 +1,7 @@
 ---
 title: Our Team
-header_image: /assets/images/ccc-team.jpg
+background_option: image
+background_image: /assets/images/ccc-team.jpg
 search_engine_optimization:
   page_title: Our Team
   page_description: Passionate leaders that are bringing this school to life.

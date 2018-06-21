@@ -1,10 +1,16 @@
 ---
 title: Finding the Way
 date: 2018-02-05 16:27:00
+background_option: 
+background_image: 
 image_path:
 categories:
   - uncategorized
-iframe_content:
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title:
   page_description:

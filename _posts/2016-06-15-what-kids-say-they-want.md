@@ -1,11 +1,17 @@
 ---
 title: What Kids Say They Want
 date: 2016-06-15 00:00:00
+background_option: 
+background_image: 
 image_path: /assets/images/untitled-1-1024x576.jpg
 categories:
   - community-voices
   - compass-voices
-iframe_content:
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title: What Kids Say They Want.
   page_description:

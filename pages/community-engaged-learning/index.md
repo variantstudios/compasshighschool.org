@@ -1,5 +1,6 @@
 ---
 title: Community-Engaged Learning
+background_option: image
 search_engine_optimization:
   page_title: 'Community-Engaged Learning'
   page_description:

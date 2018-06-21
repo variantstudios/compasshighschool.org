@@ -1,10 +1,16 @@
 ---
 title: Why Compass? A Conversation
 date: 2017-12-11 00:00:00
+background_option: 
+background_image: 
 image_path:
 categories:
   - uncategorized
-iframe_content:
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title:
   page_description:

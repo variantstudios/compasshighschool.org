@@ -1,6 +1,7 @@
 ---
 title: Get Involved
-header_image: /assets/images/backgrounds/csu-lab.jpg
+background_option: image
+background_image: /assets/images/backgrounds/csu-lab.jpg
 search_engine_optimization:
   page_title: Get Involved
   page_description:

@@ -1,10 +1,16 @@
 ---
 title: 'Compass Profiles: Bonnie Cowen'
 date: 2018-06-16 18:09:50
+background_option: 
+background_image: 
 image_path: '/assets/images/bonnie005-1.jpg'
 categories: 
   - compass-profiles
-iframe_content:
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title:
   page_description:

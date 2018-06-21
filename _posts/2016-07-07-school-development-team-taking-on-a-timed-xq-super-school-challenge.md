@@ -1,10 +1,16 @@
 ---
 title: 'School Development Team taking on a timed, XQ Super School Challenge!'
 date: 2016-07-07 00:00:00
+background_option: 
+background_image: 
 image_path: /assets/images/talent-and-training-graphic-1024x791.jpg
 categories:
   - community-voices
-iframe_content:
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title: 'School Development Team taking on a timed, XQ Super School Challenge!'
   page_description:

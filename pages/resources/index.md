@@ -1,6 +1,7 @@
 ---
 title: resources
-header_image: /assets/images/headers/blog.jpg
+background_option: image
+background_image: /assets/images/headers/blog.jpg
 search_engine_optimization:
   page_title: resources
   page_description:

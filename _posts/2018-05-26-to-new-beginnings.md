@@ -1,10 +1,16 @@
 ---
 title: To New Beginnings
 date: 2018-05-26 15:15:00
+background_option: 
+background_image: 
 image_path: '/assets/images/fullsizeoutput-743.jpg'
 categories:
   - uncategorized
-iframe_content:
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title:
   page_description:

@@ -1,6 +1,7 @@
 ---
 title: Parents
-header_image: /assets/images/rockstars-resized.jpg
+background_option: image
+background_image: /assets/images/rockstars-resized.jpg
 search_engine_optimization:
   page_title: Parents
   page_description: We want the best for our children and our future.

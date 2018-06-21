@@ -1,10 +1,16 @@
 ---
 title: Motivation
 date: 2016-06-15 00:00:00
+background_option: 
+background_image: 
 image_path: /assets/images/untitled-2-1024x576.jpg
 categories:
   - uncategorized
-iframe_content:
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title: Motivation
   page_description:

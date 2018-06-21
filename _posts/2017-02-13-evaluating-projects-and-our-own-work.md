@@ -1,10 +1,16 @@
 ---
 title: Evaluating Projects (and our own work)
 date: 2017-02-13 00:00:00
+background_option: 
+background_image: 
 image_path: /assets/images/rlw-uc03gwc-glenn-carstens-peters-1024x681.jpg
 categories:
   - uncategorized
-iframe_content:
+iframe: 
+  title: 
+  url:  
+  width: 
+  height:
 search_engine_optimization:
   page_title: Evaluating Projects (and our own work)
   page_description:

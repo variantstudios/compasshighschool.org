@@ -1,6 +1,7 @@
 ---
 title: Parent Resources
-header_image: /assets/images/backgrounds/csu-lab-kayla.jpg
+background_option: image
+background_image: /assets/images/backgrounds/csu-lab-kayla.jpg
 search_engine_optimization:
   page_title: Parent Resources
   page_description:
