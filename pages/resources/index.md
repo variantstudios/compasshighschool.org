@@ -47,7 +47,7 @@ Muhammad, Anthony. (2015). Overcoming the Achievement Gap Trap: Liberating Minds
 
 Nagaoka, Jenny, et.al. (June 2015). Foundations for Young Adult Success: A Developmental Framework. University of Chicago Consortium on Chicago School Research.
 
-Pink, Daniel (2009). Drive: The Surprising Truth About What Motivates Us. Newy York: Penguin Group
+Pink, Daniel (2009). Drive: The Surprising Truth About What Motivates Us. New York: Penguin Group
 
 Pink, Daniel (2005). A Whole New Mind: Why Right-Brainers will Rule the Future. New York: Penguin Group.
 
@@ -55,7 +55,7 @@ Porritt, Jonathon. (2013). The World We Made. London: Phaidon Press.
 
 Powell, William and Ochan Kusuma-Powell. (2010). Becoming an Emotionally Intelligent Teacher. New York: Skyhorse Publishing.
 
-Rechtschaffen, Daniel. (2014). The Way of Mindful Education: Cultivating Wellbeing in Teachers and Students. New York: W.W. Norton & Company.
+Rechtschaffen, Daniel. (2014). The Way of Mindful Education: Cultivating Well-being in Teachers and Students. New York: W.W. Norton & Company.
 
 Rizga, Kristina. (2015). Mission High: One School, How Experts Tried to Fail it, and the Students and Teachers Who Made it Triumph. New York: Nation Books.
 
