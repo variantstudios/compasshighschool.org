@@ -123,7 +123,7 @@ Zhao, Yong, et.al. (2016). A Take Action Guide to World Class Learners: How to M
 
 [Coalition for Access, Affordability, and Success](https://www.insidehighered.com/news/2015/09/29/80-colleges-and-universities-announce-plan-new-application-and-new-approach){: target="_blank"}
 
-### Adolescent brain and brain learning research:
+### Adolescent Brain and Brain Learning Research:
 
 Carol Dweck (2006). MIndset: The New Psychology of Success. New York: Random House.
 
