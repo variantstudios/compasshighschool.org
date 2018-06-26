@@ -68,8 +68,6 @@ Getting asked to hand students their diplomas at graduation.
 
 ###### If you could wake up tomorrow with one new quality or ability, what would it be?
 
-##### #
-
 Being able to speak, write and read fluent Spanish
 
 ###### For what in your life do you feel the most grateful?
