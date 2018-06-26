@@ -78,16 +78,10 @@ My family and community support. I have met so many people that directly or indi
 
 ###### What would constitute a "perfect day"?
 
-##### #
-
 Waking up at dawn in a tent in a high meadow. Packing up camp while my partner cooks breakfast and makes coffee. Skinning up a late season snow field and snowboarding down. Then listening to my favorite podcast as we drive home. Meeting up with friends for sushi and then ending the day by a warm fire playing board games.
-
-&nbsp;
 
 ###### What place would you most like to travel to if you had to go alone?
 
 New Zealand
 
 ###### &nbsp;
-
-##### #
