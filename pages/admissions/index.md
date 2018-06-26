@@ -21,7 +21,7 @@ We currently have space on a first-come first-serve basis. &nbsp;Space is limite
 
 &nbsp;
 
-[Intent to Enroll Form](https://goo.gl/forms/O1KBtoU4DtiBFLVe2){: target="_blank"}.
+[Intent to Enroll Form](/enroll/).
 
 ### FUTURE COMPASS STUDENTS
 
