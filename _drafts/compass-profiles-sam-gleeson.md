@@ -1,84 +1,93 @@
 ---
 title: 'Compass Profiles: Sam Gleeson'
-date: 2018-05-13 00:00:00
+date: 2018-06-26 11:00:00
 image_path:
 categories:
+  - compass-profiles
 iframe_content:
 search_engine_optimization:
   page_title:
   page_description:
 ---
 
+![](/assets/images/sam.jpg)
+
 *This summer, we will be highlighting members of the Compass Community.&nbsp; This could include staff members, founding families, volunteers, board members, school designers, students or community partners.*
 
-*Get to know us.*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*Get to know us.*
 
-### Staff: Pam Barker
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Social Emotional Learning and Restorative Practices Specialist**
+### Staff: Sam Gleeson
 
-##### &nbsp;
+#### **Teacher-Adviser: Math / Science**
 
-##### Six Word Memoir:&nbsp;
+#### &nbsp;
 
-*"Curiosity, nature, and movement kept me"*
+###### Six Word Memoir:&nbsp;
 
-##### &nbsp;
+"Teaching and fresh air fuel me."
 
-##### What's your educational specialty/background?
+###### What's your educational specialty/background?
 
-*I have a masters degree in educational psychology. My research and work explores the intersection of Social and Emotional Learning, Restorative Justice, and Transformational Learning. In my work with youth and adults I help them build critical skills for life, learning, and leading including self and social awareness, decision making and self-regulation, and the ability to build and maintain rewarding relationships. I believe that when students and the adults in their life develop and practice social and emotional skills they are more able to learn more effectively, meet challenges more successfully and engage in life more purposefully and with more joy.*
+Science and Math
 
-##### &nbsp;
+###### Why Compass?
 
-##### Why Compass?
+I want to save the world. Hyperbolic as that is I have always wanted to make a positive impact on issues of the environment, justice and peace. I found that the best way for me to have a direct impact on those things is through education. After time in our traditional education system I didn’t feel like I was making the impact I wanted to. By starting Compass I feel like I am taking a step to shape how our education system functions in our world, rather than tweeking an archaic system while the world changes faster and faster around it. Compass is a place that fights for the equity and voice of all students. It is a place that holds growing members of our society to a high standard of excellence while giving them the autonomy to discover who they are and where they fit. It is a place where we will tackle challenging issues and expose students to the curiosities and joys that life on this planet grant us.
 
-*I am committed to the creation of Compass because at the foundation of the Compass model is the intention that learning and growth happens in relationship, that it is expected not only of students but also of teachers, staff, and family members, and that passion and purpose give meaning and power to the learning. Because of the inclusive nature of its 'all stakeholders' and partnership model, Compass will not only provide students with the academic skills they need to meet the future but it will have ripples beyond the school doors and strengthen and sustain the greater community.*
+Why compass? Because I want a place where I can see all kids at their full potential.
 
-##### &nbsp;
+###### Besides your specialty, what other talents and interests do you want to share with our community?
 
-##### Besides your specialty, what other talents and interests do you want to share with our community?
+My comfort in the backcountry and my appreciation for the solitude and community that comes with spending time outside.
 
-*I enjoy connecting people and ideas to create opportunities where they may not be easily apparent. I also have a lot of fun volunteering in the City of Fort Collins Restorative Justice and Mediation program to make available a more effective justice for our youth and for victims of crime. I am especially interested in promoting understanding of adolescents as they navigate a rich developmental period so that parents, educators, and community members can help them become the best possible version of themselves.*
+###### What previous life experiences are you bringing to the Compass Community?
 
-##### &nbsp;
+I have spent time doing field conservation work and have worked as a buyer in the outdoor industry. Dealing with community partners, and bringing my previous work in the field help to give students perspective on how to integrate into the working world.
 
-##### What previous life experiences are you bringing to the Compass Community?
+###### What is your dream project/partnership at Compass?
 
-*I am currently enjoying my third career. I was a house painter while working to become a Physical Therapist, a Landscape Designer/Gardner, and now an Educational Psychologist. I'm actually still all of those things! I understand the desire to explore different interests and what it takes to search for meaningful learning and work. I know how much can be gained by being willing to change, as well as the hard work, the occasional setbacks, and the resources and growth mindset it takes. Through it all I have developed skills essential for getting along, adapting to change, learning from mistakes and missteps, and setting and reaching goals. I hope to put my diverse experience and empathy to work at Compass to co-create a safe and inspiring place for students and educators alike to find their own meaningful learning and work.*
+A backcountry conservation trip to southern Chile, working with No Barriers, sponsored by Patagonia and Cascade Designs.
 
-##### &nbsp;
+###### What do you believe?
 
-##### What is your dream project/partnership at Compass?
+I believe people want to do what is best but are often limited by what they don’t know. I also believe that with equitable education we can make the world a better place to live.
 
-*There are so many! I'm really excited to have made the first exploration into a partnership with Compass students and the City of Fort Collins Restorative Justice and Mediation program. I plan to facilitate a partnership where students can be trained as peer community and facilitators in Restorative Justice processes, explore the differences between punitive and restorative justice, and become leaders in building a restorative community at Compass.*
+###### What are five things that you know to be true?
 
-##### &nbsp;
+Everything happens for a reason and the reason is usually physics.<br>It always pays to be nice to people.<br>A day spent outside is never wasted.<br>Snowboarding is better than skiing.<br>We are not the center of the universe.
 
-##### What do you believe?
+###### What is one question that you are still searching for an answer to?
 
-*I believe aligning your values with your actions leads to a rich and meaningful life.*
+What would a truly sustainable culture look like in the 21st century?
 
-##### <br>What are five things that you know to be true?
+###### What is the greatest accomplishment of your life?
 
-*I love my family, You can always learn a new way, Climate change is real, People are born with the capacity to love, I need a river in my life*
+Getting asked to hand students their diplomas at graduation.
 
-##### <br>What is one question that you are still searching for an answer to?
+###### If you could wake up tomorrow with one new quality or ability, what would it be?
 
-*Is there a better way to learn than by surviving huge mistakes trying to do something you are emotionally invested in?*
+######
 
-##### <br>What is the greatest accomplishment of your life?
+Being able to speak, write and read fluent Spanish
 
-*Raising Charlie*
+###### For what in your life do you feel the most grateful?
 
-##### <br>If you could wake up tomorrow with one new quality or ability, what would it be?
+My family and community support. I have met so many people that directly or indirectly have given me all the opportunities that I have been able to take advantage of.
 
-*Easy, end the desire/need/impulse for humans to engage in war*
+###### What would constitute a "perfect day"?
 
-##### <br>For what in your life do you feel the most grateful?
+######
 
-*Learning*
+Waking up at dawn in a tent in a high meadow. Packing up camp while my partner cooks breakfast and makes coffee. Skinning up a late season snow field and snowboarding down. Then listening to my favorite podcast as we drive home. Meeting up with friends for sushi and then ending the day by a warm fire playing board games.
 
-##### <br>What would constitute a "perfect day"?
+&nbsp;
 
-*75 degrees, sunny, mountain lake with things to jump off of, a comfy spot to sit and have a conversation with someone interesting and funny*
+###### What place would you most like to travel to if you had to go alone?
+
+New Zealand
+
+###### &nbsp;
+
+######
