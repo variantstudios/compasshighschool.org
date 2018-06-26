@@ -12,7 +12,7 @@ search_engine_optimization:
 
 ![](/assets/images/sam.jpg)
 
-*This summer, we will be highlighting members of the Compass Community.&nbsp; This could include staff members, founding families, volunteers, board members, school designers, students or community partners.*
+*This summer, we will be highlighting members of the Compass Community.  This could include staff members, founding families, volunteers, board members, school designers, students or community partners.*
 
 *Get to know us.*
 
@@ -22,9 +22,9 @@ search_engine_optimization:
 
 #### **Teacher-Adviser: Math / Science**
 
-#### &nbsp;
+####  
 
-###### Six Word Memoir:&nbsp;
+###### Six Word Memoir: 
 
 "Teaching and fresh air fuel me."
 
@@ -68,7 +68,7 @@ Getting asked to hand students their diplomas at graduation.
 
 ###### If you could wake up tomorrow with one new quality or ability, what would it be?
 
-######
+##### #
 
 Being able to speak, write and read fluent Spanish
 
@@ -78,16 +78,16 @@ My family and community support. I have met so many people that directly or indi
 
 ###### What would constitute a "perfect day"?
 
-######
+##### #
 
 Waking up at dawn in a tent in a high meadow. Packing up camp while my partner cooks breakfast and makes coffee. Skinning up a late season snow field and snowboarding down. Then listening to my favorite podcast as we drive home. Meeting up with friends for sushi and then ending the day by a warm fire playing board games.
 
-&nbsp;
+ 
 
 ###### What place would you most like to travel to if you had to go alone?
 
 New Zealand
 
-###### &nbsp;
+######  
 
-######
+##### #
