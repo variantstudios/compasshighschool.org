@@ -1,5 +1,5 @@
 ---
-title: 'Compass Profiles: Pamela Barker'
+title: 'Compass Profiles: Sam Gleeson'
 date: 2018-05-13 00:00:00
 image_path:
 categories:
