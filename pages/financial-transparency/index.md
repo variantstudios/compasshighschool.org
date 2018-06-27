@@ -9,7 +9,7 @@ permalink: /financial-transparency/
 layout: page
 ---
 
-# CCCS Financial Transparency
+## CCCS Financial Transparency
 
 As part of our ongoing financial transparency, the following documents are available to the general public:
 
