@@ -17,7 +17,7 @@ As part of our ongoing financial transparency, the following documents are avail
 
 Compass Financial Audit
 
-[Compass Salary Schedule and Policies](/assets/pdf/financial-documents/CCCS Salary Policy.pdf)
+[Compass Salary Schedule and Policies](/salary-policy/)
 
 [Automatic Waivers for Charter Schools](/assets/pdf/financial-documents/Automatic Waivers for Charter Schools.pdf)
 
