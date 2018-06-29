@@ -13,15 +13,15 @@ layout: page
 
 As part of our ongoing financial transparency, the following documents are available to the general public:
 
-[Compass Adopted Budget](/assets/pdf/financial-documents/CCCS Adopted Budget Combined - 18-19.pdf)
+Compass Adopted Budget
 
 Compass Financial Audit
 
 [Compass Salary Schedule and Policies](/salary-policy/)
 
-[Automatic Waivers for Charter Schools](/assets/pdf/financial-documents/Automatic Waivers for Charter Schools.pdf)
+[List of Waivers Granted to CCCS](/assets/pdf/financial-documents/Charter Contract Waivers.pdf)
 
-[Additional Waivers Granted to CCCS](/assets/pdf/financial-documents/Charter Contract Waivers.pdf)
+[Standardized Description and Rational for each Automatic Waiver](/assets/pdf/financial-documents/Automatic Waivers for Charter Schools.pdf)
 
 [Compass Tax Exemption Form 990](/assets/pdf/financial-documents/CCCS 990 Comment.docx)
 
