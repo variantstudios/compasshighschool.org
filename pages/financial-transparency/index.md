@@ -13,9 +13,9 @@ layout: page
 
 As part of our ongoing financial transparency, the following documents are available to the general public:
 
-Compass Adopted Budget
+[Compass Adopted Budget](/adopted-budget/)
 
-[Compass Financial Audit](/adopted-budget/)
+Compass Financial Audit
 
 [Compass Salary Schedule and Policies](/salary-policy/)
 
