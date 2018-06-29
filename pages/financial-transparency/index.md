@@ -21,8 +21,28 @@ Compass Financial Audit
 
 [Automatic Waivers for Charter Schools](/assets/pdf/financial-documents/Automatic Waivers for Charter Schools.pdf)
 
-Compass Tax Exemption Form 990
+[Additional Waivers Granted to CCCS](/assets/pdf/financial-documents/Charter Contract Waivers.pdf)
+
+[Compass Tax Exemption Form 990](/assets/pdf/financial-documents/CCCS 990 Comment.docx)
 
 [Poudre School District Fiscal Transparency](https://www.psdschools.org/your-district/finance-budget/financial-transparency)
 
 [Public Financial Transparency Website](https://coloradok12financialtransparency.com/#/)
+
+&nbsp;
+
+**Disclaimer:** Please consider the context when evaluating financial transactions. Some transactions may appear improper on the surface but are perfectly normal and justifiable when placed in the proper context. We welcome your questions regarding our financial transactions or records.
+
+<address>School Contact Information:</address>
+
+<address>Jan Harrison</address>
+
+<address>Head of School</address>
+
+<address>Compass Community Collaborative School</address>
+
+<address>2105 South College Ave.<br />Fort Collins, CO 80525</address>
+
+<address>970-227-0481</address>
+
+<address>jan@compassfortcollins.org</address>
