@@ -23,7 +23,7 @@ Compass Financial Audit
 
 [Standardized Description and Rational for each Automatic Waiver](/assets/pdf/financial-documents/Automatic Waivers for Charter Schools.pdf)
 
-[Compass Tax Exemption Form 990](/assets/pdf/financial-documents/CCCS 990 Comment.docx)
+[Compass Tax Exemption (990) Information&nbsp;](/assets/pdf/financial-documents/CCCS 990 Comment.docx)
 
 [Poudre School District Fiscal Transparency](https://www.psdschools.org/your-district/finance-budget/financial-transparency)
 
