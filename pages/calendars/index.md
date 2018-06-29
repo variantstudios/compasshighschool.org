@@ -12,6 +12,6 @@ layout: page
 
 # CCCS Calendars
 
-[2018 - 2019 School Calendar](/assets/pdf/CCC Calendar - Website.pdf)
+[2018 - 2019 School Calendar](/assets/pdf/CCCS Website Calendar - 18-19.pdf)
 
 &nbsp;
