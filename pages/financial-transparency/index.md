@@ -15,7 +15,7 @@ As part of our ongoing financial transparency, the following documents are avail
 
 [Compass Adopted Budget](/adopted-budget/)
 
-Compass Financial Audit
+[Compass Financial Audit](/financial-audit/)
 
 [Compass Salary Schedule and Policies](/salary-policy/)
 
