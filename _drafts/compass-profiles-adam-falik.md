@@ -33,7 +33,7 @@ search_engine_optimization:
 
 ###### Six Word Memoir:&nbsp;
 
-Drummer Teacher Adventurer Traveler Friend Risk Taker
+Drummer Teacher Adventurer Traveler Friend Risk-taker
 
 ###### What’s your educational specialty/background?
 
@@ -41,7 +41,7 @@ Bachelor's Degree in Secondary Education and Master's Degree in Special Educatio
 
 ###### Why Compass?
 
-I am committed to the creation of Compass because it challenges the traditional school system. It provides a unique opportunity for students to make choices about their own education. It also gives students the opportunity to change the world and conquer real life challenges.
+I am committed to the creation of Compass because it challenges the traditional school system. It provides a unique opportunity for students to make choices about their own education. It also gives students the opportunity to change the world and conquer real-life challenges.
 
 ###### Besides your specialty, what other talents and interests do you want to share with our community?
 
