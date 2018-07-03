@@ -3,7 +3,7 @@ title: 'Compass Profiles: Adam Fallik'
 date: 2018-07-03 10:00:00
 background_option:
 background_image:
-image_path:
+image_path: /assets/images/posts/adam001.png
 categories:
 iframe:
   title:
@@ -29,9 +29,9 @@ search_engine_optimization:
 
 #### Teacher Adviser: Special Education
 
-###### &nbsp;
+######  
 
-###### Six Word Memoir:&nbsp;
+###### Six Word Memoir: 
 
 Drummer Teacher Adventurer Traveler Friend Risk-taker
 
@@ -53,9 +53,9 @@ Lots of travel experience. I have worked with a variety of people with disabilit
 
 ###### What do you believe?
 
-I believe that in order to be a well-rounded human we must see the best in ourselves and equally see the best in others. At any given point people are doing the best they can.&nbsp;
+I believe that in order to be a well-rounded human we must see the best in ourselves and equally see the best in others. At any given point people are doing the best they can. 
 
-We should always be present and listen.&nbsp;
+We should always be present and listen. 
 
 Love over Fear.
 
@@ -87,4 +87,4 @@ Europe
 
 "Live as if you were to die tomorrow, learn as if you were to live forever."
 
-###### &nbsp;
+######
