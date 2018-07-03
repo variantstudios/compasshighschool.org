@@ -29,9 +29,9 @@ search_engine_optimization:
 
 #### Teacher Adviser: Special Education
 
-######  
+###### &nbsp;
 
-###### Six Word Memoir: 
+###### Six Word Memoir:&nbsp;
 
 Drummer Teacher Adventurer Traveler Friend Risk-taker
 
@@ -53,9 +53,9 @@ Lots of travel experience. I have worked with a variety of people with disabilit
 
 ###### What do you believe?
 
-I believe that in order to be a well-rounded human we must see the best in ourselves and equally see the best in others. At any given point people are doing the best they can. 
+I believe that in order to be a well-rounded human we must see the best in ourselves and equally see the best in others. At any given point people are doing the best they can.&nbsp;
 
-We should always be present and listen. 
+We should always be present and listen.&nbsp;
 
 Love over Fear.
 
@@ -86,5 +86,3 @@ Europe
 ###### What are some of your favorite quotes?
 
 "Live as if you were to die tomorrow, learn as if you were to live forever."
-
-######
