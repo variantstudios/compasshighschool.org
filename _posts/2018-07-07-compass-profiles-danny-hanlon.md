@@ -1,10 +1,11 @@
 ---
 title: 'Compass Profiles: Danny Hanlon'
-date:
+date: 2018-07-07 09:00:00
 background_option:
 background_image:
 image_path: /assets/images/dannyaccents.png
 categories:
+  - compass-profiles
 iframe:
   title:
   url:
@@ -29,9 +30,9 @@ search_engine_optimization:
 
 #### Teacher-Adviser: English / English Language Development (ELD)
 
-#### &nbsp;
+####  
 
-###### Six Word Memoir:&nbsp;
+###### Six Word Memoir: 
 
 "I am more than just tall."
 
@@ -69,6 +70,4 @@ The love from family and friends, quiet moments with my children
 
 ###### What are some of your favorite quotes?
 
-"Not all those who wander are lost." - J.R.R. Tolkien<br>"Outside of a dog, a book is a man's best friend. Inside of a dog, it's too dark to read." - Groucho Marx<br>"I love the relationship that anyone has with music ... because there's something in us that is beyond the reach of words, something that eludes and defies our best attempts to spit it out ...It's the best part of us probably ..." - Nick Hornby
-
-&nbsp;
+"Not all those who wander are lost." - J.R.R. Tolkien<br>"Outside of a dog, a book is a man's best friend. Inside of a dog, it's too dark to read." - Groucho Marx<br>"I love the relationship that anyone has with music … because there's something in us that is beyond the reach of words, something that eludes and defies our best attempts to spit it out …It's the best part of us probably …" - Nick Hornby
