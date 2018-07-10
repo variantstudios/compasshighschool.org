@@ -24,7 +24,7 @@ Curious [Let’s Connect](/contact-us/)
 
 ## CCC Mission
 
-Our mission is to help students discover learning with purpose and to be authors of the best possible story of their lives and of our collective future. We recognize the unique attributes and needs of adolescents and actively support their development of identity, competency, and agency. We ask questions instead of giving answers. We provide resources instead of assignments. We embrace our community’s entrepreneurial nature and energy. Our teachers and our local, national, and international partners collaborate with our students and their families to chart a path of opportunity. Our students graduate as co-creators of a learning life.
+Our mission is to help students discover learning with purpose and to be the authors of the best possible story of their lives and of our collective future. We recognize the unique attributes and needs of adolescents and actively support their development of identity, competency, and agency. We ask questions instead of giving answers. We provide resources instead of assignments. We embrace our community’s entrepreneurial nature and energy. Our teachers and our local, national, and international partners collaborate with our students and their families to chart a path of opportunity. Our students graduate as co-creators of a learning life.
 
 ## Why choose Compass?
 
