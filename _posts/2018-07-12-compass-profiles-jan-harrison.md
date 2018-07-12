@@ -5,6 +5,7 @@ background_option:
 background_image:
 image_path: /assets/images/jan.jpg
 categories:
+  - compass-profiles
 iframe:
   title:
   url:
@@ -29,9 +30,9 @@ search_engine_optimization:
 
 #### School Leader
 
-#### &nbsp;
+####  
 
-###### Six Word Memoir:&nbsp;
+###### Six Word Memoir: 
 
 "There's no such thing as boredom."
 
@@ -67,7 +68,7 @@ I would be hysterically funny (instead of just easily amused)!
 
 The love and support of my family, friends, pets, and my Compass team!
 
-###### What three skills essential to live in these times?&nbsp;
+###### What three skills essential to live in these times? 
 
 1. Self-management
 2. Ability to connect and relate to others
