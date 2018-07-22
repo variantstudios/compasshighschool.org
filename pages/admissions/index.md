@@ -14,15 +14,10 @@ layout: page
 
 ### 2018-2019 SCHOOL YEAR
 
-We currently have space on a first-come first-serve basis. &nbsp;Space is limited, and since announcing our central location, our space is filling fast. &nbsp;
-
-* Fill out the Intent to Enroll form. &nbsp;This begins the registration process, but filling out this form **DOES NOT REGISTER YOUR CHILD**.
-* Watch your inbox and mailbox for registration information. You will have the option of either filling out the online PDF, or waiting for a registration form in the mail.&nbsp;
-
-&nbsp;
+We are currently adding names on a first-come, first-serve basis to our waitlist.&nbsp; If you would like to be notified if a space opens up, please fill out the Intent to Enroll form.
 
 [Intent to Enroll Form](/enroll/).
 
 ### FUTURE COMPASS STUDENTS
 
-Due to the overwhelming interest from parents with students approaching the 6th grade enrollment starting point, we fully anticipate moving to a lottery system for admissions beginning in 2019-2020.
+Due to overwhelming excitement about the opportunities Compass is offering students with our innovative, student-centered model of education, we fully anticipate moving to a lottery system for admissions beginning in 2019-2020.
