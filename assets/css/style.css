@@ -1755,6 +1755,17 @@ form .align-right {
   background: #b9d531 url("/assets/images/front/find-your-genius_bg.png");
   background-position: top center;
   height: 620px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  /* center horizontally */
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  /* center vertically */
 }
 .front .find-your-genius .title {
   position: absolute;
@@ -1839,9 +1850,9 @@ form .align-right {
   opacity: 0;
   -webkit-animation-fill-mode: forwards;
           animation-fill-mode: forwards;
-  background: url("/assets/images/front/independent-learner_button_md.png") no-repeat top left;
-  width: 179px;
-  height: 175px;
+  background: url("/assets/images/front/erudito-feroz_button_md.png") no-repeat top left;
+  width: 187px;
+  height: 187px;
   top: 170px;
   left: -29px;
 }
@@ -1872,18 +1883,18 @@ form .align-right {
     top: -56px;
     right: 364px;
     left: auto;
-    background: url("/assets/images/front/independent-learner_button.png") no-repeat top left;
-    width: 357px;
-    height: 350px;
+    background: url("/assets/images/front/erudito-feroz_button.png") no-repeat top left;
+    width: 382px;
+    height: 382px;
   }
 }
 .no-mq .front .find-your-genius .independent-learner {
   top: -56px;
   right: 364px;
   left: auto;
-  background: url("/assets/images/front/independent-learner_button.png") no-repeat top left;
-  width: 357px;
-  height: 350px;
+  background: url("/assets/images/front/erudito-feroz_button.png") no-repeat top left;
+  width: 382px;
+  height: 382px;
 }
 .front .find-your-genius .future-designer {
   position: absolute;
@@ -2020,15 +2031,7 @@ form .align-right {
 .front .find-your-genius .call-to-action {
   position: absolute;
   z-index: 2;
-  left: 0;
-  right: 0;
-  margin-left: auto;
-  margin-right: auto;
   bottom: 48px;
-  width: 90%;
-  -webkit-transform: translateX(-50%);
-      -ms-transform: translateX(-50%);
-          transform: translateX(-50%);
   -webkit-animation-name: SlipIn;
           animation-name: SlipIn;
   -webkit-animation-duration: .4s;
@@ -2051,28 +2054,18 @@ form .align-right {
 @media (min-width: 50em) {
   .front .find-your-genius .call-to-action {
     bottom: 42px;
-    display: inline;
-    width: 175px;
   }
 }
 .no-mq .front .find-your-genius .call-to-action {
   bottom: 42px;
-  display: inline;
-  width: 175px;
 }
 @media (min-width: 81.25em) {
   .front .find-your-genius .call-to-action {
     bottom: 42px;
-    left: 50%;
-    right: auto;
-    width: auto;
   }
 }
 .no-mq .front .find-your-genius .call-to-action {
   bottom: 42px;
-  left: 50%;
-  right: auto;
-  width: auto;
 }
 .front .find-your-genius .subtitle {
   color: #ED197B;
