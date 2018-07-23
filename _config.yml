@@ -102,13 +102,23 @@ _options:
     table: true
   _text:
     italic: true
+    bold: true
+    link: true
   _block:
-    # format: p h3
-    # undo: true
-    # redo: true
+    removeformat: true
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    bold: true
+    numberedlist: true
+    bulletedlist: true
+    outdent: true
+    indent: true
     left: align-to-left
     center: align-to-center
     right: align-to-right
+    table: true
+    link: true
+    image: true
+    styles: /assets/css/wysiwyg.css
   content:
     removeformat: true
     format: p h1 h2 h3 h4 h5 h6 pre address div
@@ -117,6 +127,9 @@ _options:
     bulletedlist: true
     outdent: true
     indent: true
+    left: align-to-left
+    center: align-to-center
+    right: align-to-right
     table: true
     link: true
     image: true
