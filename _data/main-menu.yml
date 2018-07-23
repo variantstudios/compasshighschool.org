@@ -20,6 +20,8 @@
       url: /parent-resources/
     - text: Calendars
       url: /calendars/
+    - text: Student Fees
+      url: /student-fees/
 - text: Admissions
   url: /admissions/
 - text: Our Team
