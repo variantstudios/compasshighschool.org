@@ -2221,6 +2221,48 @@ form .align-right {
 .front .curious a.call-to-action {
   vertical-align: text-bottom;
 }
+.front .news-and-updates-wrapper {
+  background-color: #ED197B;
+  color: #fff;
+  margin: 0 0 2rem 0;
+}
+.front .news-and-updates-wrapper:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+@media (min-width: 50em) {
+  .front .news-and-updates-wrapper .left {
+    width: 47.82609%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 8.69565%;
+    clear: none;
+  }
+}
+.no-mq .front .news-and-updates-wrapper .left {
+  width: 47.82609%;
+  float: left;
+  margin-right: -100%;
+  margin-left: 8.69565%;
+  clear: none;
+}
+@media (min-width: 50em) {
+  .front .news-and-updates-wrapper .right {
+    width: 30.43478%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 60.86957%;
+    clear: none;
+  }
+}
+.no-mq .front .news-and-updates-wrapper .right {
+  width: 30.43478%;
+  float: left;
+  margin-right: -100%;
+  margin-left: 60.86957%;
+  clear: none;
+}
 .front .ventue-project {
   background-color: #dddfe1;
   background: url("/assets/images/patterns/compass-nuts-and-bolts-pattern.png");

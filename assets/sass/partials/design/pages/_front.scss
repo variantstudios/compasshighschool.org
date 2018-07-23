@@ -336,6 +336,24 @@
             vertical-align: text-bottom;
         }
     }
+    .news-and-updates-wrapper {
+        background-color: #ED197B;
+        color: #fff;
+        margin: 0 0 2rem 0;
+        @include clearfix;
+        .left {
+            @include breakpoint($bp-medium,
+            $no-query: ".no-mq") {
+                @include grid-span(6, 2, $gutter: 1);
+            }
+        }
+        .right {
+            @include breakpoint($bp-medium,
+            $no-query: ".no-mq") {
+                @include grid-span(4, 8, $gutter: 1);
+            }
+        }
+    }
     .ventue-project {
         background-color: #dddfe1;
         background: url('/assets/images/patterns/compass-nuts-and-bolts-pattern.png');
