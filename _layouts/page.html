@@ -8,6 +8,8 @@ style="background-image: url({% if page.background_image %}{{page.background_ima
 
         {% if page.permalink == "/contribute/" %} 
         {% include contribute.html %} 
+        {% elsif page.permalink == "/student-fees/" %} 
+        {% include contribute.html %}
         {% elsif page.permalink == "/faqs/" %} 
         {% include faqs.html %} 
         {% elsif page.permalink == "/contact-us/" %} 
