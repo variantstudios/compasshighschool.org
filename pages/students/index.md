@@ -23,7 +23,9 @@ At Compass, our schedule is different from traditional schools in line with our 
 
 * **Start times:** Families choose one of three start times with a corresponding end time. This lets teens get the sleep they need, and helps bring student’s schedules more in line with family needs.
 * **Individualization:** Compass students have individualized mathematics and English instruction with Summit Learning Platform at the beginning and/or end of the day.&nbsp; Certified teachers provide personal support during this academic time.
-* **Flexible learning time:** We don’t use a traditional bell schedule at schedule. Instead, students have large, flexible blocks of time that allow them to make the most of their Venture Projects.&nbsp; This facilitates cooperation with our community partners, and give students plenty of time for advanced learning on CSU’s campus, on-site seminars and off-site internships.&nbsp;
+* **Flexible learning time:** We don’t use a traditional bell schedule. Instead, students have large, flexible blocks of time that allow them to make the most of their Venture Projects.&nbsp; This facilitates cooperation with our community partners, and give students plenty of time for advanced learning on CSU’s campus, on-site seminars and off-site internships.&nbsp;
+
+&nbsp;
 
 ## Check out what a typical day at Compass looks like:
 
@@ -45,6 +47,6 @@ At Compass, our schedule is different from traditional schools in line with our 
 
 ## Opportunities For You
 
-At Compass, you learn academic content and skills by doing real-world work that we call "[Venture Projects](/venture-projects/)," which are based on your interests, strengths and areas of growth. These could include growing and cooking food, running a bike shop, building homes, and so forth.&nbsp; Daily learning in foundational academic skills, such as language arts, mathematics, and science give you support to reach your goals for success on projects, college classes, standardized tests, and internships. You will also have the option to pursue an early start on college credits and earn an associate degree before graduation. Basically, you get to choose your own educational journey with the help of Compass staff.
+At Compass, you learn academic content and skills by doing real-world work that we call “[Venture Projects](/venture-projects/),” which are based on your interests, strengths and areas of growth. These could include growing and cooking food, running a bike shop, building homes, and so forth.&nbsp; Daily learning in foundational academic skills, such as language arts, mathematics, and science give you support to reach your goals for success on projects, college classes, standardized tests, and internships. You will also have the option to pursue an early start on college credits and earn an associate degree before graduation. Basically, you get to choose your own educational journey with the help of Compass staff.
 
 &nbsp;
