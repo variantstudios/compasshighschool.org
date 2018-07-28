@@ -21,7 +21,7 @@
     - text: Calendars
       url: /calendars/
     - text: Student Fees
-      url: /student-fees?cfpage=project&project_id=21849
+      url: /contribute/?cfpage=project&project_id=21849
 - text: Admissions
   url: /admissions/
 - text: Our Team
