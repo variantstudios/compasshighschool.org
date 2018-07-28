@@ -16,7 +16,7 @@ layout: page
 
 We are currently adding names on a first-come, first-serve basis to our waitlist.&nbsp; If you would like to be notified if a space opens up, please fill out the Intent to Enroll form.
 
-[Intent to Enroll Form](/enroll/).
+[Intent to Enroll Form](https://compassfortcollins.schoolmint.net/signup){: target="_blank"}.
 
 ### FUTURE COMPASS STUDENTS
 
