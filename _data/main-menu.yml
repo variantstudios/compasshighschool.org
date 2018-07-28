@@ -21,7 +21,7 @@
     - text: Calendars
       url: /calendars/
     - text: Student Fees
-      url: https://campaigns.communityfunded.com/preview-project/?project_id=21849
+      url: /student-fees?cfpage=project&project_id=21849
 - text: Admissions
   url: /admissions/
 - text: Our Team
