@@ -2,9 +2,10 @@
 title: 'Compass Profiles: Martin N. Wiseman'
 date: 2018-07-30 04:00:00
 background_option:
-background_image: /assets/images/martyscrewdriver.png
-image_path:
+background_image:
+image_path: /assets/images/martyscrewdriver.png
 categories:
+  - compass-profiles
 iframe:
   title:
   url:
@@ -15,7 +16,7 @@ search_engine_optimization:
   page_description:
 ---
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2NYtWrVfwAG/gL+NbCogwAAAABJRU5ErkJggg==){: .cms-image-placeholder}![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2NYtWrVfwAG/gL+NbCogwAAAABJRU5ErkJggg==){: .cms-image-placeholder}
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2NYtWrVfwAG/gL+NbCogwAAAABJRU5ErkJggg==){: .cms-image-placeholder}![](/assets/images/martyscrewdriver.png)
 
 <address>This summer, we will be highlighting members of the Compass Community.&nbsp; This could include staff members, founding families, volunteers, board members, school designers, students or community partners.</address>
 
