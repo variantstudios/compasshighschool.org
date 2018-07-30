@@ -30,9 +30,9 @@ search_engine_optimization:
 
 #### Compass Facilities Manager
 
-#### &nbsp;
+####  
 
-###### Six Word Memoir:&nbsp;
+###### Six Word Memoir: 
 
 "I will fix it for us"
 
