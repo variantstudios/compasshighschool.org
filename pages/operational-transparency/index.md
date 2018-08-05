@@ -47,6 +47,10 @@ board_minutes:
     file_path: /assets/images/compass-bod-030518.docx
   - title: 04/09/18 Board Meeting Minutes
     file_path: /assets/images/compass-bod-meeting-minutes-04-09-18.docx
+  - title: 05/07/18 Board Meeting Minutes
+    file_path: /assets/images/compass-bod-meeting-minutes-050718.docx
+  - title: 06/11/18 Board Meeting Minutes
+    file_path: /assets/images/compass-bod-meeting-minutes-061118.docx
 iframe:
   title:
   url:
