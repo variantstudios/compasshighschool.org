@@ -36,15 +36,17 @@ search_engine_optimization:
 
 ###### Why Compass?
 
-*It's simple in some ways. I have loved my job and the many roles I've held since I entered education 18 years ago.&nbsp; But I have always struggled with how little the larger educational system has changed in those years, let alone the past century.&nbsp; The world is changing, technology is changing and students are following suit.&nbsp; It's time for the educational system to start serving the modern student.*
+*It's simple in a way. I have loved my job and the many roles I've held since I entered education 18 years ago.&nbsp; But I have always struggled with how little the larger educational system has changed in those years, let alone the past century.&nbsp; The world is changing, technology is changing and students are following suit.&nbsp; It's time for the educational system to start serving the modern student.*
 
 ###### Besides your specialty, what other talents and interests do you want to share with our community?
 
-*I grew up around power tools and constant building. I love it. I'm passionate about newer technologies and my love for learning new things has pushed me into virtual reality, augmented reality and (hopefully soon) coding and programming.&nbsp; However, if I couldn't teach, I'd want to be a chef and run a restaurant or food truck.&nbsp; It's a creative, scientific, community-oriented endeavor.&nbsp; I'd love to help kids who are interested in the same world.*
+*I grew up around power tools and constant construction. I love it. I'm passionate about newer technologies and my love for learning new things has pushed me into virtual reality, augmented reality and (hopefully soon) coding and programming.&nbsp; However, if I couldn't teach, I'd want to be a chef and run a restaurant or food truck.&nbsp; It's a creative, scientific, community-oriented endeavor.&nbsp; I'd love to help kids who are interested in the same world.*
 
 ###### What previous life experiences are you bringing to the Compass Community?
 
-*As I said, I've been in some form of education since I graduated from college. &nbsp;*
+*I grew up in a family that has a strong conservative side and a strong progressive side.&nbsp; I love reading and listening to multiple perspectives on issues, thoughtfully debating them (considering the implications of each argument) and coming to a resolution when possible.&nbsp; This is difficult for anyone, including me.&nbsp; But it's so rewarding when it happens.*
+
+At certain points in my life, I've struggled with severe physical illness and personal struggles (including depression and PTSD).&nbsp; Because of this, I recognize that everyone has underlying struggles and challenges.&nbsp; I want to listen, empathize and support all students.
 
 ###### What is your dream project/partnership at Compass?
 
