@@ -10,7 +10,7 @@ search_engine_optimization:
   page_description:
 ---
 
-![](/assets/images/jason001.png)
+![](/assets/images/jason001.png)![](/assets/images/jason001.png)
 
 &nbsp;
 
