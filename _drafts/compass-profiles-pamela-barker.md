@@ -12,8 +12,6 @@ search_engine_optimization:
 
 ![](/assets/images/jason001.png)![](/assets/images/jason001.png)
 
-&nbsp;
-
 *This summer, we will be highlighting members of the Compass Community.&nbsp; This could include staff members, founding families, volunteers, board members, school designers, students or community partners.*
 
 *Get to know us.*
