@@ -1,84 +1,89 @@
 ---
-title: 'Compass Profiles: Pamela Barker'
-date: 2018-05-13 00:00:00
-image_path:
+title: 'Compass Profiles: Jason Malone'
+date: 2018-05-22 15:00:00
+image_path: /assets/images/jason001.png
 categories:
+  - compass-profiles
 iframe_content:
 search_engine_optimization:
   page_title:
   page_description:
 ---
 
+![](/assets/images/jason001.png)
+
+&nbsp;
+
 *This summer, we will be highlighting members of the Compass Community.&nbsp; This could include staff members, founding families, volunteers, board members, school designers, students or community partners.*
 
-*Get to know us.*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*Get to know us.*
 
-### Staff: Pam Barker
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Social Emotional Learning and Restorative Practices Specialist**
+### Staff: Jason Malone
 
-##### &nbsp;
+#### **Assistant School Lead**
 
-##### Six Word Memoir:&nbsp;
+###### &nbsp;
 
-*"Curiosity, nature, and movement kept me"*
+###### Six Word Memoir:&nbsp;
 
-##### &nbsp;
+*"Never seems to be enough time."*
 
-##### What's your educational specialty/background?
+###### What's your educational specialty/background?
 
-*I have a masters degree in educational psychology. My research and work explores the intersection of Social and Emotional Learning, Restorative Justice, and Transformational Learning. In my work with youth and adults I help them build critical skills for life, learning, and leading including self and social awareness, decision making and self-regulation, and the ability to build and maintain rewarding relationships. I believe that when students and the adults in their life develop and practice social and emotional skills they are more able to learn more effectively, meet challenges more successfully and engage in life more purposefully and with more joy.*
+*I have a Bachelor's Degree in Biology, a Masters Degree in Education and an Administrative License. I started my career as a biology teacher but soon grew to love so much more. After a decade, I stepped outside of science and taught high school epistemology (study of knowledge) for many years. Other roles I've held along the way include: High School Tennis Coach for 12 years, International Baccalaureate Educational Consultant, Workshop Leader and Program Evaluator since 2006; Director of the IB Middle Years Program at Poudre High School for almost a decade; Associate Director of the Colorado State University Writing Project for five years.&nbsp; I share all of this to emphasize that I love learning and I love a new challenge.&nbsp; Compass is the culmination of all of this work.*
 
-##### &nbsp;
+###### Why Compass?
 
-##### Why Compass?
+*It's simple in some ways. I have loved my job and the many roles I've held since I entered education 18 years ago.&nbsp; But I have always struggled with how little the larger educational system has changed in those years, let alone the past century.&nbsp; The world is changing, technology is changing and students are following suit.&nbsp; It's time for the educational system to start serving the modern student.*
 
-*I am committed to the creation of Compass because at the foundation of the Compass model is the intention that learning and growth happens in relationship, that it is expected not only of students but also of teachers, staff, and family members, and that passion and purpose give meaning and power to the learning. Because of the inclusive nature of its 'all stakeholders' and partnership model, Compass will not only provide students with the academic skills they need to meet the future but it will have ripples beyond the school doors and strengthen and sustain the greater community.*
+###### Besides your specialty, what other talents and interests do you want to share with our community?
 
-##### &nbsp;
+*I grew up around power tools and constant building. I love it. I'm passionate about newer technologies and my love for learning new things has pushed me into virtual reality, augmented reality and (hopefully soon) coding and programming.&nbsp; However, if I couldn't teach, I'd want to be a chef and run a restaurant or food truck.&nbsp; It's a creative, scientific, community-oriented endeavor.&nbsp; I'd love to help kids who are interested in the same world.*
 
-##### Besides your specialty, what other talents and interests do you want to share with our community?
+###### What previous life experiences are you bringing to the Compass Community?
 
-*I enjoy connecting people and ideas to create opportunities where they may not be easily apparent. I also have a lot of fun volunteering in the City of Fort Collins Restorative Justice and Mediation program to make available a more effective justice for our youth and for victims of crime. I am especially interested in promoting understanding of adolescents as they navigate a rich developmental period so that parents, educators, and community members can help them become the best possible version of themselves.*
+*As I said, I've been in some form of education since I graduated from college. &nbsp;*
 
-##### &nbsp;
+###### What is your dream project/partnership at Compass?
 
-##### What previous life experiences are you bringing to the Compass Community?
+*I'd love to open a food truck business (with a local chef/entrepreneur), throw a "parking lot bbq fundraiser" (with a friend of mine who owns a bbq restaurant) utilizing student-designed, human-powered spits and BIG fires, or design, build and run a high-level haunted house focused on historical events during Halloween (with local historians and contractors).*
 
-*I am currently enjoying my third career. I was a house painter while working to become a Physical Therapist, a Landscape Designer/Gardner, and now an Educational Psychologist. I'm actually still all of those things! I understand the desire to explore different interests and what it takes to search for meaningful learning and work. I know how much can be gained by being willing to change, as well as the hard work, the occasional setbacks, and the resources and growth mindset it takes. Through it all I have developed skills essential for getting along, adapting to change, learning from mistakes and missteps, and setting and reaching goals. I hope to put my diverse experience and empathy to work at Compass to co-create a safe and inspiring place for students and educators alike to find their own meaningful learning and work.*
+###### What do you believe?
 
-##### &nbsp;
+*I believe life is short; don't waste it.*
 
-##### What is your dream project/partnership at Compass?
+###### What are five things that you know to be true?
 
-*There are so many! I'm really excited to have made the first exploration into a partnership with Compass students and the City of Fort Collins Restorative Justice and Mediation program. I plan to facilitate a partnership where students can be trained as peer community and facilitators in Restorative Justice processes, explore the differences between punitive and restorative justice, and become leaders in building a restorative community at Compass.*
+1. *Family is all that really matters (both the one you are born into and the ones you create.*
 
-##### &nbsp;
+2. Our youth have the power to solve today's biggest problems.&nbsp; They just need a chance to figure out.
 
-##### What do you believe?
+3. Play is essential.
 
-*I believe aligning your values with your actions leads to a rich and meaningful life.*
+4. Failure is important.
 
-##### <br>What are five things that you know to be true?
+5. Ice cream tastes better when you eat it with the little taster spoon.
 
-*I love my family, You can always learn a new way, Climate change is real, People are born with the capacity to love, I need a river in my life*
+###### What is one question that you are still searching for an answer to?
 
-##### <br>What is one question that you are still searching for an answer to?
+*Why can't we all just get along?*
 
-*Is there a better way to learn than by surviving huge mistakes trying to do something you are emotionally invested in?*
+###### What is the greatest accomplishment of your life?
 
-##### <br>What is the greatest accomplishment of your life?
+*The Chicago Cubs winning the World Series in 2016 (not really MY accomplishment)*
 
-*Raising Charlie*
+*Creating an amazing life with my favorite person in the world and having 2 beautiful little girls (that sounds better)*
 
-##### <br>If you could wake up tomorrow with one new quality or ability, what would it be?
+###### If you could wake up tomorrow with one new quality or ability, what would it be?
 
-*Easy, end the desire/need/impulse for humans to engage in war*
+*I'd love to speak fluent Spanish or be a great piano player.*
 
-##### <br>For what in your life do you feel the most grateful?
+###### For what in your life do you feel the most grateful?
 
-*Learning*
+*Self-awareness, constant learning and personal growth*
 
-##### <br>What would constitute a "perfect day"?
+###### What would constitute a "perfect day"?
 
-*75 degrees, sunny, mountain lake with things to jump off of, a comfy spot to sit and have a conversation with someone interesting and funny*
+*Waking up late, drinking coffee on the deck, being lazy with my family, doing something that makes me feel creative and having a fantastic meal that an amazing chef makes for us. &nbsp;*
