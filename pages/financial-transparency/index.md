@@ -23,7 +23,7 @@ As part of our ongoing financial transparency, the following documents are avail
 
 [Standardized Description and Rational for each Automatic Waiver](/assets/pdf/financial-documents/Automatic Waivers for Charter Schools.pdf)
 
-[Compass Tax Exemption (990) Information&nbsp;](/assets/pdf/financial-documents/CCCS 990 Comment.docx)
+[Compass Tax Exemption (990) Information&nbsp;](/tax-exemption-990-information/)
 
 [Poudre School District Fiscal Transparency](https://www.psdschools.org/your-district/finance-budget/financial-transparency)
 
@@ -46,3 +46,5 @@ As part of our ongoing financial transparency, the following documents are avail
 <address>970-227-0481</address>
 
 <address>jan@compassfortcollins.org</address>
+
+&nbsp;
