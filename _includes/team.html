@@ -15,6 +15,9 @@
     <div class="team--member-details">
       <h3>{{ item.name }}</h3>
       <h6>{{ item.position }} </h6>
+      {% if item.email %}
+      <p>< href="mailto:{{ item.email }}">{{ item.email }}</a></p>
+      {% endif %}
       <p>{{ item.bio }}</p>
     </div>
   </div>
