@@ -46,6 +46,7 @@
   image_path: /assets/images/pamdenim.png
 - name: 'Sam Gleeson, B.Sc.'
   position: 'Teacher-Adviser: Math/Science'
+  email: 'sam@compassfortcollins.org'
   bio: >-
     I have been a teacher in Fort Collins for four years. Over the last three
     years I have worked to bring more opportunities to my students by creating
@@ -69,6 +70,7 @@
   image_path: /assets/images/sam---small.png
 - name: 'Kayla Crowe-Stover, B.A.'
   position: 'Teacher-Adviser: English'
+  email: 'kayla@compassfortcollins.org'
   bio: >-
     I was fortunate to be hired for an English teacher position in Poudre School
     District immediately after completing my bachelors degree at Colorado State
@@ -97,6 +99,7 @@
   image_path: /assets/images/kayla-small.png
 - name: 'Dawn DuPriest, M.Ed'
   position: 'Teacher-Adviser: Math/Computer Science'
+  email: 'dawn@compassfortcollins.org'
   bio: >-
     After working as a software engineer for almost a decade, I followed my
     heart and became a math, science, and technology teacher in Poudre School
@@ -120,6 +123,7 @@
   image_path: /assets/images/dawn---small.png
 - name: 'Bonnie Cowen, M.Ed.'
   position: 'Teacher-Adviser: Social Studies; Compass Historian'
+  email: 'bonnie@compassfortcollins.org'
   bio: >-
     After graduating from Kent State University, I moved to Colorado to fulfill
     a year-long volunteer service commitment.  Ultimately, I was hired to
@@ -148,6 +152,7 @@
   image_path: /assets/images/bonnie-small2.png
 - name: 'Katie Malone, M. Ed.'
   position: 'Teacher-Adviser: Science; Compass Curator'
+  email: 'katie@compassfortcollins.org'
   bio: >-
     Having been in education for 12 years, I take my teaching philosophy from my
     ecology background: All of our destinies are intertwined and, as such, we
@@ -167,6 +172,7 @@
   image_path: /assets/images/katie---small.png
 - name: 'Danny Hanlon, B.A.'
   position: 'Teacher-Adviser: English/English Language Development'
+  email: 'danny@compassfortcollins.org'
   bio: >-
     I unexpectedly found my calling as an educator on a trip I took to China in
     1998 shortly after receiving my bachelor’s degree in Humanities from
@@ -196,6 +202,7 @@
   image_path: /assets/images/dannyaccents.png
 - name: 'Adam Fallik, M. Ed.'
   position: 'Teacher-Adviser: Special Education'
+  email: 'adam@compassfortcollins.org'
   bio: >-
     In 2002 I got a job working with adults with developmental disabilities,
     with an emphasis on community accessibility and recreation. For more than
@@ -223,6 +230,7 @@
   image_path: /assets/images/adam-small.png
 - name: Darian Ortiz
   position: Student Support Specialist
+  email: 'darian@compassfortcollins.org'
   bio: >-
     I was born and raised in Fort Collins, Colorado. As a first-generation
     Latino male, I learned first hand the struggles of succeeding in the current
@@ -251,6 +259,7 @@
   image_path: /assets/images/darian3small.png
 - name: Marty Wiseman
   position: Facilities Manager
+  email: 'marty@compassfortcollins.org'
   bio: >-
     I am an "old school" mechanic. My experience as a mechanic began in my youth
     learning from my Dad, wrenching on race cars. I went on to join the US
@@ -267,6 +276,7 @@
   image_path: /assets/images/martyscrewdriver.png
 - name: 'Jenny Findlay, M.A.'
   position: Director of Development
+  email: 'jenny@compassfortcollins.org'
   bio: >-
     I received my Master’s Degree in Teaching and English Education from
     Teachers College, Columbia University, and taught at multiple levels of both
@@ -294,6 +304,7 @@
   image_path: /assets/images/jennyf---002small.png
 - name: Chris Schneider
   position: DREAM Coach
+  email: 'chris@compassfortcollins.org'
   bio: >-
     I received my M.Ed. from Colorado State University after realizing I needed
     to pursue a career in which I could fulfill my passion for making a
@@ -331,6 +342,7 @@
   image_path: /assets/images/chris-small2.png
 - name: 'Russ Brown, M.Ed., High School IB History Teacher, Published Author'
   position: Board President
+  email: 
   bio: >-
     I am a veteran educator in the Poudre School having taught for over two
     decades.  During that time I have worked with a wide array of students
@@ -347,6 +359,7 @@
   image_path: /assets/images/russtipofthehat.png
 - name: 'Gina Curler, M.A., Parent of future CCC student'
   position: Board Vice President
+  email: 
   bio: >-
     I have been on the search for more creative, innovative options for
     education since high school, when I wrote my college application essay about
@@ -372,6 +385,7 @@
   image_path: /assets/images/ginaportraitsmall-3.png
 - name: 'Anthony Burrell, CPA, School Finance Director, KIPP Colorado'
   position: Board Treasurer
+  email: 
   bio: >-
     I am a native of New Orleans with a bachelor’s degree in accounting from the
     University of New Orleans and a CPA. I have seven years of professional
@@ -390,6 +404,7 @@
   image_path:
 - name: 'Suriya Vijayasarathy, Social Emotional Learning Expert'
   position: Board Secretary
+  email: 
   bio: >-
     I am passionate about advocacy and social justice. I recently graduated from
     CSU with a bachelor’s degree in Sociology, and a concentration in Criminal
@@ -407,6 +422,7 @@
   image_path: /assets/images/suriyadragononshoulder-1.png
 - name: 'Mark Schreiber, M.Ed., M.Sc., Maker Consultant and Entrepreneur'
   position: Board Member
+  email: 
   bio: >-
     I love hands-on education and helping see students succeed in their creative
     and innovative pursuits. I’m a senior Stanford Fellow and founder of Design
@@ -428,6 +444,7 @@
   image_path: /assets/images/markclaws.png
 - name: 'Jofat Castillo, B.Sc., Entrepreneur'
   position: Board Member
+  email: 
   bio: >-
     I am a recent Colorado State University graduate from the School of
     Mechanical Engineering. Born and raised in Guatemala City, Guatemala, I now
@@ -444,6 +461,7 @@
   image_path: /assets/images/jofatsmall.png
 - name: 'Jim Hutchinson, PhD, Aims Community College Curriculum Designer'
   position: Board Member
+  email: 
   bio: >-
     I have worked as an educator in wide variety of roles including an English
     teacher in Japan, an elementary teacher on the Zuni reservation, a secondary
