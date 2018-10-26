@@ -40,6 +40,10 @@ board_agenda:
     file_path: /assets/images/board-of-directors-agenda-9-17-2018.docx
   - title: 10/15/18 Board Meeting
     file_path: /assets/images/board-of-directors-agenda-10-15-2018.docx
+  - title: >-
+      10/27/18 Board Strategic Planning Session (8 AM-3 PM at No Barriers, 224
+      Canyon Ave.) NO AGENDA
+    file_path:
   - title:
     file_path:
 board_minutes:
