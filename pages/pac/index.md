@@ -35,11 +35,11 @@ At the heart of PAC are its committees. This is where we roll up our sleeves and
 
 ### PAC Calendar
 
-The PAC calendar provides dates for PAC events. In addition, NO SCHOOL dates have been added. Please note that the PAC calendar is not a replacement for the official Compass School Calendar. For the most accurate, up-to-date school calendar, please view the Compass 2018-19 Calendar here.
+The PAC calendar provides dates for PAC events. In addition, NO SCHOOL dates have been added. Please note that the PAC calendar is not a replacement for the official Compass School Calendar. For the most accurate, up-to-date school calendar, please [view the Compass 2018-19 Calendar here](https://d1qmdf3vop2l07.cloudfront.net/vast-beetroot.cloudvent.net/compressed/cffe2707928bdd09bd14a012341ccd8c.pdf){: target="_blank"}.
 
-Click here to view the PAC calendar in a web browser.
+[Click here](https://calendar.google.com/calendar/embed?src=pac%40compassfortcollins.org&amp;ctz=America%2FDenver){: target="_blank"} to view the PAC calendar in a web browser.
 
-Click here to add the PAC calendar to your Google calendar or mobile device.
+[Click here](https://calendar.google.com/calendar/ical/pac%40compassfortcollins.org/public/basic.ics){: target="_blank"} to add the PAC calendar to your Google calendar or mobile device.
 
 ### Parent Book Club
 
