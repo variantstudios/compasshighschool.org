@@ -135,6 +135,7 @@ _options:
     table: true
     link: true
     image: true
+    embed: true
     styles: /assets/css/wysiwyg.css
   share_image_path:
     width: 1200
