@@ -35,4 +35,34 @@ At the heart of PAC are its committees. This is where we roll up our sleeves and
 
 ### PAC Calendar
 
-&nbsp;
+The PAC calendar provides dates for PAC events. In addition, NO SCHOOL dates have been added. Please note that the PAC calendar is not a replacement for the official Compass School Calendar. For the most accurate, up-to-date school calendar, please view the Compass 2018-19 Calendar here.
+
+Click here to view the PAC calendar in a web browser.
+
+Click here to add the PAC calendar to your Google calendar or mobile device.
+
+### Parent Book Club
+
+Be a part of the Parent Book Club. This School Board-led gathering will meet throughout the school year. Stay tuned for updates via the PAC Newsletter and Facebook. Parents, guardians, staff and community members are all welcome!
+
+#### Upcoming Books and Dates:
+
+**November 12, 2018 | 6:30pm**
+
+[The End of Average: Unlocking Our Potential by Embracing What Makes Us Different](https://www.amazon.com/End-Average-Unlocking-Potential-Embracing/dp/0062358375/ref=sr_1_1?ie=UTF8&amp;qid=1538667026&amp;sr=8-1&amp;keywords=the+end+of+average){: target="_blank"} by Todd Rose
+
+Reading of the entire book is preferred however, if you are busy just read Part 1 (first three chapters).
+
+### Parent Facebook Page
+
+In addition to following the [official Compass Facebook page](https://www.facebook.com/CCCFortCollins/){: target="_blank"}, you may be interested in joining the [Compass Parent Facebook Group](https://www.facebook.com/groups/1456492804474165/){: target="_blank"}. This group is a place for Compass parents and caregivers to share happenings, engage and collaborate.
+
+Please note that it is a closed group is for parents and caregivers of students currently ATTENDING Compass Community Collaborative School as well as our founding families. It is operated independently of the school as a place for parents to connect with one another. It is not monitored or supported by the school, staff or board, but by independent parent volunteers.
+
+### Social Media
+
+If you are an avid user of social media and would like to help spread the word about all Compass is doing, please give the school a follow at:
+
+[Compass on Facebook](https://www.facebook.com/CCCFortCollins/){: target="_blank"}<br>[Compass on Instagram](https://www.instagram.com/cccfortcollins/){: target="_blank"}<br>[Compass on Twitter](https://twitter.com/cccfortcollins){: target="_blank"}
+
+We appreciate your sensitivity to and respect of privacy of others. Please only post images of students with signed media releases on file. Contact the Compass office for more details.
