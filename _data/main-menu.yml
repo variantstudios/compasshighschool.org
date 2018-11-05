@@ -22,6 +22,8 @@
       url: /calendars/
     - text: Student Fees
       url: /contribute/?cfpage=project&project_id=21849
+    - text: Parent Action Council
+      url: /pac/
 - text: Admissions
   url: /admissions/
 - text: Our Team
@@ -29,8 +31,6 @@
   subitems:
     - text: Careers
       url: /careers/
-- text: PAC
-  url: /pac/
 - text: Contact
   url: /contact-us/
 - text: Search
