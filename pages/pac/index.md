@@ -9,6 +9,8 @@ permalink: /pac/
 layout: page
 ---
 
+# Compass Parent Action Council (PAC)
+
 Welcome to the Compass Parent Action Council (PAC). We are delighted that you are interested in getting involved as a parent member within the Compass community. Take a moment to familiarize yourself with our Mission and all that PAC aims to offer and has to offer!
 
 ### Mission
