@@ -29,9 +29,9 @@
   subitems:
     - text: Careers
       url: /careers/
+- text: Parent Action Council
+  url: /pac/
 - text: Contact
   url: /contact-us/
 - text: Search
   url: /search/
-- text: Parent Action Council
-  url: /pac/
