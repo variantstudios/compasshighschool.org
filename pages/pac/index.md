@@ -47,7 +47,7 @@ Be a part of the Parent Book Club. This School Board-led gathering will meet thr
 
 #### Upcoming Books and Dates:
 
-**November 12, 2018 | 6:30pm**
+| \*\*November 12, 2018 | 6:30pm\*\* |
 
 [The End of Average: Unlocking Our Potential by Embracing What Makes Us Different](https://www.amazon.com/End-Average-Unlocking-Potential-Embracing/dp/0062358375/ref=sr_1_1?ie=UTF8&amp;qid=1538667026&amp;sr=8-1&amp;keywords=the+end+of+average){: target="_blank"} by Todd Rose
 
