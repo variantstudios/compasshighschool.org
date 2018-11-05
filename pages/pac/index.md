@@ -15,7 +15,7 @@ Welcome to the Compass Parent Action Council (PAC). We are delighted that you ar
 
 ### Mission
 
-*The Compass Community Collaborative School Parent Action Council (PAC) is a volunteer organization, whose objective is to enhance the school experience for the students of Compass Community Collaborative School. Through the PAC, parents work together to enrich the educational and social environment of CCC.*
+The Compass Community Collaborative School Parent Action Council (PAC) is a volunteer organization, whose objective is to enhance the school experience for the students of Compass Community Collaborative School. Through the PAC, parents work together to enrich the educational and social environment of CCC.
 
 ### *Committees*
 
@@ -49,11 +49,9 @@ Be a part of the Parent Book Club. This School Board-led gathering will meet thr
 
 #### Upcoming Books and Dates:
 
-| \*\*November 12, 2018 | 6:30pm\*\* |
+&nbsp;
 
-[The End of Average: Unlocking Our Potential by Embracing What Makes Us Different](https://www.amazon.com/End-Average-Unlocking-Potential-Embracing/dp/0062358375/ref=sr_1_1?ie=UTF8&amp;qid=1538667026&amp;sr=8-1&amp;keywords=the+end+of+average){: target="_blank"} by Todd Rose
-
-Reading of the entire book is preferred however, if you are busy just read Part 1 (first three chapters).
+**November 12, 2018 | 6:30pm**<br>[The End of Average: Unlocking Our Potential by Embracing What Makes Us Different](https://www.amazon.com/End-Average-Unlocking-Potential-Embracing/dp/0062358375/ref=sr_1_1?ie=UTF8&amp;qid=1538667026&amp;sr=8-1&amp;keywords=the+end+of+average){: target="_blank"} by Todd Rose<br>Reading of the entire book is preferred however, if you are busy just read Part 1 (first three chapters).
 
 ### Parent Facebook Page
 
