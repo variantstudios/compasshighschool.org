@@ -44,6 +44,9 @@ board_agenda:
       10/27/18 Board Strategic Planning Session (8 AM-3 PM at No Barriers, 224
       Canyon Ave.) NO AGENDA
     file_path:
+  - title: 11/19/18 Board Meeting
+    file_path: >-
+      /assets/images/compass-board-of-directors-meeting-11-19-2018---google-docs.pdf
   - title:
     file_path:
 board_minutes:
