@@ -50,12 +50,12 @@ board_agenda:
   - title:
     file_path:
 board_minutes:
-  - title: 01/08/18 Board Meeting Minutes
-    file_path: /assets/images/compass-bod-minutes-010818.docx
   - title: 01/15/18 Board Special Meeting Minutes
     file_path: /assets/images/compass-bod-special-meeting-minutes-011518.docx
   - title: 01/24/18 Board Special Meeting Minutes
     file_path: /assets/images/compass-bod-special-meeting-minutes-012418.docx
+  - title: 01/08/18 Board Meeting Minutes
+    file_path: /assets/images/compass-bod-minutes-010818.docx
   - title: 02/05/18 Board Meeting Minutes
     file_path: /assets/images/compass-bod-minutes-020518.docx
   - title: 03/05/18 Board Meeting Minutes
@@ -75,9 +75,9 @@ board_minutes:
   - title: 09/17/18 Board Meeting Minutes
     file_path: /assets/images/compass-bod-meeting-minutes-091718.docx
   - title: 10/15/18 Board Meeting Minutes
-    file_path:
+    file_path: /assets/images/Compass BOD Meeting Minutes 101518.pdf
   - title: 10/27/18 Board Strategic Planning Session
-    file_path:
+    file_path: /assets/images/Compass BOD Strategic Planning Session 102718.pdf
 iframe:
   title:
   url:
