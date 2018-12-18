@@ -79,6 +79,8 @@ board_minutes:
     file_path: /assets/images/Compass BOD Meeting Minutes 101518.pdf
   - title: 10/27/18 Board Strategic Planning Session
     file_path: /assets/images/Compass BOD Strategic Planning Session 102718.pdf
+  - title: 11/19/18 Board Meeting Minutes
+    file_path: /assets/images/compass-bod-meeting-minutes-111918.docx
 iframe:
   title:
   url:
