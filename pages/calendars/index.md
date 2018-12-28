@@ -14,4 +14,6 @@ layout: page
 
 [2018 - 2019 School Calendar](/CCCS Calendar updated Website.xlsx .pdf){: target="_blank"}
 
+[Daily Schedule](/assets/pdf/Daily Schedule - 2019.pdf){: target="_blank"}
+
 &nbsp;
