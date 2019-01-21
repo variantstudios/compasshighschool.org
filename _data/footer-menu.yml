@@ -1,4 +1,3 @@
-
 - text: Get Involved
   url: /get-involved/
   subitems:
@@ -16,8 +15,11 @@
     - text: FAQs
       url: /faqs/
     - text: Operational Transparency
-      url: /operational-transparency/   
+      url: /operational-transparency/
     - text: Financial Transparency
       url: /financial-transparency/
     - text: Student Data Privacy
       url: /student-data-privacy/
+    - text: Family Guidebook 2019
+      url: >-
+        https://docs.google.com/document/d/1NGmEvBU-_c6GOvBl-3ZazniJ7uNATzbI6spc3roaRSQ/edit#
