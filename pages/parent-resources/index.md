@@ -31,4 +31,6 @@ We sincerely believe that our common, shared lunchtime, on our campus, is a perf
 
 The design of Compass involved research collected from successful and innovative school programs from across the United States. Please visit our&nbsp;[Resources](/resources/)&nbsp;section for more insight and evidence about what makes Compass work so well for students.
 
-&nbsp;
+## [Family Guidebook 2019](https://docs.google.com/document/d/1NGmEvBU-_c6GOvBl-3ZazniJ7uNATzbI6spc3roaRSQ/edit?usp=sharing){: target="_blank"}
+
+Check here to learn more details about all things Compass!
