@@ -20,4 +20,4 @@ We are currently accepting applications for potential admission to Compass for t
 
 ### FUTURE COMPASS STUDENTS
 
-Currently we are only accepting Applications for potential Admission one year in advance. If you have a student who would like to join Compass for the 2020-2021 school year (or beyond), kindly check back in August of next year (or beyond:)!
+We are only accepting applications for potential admission one year in advance. If you have a student who would like to join Compass for the 2020-2021 school year (or beyond), kindly check back in August of next year (or beyond:)! We run admissions based on a lottery, so joining the waitlist later does not impact your chances of acceptance.
