@@ -33,4 +33,4 @@ The design of Compass involved research collected from successful and innovative
 
 ## [Family Guidebook 2019](https://docs.google.com/document/d/1NGmEvBU-_c6GOvBl-3ZazniJ7uNATzbI6spc3roaRSQ/edit?usp=sharing){: target="_blank"}
 
-Check here to learn more details about all things Compass!
+Click on the title above to learn more details about all things Compass. The Guidebook is a "living document" and will be updated as we learn and grow.
