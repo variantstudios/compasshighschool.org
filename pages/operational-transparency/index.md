@@ -52,7 +52,7 @@ board_agenda:
       /assets/images/compass-board-of-directors-meeting-12-17-2018---google-docs.pdf
   - title: 01/21/19 Board Meeting
     file_path: /assets/images/board-of-directors-meeting-agenda-1-21-19---google-docs.pdf
-  - title: 02/18/19 Board Agenda
+  - title: 02/18/19 Board Meeting
     file_path: /assets/images/board-agenda-2-18-19---google-docs.pdf
 board_minutes:
   - title: 01/15/18 Board Special Meeting Minutes
