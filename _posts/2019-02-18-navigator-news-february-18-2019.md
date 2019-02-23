@@ -1,5 +1,5 @@
 ---
-title: Navigator News | February 18 2019
+title: 'Navigator News: February 18 2019'
 date: 2019-02-18 12:00:00
 background_option:
 background_image:
@@ -19,7 +19,7 @@ search_engine_optimization:
 
 February is an interesting time of year. It is dark and cold, but the days are getting noticeably longer. We are fully engaged in this school year, but actively preparing for the next.
 
-Many of our older students are starting to feel the tug of transition as well. They are looking ahead to what lies beyond high school. **We held our first *Compass College Planning Night* last week and it was a great success!** We had an excellent turnout to hear from Jason, Jenny, and myself about the unique ways in which Compass students are being prepared for life after high school. **Diane Campbell, from Campbell College Consulting, presented an excellent overview of the college search, application, and financing strategies that will empower students to make the best choices in their college search.** We will be partnering with families over the next two years to ensure that our students thrive in their post-secondary lives. It is exciting to think that two years from now we will be preparing to celebrate our first Compass graduates! &nbsp;
+Many of our older students are starting to feel the tug of transition as well. They are looking ahead to what lies beyond high school. **We held our first *Compass College Planning Night* last week and it was a great success!** We had an excellent turnout to hear from Jason, Jenny, and myself about the unique ways in which Compass students are being prepared for life after high school. **Diane Campbell, from Campbell College Consulting, presented an excellent overview of the college search, application, and financing strategies that will empower students to make the best choices in their college search.** We will be partnering with families over the next two years to ensure that our students thrive in their post-secondary lives. It is exciting to think that two years from now we will be preparing to celebrate our first Compass graduates!  
 
 In the meantime, the school is buzzing with energy and learning, **our student re-enrollment rate for next year is over 96%, and more families are joining our waitlist by the day.** Compass is thriving, and we are grateful for your partnership in this exciting journey!
 
