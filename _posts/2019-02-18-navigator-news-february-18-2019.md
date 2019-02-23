@@ -15,11 +15,6 @@ search_engine_optimization:
   page_description:
 ---
 
-*Take a peek into the past week's happenings at Compass Community Collaborative School.*
-
-Leadership Notes
-{: .cta}
-
 ![](/assets/images/unnamed-8.jpg)
 
 February is an interesting time of year. It is dark and cold, but the days are getting noticeably longer. We are fully engaged in this school year, but actively preparing for the next.
