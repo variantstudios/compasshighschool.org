@@ -17,7 +17,7 @@ Welcome to the Compass Parent Action Council (PAC). We are delighted that you ar
 
 *The Compass Community Collaborative School Parent Action Council (PAC) is a parent volunteer organization, whose objective is to enhance the school experience for the students of Compass Community Collaborative School (CCC). Through the PAC, parents work together to enrich the educational and social environment of CCC.*
 
-### **Meetings**
+### Meetings
 
 PAC meetings are held the **first Monday of every month\*** at Compass.<br>6:30-7:00p PAC Business Meeting<br>7:00-8:00p PAC Parent Education<br>*\*Unless this day falls on a No School Day or Holiday*
 
@@ -28,11 +28,11 @@ PAC meetings are held the **first Monday of every month\*** at Compass.<br>6:30-
 3. **Fundraising:** Not to be confused with Development, funds raised by the PAC go to support PAC initiatives (student needs, events, etc). See below for ongoing passive fundraisers.&nbsp;
 4. **Communications:** Responsible for PAC newsletters and email, facilitating PAC meetings, and managing the PAC Facebook group page.
 
-### **Executing Our Mission**
+### Executing Our Mission
 
 In a way true to our school’s approach to learning, the PAC takes a collaborative approach to executing its mission. ALL Compass parents/caregivers are welcome to be a part of the PAC and attend its meetings. **These monthly meetings are the forum for presenting updates on PAC events/projects/activities and where new ideas may be pitched.** If an idea is deemed a “go” *by the parents in attendance*, the green light is given and a Parent Coordinator is assigned to execute all facets of the task (pulling in other parent volunteers as needed).
 
-### **Are You a Project Coordinator?**
+### Are You a Project Coordinator?
 
 Please [email](mailto:pac@compassfortcollins.org?subject=Agenda%20Item)&nbsp;items you want included in the next PAC Meeting Agenda by the Thursday PRIOR to the PAC meeting. If you are unable to attend and have an update to share, [email](mailto:pac@compassfortcollins.org?subject=Agenda%20Item) the Communications Coordinator by the Thursday prior. A reminder will be sent out to all Project Coordinators in advance. If at any time a Project Coordinator needs to get a message out (email, social media, etc), he/she simply contacts the&nbsp;[Communication Coordinator](mailto:pac@compassfortcollins.org)—preferably providing 48 hours advance notice.
 
@@ -44,6 +44,6 @@ Funds raised by PAC are used to supplement PAC-sponsored events for students and
 
 **King Soopers Reloadable Card:&nbsp;**Earnings from this program add up fast!! When using a Compass reloadable King Soopers gift card, 5% of your King Soopers grocery and fuel purchases go to Compass. To give you an idea; if 20 families spent $800 per month for 12 months, that would amount to $9,600 for the year! All you need to do is pick up a card from the front office. They have been pre-loaded with $2.50. Before checking out, load your card with enough to pay for your groceries. Many of us guesstimate, or you may load up to $500. Proceed with checking out and use the loaded gift card to complete the purchase. Easy!
 
-### **Get in Touch**
+### Get in Touch
 
 Want to get involved with the PAC or have a question? Email [pac@compassfortcollins.org](mailto:pac@compassfortcollins.org) and we will be in touch.
