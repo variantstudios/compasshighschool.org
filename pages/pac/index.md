@@ -11,56 +11,39 @@ layout: page
 
 # Compass Parent Action Council (PAC)
 
-Welcome to the Compass Parent Action Council (PAC). We are delighted that you are interested in getting involved as a parent member within the Compass community. Take a moment to familiarize yourself with our Mission and all that PAC aims to offer and has to offer!
+Welcome to the Compass Parent Action Council (PAC). We are delighted that you are interested in getting involved as a parent member within the Compass community. Take a moment to familiarize yourself with our Mission and all that PAC aims to offer.
 
 ### Mission
 
-*The Compass Community Collaborative School Parent Action Council (PAC) is a volunteer organization, whose objective is to enhance the school experience for the students of Compass Community Collaborative School. Through the PAC, parents work together to enrich the educational and social environment of CCC.*
+*The Compass Community Collaborative School Parent Action Council (PAC) is a parent volunteer organization, whose objective is to enhance the school experience for the students of Compass Community Collaborative School (CCC). Through the PAC, parents work together to enrich the educational and social environment of CCC.*
 
-### *Committees*
+### **Meetings**
 
-At the heart of PAC are its committees. This is where we roll up our sleeves and make great stuff happen for our school. If you excel at event planning, we have need of you! If you’d like to treat our hard-working Compass staff to coffee and doughnuts, we need you! If you can lend a hand when you are able, we have need of you! Simply decide where you would like to contribute and email [pac@compassfortcollins.org](mailto:pac@compassfortcollins.org). You will be put in touch with the appropriate committee.
+PAC meetings are held the **first Monday of every month\*** at Compass.<br>6:30-7:00p PAC Business Meeting<br>7:00-8:00p PAC Parent Education<br>*\*Unless this day falls on a No School Day or Holiday*
 
-> **Events**&nbsp;<br>Student, family and parent events<br>*Christine McCloud&nbsp;*
+### Arms of the PAC
 
-> **Staff Appreciation**<br>*Carina Schott*
+1. **Student Support:** These parents are liaisons to the student community and assist in enriching the student experience. This could include coordinating social activities, finding community connections students are in need of, etc. If students need help sourcing supplies, manpower or funding, they can make a call to these members of the PAC for assistance.
+2. **Culture:** Enriching and bringing the Compass community together through; Staff Appreciation, Parent Education, After Hours Socials, etc.
+3. **Fundraising:** Not to be confused with Development, funds raised by the PAC go to support PAC initiatives (student needs, events, etc). See below for ongoing passive fundraisers.&nbsp;
+4. **Communications:** Responsible for PAC newsletters and email, facilitating PAC meetings, and managing the PAC Facebook group page.
 
-> **Student Support&nbsp;**<br>Parent support for school clubs, seminars, 360 and community<br>*Cerissa Stevenson*
+### **Executing Our Mission**
 
-> **Donations**<br>Classroom, supply and event needs<br>*Joanna Gidrewicz*
+In a way true to our school’s approach to learning, the PAC takes a collaborative approach to executing its mission. ALL Compass parents/caregivers are welcome to be a part of the PAC and attend its meetings. **These monthly meetings are the forum for presenting updates on PAC events/projects/activities and where new ideas may be pitched.** If an idea is deemed a “go” *by the parents in attendance*, the green light is given and a Parent Coordinator is assigned to execute all facets of the task (pulling in other parent volunteers as needed).
 
-> **Volunteer Vortex**<br>Manages and puts the call out for parent volunteers or school-related activities<br>*Jessica Lillard*
+### **Are You a Project Coordinator?**
 
-> **Fundraising**<br>Heads up fundraising efforts to support PAC activities<br>*Heather*
+Please [email](mailto:pac@compassfortcollins.org?subject=Agenda%20Item)&nbsp;items you want included in the next PAC Meeting Agenda by the Thursday PRIOR to the PAC meeting. If you are unable to attend and have an update to share, [email](mailto:pac@compassfortcollins.org?subject=Agenda%20Item) the Communications Coordinator by the Thursday prior. A reminder will be sent out to all Project Coordinators in advance. If at any time a Project Coordinator needs to get a message out (email, social media, etc), he/she simply contacts the&nbsp;[Communication Coordinator](mailto:pac@compassfortcollins.org)—preferably providing 48 hours advance notice.
 
-> **Communications**<br>PAC Newsletter, PAC calendar, parent FB page and all other PAC communications<br>*Alexa Croft*
+### Passive Fundraising
 
-### PAC Calendar
+Funds raised by PAC are used to supplement PAC-sponsored events for students and parents as well as for the needs of the school. Passive fundraisers are the easiest way to “give” and require little effort. Three such fundraisers we participate in are Caps4Cash, BoxTops and King Soopers Reloadable Gift Cards.
 
-The PAC calendar provides dates for PAC events. In addition, NO SCHOOL dates have been added. Please note that the PAC calendar is not a replacement for the official Compass School Calendar. For the most accurate, up-to-date school calendar, please [view the Compass 2018-19 Calendar here](https://d1qmdf3vop2l07.cloudfront.net/vast-beetroot.cloudvent.net/compressed/cffe2707928bdd09bd14a012341ccd8c.pdf){: target="_blank"}.
+**Morning Fresh Caps4Cash + BoxTops:&nbsp;**Squirrel away Morning Fresh Dairy milk caps and cut out those Box Tops for Education and bring them in to the front office where we have a collection bins for them. Please neatly trim box tops, ensuring date on box top is not cut off nor expired.
 
-[Click here](https://calendar.google.com/calendar/embed?src=pac%40compassfortcollins.org&amp;ctz=America%2FDenver){: target="_blank"} to view the PAC calendar in a web browser.
+**King Soopers Reloadable Card:&nbsp;**Earnings from this program add up fast!! When using a Compass reloadable King Soopers gift card, 5% of your King Soopers grocery and fuel purchases go to Compass. To give you an idea; if 20 families spent $800 per month for 12 months, that would amount to $9,600 for the year! All you need to do is pick up a card from the front office. They have been pre-loaded with $2.50. Before checking out, load your card with enough to pay for your groceries. Many of us guesstimate, or you may load up to $500. Proceed with checking out and use the loaded gift card to complete the purchase. Easy!
 
-[Click here](https://calendar.google.com/calendar/ical/pac%40compassfortcollins.org/public/basic.ics){: target="_blank"} to add the PAC calendar to your Google calendar or mobile device.
+### **Get in Touch**
 
-### Parent Book Club
-
-Be a part of the Parent Book Club. This School Board-led gathering will meet throughout the school year. Stay tuned for updates via the PAC Newsletter and Facebook. Parents, guardians, staff and community members are all welcome!
-
-> #### Upcoming Books and Dates:
->
-> **November 12, 2018 | 6:30pm**<br>[The End of Average: Unlocking Our Potential by Embracing What Makes Us Different](https://www.amazon.com/End-Average-Unlocking-Potential-Embracing/dp/0062358375/ref=sr_1_1?ie=UTF8&amp;qid=1538667026&amp;sr=8-1&amp;keywords=the+end+of+average){: target="_blank"} by Todd Rose<br>Reading of the entire book is preferred however, if you are busy just read Part 1 (first three chapters).
-
-### Parent Facebook Page
-
-In addition to following the [official Compass Facebook page](https://www.facebook.com/CCCFortCollins/){: target="_blank"}, you may be interested in joining the [Compass Parent Facebook Group](https://www.facebook.com/groups/1456492804474165/){: target="_blank"}. This group is a place for Compass parents and caregivers to share happenings, engage and collaborate.
-
-Please note that it is a closed group is for parents and caregivers of students currently ATTENDING Compass Community Collaborative School as well as our founding families. It is operated independently of the school as a place for parents to connect with one another. It is not monitored or supported by the school, staff or board, but by independent parent volunteers.
-
-### Social Media
-
-If you are an avid user of social media and would like to help spread the word about all Compass is doing, please give the school a follow at:
-
-[Compass on Facebook](https://www.facebook.com/CCCFortCollins/){: target="_blank"}<br>[Compass on Instagram](https://www.instagram.com/cccfortcollins/){: target="_blank"}<br>[Compass on Twitter](https://twitter.com/cccfortcollins){: target="_blank"}
-
-We appreciate your sensitivity to and respect of privacy of others. Please only post images of students with signed media releases on file. Contact the Compass office for more details.
+Want to get involved with the PAC or have a question? Email [pac@compassfortcollins.org](mailto:pac@compassfortcollins.org) and we will be in touch.
