@@ -3,7 +3,7 @@ title: Navigator News | October 29 2018
 date: 2018-10-29 00:00:00
 background_option:
 background_image:
-image_path:
+image_path: /assets/images/posts/unnamed.jpg
 categories:
 iframe:
   title:
@@ -34,13 +34,13 @@ Our math and computer science teacher surprised us all with a treat the other we
 
 ![](/assets/images/unnamed-3.jpg)
 
-**Center for the Built Environment&nbsp;**
+**Center for the Built Environment **
 
 We have had more opportunities with community partners than we can name in one newsletter, so we will highlight different partners in each newsletter! This week I want to give a shout out to Colin Day who is a professional artist and has a creative “day job” at the Center for the Built Environment at CSU. Colin has been working with a group of students for the last three weeks and will conclude with one final session on collaging. He has worked with students on theme and composition and one week we met him at the Downtown Artery to learn more about the local arts scene and draw some inspiration from the local artists who work there.
 
 ![](/assets/images/unnamed-4.jpg)
 
-**GetWET Observatory&nbsp;**
+**GetWET Observatory **
 
 Another recent seminar involved working with scientists at the GetWET Observatory at CSU. Students walked with Jan to the outdoor lab, just east and north of Compass, to study groundwater and surface water quality and interactions. It was a beautiful day and illuminating science for all!
 
