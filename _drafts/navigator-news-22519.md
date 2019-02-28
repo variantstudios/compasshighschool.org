@@ -1,9 +1,9 @@
 ---
 title: 'Navigator News: 2/25/19'
-date:
+date: 2019-02-25 12:00:00
 background_option:
 background_image:
-image_path:
+image_path: /assets/images/posts/macrame.jpg
 categories:
 iframe:
   title:
@@ -14,3 +14,35 @@ search_engine_optimization:
   page_title:
   page_description:
 ---
+
+Seminar Spotlight
+{: .cta}
+
+![](/assets/images/unnamed-10.jpg)
+
+Students worked with a parent volunteer to learn to macrame this week (yes, we are predicting a comeback of this textile art!). It was great fun for all involved and&nbsp;**we are grateful for the skills and time all of our volunteers spend with us!**
+
+Venture Highlight
+{: .cta}
+
+![](/assets/images/unnamed-10.jpg)
+
+**Sam’s venture,&nbsp;*Reducing Flood Risk in our Community*, has been affectionately nicknamed “the Flood Squad” by Compass students.**&nbsp;The project was inspired by a contest put on by&nbsp;[Earth Force](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=899b0d54bf&amp;e=46f52667a0){: target="_blank"}, an organization dedicated to increasing STEM skills, civic engagement and environmental motivation in youth.**The Flood Squad is tasked with developing a proposal to decrease flood risk in their community.&nbsp;**They have learned a lot about flooding—from experimenting on the permeability of soil with a soil infiltrometer, to conducting a neighborhood flood inventory of the Spring Creek neighborhood. They have since come up with three proposals: a community action campaign focusing on a North College neighborhood, an engineering plan to increase permeable surfaces around the school, and a presentation to 1,800 3rd graders during the Fort Collins’ Children’s Water Festival. In true Compass fashion, this venture is embedded with community partners—**students have worked with representatives from FEMA, CSU Natural Resource students, and the Floodplain Administrator for the City of Fort Collins.**
+
+![](/assets/images/unnamed-10.jpg)
+
+Compass Got It's Game On!
+{: .cta}
+
+![](/assets/images/unnamed-10.jpg)
+
+**What a great turnout we had for our first Compass Family Game Night.** Despite some "major upsets," new friends were made and laughs were shared! Thank you Jody Steger and the Parent Action Council (PAC) for organizing this event and for all the parents and students who brought snacks and games. The consensus was that we all want to do it again!
+
+Screenagers Documentary Screening
+{: .cta}
+
+![](/assets/images/unnamed.png)
+
+Facebook was founded in 2004. Twitter—2006. The iPhone was launched in 2007. The birth years of Compass students: 2002-2008.&nbsp;**We are raising the first generation of true digital natives. We are all interested and concerned about the impact of technology and screen time on our children’s developing minds**. Please join us for a viewing and discussion of&nbsp;*Screenagers*, a film created to explore solutions to help our kids navigate the digital age. Compass will host screenings on March 7 AND March 10 at 6:30p.
+
+**This showing is a FUNDRAISER to both cover the costs of the screening, and raise money for Compass.**&nbsp;Tickets will be sold at the door for $10. (Cash or check is preferred, but card payments will be available). As we would like to raise awareness about this important issue, and raise as much money for our students and teachers as possible.&nbsp;**Please let everyone you know who would be interested about this event—tell your friends, post on your social media, spread the word!**&nbsp;Please visit our&nbsp;[Facebook Event Page](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=e858b39c91&amp;e=46f52667a0){: target="_blank"}&nbsp;to RSVP to this great opportunity. (Remember to select what date you plan to attend!)
