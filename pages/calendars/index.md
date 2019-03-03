@@ -12,7 +12,7 @@ layout: page
 
 # CCCS Calendars
 
-[2018 - 2019 School Calendar](/CCCS Calendar updated Website.xlsx .pdf){: target="_blank"}
+[2018 - 2019 School Calendar](https://docs.google.com/spreadsheets/d/154B-9HQNEx4zcnPd2W5v3FoQPKlF4q41gWeYuS_xWTw/edit?usp=sharing){: target="_blank"}
 
 [Daily Schedule](/assets/pdf/Daily Schedule - 2019.pdf){: target="_blank"}
 
