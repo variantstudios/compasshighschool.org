@@ -3,7 +3,7 @@ title: 'Navigator News: 3/4/19'
 date: 2019-03-04 12:00:00
 background_option:
 background_image:
-image_path: /assets/images/posts/girls-seminar.jpg
+image_path: /assets/images/posts/screenagers.jpg
 categories:
 iframe:
   title:
@@ -15,43 +15,37 @@ search_engine_optimization:
   page_description:
 ---
 
-Community Collaboration:
+Exhibition of Learning
 {: .cta}
 
-**Recently, a group of middle-school aged Compass students got to flip traditional roles, and act as the panel of advisors for women in the STEM fields!**[Expanding Your Horizons](https://www.eyhn.org/){: target="_blank"} (EYH) is a national network that hosts one-day conferences to encourage young women to pursue science, technology, engineering and mathematics careers.
+![](/assets/images/all-photos-from-december-exhibition.jpg)
 
-In preparation for their annual conference at CSU on April 6 from 9a-3p (have middle school girls? Mark your calendars and [sign up here](http://nocoeyh.wixsite.com/home){: target="_blank"}),EYH invited a panel of our students to evaluate their ideas for projects that would be engaging for middle school students. Were Compass students intimidated by being in the spotlight in front of neuroscientists, coders, and geneticists? No! **Our students showed true poise, and responded to ideas with true insight and thoughtful comments. We are so proud of you!**
+**Our next Exhibition of Learning is this Wednesday**, March 13 from 4:30-6:30p at Compass. Make sure to mark your calendars so you can see all of the hard work our students have been engaged in!
+
+**At 6:30p Kayla’s Venture Project class will perform&nbsp;*Common Ground*,&nbsp;**a play written by local playwright, Brendon Votipka.
+
+![](/assets/images/common-ground-play-poster.jpg)
+
+Screenagers Documentary
+{: .cta}
+
+![](/assets/images/screenagers.jpg)
+
+Thank you Pamela and parent Kristy Moreno for coordinating last week's screenings of the documentary Screenagers. We had a good turnout for the viewing of this eye-opening film and were reminded to consider the&nbsp;**value&nbsp;**of what we, and our children, watch and engage in on electronic devices.&nbsp;
 
 Intern Introduction
 {: .cta}
 
-![](/assets/images/nn-intern01-40419.jpg)
+**My name is D&eacute;ja and I’m one of the CSU interns here at Compass this semester.&nbsp;**I am super excited and honored to be a part of this intelligent community! I’d have to say my favorite part about being here is watching everyone, from students to admin, get passionate about the projects that they invest in. It sparks a sense of motivation in myself to follow the things that I love being a part of and it’s just amazing seeing how much support everyone has for each other!
 
-**Hi, my name is Tristan Phegley and I am in my fourth and final year at Colorado State University studying Human Development & Family Studies**with a double concentration in Prevention & Intervention Sciences and Leadership & Entrepreneurial Professions. I am currently interning at Compass Community Collaborative School. **I often help tutor in math, science, English, and other areas as well.** Within the next few weeks, I will be leading a basketball seminar, where I will be teaching students about the game of basketball along with having a little bit of fun playing basketball outside! If you see me around, feel free to say “hi” and ask any questions you may have. 
-
-Seminar Spotlight
+Summer Opportunity
 {: .cta}
 
-![](/assets/images/nn-girlsinthespotligh-40419.jpg)
+![](/assets/images/screen-shot-2019-03-08-at-1-08-23-pm.png)
 
-**The *Girls in the Spotlight* eight-week seminar** was designed to give girls an opportunity to **develop and strengthen public speaking skills through communication arts** (speech and drama.) The seminar gives each girl an opportunity every week to speak in a supportive girl-centric environment. All seminars include a warmup, presentation time, a peer review and a retrospective mindful circle. Emphasis is placed on the voice being a powerful tool, communicating with facial expressions and gestures and exploring:
-
-* Impromptu speech
-* Pantomime
-* Storytelling
-* Folktales
-* Public speaking
-
-Each week the girls have opportunity to fill a variety of seminar leadership roles and can lead the warmups should they desire. The seminar concludes with a culminating peer showcase and the potential to create a podcast. **The seminar is lead by Hope Hartman, founder of Escape Velocity and Executive Director of Girls in the Spotlight Foundation.** Thank you Hope, for helping Compass continue to be an amazing place to learn.
+**The High School Leadership Corps provides work opportunities for Colorado high school youth (ages 13-17) in Rocky Mountain National Park&nbsp;**and the surrounding Arapaho-Roosevelt National Forests. Youth members serve for 12-days in an immersive camping experience. During the 12-days, member complete various conservation projects alongside land management agencies, participate in outdoor education, leadership training, and career development activities, and live within Rocky Mountain National Park.In 2019, the Conservancy will host two crews of ten youth members each. One crew will serve from June 3-14 and the second from July 15-26. The Conservancy provides members with all necessary gear, food, housing, work clothing, and a $400 stipend upon completion of the program. More information, including application materials, can be found at:&nbsp;[https://rmconservancy.org/work-with-us/high-school-leadership-corps/](https://rmconservancy.org/work-with-us/high-school-leadership-corps/).&nbsp;**Application Due Date: April 7, 2019.**
 
 Board of Directors Seeking Candidates
 {: .cta}
 
-The Compass Board of Directors is growing! We are currently seeking members with experience in law, finance, and/or development. Elections will be held in April. Know any good candidates? Please contact Gina Curler at [gina@compassfortcollins.org](mailto:gina@compassfortcollins.org){: target="_blank"}.
-
-Watch Screenagers THIS WEEK!
-{: .cta}
-
-![](/assets/images/nn-screenagers-40419.png)
-
-**Please join us THIS WEEK for a viewing and discussion of*****Screenagers.*** Compass will host screenings on March 7 AND March 10 at 6:30p. Please spread the word and invite your friends! Visit our [Facebook Event Page](https://www.facebook.com/events/249917952604760/){: target="_blank"} to RSVP and remember to select what date you plan to attend!
+The Compass Board of Directors is growing! We are currently seeking members with experience in law, finance, and/or development. Elections will be held in April. Know any good candidates? Please contact Gina Curler at&nbsp;[gina@compassfortcollins.org](mailto:gina@compassfortcollins.org){: target="_blank"}.
