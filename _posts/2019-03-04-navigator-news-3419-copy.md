@@ -1,0 +1,51 @@
+---
+title: 'Navigator News: 3/4/19'
+date: 2019-03-04 12:00:00
+background_option:
+background_image:
+image_path: /assets/images/posts/screenagers.jpg
+categories:
+iframe:
+  title:
+  url:
+  width:
+  height:
+search_engine_optimization:
+  page_title:
+  page_description:
+---
+
+Exhibition of Learning
+{: .cta}
+
+![](/assets/images/all-photos-from-december-exhibition.jpg)
+
+**Our next Exhibition of Learning is this Wednesday**, March 13 from 4:30-6:30p at Compass. Make sure to mark your calendars so you can see all of the hard work our students have been engaged in!
+
+**At 6:30p Kayla’s Venture Project class will perform&nbsp;*Common Ground*,&nbsp;**a play written by local playwright, Brendon Votipka.
+
+![](/assets/images/common-ground-play-poster.jpg)
+
+Screenagers Documentary
+{: .cta}
+
+![](/assets/images/screenagers.jpg)
+
+Thank you Pamela and parent Kristy Moreno for coordinating last week's screenings of the documentary Screenagers. We had a good turnout for the viewing of this eye-opening film and were reminded to consider the&nbsp;**value&nbsp;**of what we, and our children, watch and engage in on electronic devices.&nbsp;
+
+Intern Introduction
+{: .cta}
+
+**My name is D&eacute;ja and I’m one of the CSU interns here at Compass this semester.&nbsp;**I am super excited and honored to be a part of this intelligent community! I’d have to say my favorite part about being here is watching everyone, from students to admin, get passionate about the projects that they invest in. It sparks a sense of motivation in myself to follow the things that I love being a part of and it’s just amazing seeing how much support everyone has for each other!
+
+Summer Opportunity
+{: .cta}
+
+![](/assets/images/screen-shot-2019-03-08-at-1-08-23-pm.png)
+
+**The High School Leadership Corps provides work opportunities for Colorado high school youth (ages 13-17) in Rocky Mountain National Park&nbsp;**and the surrounding Arapaho-Roosevelt National Forests. Youth members serve for 12-days in an immersive camping experience. During the 12-days, member complete various conservation projects alongside land management agencies, participate in outdoor education, leadership training, and career development activities, and live within Rocky Mountain National Park.In 2019, the Conservancy will host two crews of ten youth members each. One crew will serve from June 3-14 and the second from July 15-26. The Conservancy provides members with all necessary gear, food, housing, work clothing, and a $400 stipend upon completion of the program. More information, including application materials, can be found at:&nbsp;[https://rmconservancy.org/work-with-us/high-school-leadership-corps/](https://rmconservancy.org/work-with-us/high-school-leadership-corps/).&nbsp;**Application Due Date: April 7, 2019.**
+
+Board of Directors Seeking Candidates
+{: .cta}
+
+The Compass Board of Directors is growing! We are currently seeking members with experience in law, finance, and/or development. Elections will be held in April. Know any good candidates? Please contact Gina Curler at&nbsp;[gina@compassfortcollins.org](mailto:gina@compassfortcollins.org){: target="_blank"}.
