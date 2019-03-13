@@ -1,3 +1,11 @@
+{% if site.data.alert.show == true %}
+    <div class="alert">
+        <div>{{ site.data.alert.message_html }}</div>
+        <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+    </div>
+{% endif %}
+
+
 {% comment %} {% if page.layout == 'front' %}
 <script>
     var cb = function() {
