@@ -54,6 +54,8 @@ board_agenda:
     file_path: /assets/images/board-of-directors-meeting-agenda-1-21-19---google-docs.pdf
   - title: 02/18/19 Board Meeting
     file_path: /assets/images/board-agenda-2-18-19---google-docs.pdf
+  - title: 03/25/19 Board Meeting
+    file_path: /assets/images/board-agenda-3-25-2019---google-docs.pdf
 board_minutes:
   - title: 01/15/18 Board Special Meeting Minutes
     file_path: /assets/images/compass-bod-special-meeting-minutes-011518.docx
