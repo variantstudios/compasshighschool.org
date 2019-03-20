@@ -27,4 +27,6 @@ Compass Community Collaborative is dedicated to personalized, competency-based l
 
 ### [Mathematics](https://docs.google.com/document/d/1YksMDnE3lrzVGa9SVdSohxcG2bDQc1D5a6J5uRpu5zI/edit)&nbsp;Teacher
 
-### [School Counselor ](https://docs.google.com/document/d/1sxaPSehQVJ8nNlvnKa2SB-Hqb3dVKCtUbI620h3SEV0/edit)(full or part-time)
+### [School Counselor ](https://docs.google.com/document/d/1sxaPSehQVJ8nNlvnKa2SB-Hqb3dVKCtUbI620h3SEV0/edit)(50% FTE)
+
+### [Spanish Language Teacher](https://docs.google.com/document/d/1bjaGNzaa1eIQt9R-H8_ray-chgaqCVKTrrnUC_KEC3w/edit) (50% FTE)
