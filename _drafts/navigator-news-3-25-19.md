@@ -1,6 +1,6 @@
 ---
 title: 'Navigator News: 3/25/19'
-date:
+date: 2019-03-25 05:00:00
 background_option:
 background_image:
 image_path: /assets/images/posts/newsletter-02a.jpg
