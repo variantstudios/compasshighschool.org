@@ -38,11 +38,49 @@ Please [email](mailto:pac@compassfortcollins.org?subject=Agenda%20Item)&nbsp;ite
 
 ### Passive Fundraising
 
-Funds raised by PAC are used to supplement PAC-sponsored events for students and parents as well as for the needs of the school. Passive fundraisers are the easiest way to “give” and require little effort. Three such fundraisers we participate in are Caps4Cash, BoxTops and King Soopers Reloadable Gift Cards.
+Funds raised by PAC are used to supplement events for students and parents as well as for the needs of the school. Passive fundraisers are the easiest way to “give” and require little effort. Three such fundraisers we participate in are Caps4Cash, BoxTops and King Soopers Reloadable Gift Cards.
 
 **Morning Fresh Caps4Cash + BoxTops:&nbsp;**Squirrel away Morning Fresh Dairy milk caps and cut out those Box Tops for Education and bring them in to the front office where we have a collection bins for them. Please neatly trim box tops, ensuring date on box top is not cut off nor expired.
 
-**King Soopers Reloadable Card:&nbsp;**Earnings from this program add up fast!! When using a Compass reloadable King Soopers gift card, 5% of your King Soopers grocery and fuel purchases go to Compass. To give you an idea; if 20 families spent $800 per month for 12 months, that would amount to $9,600 for the year! All you need to do is pick up a card from the front office. They have been pre-loaded with $2.50. Before checking out, load your card with enough to pay for your groceries. Many of us guesstimate, or you may load up to $500. Proceed with checking out and use the loaded gift card to complete the purchase. Easy!
+**King Soopers Community Rewards Program:**
+
+Thank you Compass friends and families for supporting our school by participating in the King Soopers Community Rewards Program. On April 1, 2019, King Soopers made a change to the program which will make it easier than ever to support our school. Please review the following information to begin, *or continue*, supporting Compass in this ongoing fundraising effort:
+
+Reloadable King Soopers Gift Cards are no longer used for the fundraising program. Don’t worry, all the money you have loaded on these cards is still available, however, future reloading of the card will no longer benefit Compass.
+
+Once properly set up (following the steps below), your King Soopers loyalty SooperCard (or phone number/Alternate ID) will be all that’s needed to support Compass.
+
+**IF YOU****ALREADY** **HAVE A LOYALTY CARD****AND** **A KING SOOPERS ONLINE ACCOUNT:**
+
+1. Go to [http://www.kingsoopers.com](http://www.kingsoopers.com) and log in to your account
+2. Hover over **Savings & Rewards** and click on the drop down **King Soopers Community Rewards**
+3. Click **Enroll Now**
+4. Hover over **Savings & Rewards**
+5. Click **King Soopers Community Rewards** in the dropdown menu
+6. Click **Enroll**
+7. On the next page in the search box, enter Compass Community Collaborative School or the code **YN594**
+8. Click **Enroll**
+9. It’s that easy!
+
+**NEW USERS:**
+
+New users will need to create an account which requires some basic information, a valid email address and a *loyalty* *card\**.
+
+1. Have your existing King Soopers loyalty card handy (this is NOT your current Compass gift card) OR you may create your online account using your Alternate ID (such as a phone number)
+2. Go to [http://www.kingsoopers.com](http://www.kingsoopers.com)
+3. Click on **Welcome/Sign In** on the right side of the page
+4. Click **My Account** and then **Create Account**
+5. Complete the online form.
+6. Once your online account has been created, log-in and hover over **Savings & Rewards**
+7. Click **King Soopers Community Rewards** in the dropdown menu
+8. Click **Enroll**
+9. On the next page in the search box, enter Compass Community Collaborative School or the code **YN594**
+10. Click **Enroll**
+11. It’s that easy!
+
+Please note that the monies on your existing reloadable gift cards will not expire. Once you have used all the funds on your reloadable gift card, you may dispose of it.
+
+\*You must have a registered King Soopers *loyalty card* account to link to your Compass. If you do not yet have a King Soopers *loyalty card*, they are available at the customer service desk at any King Soopers.
 
 ### Get in Touch
 
