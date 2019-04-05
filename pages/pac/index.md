@@ -53,14 +53,11 @@ Once properly set up (following the steps below), your King Soopers loyalty Soop
 **IF YOU****ALREADY** **HAVE A LOYALTY CARD****AND** **A KING SOOPERS ONLINE ACCOUNT:**
 
 1. Go to [http://www.kingsoopers.com](http://www.kingsoopers.com) and log in to your account
-2. Hover over **Savings & Rewards** and click on the drop down **King Soopers Community Rewards**
-3. Click **Enroll Now**
-4. Hover over **Savings & Rewards**
-5. Click **King Soopers Community Rewards** in the dropdown menu
+2. Hover over **Savings & Rewards**
+3. Click **King Soopers Community Rewards** in the dropdown menu
+4. Click **Enroll**
+5. On the next page in the search box, enter Compass Community Collaborative School or the code **YN594**
 6. Click **Enroll**
-7. On the next page in the search box, enter Compass Community Collaborative School or the code **YN594**
-8. Click **Enroll**
-9. It’s that easy!
 
 **NEW USERS:**
 
