@@ -79,6 +79,8 @@ Please note that the monies on your existing reloadable gift cards will not expi
 
 \*You must have a registered King Soopers *loyalty card* account to link to your Compass. If you do not yet have a King Soopers *loyalty card*, they are available at the customer service desk at any King Soopers.
 
+Here is a very helpful [FAQ document](https://www.kroger.com/asset/delta_faq) that may answer more of your questions about the program.
+
 ### Get in Touch
 
 Want to get involved with the PAC or have a question? Email [pac@compassfortcollins.org](mailto:pac@compassfortcollins.org) and we will be in touch.
