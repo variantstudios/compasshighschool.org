@@ -24,7 +24,7 @@ Kids are settling in to their last venture projects of our first school year\! W
 
 **DAWN:&nbsp;**Sustainable Energy. This includes a electric car building contest\!<br>**SAM:&nbsp;**Advisory Olympics<br>**KATIE:&nbsp;**Landscaping Design and Installation<br>**BONNIE:&nbsp;**Yearbook<br>**KAYLA:&nbsp;**Children’s Book Writing with Unite for Literacy<br>**DANNY:&nbsp;**Multicultural Leadership
 
-And the Winners Are ...
+And the Winners Are …
 {: .cta}
 
 ![](/assets/images/flood-venture-contest-success1600.jpg)
@@ -45,6 +45,13 @@ Dawn and Bonnie headed off to San Diego for some inspiration at the&nbsp;**Deepe
 By participating in Deeper Learning, our amazing educators are tapped into movement to transform education—and we are excited that Compass is at the heart of that change\!
 
 ![](/assets/images/unnamed-13.jpg)![](/assets/images/unnamed-13.jpg)
+
+Family Game Night
+{: .cta}
+
+![](/assets/images/unnamed-14.jpg)
+
+**If you missed it last time, here's your next chance to join the Compass students and families for our second and final Compass Family Game Night of the year\! We will be shaking the house on Tuesday, April 23 from 6:30-8:30pm.**&nbsp;There will be games for age groups from young to adult so bring your whole family (and your own favorites) to participate. Not competitive? No worries—we will have games that are team-based and collaborative where working together is the key to success.**Snacks will be provided, along with door prizes and a grand prize drawing as well.**&nbsp;We will need plenty of participants but also some tablemasters/moderators who can get players up to speed on a new game they may not have tried before so look for the Sign-up Genius to sign-up to bring snacks or to volunteer.&nbsp;**Will you be new to Compass next year? Please come and join us and let’s get acquainted\!**
 
 King Soopers Community Fundraising Program
 {: .cta}
