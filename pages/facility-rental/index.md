@@ -9,4 +9,6 @@ permalink: /facility-rental/
 layout: page
 ---
 
-# Coming Soon
+# Facility Rental
+
+Coming Soon
