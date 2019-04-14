@@ -9,4 +9,6 @@ permalink: /campus-reimagined/
 layout: page
 ---
 
-# Coming Soon
+# Campus Reimagined
+
+Coming Soon
