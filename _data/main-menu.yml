@@ -5,10 +5,12 @@
       url: /a-day-in-the-life/
     - text: Students
       url: /students/
-    - text: Campus
-      url: /campus/
+    - text: Campus Reimagined
+      url: /campus-reimagined/
     - text: Venture Projects
       url: /venture-projects/
+- text: Campus
+  url: /campus
 - text: Parents
   url: /parents/
   subitems:
