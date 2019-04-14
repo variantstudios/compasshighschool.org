@@ -10,7 +10,10 @@
     - text: Venture Projects
       url: /venture-projects/
 - text: Campus
-  url: /campus
+  url: /campus/
+  subitems:
+    - text: Facility Rental
+      url: /facility-rental/
 - text: Parents
   url: /parents/
   subitems:
