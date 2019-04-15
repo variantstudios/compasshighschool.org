@@ -1,6 +1,6 @@
 ---
 title: 'Navigator News: 4/15/19'
-date:
+date: 2019-04-15 09:00:00
 background_option:
 background_image:
 image_path: /assets/images/posts/dallon-hoffmans-360-team-meeting.jpg
