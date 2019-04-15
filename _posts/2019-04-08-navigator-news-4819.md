@@ -1,5 +1,5 @@
 ---
-title: 'Navigator News: 4-8-19'
+title: 'Navigator News: 4/8/19'
 date: 2019-04-08 00:00:00
 background_option:
 background_image:
