@@ -15,7 +15,7 @@ search_engine_optimization:
   page_description:
 ---
 
-Venture Spotlight
+Venture Spotlight\!
 {: .cta}
 
 ![](/assets/images/solar-car-competition1.jpeg)
