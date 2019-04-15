@@ -20,7 +20,9 @@ Venture Spotlight
 
 ![](/assets/images/solar-car-competition1.jpeg)
 
-**The Renewable Energy venture is a middle-school-only class focused on learning how energy is transformed and how renewables can be used to make useful inventions.&nbsp;**We received a sponsorship from Platte River Power Authority to enter the Jr. Solar Sprint, and Compass fielded 6 teams in the regional competition on Saturday, April 13\! Teams competed at Walt Clark Middle School in two categories: Solar Car and Battery Car. This was a rich engineering activity involving balancing weight and sturdiness, speed and power—and lots of teamwork.To honor Compass' participation in the activity, PRPA awarded us a $1000 grant for our STEM programs.&nbsp;**Thanks to parent volunteers Josh Lillard, Liz Ross, Darrick Hueber, Joel Lurkins, and Chad Pallansch for helping us out with car building\!**
+**The Renewable Energy venture is a middle-school-only class focused on learning how energy is transformed and how renewables can be used to make useful inventions.&nbsp;**We received a sponsorship from Platte River Power Authority to enter the Jr. Solar Sprint, and Compass fielded 6 teams in the regional competition on Saturday, April 13\!
+
+Teams competed at Walt Clark Middle School in two categories: **Solar Car** and **Battery Car**. This was a rich engineering activity involving balancing weight and sturdiness, speed and power—and lots of teamwork.To honor Compass' participation in the activity, PRPA awarded us a $1000 grant for our STEM programs.&nbsp;**Thanks to parent volunteers Josh Lillard, Liz Ross, Darrick Hueber, Joel Lurkins, and Chad Pallansch for helping us out with car building\!**
 
 ![](/assets/images/solar-car-competition.jpeg)
 
@@ -35,7 +37,7 @@ Inaugural 360 Team Meetings
 
 ![](/assets/images/mia-andersons-360-team-meeting.jpg)
 
-The purpose of our 360 Team meetings with our high school cohort on April 9 was to help the students learn how to reflect on their growth and education. In particular, students followed a&nbsp;*“Guide to Thrive”&nbsp;*that helped them focus their reflections on their progress in the Compass Competencies and in subject specific content. We asked students to prepare their digital portfolios to present evidence of their learning to family and two staff members. This was a powerful opportunity to celebrate successes, to set goals for the summer and next semester, and to determine areas of needed growth with the help of supportive and invested adults.
+**The purpose of our 360 Team meetings with our high school cohort on April 9 was to help the students learn how to reflect on their growth and education.** In particular, students followed a&nbsp;*“Guide to Thrive”&nbsp;*that helped them focus their reflections on their progress in the Compass Competencies and in subject specific content. We asked students to prepare their digital portfolios to present evidence of their learning to family and two staff members. This was a powerful opportunity to celebrate successes, to set goals for the summer and next semester, and to determine areas of needed growth with the help of supportive and invested adults.
 
 For staff, parents, and students alike, this student-led conferencing was a profoundly moving experience. Staff got to know our students on a deeper level and we learned more about what is really working for kids at Compass. Parents got to see their child’s work and development in a new light. At the end of the day, through email exchanges, and the next morning at our weekly meeting the staff shared humbling, touching, beautiful stories of what we had heard and learned through the reflections of our students. Universally, our students love Compass. They feel heard, valued, and empowered at our school. They have learned that they love subjects they didn’t think they loved (poetry, for example), they have been able to explore passions and find creative outlets for those passions, and they have felt the joy and challenge of being part of something new and bigger than themselves.
 
@@ -43,7 +45,7 @@ For staff, parents, and students alike, this student-led conferencing was a prof
 
 There is so much to say about it all, but Bonnie summarized an important takeaway in her email to the staff that evening: it’s not only the students who are happy and thriving at Compass\! She wrote:
 
-*Today in my meetings, every parent was thankful their child was at our school and they said so loud and clear\!&nbsp;**Every. Single. One.&nbsp;**And I met with a pretty wide range of different students—meaning, there is something special and needed for each of them here. Even with our sometimes on-the-fly-changes and unanswered big questions, the parents know that what their kiddos are learning is meaningful and that their experiences at Compass are contributing positively to their child's development. I heard, "I am so happy she is here." and, "She has found the right fit for her, it's where she belongs." &nbsp;As a parent, these are the goals I have always wanted the school system to provide my child.*
+*Today in my meetings, every parent was thankful their child was at our school and they said so loud and clear\!&nbsp;**Every. Single. One.&nbsp;**And I met with a pretty wide range of different students—meaning, there is something special and needed for each of them here. Even with our sometimes on-the-fly-changes and unanswered big questions, the parents know that **what their kiddos are learning is meaningful and that their experiences at Compass are contributing positively to their child's development.** I heard, "I am so happy she is here" and, "She has found the right fit for her, it's where she belongs." &nbsp;As a parent, these are the goals I have always wanted the school system to provide my child.*
 
 Incoming and Prospective Family Night
 {: .cta}
@@ -62,7 +64,7 @@ Last Family Game Night of the Year
 T-Shirt and Hoodie Sale
 {: .cta}
 
-[Get your hoodies and tees](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=77a533c797&amp;e=46f52667a0){: target="_blank"}&nbsp;while they last\! Need help with sizing? See all available sizes below.
+[Get your hoodies and tees](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=77a533c797&amp;e=46f52667a0){: target="_blank"}&nbsp;while they last\! We are trying to move this apparel to make room for new Compass logo gear. Need help with sizing? See all available sizes below. Hoodies are $18 and Tees are $16.&nbsp;[C](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=77a533c797&amp;e=46f52667a0){: target="_blank"}[lick here](__notset__) to reserve your size and then pick and pay (cash or check) at the school office.&nbsp;
 
 ![](/assets/images/woman-xl-img-5708-copy.jpg)
 
