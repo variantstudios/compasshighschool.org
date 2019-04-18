@@ -10,8 +10,6 @@
 - text: Campus
   url: /campus/
   subitems:
-    - text: Campus Reimagined
-      url: /campus-reimagined/
     - text: Facility Rental
       url: /facility-rental/
 - text: Parents
