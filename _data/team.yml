@@ -361,24 +361,6 @@
     Board Treasurer.
   team_position: founding-board-of-directors
   image_path:
-- name: 'Suriya Vijayasarathy, Social Emotional Learning Expert'
-  position: Board Member
-  email:
-  bio: >-
-    I am passionate about advocacy and social justice. I recently graduated from
-    CSU with a bachelor’s degree in Sociology, and a concentration in Criminal
-    Justice and Criminology. I work for the nonprofit Jacob Center as a family
-    coach. I am a proud graduate of a charter school education, having attended
-    charter schools from 1st grade until high school. Through my position as a
-    resident assistant at CSU, I have almost three years of experience working
-    with first-year college students as a mentor and peer advocate. In my free
-    time I engage in a wide variety of fitness disciplines, including
-    calisthenics, aerial gymnastics, martial arts, and rock-climbing. Words
-    cannot express how grateful I am to my teachers throughout my education, and
-    I am excited to pay that gift forward by serving on the Compass Community
-    Collaborative School Board.
-  team_position: founding-board-of-directors
-  image_path: /assets/images/suriyadragononshoulder-1.png
 - name: 'Chris Whitman, B.S.M.E., MBA, Manager of Product Strategy and Design'
   position: Board Secretary
   email:
@@ -398,3 +380,21 @@
     for awesome.
   team_position: founding-board-of-directors
   image_path: /assets/images/chris.png
+- name: 'Suriya Vijayasarathy, Social Emotional Learning Expert'
+  position: Board Member
+  email:
+  bio: >-
+    I am passionate about advocacy and social justice. I recently graduated from
+    CSU with a bachelor’s degree in Sociology, and a concentration in Criminal
+    Justice and Criminology. I work for the nonprofit Jacob Center as a family
+    coach. I am a proud graduate of a charter school education, having attended
+    charter schools from 1st grade until high school. Through my position as a
+    resident assistant at CSU, I have almost three years of experience working
+    with first-year college students as a mentor and peer advocate. In my free
+    time I engage in a wide variety of fitness disciplines, including
+    calisthenics, aerial gymnastics, martial arts, and rock-climbing. Words
+    cannot express how grateful I am to my teachers throughout my education, and
+    I am excited to pay that gift forward by serving on the Compass Community
+    Collaborative School Board.
+  team_position: founding-board-of-directors
+  image_path: /assets/images/suriyadragononshoulder-1.png
