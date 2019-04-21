@@ -21,12 +21,6 @@ Compass Community Collaborative is dedicated to personalized, competency-based l
 
 ## Current Openings for 2019/20&nbsp;
 
-### [English Language Arts](https://docs.google.com/document/d/1eXhdstKXJMf3IGWDo2d5g42FSW9K4SWhdMN5gPYE1jc/edit)&nbsp;Teacher
-
-### [Social Studies](https://docs.google.com/document/d/17Sfnt9pcYKwfbz8RaXw2uEf0zU8oQRzYYTCZToTIUMo/edit)&nbsp;Teacher
-
-### [Mathematics](https://docs.google.com/document/d/1YksMDnE3lrzVGa9SVdSohxcG2bDQc1D5a6J5uRpu5zI/edit)&nbsp;Teacher
-
 ### [School Counselor ](https://docs.google.com/document/d/1sxaPSehQVJ8nNlvnKa2SB-Hqb3dVKCtUbI620h3SEV0/edit)(50% FTE)
 
 ### [Spanish Language Teacher](https://docs.google.com/document/d/1bjaGNzaa1eIQt9R-H8_ray-chgaqCVKTrrnUC_KEC3w/edit) (50% FTE)
