@@ -16,7 +16,7 @@ layout: page
 
 We are currently accepting applications for potential admission to Compass for the 2019-2020 school year for students in grades 6-10. *If you would like to join our waitlist, please apply using the link below.*
 
-[Apply Now](https://docs.google.com/document/d/1441zhgPDg0Vo3njiYx2f80wb-LJQUwfwuIURbUbCLYY/edit){: target="_blank"}.
+[Apply Now](https://applytocompassfortcollins.com/login){: target="_blank"}.
 
 ### FUTURE COMPASS STUDENTS
 
