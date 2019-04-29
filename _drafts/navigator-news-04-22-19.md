@@ -1,5 +1,5 @@
 ---
-title: 'Navigator News: 04-22-19'
+title: 'Navigator News: 04/22/19'
 date:
 background_option:
 background_image:
@@ -18,7 +18,10 @@ search_engine_optimization:
 Leadership Notes
 {: .cta.present-before-paste}
 
-![](/assets/images/unnamed-15.jpg)
+&nbsp;
+{: .present-before-paste}
+
+![](/assets/images/unnamed-16.jpg)
 {: .present-before-paste}
 
 With only about 6 weeks left of the school year, we are busy finishing session six of Intensive classes and right in the middle of the last venture projects.&nbsp;**The building is buzzing with learning**, spring is springing all around us, and we are also looking ahead to next school year with excitement.
