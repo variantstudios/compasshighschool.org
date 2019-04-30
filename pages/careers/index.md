@@ -21,6 +21,6 @@ Compass Community Collaborative is dedicated to personalized, competency-based l
 
 ## Current Openings for 2019/20&nbsp;
 
-### [School Counselor ](https://docs.google.com/document/d/1sxaPSehQVJ8nNlvnKa2SB-Hqb3dVKCtUbI620h3SEV0/edit)(50% FTE)
+### &nbsp;
 
 ### [Spanish Language Teacher](https://docs.google.com/document/d/1bjaGNzaa1eIQt9R-H8_ray-chgaqCVKTrrnUC_KEC3w/edit) (50% FTE)
