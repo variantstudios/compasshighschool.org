@@ -16,6 +16,6 @@ layout: page
 
 [Daily Schedule](/assets/pdf/Daily Schedule - 2019.pdf){: target="_blank"}
 
-[2019-2020 School Year Calendar](https://docs.google.com/spreadsheets/d/1Ewz3xCGsuYn3WLjI5zDvh0lvIplk1dfAtIHllM3EUBs/edit?usp=sharing)
+[2019-2020 School Year Calendar](https://docs.google.com/spreadsheets/d/1Ewz3xCGsuYn3WLjI5zDvh0lvIplk1dfAtIHllM3EUBs/edit?usp=sharing){: target="_blank"}
 
-[2019-2020 Daily Schedule](https://docs.google.com/spreadsheets/d/1q9wMFUXBDQkaawyyYYye0D8Y1zBdzR9LLo3B2Tj4xLY/edit?usp=sharing)
+[2019-2020 Daily Schedule](https://docs.google.com/spreadsheets/d/1q9wMFUXBDQkaawyyYYye0D8Y1zBdzR9LLo3B2Tj4xLY/edit?usp=sharing){: target="_blank"}
