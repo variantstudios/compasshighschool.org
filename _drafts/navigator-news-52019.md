@@ -76,15 +76,15 @@ Board Election Results
 "Snakes and Lizards of All Kinds" Seminar
 {: .cta}
 
-![](/assets/images/unnamed-18.jpg)
+![](/assets/images/unnamed-19.jpg)
+
+![](/assets/images/unnamed-19.jpg)
 
 A big thank you to John and his dad for leading a seminar on reptiles\! MOST of the students enjoyed handling these fascinating and unusual creatures.
-
-![](/assets/images/unnamed-18.jpg)
 
 Learning About Fostering Animals
 {: .cta}
 
-![](/assets/images/unnamed-18.jpg)
+![](/assets/images/unnamed-19.jpg)
 
 Thank you William's mom, Heather, for bringing in some cuddly foster kittens for socialization\!
