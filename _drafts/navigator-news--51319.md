@@ -1,0 +1,57 @@
+---
+title: Navigator News | 5/13/19
+date: 2019-05-13 12:00:00
+background_option:
+background_image:
+image_path: >-
+  /assets/images/posts/solar-spring-compass-community-collaborative-school-fort-collings.jpg
+categories:
+iframe:
+  title:
+  url:
+  width:
+  height:
+search_engine_optimization:
+  page_title:
+  page_description:
+---
+
+Colorado Solar Sprint
+{: .cta}
+
+![](/assets/images/unnamed-17.jpg)
+
+**We are so proud of Compass student’s performance at the Colorado Solar Sprint sponsored by NREL**&nbsp;(the National Renewable Energy Laboratory)\! We sponsored 6 cars at the competition, and 5 of those cars qualified for the double-elimination finals.The Shwoopty Shwoops (Ruby, Abby, and Ridge) got 2nd place in the battery car event, and the Bro Fam Lit Squad (Zander and Henry) finished in 3rd place in the solar car event\! Best of all, the kids represented Compass really well, displaying excellent sportsmanship and citizenship.Congratulate the above teams as well as Rhoen, Ben, Fiona, and Maggie on a fantastic performance. We have an awesome group of young engineers who brought home Compass School's very first state competition trophies.
+
+![](/assets/images/unnamed-17.jpg)
+
+![](/assets/images/unnamed-17.jpg)
+
+Venture Spotlight: Advisory Olympics
+{: .cta}
+
+**Advisory Olympics is an end of the year competition and celebration of our accomplishments and the community we have built.** Students in this venture have been designing and planning two full days of activities for our student body to play together, show off their skills and compete in a friendly way during the last 2 days of school. Along the way we have looked into the history of the modern Olympics and how it strives to bring people together through sport. The problem which we are solving is, how do we make the last few days of school fun and leave kids excited to come back rather than just wanting to move on to summer.&nbsp;
+
+**During exhibition we will be showcasing student artwork that will be made to celebrate our first year and the communities we built.** We will be playing some games with visitors. Visitors will be learning about flags and how they are used to represent people's identity. Visitors will also be voting on the flags which they like the best as part of the Advisory Olympics competition.&nbsp;
+
+Bonnie Wins a Spot as Global Impact Challenge Leader
+{: .cta}
+
+**Our very own Bonnie Cowen, master teacher of social studies, has been chosen as one of 20 teachers from around the country to get trained and supported in implementing a Global Impact Challenge project with students next year.** She will run this as a venture project in the fall. Congratulations, Bonnie\!
+
+The diversity and inclusion competition is designed to spark the best ideas from students for building a world free of barriers, stereotypes and discrimination. Now in its third year, the goal of the challenge is to equip a greater number of teachers and students with the tools necessary to dream big and break down barriers in their communities. “We've seen the impact the Global Impact Challenge has had, not only on the educators and students who have participated directly but on their schools and local communities,” said No Barriers Director of Education Andrea Delorey. “This program has put students in the driver’s seat in bringing together people with and without disabilities to raise awareness of the benefits of inclusion while developing relevant skills for their future."
+
+**The 20 selected teachers will:**
+
+* Attend a training program as part of the [No Barriers Summit](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=d8b053970a&amp;e=46f52667a0) in Lake Tahoe, California, June 13–15.
+* Create a team of students of mixed abilities and backgrounds who will develop and fine-tune their ideas over the course of six workshops.
+* Present their team solutions to a volunteer selection committee with expertise in the field of diversity and inclusion in December 2019.
+
+Finalists will be awarded up to $5,000 to launch their Global Impact Challenge projects in their communities and given the opportunity to attend the 2020 No Barriers Summit in San Francisco to present their project.
+
+FoCo Cafe Food + Hygiene Drive
+{: .cta}
+
+Students from the Renewable Energy venture class will be making the rounds to Advisories to drum up support for a FoCo Cafe Food and Hygiene drive. We are continuing the partnership with the FoCo Cafe that Bonnie's Homelessness venture started. We plan to deliver some student-made solar lamps along with food, clothes and hygiene supplies.
+
+Advisories have from May 7 until May 20 to collect items in their boxes. On May 20 we'll count all of the items, and the winning advisory will get pizza and a movie.
