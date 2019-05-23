@@ -1,0 +1,90 @@
+---
+title: 'Navigator News: 5/20/19'
+date: 2019-05-20 12:00:00
+background_option:
+background_image:
+image_path: >-
+  /assets/images/posts/meet-the-kittens-learning-about-foster-animals-compass-community-collaborative-school-fort-collins.jpg
+categories:
+iframe:
+  title:
+  url:
+  width:
+  height:
+search_engine_optimization:
+  page_title:
+  page_description:
+---
+
+A Thank You Letter
+{: .cta}
+
+Dear Compass Families,
+
+As we approach the end of our first year, we want to take a bit of time to thank you, our parent community, and share some of the great accomplishments we are seeing from our students.
+
+**Thank you for being the pioneers.** Starting a school is not for the faint of heart. While we are confident in our skill as teachers and in the overwhelming research behind all we are doing, taking the project from theory to action (with a building of 170 strangers) was a lesson in iteration and growth. **Thank you for believing that there is a better way to educate kids and to prepare them for their futures.** Your students have expressed interest in so many important topics this year, from pollination services and renewable energy, to increasing literacy and strengthening diverse communities in inclusive and equitable ways. **These kids are truly tackling the most important issues of today, and it is so inspiring\!**
+
+We are proud that we are ending the year with even more confidence in the model than when we began. **Your kids are now calling their own circles to proactively avoid conflict, they are treating each other with kindness and empathy, they are protecting the culture and high expectations of our building**, and they are openly sharing their gifts with our community. From proposing seminars to running student clubs and organizations, your children are already demonstrating the skills that will serve them well forever.
+
+In nine short months, these students have become practitioners with the humanity-centered design cycle. From ideating to testing, they are now skilled at writing problem statements and generating multiple solutions. More importantly, **they are gaining the ability to see challenges from a variety of perspectives.** They are learning to engage in the process, enjoy the struggle, and take pride in the outcome—whether it fully succeeds or not.
+
+We are so pleased with the growth that each one of our students has shown. Just to name a few highlights: we have several students that are working hard at ***internships***, our teams have placed in state ***STEM competitions***, and we have even had students earn ***scholarships***—all in year one\! All of our students have been out in the community for educational purposes, publicly displayed their work, and increased their social capital with our collaborators.
+
+We are proud of our accomplishments and are very enthusiastic about the next steps. **Next year we are welcoming several new master teachers and a college and career counselor to our staff.** We will begin offering concurrent enrollment and AP classes and we will continue to expand our community connections to allow us to offer rich, interdisciplinary, community-connected venture projects. **Our new learning management platform,**[*Project Foundry*](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=590e56c984&amp;e=46f52667a0)**, will increase student independence and choice, and improve transparency and communication** while also allowing us to increase the academic rigor of our work. **Upgrades to our building, including new learning spaces and technology,** will support our growth and programming. It’s our next iteration and we couldn’t be more excited about the additional opportunities it will afford our students.
+
+**Thank you for your trust and support.** We are honored that you have chosen to share your children with us. We are grateful for the time we get with them and truly love our work.
+
+We look forward to welcoming you and the new Compass families in August\!
+
+Love,<br>Your Compass Staff
+
+Exhibition of Learning is Next Week
+{: .cta}
+
+![](/assets/images/unnamed-18.jpg)
+{: .align-to-center}
+
+Lilly, Raquel, and Karleigh are ready to share their learning about Japanese culture at this week's Exhibition of Learning\! Come and see what our students have been exploring in their venture studies\! **Exhibition of Learning** **is Tuesday, May 21 from 4:30-6:00pm.** All are invited\!
+{: .align-to-center}
+
+Yearbooks on Sale
+{: .cta}
+
+Our school yearbook is ready for you to order\!&nbsp;**Bonnie's Yearbook Venture&nbsp;**has created a 98-page yearbook highlighting our first year open full of stories and lots of great pictures. You will want to get your copy\!
+
+Cost: $34.32
+
+**HOW TO ORDER A YEARBOOK**
+
+1. Go to:&nbsp;[treering.com](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=47110b051e&amp;e=46f52667a0){: target="_blank"}
+2. At top right, click on orange button that says&nbsp;**"Buy Yearbook"**
+3. Enter the Compass password: &nbsp;&nbsp;**1015556846621542**
+4. Fill in form (first name, last name, email address, your own password, and role drop down menu—most of you will choose 'parent')
+5. Answer 'Yes' to, "Are you 13 years or over" button
+6. Enter payment information. NOTE: treering, our yearbook software, states they are extremely SECURE. From their website: "We use&nbsp;[128bit data encryption](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=15cf8fdfca&amp;e=46f52667a0){: target="_blank"}&nbsp;and have our site tested daily by&nbsp;[McAfee SECURE](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=3d09de180a&amp;e=46f52667a0){: target="_blank"}"
+
+You may also stop by our Yearbook Exhibition this Tuesday from 4:30-6:00pm and purchase a yearbook online at our table. It will be the same process, so order now or then\!
+
+**Deadline to order your book is July 5.&nbsp;**Yearbooks will be delivered to Compass late July and students will receive their book the first day of school in the Fall.&nbsp;
+
+Board Election Results
+{: .cta}
+
+**The results are in from the parent vote—and Irene Nissen will be joining the Compass Board of Directors.**&nbsp;Thank you to everyone who participated in our first election. We are excited to have an enthusiastic Director with experience in starting charter schools willing to share her time and expertise to further enhance the vision and mission of Compass.
+
+"Snakes and Lizards of All Kinds" Seminar
+{: .cta}
+
+![](/assets/images/unnamed-18.jpg)
+
+A big thank you to John and his dad for leading a seminar on reptiles\! MOST of the students enjoyed handling these fascinating and unusual creatures.
+
+![](/assets/images/unnamed-18.jpg)
+
+Learning About Fostering Animals
+{: .cta}
+
+![](/assets/images/unnamed-18.jpg)
+
+Thank you William's mom, Heather, for bringing in some cuddly foster kittens for socialization\!
