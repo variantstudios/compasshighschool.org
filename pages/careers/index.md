@@ -21,6 +21,6 @@ Compass Community Collaborative is dedicated to personalized, competency-based l
 
 ## Current Openings for 2019/20&nbsp;
 
-### &nbsp;
+### Are you an **artist** or musician who is looking for a very flexible and part-time teaching gig? Please email jan@compassfortcollins.org to inquire and learn more about our opportunities\!
 
-### [Spanish Language Teacher](https://docs.google.com/document/d/1bjaGNzaa1eIQt9R-H8_ray-chgaqCVKTrrnUC_KEC3w/edit) (50% FTE)
+### &nbsp;
