@@ -205,7 +205,7 @@
   image_path: /assets/images/adam-small.png
 - name: Camilo Jimenez-Alfonso
   position: 'Teacher-Adviser: Spanish'
-  email:
+  email: camilo@compassfortcollins.org
   bio: Coming Soon
   team_position: staff
   image_path: /assets/images/screenshot-2019-05-02-at-10-30-23.png
@@ -231,7 +231,7 @@
   image_path: /assets/images/katie---small.png
 - name: Karen Karppinen
   position: 'Teacher-Adviser: Mathematics/Science/Computer Science'
-  email: karen@karppinen
+  email: karen@compassfortcollins.org
   bio: Coming Soon
   team_position: staff
   image_path: /assets/images/screenshot-2019-05-03-at-10-13-58.png
