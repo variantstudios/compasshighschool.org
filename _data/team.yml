@@ -43,7 +43,7 @@
   team_position: staff
   image_path: /assets/images/screenshot-2019-05-03-at-10-11-41.png
 - name: 'Bonnie Cowen, M.Ed.'
-  position: 'Teacher-Adviser: Social Studies; Compass Historian'
+  position: 'Teacher-Adviser: Humanities; Compass Historian'
   email: bonnie@compassfortcollins.org
   bio: >-
     After graduating from Kent State University, I moved to Colorado to fulfill
@@ -72,7 +72,7 @@
   team_position: staff
   image_path: /assets/images/bonnie-small2.png
 - name: 'Kayla Crowe-Stover, B.A.'
-  position: 'Teacher-Adviser: English'
+  position: 'Teacher-Adviser: English; Community Liaison'
   email: kayla@compassfortcollins.org
   bio: >-
     I was fortunate to be hired for an English teacher position in Poudre School
@@ -101,7 +101,7 @@
   team_position: staff
   image_path: /assets/images/kayla-small.png
 - name: 'Dawn DuPriest, M.Ed'
-  position: 'Teacher-Adviser: Math/Computer Science'
+  position: 'Teacher-Adviser: Mathematics/Computer Science'
   email: dawn@compassfortcollins.org
   bio: >-
     After working as a software engineer for almost a decade, I followed my
@@ -210,7 +210,7 @@
   team_position: staff
   image_path: /assets/images/screenshot-2019-05-02-at-10-30-23.png
 - name: 'Katie Malone, M. Ed.'
-  position: 'Teacher-Adviser: Science; Compass Curator'
+  position: 'Teacher-Adviser: Science; Project Coordinator'
   email: katie@compassfortcollins.org
   bio: >-
     Having been in education for 12 years, I take my teaching philosophy from my
@@ -230,13 +230,13 @@
   team_position: staff
   image_path: /assets/images/katie---small.png
 - name: Karen Karppinen
-  position: 'Teacher-Adviser: Mathematics'
+  position: 'Teacher-Adviser: Mathematics/Science/Computer Science'
   email: karen@karppinen
   bio: Coming Soon
   team_position: staff
   image_path: /assets/images/screenshot-2019-05-03-at-10-13-58.png
 - name: Darian Ortiz
-  position: Student Support Specialist
+  position: 'Teacher Adviser: Student Support Specialist'
   email: darian@compassfortcollins.org
   bio: >-
     I was born and raised in Fort Collins, Colorado. As a first-generation
@@ -408,3 +408,9 @@
     Science degree in teaching and learning through CSU Global.
   team_position: founding-board-of-directors
   image_path: /assets/images/irene.png
+- name: Wendy Rose
+  position: Life Coach
+  email: wendy@compassfortcollins.org
+  bio: Coming Soon
+  team_position: staff
+  image_path: /assets/images/screenshot-2019-05-03-at-10-11-41-1.png
