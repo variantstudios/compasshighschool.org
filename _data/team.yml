@@ -264,6 +264,12 @@
     Compass Community Collaborative School.
   team_position: staff
   image_path: /assets/images/darian3small.png
+- name: Wendy Rose
+  position: Life Coach
+  email: wendy@compassfortcollins.org
+  bio: Coming Soon
+  team_position: staff
+  image_path: /assets/images/screenshot-2019-05-03-at-10-11-41-1.png
 - name: Emmanuelle Roussel
   position: 'Teacher-Adviser: English'
   email: emmanuelle@compassfortcollins.org
@@ -408,9 +414,3 @@
     Science degree in teaching and learning through CSU Global.
   team_position: founding-board-of-directors
   image_path: /assets/images/irene.png
-- name: Wendy Rose
-  position: Life Coach
-  email: wendy@compassfortcollins.org
-  bio: Coming Soon
-  team_position: staff
-  image_path: /assets/images/screenshot-2019-05-03-at-10-11-41-1.png
