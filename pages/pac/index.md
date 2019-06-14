@@ -44,13 +44,9 @@ Funds raised by PAC are used to supplement events for students and parents as we
 
 **King Soopers Community Rewards Program:**
 
-Thank you Compass friends and families for supporting our school by participating in the King Soopers Community Rewards Program. On April 1, 2019, King Soopers made a change to the program which will make it easier than ever to support our school. Please review the following information to begin, *or continue*, supporting Compass in this ongoing fundraising effort:
+Thank you Compass friends and families for supporting our school by participating in the King Soopers Community Rewards Program. Once properly set up (following the steps below), your King Soopers loyalty SooperCard (or phone number/Alternate ID) is all that's needed to earn up to 5% back on all grocery purchases.
 
-Reloadable King Soopers Gift Cards are no longer used for the fundraising program. Don’t worry, all the money you have loaded on these cards is still available, however, future reloading of the card will no longer benefit Compass.
-
-Once properly set up (following the steps below), your King Soopers loyalty SooperCard (or phone number/Alternate ID) will be all that’s needed to support Compass.
-
-**IF YOU****ALREADY** **HAVE A LOYALTY CARD****AND** **A KING SOOPERS ONLINE ACCOUNT:**
+**IF YOU&nbsp;****ALREADY** **HAVE A LOYALTY CARD&nbsp;****AND** **A KING SOOPERS ONLINE ACCOUNT:**
 
 1. Go to [http://www.kingsoopers.com](http://www.kingsoopers.com) and log in to your account
 2. Hover over **Savings & Rewards**
@@ -73,9 +69,7 @@ New users will need to create an account which requires some basic information, 
 8. Click **Enroll**
 9. On the next page in the search box, enter Compass Community Collaborative School or the code **YN594**
 10. Click **Enroll**
-11. It’s that easy!
-
-Please note that the monies on your existing reloadable gift cards will not expire. Once you have used all the funds on your reloadable gift card, you may dispose of it.
+11. It’s that easy\!
 
 \*You must have a registered King Soopers *loyalty card* account to link to your Compass. If you do not yet have a King Soopers *loyalty card*, they are available at the customer service desk at any King Soopers.
 
