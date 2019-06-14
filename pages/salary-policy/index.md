@@ -11,5 +11,4 @@ layout: page
 
 # Compass Community Collaborative School – Salary Policy
 
-
-Salaries at Compass Community Collaborative are not established pursuant to C.R.S. §22-32-109.4 or 22-63-401. The School establishes teacher and administrative salaries individually, based on an employee’s job duties, experience, qualification, needs, and performance, as well as comparison to salaries for comparable positions in other schools or districts, and defines those salaries through individual offer letters of employment. The schools currently pay in the range of $45,000-$59,000 for fulltime teaching positions. The schools’ administrative salaries range from$65,000-$85,000.
+Salaries at Compass Community Collaborative are not established pursuant to C.R.S. &sect;22-32-109.4 or 22-63-401. The School establishes teacher and administrative salaries individually, based on an employee’s job duties, experience, qualification, needs, and performance, as well as comparison to salaries for comparable positions in other schools or districts, and defines those salaries through individual offer letters of employment. The school currently pays in the range of $37,000-$65,000 for full-time teaching positions. The schools’ administrative salaries range from$75,000-$95,000.
