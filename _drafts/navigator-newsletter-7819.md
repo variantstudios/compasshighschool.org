@@ -33,8 +33,8 @@ Our new staff will bring their own flavor of expertise and experience and they p
 
 ![](/assets/images/new-teachers-01-1000.jpg){: width="1000" height="750"}
 
-&nbsp;
+![](/assets/images/welcom-karen-1.jpg){: width="1000" height="750"}
 
-&nbsp;
+**Debbie Bush will be joining the Compass team to take over the office management role.**&nbsp;Will spent a great deal of time making sure that he is handing systems over to Debbie that are in good working order, and then he and Debbie spent several days training together so she will hit the ground running and will be ready to welcome you at the front door while keeping our school humming along “behind the scenes”. Debbie is originally from Columbia and brings her excellent analytical skills and bilingual talents to Compass after most recently having been working at Harris Bilingual School. This summer she successfully completed the Ride the Rockies 445 mile bike ride\!
 
-&nbsp;
+![](/assets/images/new-face-of-office-management.jpg){: width="1000" height="750"}
