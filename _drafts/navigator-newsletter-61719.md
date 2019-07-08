@@ -30,6 +30,8 @@ Teacher Workshop Week
 
 As per Compass usual, we circled up regularly, and all of our circles were powerful reminders of what makes our school so special—we are a community of gratitude and hope, and nothing is more powerful than those two qualities working together\!
 
+![](/assets/images/unnamed-25.jpg){: width="1000" height="750"}
+
 Our First Published Author\!
 {: .cta}
 
