@@ -18,7 +18,7 @@ search_engine_optimization:
 Teacher Workshop Week
 {: .cta}
 
-![](/assets/images/unnamed-22.jpg){: width="1000" height="750"}
+![](/assets/images/unnamed-26.jpg){: width="1000" height="750"}
 
 **Compass staff spent the week of June 3-7 working together to reflect on all that we had learned during Compass’ first year and refining and creating new learning experiences and protocols to make next year even better.&nbsp;**Most of our new staff members were also able to join us, which made the opportunity double as an “onboarding” and get-to-know-you week for us as well as for them. Even Shamayim Watson, our new Social Studies teacher, was able to FaceTime with us for a while from England. We love our new staff members and know that you will too\!
 
