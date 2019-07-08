@@ -26,6 +26,8 @@ Teacher Workshop Week
 
 **Not surprisingly, more than two full days of our work centered around getting familiar with our new learning management system,&nbsp;[Foundry](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=ffe63ccead&amp;e=46f52667a0){: target="_blank"}.**&nbsp;It is a robust enterprise software that is being customized specifically for Compass, and it will make so much of the powerful learning going on at Compass more rigorous, transparent, and trackable.We also pitched and gave feedback on&nbsp;**Venture Project proposals**, we defined&nbsp;**learning targets for Intensive classes**, and we worked on differentiating programs for middle and high school level students.
 
+![](/assets/images/unnamed-24.jpg){: width="1000" height="761"}
+
 As per Compass usual, we circled up regularly, and all of our circles were powerful reminders of what makes our school so special—we are a community of gratitude and hope, and nothing is more powerful than those two qualities working together\!
 
 Our First Published Author\!
