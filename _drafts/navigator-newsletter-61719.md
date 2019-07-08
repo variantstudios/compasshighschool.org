@@ -22,9 +22,7 @@ Teacher Workshop Week
 
 **Compass staff spent the week of June 3-7 working together to reflect on all that we had learned during Compass’ first year and refining and creating new learning experiences and protocols to make next year even better.&nbsp;**Most of our new staff members were also able to join us, which made the opportunity double as an “onboarding” and get-to-know-you week for us as well as for them. Even Shamayim Watson, our new Social Studies teacher, was able to FaceTime with us for a while from England. We love our new staff members and know that you will too\!
 
-&nbsp;
-
-&nbsp;
+![](/assets/images/unnamed-23.jpg){: width="1000" height="750"}
 
 **Not surprisingly, more than two full days of our work centered around getting familiar with our new learning management system,&nbsp;[Foundry](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=ffe63ccead&amp;e=46f52667a0){: target="_blank"}.**&nbsp;It is a robust enterprise software that is being customized specifically for Compass, and it will make so much of the powerful learning going on at Compass more rigorous, transparent, and trackable.We also pitched and gave feedback on&nbsp;**Venture Project proposals**, we defined&nbsp;**learning targets for Intensive classes**, and we worked on differentiating programs for middle and high school level students.
 
