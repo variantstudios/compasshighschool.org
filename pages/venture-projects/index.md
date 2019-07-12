@@ -1,10 +1,10 @@
 ---
-title: Venture Projects 
+title: Venture Projects
 background_option: image
 background_image: /assets/images/joaquin-and-boys-final-final.jpg
 search_engine_optimization:
   page_title: Venture Projects
-  page_description: 
+  page_description:
 permalink: /venture-projects/
 layout: page
 ---
@@ -21,7 +21,7 @@ At Compass, we utilize a human-centered design approach to Venture Project desig
 
 Individualized, community-engaged learning is at the heart of the Compass Community Collaborative School difference. Our model puts students in the driver’s seat of creating work that matters to them and their community, while challenging them to apply their knowledge and creativity across many subjects.
 
-Each school year students complete at least eight ventures (two per quarter), which are deep academic explorations with real-world applications. These may be a combination of teacher-designed, student-designed, and community-inspired ventures. All are interdisciplinary and meet state academic standards for a variety of core disciplines, including art, health, and physical education. &nbsp;Additionally, students practice mathematics and English skill development daily, showing progress through their online learning platform and MAP testing three times per year. Students are challenged to continuously reflect on their mastery of the eight Compass Competencies (future-ready skills) as well as Colorado and international academic standards. Presentations of Learning (student-led conferences) are evaluated by the student’s 360 team three times per year, but students are given regular feedback over the course of each Venture. Twice-a-year students and staff host public Exhibitions of Learning.
+Each school year students complete at least eight ventures (two per quarter), which are deep academic explorations with real-world applications. These may be a combination of teacher-designed, student-designed, and community-inspired ventures. All are interdisciplinary and meet state academic standards for a variety of core disciplines, including art, health, and physical education.&nbsp; Students are challenged to continuously reflect on their mastery of the seven Compass Competencies (future-ready skills) as well as Colorado and international academic standards. Presentations of Learning (student-led conferences) are evaluated by the student’s 360 team once or two times per year, but students are given regular feedback over the course of each Venture. Each quarter of the school year students and staff host public Exhibitions of Learning.
 
 Newer students work in and around the school and choose from among teacher-led ventures to develop the skills to manage their learning. Experienced CCC students who have demonstrated required academic and skill competencies take the lead in designing ventures, take college-level classes, and intern with local businesses in career fields in which they are interested.
 
