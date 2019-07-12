@@ -19,27 +19,29 @@ Our innovative educational model was co-created by award winning educators, comm
 
 Our certified teachers work with students to ensure that they graduate with all necessary academic requirements to be successful in their post-secondary lives.
 
-* Compass&nbsp;[Venture Projects](/venture-projects/)&nbsp;are co-created by certified teachers, community members, and students to intentionally meet academic standards across disciplines. Using human-centered design principles, Venture Projects allow students to work closely with the community, explore their personal interests and passions, and develop the skills needed at the next stage of their lives, what we call the Compass Competencies (outlined below).
-* In addition, Compass students participate daily in the highly individualized&nbsp;[Summit Learning Platform](https://www.summitlearning.org){: target="_blank"}, a system allowing students to supplement their project work with focused academic work designed specifically to support their academic needs for successful completion of their Venture Projects.&nbsp; In addition, Summit provides an opportunity for students to get support in math and english during their daily flex-time.&nbsp; Students progress is continuously monitored to guarantee that every student is moving towards meeting academic standards, both within Summit and as part of their personal 360 support team.&nbsp; This independent work is supported by our Teacher-Advisers.
+* Compass&nbsp;[Venture Projects](/venture-projects/)&nbsp;are co-created by certified teachers, community members, and students to intentionally meet academic standards and Compass skills competencies across disciplines. Using human-centered design principles, Venture Projects allow students to work closely with the community, explore their personal interests and passions, and develop the skills needed at the next stage of their lives, what we call the Compass Competencies (outlined below).
+* Intensives are one hour classes in core subject areas. Each student engages in three intensives per day on Monday, Tuesday, Thursday, and Friday. The classes teach compass competencies through the lenses of English Language Arts, Mathematics, science, social studies, Spanish and music. Topics are taught in three-week sprints. This format allows students to focus on specific topics and skills that are relevant, interesting, and clearly related to their own individual growth.
 
 ## COMPASS COMPETENCIES
 
-As mentioned, Compass students do more than just master traditional academic content.&nbsp; At Compass, we award digital badges when students demonstrate mastery of specific skill sets.&nbsp; These are the skills colleges want.&nbsp; These are the skills employers want.&nbsp; These are the skills that make Compass students successful in life.
+Compass students do more than just master traditional academic content.&nbsp; At Compass, we award digital badges when students demonstrate mastery of specific skill sets.&nbsp; These are the skills colleges want.&nbsp; These are the skills employers want.&nbsp; These are the skills that make Compass students successful in life.
 
-With the guidance of evidence-based research, we have created eight core competencies that will drive instruction, reflection, and assessment of mastery for both staff and students. In addition to academic common core standards and next generation science standards, mastering these eight competencies will guide teacher evaluation and measure student achievement:
+With the guidance of evidence-based research, we have created seven core competencies that will drive instruction, reflection, and assessment of mastery for both staff and students. In addition to academic common core standards and next generation science standards, mastering these seven competencies will guide teacher evaluation and measure student achievement:
 
-![](/assets/images/competencies-infographic-1.png)
+&nbsp;
 
 ## COLLEGE COURSES AND INTERNSHIPS
 
 All Compass students will graduate having completed at least one college course and a learning internship, supported by our partnership with local businesses and B[ig Picture Learning](https://www.bigpicture.org/){: target="_blank"}. Students will become part of a larger community as they experience opportunities to work as volunteers and interns with city government, Colorado State University professors and students, and a multitude of local businesses and nonprofits. These first-hand experiences help create meaning and relevancy for students as they co-create a future for themselves and our community.
 
+## ![](/assets/images/competencies-graphic.jpg){: width="816" height="730"}
+
 ## MORE THAN “JUST AN ACADEMIC TRANSCRIPT”
 
 Compass students have more than just a regular high school transcript to show to colleges and employers.&nbsp; All Compass students graduate with:
 
-* A digital portfolio documenting Venture Projects, community internships and digital badges/microcredentials demonstrating their personal Compass Competency development and mastery of technical skill sets (i.e. - HTML, Python, 3D design, etc.)
-* A letter of recommendation from a local business and/or organization
+* A digital portfolio documenting Venture Projects, community internships and digital badges/micro-credentials demonstrating their personal Compass Competency development and mastery of technical skill sets (i.e. - HTML, Python, 3D design, etc.)
+* A letter of recommendation from their internship experience
 * A clear post-secondary plan for success including financial considerations
 
 ## MAKING THE GRADE
