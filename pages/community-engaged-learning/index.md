@@ -2,10 +2,10 @@
 title: Community-Engaged Learning
 background_option: image
 search_engine_optimization:
-  page_title: 'Community-Engaged Learning'
+  page_title: Community-Engaged Learning
   page_description:
   share_image_path:
-permalink: "/community-engaged-learning/"
+permalink: /community-engaged-learning/
 layout: page
 ---
 
@@ -30,23 +30,19 @@ Our mission is to help students discover learning with purpose and to be the aut
 
 Our future-ready school was designed by a diverse team of educators, students, artists, parents, business owners, and community leaders in this entrepreneurial business incubator, we are embedding secondary education into real world problem solving and meaningful work.
 
-With the help and expertise of a “360 Team” made up of a teacher, family member, and community mentor, our students, ages 11-19, earn academic credit in state and international academic standards. They also earn digital badges in eight skill areas by working on community-engaged ventures that inspire deep learning of academic, social emotional, and future ready skills. At Compass, we see collaborative design, research, and problem solving as a game changer for how adolescents view their place in our community, and how the community views the capacities of our youth. Unlike the current model of schooling where kids spend everyday in a building separate from the “real world,” at Compass will have students work side-by-side with community members in multi-age, interdisciplinary teams to actively participate in the creation of our future. Individualized and competency-based, our curriculum challenges students to grow and demonstrate their learning every day in a multitude of real-world applications.
+With the help and expertise of a “360 Team” made up of a teacher, family member, and community mentor, our students, ages 11-19, earn academic credit in state and international academic standards. They also earn digital badges in seven skill areas by working on community-engaged ventures that inspire deep learning of academic, social emotional, and future ready skills. At Compass, we see collaborative design, research, and problem solving as a game changer for how adolescents view their place in our community, and how the community views the capacities of our youth. Unlike the current model of schooling where kids spend everyday in a building separate from the “real world,” at Compass will have students work side-by-side with community members in multi-age, interdisciplinary teams to actively participate in the creation of our future. Individualized and competency-based, our curriculum challenges students to grow and demonstrate their learning every day in a multitude of real-world applications.
 
 ## Compass Design Foundations
 
 The design principles reflect our intention to create a student-centered learning environment at Compass that is healthy for adolescents, families, and staff and that prepares students to be positive change-makers in a rapidly changing world.
 
 * Purposeful, student-centered, community-engaged learning in service to a greater social cause
-* Small-group seminars and online academic skill development and practice
 * Research-based and interest-driven curriculum
 * Design thinking
 * Intentional, inclusive, and positive school climate and culture
-* Explicit and active support of physical and mental health and wellness
-* Social and emotional learning
+* Explicit social and emotional learning
 * Restorative practices for connection and constructive engagement of conflict
 * Diversity by design and equity of opportunity
 * Environmental sustainability and regeneration
 * Engaging staff and community mentors as co-learners and collaborators with students
-* Team teaching
-* Flexible daily schedule and year-round learning
 * Future-ready focus on college preparation, career planning and community engagement
