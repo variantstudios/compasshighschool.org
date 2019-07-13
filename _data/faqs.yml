@@ -106,9 +106,7 @@
         assessments, including the SAT college entrance exam. In order to track
         academic growth, students will also be assessed two times a year in
         reading and mathematics using nationally standardized MAPS tests.</p>
-    - question: >-
-        Why is Compass using a different model for assessing and transcripting
-        student work?
+    - question: Do students get letter grades?
       answer_html: >-
         <p>In our rapidly changing world, we believe that equipping students
         with the skills to be lifelong learners and positive change-makers is
@@ -120,8 +118,8 @@
         will build a professional portfolio of their learning products and earn
         degrees within seven, skill areas. Ultimately, academic work will be
         assigned grades based on skill competency levels so that students will
-        have transcripts for other schools, but this is not be the primary,
-        on-going form of feedback given to students.</p>
+        have transcripts for post-secondary life, but this is not be the
+        primary, on-going form of feedback given to students.</p>
 - faq_category_title: Student Safety
   faqs:
     - question: >-
