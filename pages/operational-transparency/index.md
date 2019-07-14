@@ -62,7 +62,7 @@ board_agenda:
     file_path: /assets/images/board-agenda-5-20-2019.pdf
   - title: 06/17/19 Board Meeting
     file_path: /assets/images/board-agenda-6-17-2019.pdf
-  - title: 07/15/2019 Board Meeting
+  - title: 07/15/19 Board Meeting
     file_path: /assets/images/board-agenda-7-15-2019.pdf
 board_minutes:
   - title: 01/15/18 Board Special Meeting Minutes
