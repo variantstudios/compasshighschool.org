@@ -1,0 +1,143 @@
+<div class="contact-form">
+
+    <div id="contact-message">
+        <h3>{{page.webform.thank_you_message}}</h3>
+    </div>
+
+    <form id="contact-form" method="post" action="/facility-rental/?sent=true">
+        <input type="hidden" name="_to" value="{{page.webform.to}}">
+        <input type="hidden" name="_subject" value="{{page.webform.subject}}">
+        <input type="text" name="_gotcha" style="display: none;">
+        <div class="rendered-form">
+            <div><h3>Applicant Contact Information:</h3></div>
+            <div class="form-super-group">
+                <div class="left form-group field-first-name">
+                    <label for="first-name" class="fb-text-label">First Name *</label>
+                    <input type="text" class="form-control" name="first-name" id="first-name" required="">
+                </div>
+                <div class="right form-group field-last-name">
+                    <label for="last-name" class="fb-text-label">Last Name *</label>
+                    <input type="text" class="form-control" name="last-name" id="last-name" required="">
+                </div>
+            </div>
+
+            <div class="form-super-group">
+                <div class="left form-group field-address">
+                    <label for="address" class="fb-text-label">Street Address *</label>
+                    <input type="text" class="form-control" name="address" id="address" required="">
+                </div>
+                <div class="right form-group field-city">
+                    <label for="city" class="fb-text-label">City *</label>
+                    <input type="text" class="form-control" name="city" id="city" required="" value="Fort Collins">
+                </div>
+            </div>
+            <div class="form-super-group">
+                <div class="left form-group field-state">
+                    <label for="state" class="fb-text-label">State *</label>
+                    <input type="text" class="form-control" name="state" id="state" required="" value="Colorado">
+                </div>
+                <div class="right form-group field-city">
+                    <label for="zip" class="fb-text-label">Zip code *</label>
+                    <input type="text" class="form-control" name="zip" id="zip" required="">
+                </div>
+            </div>
+
+            <div class="form-super-group">
+                <div class="left form-group field-email">
+                    <label for="email" class="fb-text-label">Email *</label>
+                    <input type="text" class="form-control" name="email" id="email" required="">
+                </div>
+                <div class="right form-group field-phone">
+                    <label for="phone" class="fb-text-label">Phone</label>
+                    <input type="text" class="form-control" name="phone" id="phone">
+                </div>
+            </div>
+
+            <div><h3>Organization Information:</h3></div>
+
+            <div class="form-super-group">
+                    <div class="left form-group field-organization">
+                        <label for="organization" class="fb-text-label">Organization Name *</label>
+                        <input type="text" class="form-control" name="text" id="organization" required="">
+                    </div>
+                    <div class="right form-group field-commercial-or-nonprofit">
+                        <label for="phone" class="fb-text-label">Commercial or Nonprofit</label>
+                        <select class="form-control" name="commercial-or-nonprofit" id="commercial-or-nonprofit" required="">
+                                <option value default>Select</option>
+                                <option value="Commercial">Commercial</option>
+                                <option value="Nonprofit">Nonprofit</option>
+                        </select>
+                    </div>
+            </div>
+
+            <div><h3>Rental Details:</h3></div>
+            <div class="form-group field-event-type">
+                    <label for="event-type" class="fb-textarea-label">What type of event will this be? *</label>
+                    <textarea type="textarea" class="form-control" name="event-type" id="event-type" rows="5" required=""></textarea>
+            </div>
+
+
+            <div class="form-group field-event-type">
+
+                    <div class="form-group field-commercial-or-nonprofit">
+                        <label for="phone" class="fb-text-label">Type of Rooms/Spaces:</label>
+                        <select class="form-control" name="commercial-or-nonprofit" id="commercial-or-nonprofit" required="">
+                                <option value default>Select</option>
+                                <option value="Common-Space">Common Space</option>
+                                <option value="Learning-Studios">Learning Studios</option>
+                                <option value="Conference-Room">Conference Room</option>
+                        </select>
+                    </div>
+            </div>
+
+            <div class="form-super-group">
+                    <div class="left form-group field-event-start-date">
+                            <label for="event-start-date" class="fb-text-label">Rental Start Date</label>
+                            <input type="datetime-local" class="datePicker form-control" name="event-start-date" id="event-start-date" required="">
+                    </div>
+                    <div class="right form-group field-event-end-date">
+                            <label for="event-end-date" class="fb-text-label">Rental End Date</label>
+                            <input type="datetime-local" class="datePicker form-control" name="event-end-date" id="event-end-date" required="">
+                    </div>
+            </div>
+
+
+
+            <div class="form-super-group">
+
+                    <div class="left form-group field-commercial-or-nonprofit">
+                        <label for="phone" class="fb-text-label">Type of Rooms/Spaces</label>
+                        <select class="form-control" name="commercial-or-nonprofit" id="commercial-or-nonprofit" required="">
+                                <option value default>Select</option>
+                                <option value="Common-Space">Common Space</option>
+                                <option value="Learning-Studios">Learning Studios</option>
+                                <option value="Conference-Room">Conference Room</option>
+                        </select>
+                    </div>
+
+                    <div class="right form-group field-headcount">
+                            <label for="headcount" class="fb-text-label">Headcount: *</label>
+                            <input type="text" class="form-control" name="headcount" id="headcount" required="">
+                    </div>
+            </div>
+
+
+
+
+
+
+        <div class="form-group field-details">
+                <label for="details" class="fb-textarea-label">Additional Details About Your Event: *</label>
+                <textarea type="textarea" class="form-control" name="details" id="details" rows="5" required=""></textarea>
+            </div>
+        </div>
+        <p class="required">* Required Fields</p>
+        <div class="form-super-group">
+            <div class="g-recaptcha left" id="RecaptchaField1"></div>
+            <div class="right align-right">
+                <input class="cta-button" type="submit" value="Get In Touch">
+            </div>
+        </div>
+    </form>
+
+</div>

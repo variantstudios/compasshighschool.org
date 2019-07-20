@@ -31,7 +31,12 @@
 {% endif %} {% endif %} {% if include.class == 'contact' %}
 <script src="/assets/js/prod/contact.js"></script>
 <script src='https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&render=explicit' async defer></script>
-{% endif %} {% comment %} {% if site.cloudinaryurl %}
+{% endif %}
+{% if include.class == 'rental' %}
+<script src="/assets/js/prod/rental.js"></script>
+<script src='https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&render=explicit' async defer></script>
+{% endif %}
+{% comment %} {% if site.cloudinaryurl %}
 <script src="/assets/js/prod/cloudinary.js"></script>
 {% endif %} {% endcomment %} {% if include.google_analytics_tracking_id %}
 <script src="https://cdn.jsdelivr.net/npm/ga-lite@1/dist/ga-lite.min.js" async></script>

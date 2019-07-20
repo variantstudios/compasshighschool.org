@@ -1,33 +1,35 @@
---- 
-layout: default 
+---
+layout: default
 ---
 <div {% if page.background_option != "image" or page.background_option != null %} class="background {{page.background_option}}" {% else %} class="background" {% endif %} {% if page.background_option == "image" or page.background_option == null  %}
 style="background-image: url({% if page.background_image %}{{page.background_image}}{% else %}/assets/images/backgrounds/note-cards-on-the-board.jpg{% endif %});" {% endif %} >
     <section class="subpage wrap">
         <div>{{ content }}</div>
 
-        {% if page.permalink == "/contribute/" %} 
-        {% include contribute.html %} 
-        {% elsif page.permalink == "/student-fees/" %} 
+        {% if page.permalink == "/contribute/" %}
         {% include contribute.html %}
-        {% elsif page.permalink == "/faqs/" %} 
-        {% include faqs.html %} 
-        {% elsif page.permalink == "/contact-us/" %} 
-        {% include contact-form.html %} 
+        {% elsif page.permalink == "/student-fees/" %}
+        {% include contribute.html %}
+        {% elsif page.permalink == "/faqs/" %}
+        {% include faqs.html %}
+        {% elsif page.permalink == "/contact-us/" %}
+        {% include contact-form.html %}
+        {% elsif page.permalink == "/facility-rental/" %}
+        {% include rental-form.html %}
         {% elsif page.permalink == "/search/" %}
-        {% include google-search.html %} 
-        {% elsif page.permalink == "/our-team/" %} 
-        {% include team.html %} 
-        {% elsif page.permalink == "/careers/" %} 
-        {% include careers.html %} 
-        {% elsif page.permalink == "/community-partners/" %} 
+        {% include google-search.html %}
+        {% elsif page.permalink == "/our-team/" %}
+        {% include team.html %}
+        {% elsif page.permalink == "/careers/" %}
+        {% include careers.html %}
+        {% elsif page.permalink == "/community-partners/" %}
         {% include sponsors.html
-        %} {% elsif page.permalink == "/operational-transparency/" %} 
-        {% include board.html %} {% endif %} 
-        {% if page.stripe.show == true %} 
-        {% include stripe.html %} 
-        {% endif %} 
-        
+        %} {% elsif page.permalink == "/operational-transparency/" %}
+        {% include board.html %} {% endif %}
+        {% if page.stripe.show == true %}
+        {% include stripe.html %}
+        {% endif %}
+
         {% if page.iframe.url %}
         <div id="iframe">
             <h3>{{page.iframe.title}}</h3>
