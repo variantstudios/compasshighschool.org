@@ -8,7 +8,7 @@ search_engine_optimization:
 permalink: /facility-rental/
 layout: page
 webform:
-  subject: 'Compass Community Collaborative School: Contact Form'
+  subject: 'Compass Community Collaborative School: Rental Form'
   to: 'team@variantstudios.com'
   thank_you_message: Thank you. Your message has been sent. We will contact you shortly.
 search_engine_optimization:
