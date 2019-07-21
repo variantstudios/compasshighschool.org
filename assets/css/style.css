@@ -164,11 +164,19 @@ img {
   height: 100%;
 }
 
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
 input[type="text"],
 input[type="email"],
 input[type="name"],
 input[type="password"],
-input[type="file"] {
+input[type="file"],
+input[type="datetime-local"],
+select {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   padding: 1em 1.25em;
@@ -187,7 +195,11 @@ input[type="name"]:focus,
 input[type="password"]:active,
 input[type="password"]:focus,
 input[type="file"]:active,
-input[type="file"]:focus {
+input[type="file"]:focus,
+input[type="datetime-local"]:active,
+input[type="datetime-local"]:focus,
+select:active,
+select:focus {
   background: #fafafa;
   -webkit-box-shadow: none;
           box-shadow: none;
