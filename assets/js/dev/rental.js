@@ -47,12 +47,12 @@ var CaptchaCallback = function() { // eslint-disable-line no-unused-vars
 };
 
 
-Date.prototype.toDateInputValue = (function() {
-  var local = new Date(this);
-  local.setMinutes(this.getMinutes() - this.getTimezoneOffset());
-  console.log(local.toJSON().slice(0,19));
-  return local.toJSON().slice(0,19);
+// Date.prototype.toDateInputValue = (function() {
+//   var local = new Date(this);
+//   local.setMinutes(this.getMinutes() - this.getTimezoneOffset());
+//   console.log(local.toJSON().slice(0,19));
+//   return local.toJSON().slice(0,19);
 
-});
-$('.datePicker').val(new Date().toDateInputValue());
+// });
+// $('.datePicker').val(new Date().toDateInputValue());
 
