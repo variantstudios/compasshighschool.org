@@ -20,7 +20,7 @@ Compass Student Supply List
 
 There are lots of sales going on now\! Please ensure that your student has the following supplies with them each day in a small backpack:
 
-* 1 -&nbsp;1” 3-ring binder
+* 1 - 1” 3-ring binder
 * 4 - Two-pocket plastic folders with holes to go in binder
 * College ruled loose-leaf paper to go in binder&nbsp;
 * Planner to enter and keep track of daily tasks and upcoming events
@@ -40,15 +40,17 @@ There are lots of sales going on now\! Please ensure that your student has the f
 Additional Welcomes
 {: .cta}
 
-In addition to the new staff members to whom we introduced you in our last newsletter—*Debbie Bush (Office Manager), Emmanuelle Roussel (English), Elana Sobol (math), Karen Karppinen (math), and Camilo Jimenez (Spanish)*—we have additional new staff that will be offering new and exciting opportunities for our students. Drum roll, please ...&nbsp;
+In addition to the new staff members to whom we introduced you in our last newsletter—*Debbie Bush (Office Manager), Emmanuelle Roussel (English), Elana Sobol (math), Karen Karppinen (math), and Camilo Jimenez (Spanish)*—we have additional new staff that will be offering new and exciting opportunities for our students. Drum roll, please …&nbsp;
 
 ![](/assets/images/screen-shot-2019-07-28-at-1-23-45-pm.png){: width="800" height="803"}
 
 **Wendy Rose is our new “Futures” Counselor**—an innovative take on a “college and career” counselor. Wendy comes to us from 14 years in career counseling at CSU and as a partner in one of our local, successful startup companies, Topo Designs. At CSU, Wendy was surprised by how many college students she worked with didn’t seem to know their strengths, interests, or skills. Without this autonomy and purpose, being successful at the university was difficult for these young adults. By joining the Compass team, Wendy will be able to help high school students graduate with the skills and self-knowledge to thrive in their post-secondary endeavors. Wendy has great connections in Fort Collins and at CSU and will offer rich opportunities through our seminars for all of our students\!&nbsp;
 
-&nbsp;
+![](/assets/images/screen-shot-2019-07-28-at-1-24-05-pm.png){: width="800" height="867"}
 
 **Shamayim Watson is traveling across the world to work with Compass staff and students to explore all things social studies.**&nbsp;She will partner with Bonnie Cowen to create a creative and engaging exploration of history, geography, economics, civics, and more. Shamayim has a master’s degree in education from Oxford University and has taught 4th-12th grade students in England, Ghana, and India. She brings a wealth of academic knowledge in her subject area and in International Baccalaureate, as well as infectious enthusiasm, curiosity, and fun\!
+
+&nbsp;
 
 **Claire Lute is a licensed music (and English) teacher**&nbsp;and has spent the last several years offering private music lessons and working in the Loveland public schools. It is probably not too much to say that Claire is a musical prodigy—she is proficient on ALL band and orchestral instruments as well as voice, piano, and guitar. She will be teaching various music classes during Monday seminars as well as several Intensive series. She may also offer private music lessons if there is interest from our students and families. &nbsp;
 
