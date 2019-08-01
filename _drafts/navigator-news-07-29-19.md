@@ -50,9 +50,11 @@ In addition to the new staff members to whom we introduced you in our last newsl
 
 **Shamayim Watson is traveling across the world to work with Compass staff and students to explore all things social studies.**&nbsp;She will partner with Bonnie Cowen to create a creative and engaging exploration of history, geography, economics, civics, and more. Shamayim has a master’s degree in education from Oxford University and has taught 4th-12th grade students in England, Ghana, and India. She brings a wealth of academic knowledge in her subject area and in International Baccalaureate, as well as infectious enthusiasm, curiosity, and fun\!
 
-&nbsp;
+![](/assets/images/screen-shot-2019-07-28-at-1-25-27-pm.png){: width="800" height="936"}
 
 **Claire Lute is a licensed music (and English) teacher**&nbsp;and has spent the last several years offering private music lessons and working in the Loveland public schools. It is probably not too much to say that Claire is a musical prodigy—she is proficient on ALL band and orchestral instruments as well as voice, piano, and guitar. She will be teaching various music classes during Monday seminars as well as several Intensive series. She may also offer private music lessons if there is interest from our students and families. &nbsp;
+
+&nbsp;
 
 **Art seminars on Monday afternoons will be taught by Erica Quihuiz**, a recent graduate of the print-making program at CSU. When she is not helping inspire artistic genius at Compass, Erica works at the Fort Collins Museum of Discovery. We are thrilled to continue to build our art program at Compass and look forward to working with other local artists to enhance our offerings and diversify our skill levels.&nbsp;
 
