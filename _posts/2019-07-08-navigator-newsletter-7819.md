@@ -3,7 +3,7 @@ title: 'Navigator Newsletter: 7/8/19'
 date: 2019-07-08 14:00:00
 background_option:
 background_image: /assets/images/new-teachers-1.jpg
-image_path:
+image_path: /assets/images/posts/300408432309c3e39b78d863643d9925.jpg
 categories:
 iframe:
   title:
