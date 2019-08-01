@@ -1,5 +1,5 @@
 ---
-title: 'Navigator Newsletter: 7/8/19'
+title: 'Navigator News: 7/8/19'
 date: 2019-07-08 14:00:00
 background_option:
 background_image: /assets/images/new-teachers-1.jpg
