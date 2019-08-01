@@ -3,7 +3,7 @@ title: 'Navigator News: 07-29-19'
 date: 2019-07-29 10:00:00
 background_option:
 background_image:
-image_path:
+image_path: /assets/images/posts/kickball.jpg
 categories:
 iframe:
   title:
@@ -74,4 +74,4 @@ Please come to meet Karen and other students who are interested in joining this 
 Racking Up King Soopers Rewards<br>&nbsp;
 {: .cta}
 
-**We'd like to extend a big "thank you" to the 17 families who EARNED $474 FOR COMPASS&nbsp;**over a three month period (April, May and June of this year) just by using their loyalty Sooper Card at King Soopers. For those not yet enrolled, it's easy to do. Simply head on over to the&nbsp;[Parent Action Council page](https://compassfortcollins.org/pac/){: target="_blank"}&nbsp;of the Compass website for all the details (scroll down to "Passive Fundraising").
+**We'd like to extend a big "thank you" for helping Compass accrue $474&nbsp;**over a three month period (April, May and June of this year) by using your loyalty Sooper Card at King Soopers. For those not yet enrolled, it's easy to do. Simply head on over to the&nbsp;[Parent Action Council page](https://compassfortcollins.org/pac/){: target="_blank"}&nbsp;of the Compass website for all the details (scroll down to "Passive Fundraising").
