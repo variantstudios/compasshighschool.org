@@ -21,6 +21,8 @@ Compass purposely chose a building that was centrally located and linked to our 
 
 &nbsp;
 
+&nbsp;
+
 ## MEALS
 
 Compass has a closed campus for lunch time. Students can bring their own home-prepared lunch but we also have a unique option for students and parents when considering lunch. We have partnered with [**Wholesome Food Services**](https://www.wholesomefoodservices.com/){: target="_blank"}to deliver a variety of fresh, nutritious and delicious lunches to our students on site daily.&nbsp; Wholesome Food Services began as a grassroots effort of parents and nutrition experts in Colorado to offer a unique school lunch program providing great lunch options for students and staff as well as a comprehensive lunch program administration for schools. Their mission is to provide real, fresh food choices for students and staff. They offer the highest quality food choices and provide delicious, healthy options that kids love at reasonable prices.
@@ -35,4 +37,4 @@ The design of Compass involved research collected from successful and innovative
 
 ## Family Guidebook 2019
 
-Click on the title above to learn more details about all things Compass. The Guidebook is a “living document” and will be updated as we learn and grow.
+FALL 2019 Guidebook COMING SOON\!&nbsp; The Guidebook is a “living document” and will be updated as we learn and grow.
