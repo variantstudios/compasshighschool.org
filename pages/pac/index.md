@@ -11,30 +11,27 @@ layout: page
 
 # Compass Parent Action Council (PAC)
 
-Welcome to the Compass Parent Action Council (PAC). We are delighted that you are interested in getting involved as a parent member within the Compass community. Take a moment to familiarize yourself with our Mission and all that PAC aims to offer.
+Welcome to the Compass Parent Action Council (PAC). We are delighted that you are interested in being involved as a parent member within the Compass community. Take a moment to familiarize yourself with our Mission and all that PAC aims to offer.
 
 ### Mission
 
-*The Compass Community Collaborative School Parent Action Council (PAC) is a parent volunteer organization, whose objective is to enhance the school experience for the students of Compass Community Collaborative School (CCC). Through the PAC, parents work together to enrich the educational and social environment of CCC.*
+*The Compass Community Collaborative School Parent Action Council (PAC) is a parent volunteer organization whose objective is to enhance enrich the educational and social environment of Compass Community Collaborative School.*
 
 ### Meetings
 
 PAC meetings are held the **first Monday of every month\*** at Compass.<br>6:30-7:00p PAC Business Meeting<br>7:00-8:00p PAC Parent Education<br>*\*Unless this day falls on a No School Day or Holiday*
 
-### Arms of the PAC
+### What We Do
 
-1. **Student Support:** These parents are liaisons to the student community and assist in enriching the student experience. This could include coordinating social activities, finding community connections students are in need of, etc. If students need help sourcing supplies, manpower or funding, they can make a call to these members of the PAC for assistance.
-2. **Culture:** Enriching and bringing the Compass community together through; Staff Appreciation, Parent Education, After Hours Socials, etc.
-3. **Fundraising:** Not to be confused with Development, funds raised by the PAC go to support PAC initiatives (student needs, events, etc). See below for ongoing passive fundraisers.&nbsp;
-4. **Communications:** Responsible for PAC newsletters and email, facilitating PAC meetings, and managing the PAC Facebook group page.
+Are you a parent or guardian eager to help build Compass community and culture? PAC can always use Parent Coordinators to help&nbsp;**coordinate educational and social activities and events** (student socials, staff appreciation gestures, parent education, after-hours socials, community service outings, etc). We also do a wee bit of fundraising to help pay for the activities mentioned above.
 
 ### Executing Our Mission
 
-In a way true to our school’s approach to learning, the PAC takes a collaborative approach to executing its mission. ALL Compass parents/caregivers are welcome to be a part of the PAC and attend its meetings. **These monthly meetings are the forum for presenting updates on PAC events/projects/activities and where new ideas may be pitched.** If an idea is deemed a “go” *by the parents in attendance*, the green light is given and a Parent Coordinator is assigned to execute all facets of the task (pulling in other parent volunteers as needed).
+In a way true to our school’s approach to learning, the PAC takes a collaborative approach to executing its mission. ALL Compass parents/guardians are welcome to be a part of the PAC and attend its meetings. **These monthly meetings are a forum for planning and presenting updates on PAC events/projects/activities.** If an idea is deemed a “go” *by the parents in attendance*, the green light is given and a *Parent Coordinator* is assigned to execute all facets of the task (pulling in other parent volunteers as needed).
 
 ### Are You a Project Coordinator?
 
-Please [email](mailto:pac@compassfortcollins.org?subject=Agenda%20Item)&nbsp;items you want included in the next PAC Meeting Agenda by the Thursday PRIOR to the PAC meeting. If you are unable to attend and have an update to share, [email](mailto:pac@compassfortcollins.org?subject=Agenda%20Item) the Communications Coordinator by the Thursday prior. A reminder will be sent out to all Project Coordinators in advance. If at any time a Project Coordinator needs to get a message out (email, social media, etc), he/she simply contacts the&nbsp;[Communication Coordinator](mailto:pac@compassfortcollins.org)—preferably providing 48 hours advance notice.
+Please [email](mailto:pac@compassfortcollins.org?subject=Agenda%20Item)&nbsp;items you want included in the next PAC Meeting Agenda by the Thursday PRIOR to the PAC meeting. If you are unable to attend and have an update to share, [email](mailto:pac@compassfortcollins.org?subject=Agenda%20Item) the Communications Coordinator by the Thursday prior. If at any time a Parent Coordinator needs to get a message out, he/she simply contacts the&nbsp;[Communication Coordinator](mailto:pac@compassfortcollins.org)—preferably providing 48 hours advance notice.
 
 ### Passive Fundraising
 
