@@ -23,7 +23,7 @@ PAC meetings are held the **first Monday of every month\*** at Compass.<br>6:30-
 
 ### What We Do
 
-Are you a parent or guardian eager to help build Compass community and culture? PAC can always use Parent Coordinators to help&nbsp;**coordinate educational and social activities and events** (student socials, staff appreciation gestures, parent education, after-hours socials, community service outings, etc). We also do a wee bit of fundraising to help pay for the activities mentioned above.
+Are you a parent or guardian eager to help build Compass community and culture? PAC can always use Parent Coordinators to help&nbsp;**coordinate educational and social activities and events** (student socials, staff appreciation gestures, parent education, after-hours socials, community service outings, etc). We also do a wee bit of fundraising to help fund for the activities mentioned above.
 
 ### Executing Our Mission
 
