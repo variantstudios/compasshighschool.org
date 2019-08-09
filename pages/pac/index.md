@@ -11,11 +11,11 @@ layout: page
 
 # Compass Parent Action Council (PAC)
 
-Welcome to the Compass Parent Action Council (PAC). We are delighted that you are interested in being involved as a parent member within the Compass community. Take a moment to familiarize yourself with our Mission and all that PAC aims to offer.
+Welcome to the Compass Parent Action Council (PAC). We are delighted that you are interested in being involved as a parent member of the Compass community. Take a moment to familiarize yourself with our Mission and all that PAC aims to offer.
 
 ### Mission
 
-*The Compass Community Collaborative School Parent Action Council (PAC) is a parent volunteer organization whose objective is to enhance enrich the educational and social environment of Compass Community Collaborative School.*
+*The Compass Community Collaborative School Parent Action Council (PAC) is a parent volunteer organization whose objective is to enhance and enrich the educational and social environment for all members of the Compass community.*
 
 ### Meetings
 
