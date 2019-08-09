@@ -29,7 +29,7 @@ Are you a parent or guardian eager to help build Compass community and culture? 
 
 In a way true to our school’s approach to learning, the PAC takes a collaborative approach to executing its mission. ALL Compass parents/guardians are welcome to be a part of the PAC and attend its meetings. **These monthly meetings are a forum for planning and presenting updates on PAC events/projects/activities.** If an idea is deemed a “go” *by the parents in attendance*, the green light is given and a *Parent Coordinator* is assigned to execute all facets of the task (pulling in other parent volunteers as needed).
 
-### Are You a Project Coordinator?
+### Are You a Parent Coordinator?
 
 Please [email](mailto:pac@compassfortcollins.org?subject=Agenda%20Item)&nbsp;items you want included in the next PAC Meeting Agenda by the Thursday PRIOR to the PAC meeting. If you are unable to attend and have an update to share, [email](mailto:pac@compassfortcollins.org?subject=Agenda%20Item) the Communications Coordinator by the Thursday prior. If at any time a Parent Coordinator needs to get a message out, he/she simply contacts the&nbsp;[Communication Coordinator](mailto:pac@compassfortcollins.org)—preferably providing 48 hours advance notice.
 
