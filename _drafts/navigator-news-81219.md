@@ -97,4 +97,16 @@ Changes to Our Space
 
 > The Upper School lounge is ready\!
 
+![](/assets/images/marty-and-pamela-created-a-beautiful-new-entry-area-for-us.jpg){: width="1000" height="750"}
+
+Pamela and Marty created a beautiful new entry.
+
+![](/assets/images/walls-made-from-giant-legos-what.jpg){: width="1000" height="750"}
+
+> Walls made from Lego\! What\!?
+
+And Lastly ...
+
 &nbsp;
+
+Flynn is ready to welcome you back\!
