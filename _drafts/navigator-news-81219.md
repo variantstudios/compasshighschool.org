@@ -48,7 +48,7 @@ Since the last week of school and Advisory Olympics, we have welcomed new staff 
 Compass Tee Flash Sale
 {: .cta}
 
-&nbsp;
+![](/assets/images/compass-collaborative-school-think-competency-shirt.jpg){: width="800" height="780"}
 
 Compass students do more than just master traditional academic content. With the guidance of evidence-based research, we have created&nbsp;**seven core competencies**&nbsp;that drive instruction, reflection, and assessment of mastery for both staff and students. Adaptability, Flexibility, Problem Solving, Inquiry and Analysis are central to&nbsp;**CRITICAL THINKING**—one of the seven Compass Core Competencies. The Compass "THINK" tee is a nod to Albert Einstein, his imagination, and his very original way of THINKing. This t-shirt is the first in a series of seven that will roll out over the coming years—one each semester.**&nbsp;This t-shirt is only available for order during this 2-week FLASH sale period.**&nbsp;We cannot guarantee that it will be available for sale in the future**—order yours now for the kids, for yourself and for all your THINKing friends\! Order by August 28.**
 
