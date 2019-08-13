@@ -33,6 +33,16 @@ Since the last week of school and Advisory Olympics, we have welcomed new staff 
 
 > Camilo repainted like a champ\!
 
+![](/assets/images/thanks-to-all-the-students-who-helped-fix-up-the-building-this-summer.jpg){: width="1000" height="1333"}
+
+> Thanks to all the students who helped fix up the building over the summer\!
+
+![](/assets/images/thanks-to-all-the-parents-who-helped-us-this-summer-to-be-ready-for-a-great-year.jpg){: width="1000" height="744"}
+
+> Thanks to all the parents who helped us get ready for a great year.
+
+&nbsp;
+
 &nbsp;
 
 Compass Tee Flash Sale
