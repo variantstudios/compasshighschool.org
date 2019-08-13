@@ -21,7 +21,7 @@ Welcome to Compass 2.0
 
 ![](/assets/images/staff-circled-and-worked-all-summer-to-stay-connected-and-to-make-compass-even-better-for-this-next-school-year-.jpg){: width="1000" height="750"}
 
-> **Staff circled and worked all summer to stay connected and make Compass even better for this next school year.**
+> Staff circled and worked all summer to stay connected and make Compass even better for this next school year.
 
 We are so excited for the kids to come back\! Many have come back to visit and help throughout the summer, but&nbsp;**there is something especially energizing about having all the students here all together.**
 
@@ -50,9 +50,11 @@ Compass Tee Flash Sale
 
 ![](/assets/images/compass-collaborative-school-think-competency-shirt.jpg){: width="800" height="780"}
 
-Compass students do more than just master traditional academic content. With the guidance of evidence-based research, we have created&nbsp;**seven core competencies**&nbsp;that drive instruction, reflection, and assessment of mastery for both staff and students. Adaptability, Flexibility, Problem Solving, Inquiry and Analysis are central to&nbsp;**CRITICAL THINKING**—one of the seven Compass Core Competencies. The Compass "THINK" tee is a nod to Albert Einstein, his imagination, and his very original way of THINKing. This t-shirt is the first in a series of seven that will roll out over the coming years—one each semester.**&nbsp;This t-shirt is only available for order during this 2-week FLASH sale period.**&nbsp;We cannot guarantee that it will be available for sale in the future**—order yours now for the kids, for yourself and for all your THINKing friends\! Order by August 28.**
+Compass students do more than just master traditional academic content. With the guidance of evidence-based research, we have created&nbsp;**seven core competencies**&nbsp;that drive instruction, reflection, and assessment of mastery for both staff and students. Adaptability, Flexibility, Problem Solving, Inquiry and Analysis are central to&nbsp;**CRITICAL THINKING**—one of the seven Compass Core Competencies.
 
-This t-shirt as being offered close to cost. If over 100 sell, the Parent Action Council (PAC) will profit roughly $200. These funds will be used to support PAC activities (teacher appreciation, student events, etc.) for the 2019-20 school year.
+The Compass "THINK" tee is a nod to Albert Einstein, his imagination, and his very original way of THINKing. This t-shirt is the first in a series of seven that will roll out over the coming years—one each semester.**&nbsp;This t-shirt is only available for order during this 2-week FLASH sale period.**&nbsp;We cannot guarantee that it will be available for sale in the future**—order by August 28.**
+
+This t-shirt is being offered close to cost. If over 100 sell, the Parent Action Council (PAC) will profit roughly $200. These funds will be used to support PAC activities (teacher appreciation, student events, etc.) for the 2019-20 school year.
 
 *Available in women's fit and uni-sex youth-adult. Please carefully review the Sizing Line-Ups provided on the Custom Ink website. The women's fit can run quite small.*
 
@@ -63,7 +65,7 @@ Join MathCounts
 
 **Do you want to have fun and get better at math at the same time? Join our new&nbsp;*MathCounts&nbsp;*program at Compass\!**&nbsp;**[MATHCOUNTS&reg;](https://www.mathcounts.org){: target="_blank"} is a national Middle School program that encourages students to increase their math skills through learning, teamwork, and competition.**
 
-&nbsp;We will meet during PLT (the beginning or end of the school day) to conquer new problems and we’ll do fun team building activities (evening laser tag, hikes, lock-ins, etc.) at least once a month. We’ll also qualify Compass for the National Math Club gold level\!&nbsp;
+We will meet during PLT (the beginning or end of the school day) to conquer new problems and we’ll do fun team building activities (evening laser tag, hikes, lock-ins, etc.) at least once a month. We’ll also qualify Compass for the National Math Club gold level\!&nbsp;
 
 At Compass, you can choose your path. MathCounts can be your math class for the year if you are in pre-algebra or you can participate in MathCounts in addition to taking math intensives. MathCounts is for grades 6-8 only. Having math as your best subject is not required to join\! You only need a desire to learn and willingness to help our team meet our goals.&nbsp;[Download a flier](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=a48979e6d6&amp;e=d44f2694ec){: target="_blank"}&nbsp;for more information or email&nbsp;[karen@compassfortcollins.org](mailto:karen@compassfortcollins.org){: target="_blank"}.&nbsp;
 
@@ -92,6 +94,7 @@ Please ensure that your student has the following supplies with them each day in
 NOTE: We have backpacks and school supplies that have been generously donated by CSU. If your family would benefit from this generosity, please reach out to&nbsp;[jan@compassfortcollins.org](mailto:jan@compassfortcollins.org){: target="_blank"}
 
 Changes to Our Space
+{: .cta}
 
 ![](/assets/images/upper-school-lounge-is-ready.jpg){: width="1000" height="729"}
 
