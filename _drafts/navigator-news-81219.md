@@ -105,8 +105,9 @@ Pamela and Marty created a beautiful new entry.
 
 > Walls made from Lego\! What\!?
 
-And Lastly ...
+And Finally ...
+{: .cta}
 
-&nbsp;
+![](/assets/images/flynn-is-ready-to-welcome-you-back.jpg){: width="1000" height="1230"}
 
-Flynn is ready to welcome you back\!
+> ## Flynn is ready to welcome you back\!
