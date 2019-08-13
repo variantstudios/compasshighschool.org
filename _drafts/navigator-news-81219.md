@@ -41,12 +41,14 @@ Since the last week of school and Advisory Olympics, we have welcomed new staff 
 
 > Thanks to all the parents who helped us get ready for a great year.
 
-&nbsp;
+![](/assets/images/jason-worked-with-upperclassman-to-get-their-schedules-arranged-this-week--foundry-and-our-new-schedule-are-going-to-add-lots-of-options-for-students.jpg){: width="1000" height="762"}
 
-&nbsp;
+> Jason worked with upperclassmen to get their schedules arranged. Foundry and our new schedule are going to add lots of options for students\!
 
 Compass Tee Flash Sale
 {: .cta}
+
+&nbsp;
 
 Compass students do more than just master traditional academic content. With the guidance of evidence-based research, we have created&nbsp;**seven core competencies**&nbsp;that drive instruction, reflection, and assessment of mastery for both staff and students. Adaptability, Flexibility, Problem Solving, Inquiry and Analysis are central to&nbsp;**CRITICAL THINKING**—one of the seven Compass Core Competencies. The Compass "THINK" tee is a nod to Albert Einstein, his imagination, and his very original way of THINKing. This t-shirt is the first in a series of seven that will roll out over the coming years—one each semester.**&nbsp;This t-shirt is only available for order during this 2-week FLASH sale period.**&nbsp;We cannot guarantee that it will be available for sale in the future**—order yours now for the kids, for yourself and for all your THINKing friends\! Order by August 28.**
 
