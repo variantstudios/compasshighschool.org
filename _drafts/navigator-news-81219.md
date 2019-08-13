@@ -21,6 +21,8 @@ Welcome to Compass 2.0
 
 ![](/assets/images/staff-circled-and-worked-all-summer-to-stay-connected-and-to-make-compass-even-better-for-this-next-school-year-.jpg){: width="1000" height="750"}
 
+> **Staff circled and worked all summer to stay connected and make Compass even better for this next school year.**
+
 We are so excited for the kids to come back\! Many have come back to visit and help throughout the summer, but&nbsp;**there is something especially energizing about having all the students here all together.**
 
 The first week of school will be&nbsp;*Culture Camp*&nbsp;to ease all of us back into the routines of the school year and build the bonds of our community and the habits of learning that make Compass the special place that it is all year long. Jenny, Katie, Pamela, Sam, and our student leadership team get all the credit for the week’s design.&nbsp;**The theme of the week, and in fact the whole school year, is&nbsp;*BELONGING*.&nbsp;**
