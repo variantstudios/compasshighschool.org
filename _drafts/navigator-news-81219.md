@@ -59,11 +59,13 @@ This t-shirt as being offered close to cost. If over 100 sell, the Parent Action
 Join MathCounts
 {: .cta}
 
-**Do you want to have fun and get better at math at the same time? Join our new&nbsp;*MathCounts&nbsp;*program at Compass\!**&nbsp;**MATHCOUNTS&reg; is a national Middle School program that encourages students to increase their math skills through learning, teamwork, and competition.**
+![](/assets/images/mathcounts.jpg){: width="1000" height="500"}
+
+**Do you want to have fun and get better at math at the same time? Join our new&nbsp;*MathCounts&nbsp;*program at Compass\!**&nbsp;**[MATHCOUNTS&reg;](https://www.mathcounts.org){: target="_blank"} is a national Middle School program that encourages students to increase their math skills through learning, teamwork, and competition.**
 
 &nbsp;We will meet during PLT (the beginning or end of the school day) to conquer new problems and we’ll do fun team building activities (evening laser tag, hikes, lock-ins, etc.) at least once a month. We’ll also qualify Compass for the National Math Club gold level\!&nbsp;
 
-At Compass, you can choose your path. MathCounts can be your “math class” for the year if you are in pre-algebra or you can participate in MathCounts in addition to taking math intensives. MathCounts is for grades 6-8 only. Having math as your best subject is not required to join\! You only need a desire to learn and willingness to help our team meet our goals.&nbsp;[Download a flier](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=a48979e6d6&amp;e=d44f2694ec){: target="_blank"}&nbsp;for more information or email&nbsp;[karen@compassfortcollins.org](mailto:karen@compassfortcollins.org){: target="_blank"}.&nbsp;
+At Compass, you can choose your path. MathCounts can be your math class for the year if you are in pre-algebra or you can participate in MathCounts in addition to taking math intensives. MathCounts is for grades 6-8 only. Having math as your best subject is not required to join\! You only need a desire to learn and willingness to help our team meet our goals.&nbsp;[Download a flier](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=a48979e6d6&amp;e=d44f2694ec){: target="_blank"}&nbsp;for more information or email&nbsp;[karen@compassfortcollins.org](mailto:karen@compassfortcollins.org){: target="_blank"}.&nbsp;
 
 2019-20 Student Supply List
 {: .cta}
@@ -88,3 +90,11 @@ Please ensure that your student has the following supplies with them each day in
 * Book of choice for reading
 
 NOTE: We have backpacks and school supplies that have been generously donated by CSU. If your family would benefit from this generosity, please reach out to&nbsp;[jan@compassfortcollins.org](mailto:jan@compassfortcollins.org){: target="_blank"}
+
+Changes to Our Space
+
+![](/assets/images/upper-school-lounge-is-ready.jpg){: width="1000" height="729"}
+
+> The Upper School lounge is ready\!
+
+&nbsp;
