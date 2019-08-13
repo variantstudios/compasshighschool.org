@@ -29,6 +29,12 @@ The first week of school will be&nbsp;*Culture Camp*&nbsp;to ease all of us back
 
 Since the last week of school and Advisory Olympics, we have welcomed new staff (you have met them through the summer newsletters, and you will love them even more in person\!), we have taken some time to refresh and reflect on all that we learned last year, and we have worked hard on the building and the program design to make sure that next year benefits from all that we learned last year. This is one of our fundamental values—staff are learners as much as the students, and being a small charter school, we are agile enough to respond quickly as we learn.&nbsp;**We are committed to constant improvement.**&nbsp;**New AND returning parents**, please join us tonight at 6:30p for&nbsp;**Compass 101 v.2**&nbsp;to learn the details\!<br><br>Gratefully Yours,<br>Jan
 
+![](/assets/images/camilo-re-painted-like-a-champ.jpg){: width="1000" height="750"}
+
+> Camilo repainted like a champ\!
+
+&nbsp;
+
 Compass Tee Flash Sale
 {: .cta}
 
