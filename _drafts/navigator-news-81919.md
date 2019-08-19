@@ -1,9 +1,10 @@
 ---
 title: 'Navigator News: 8/19/19'
-date:
+date: 2019-08-19 08:00:00
 background_option:
 background_image:
-image_path:
+image_path: >-
+  /assets/images/posts/hard-working-team-building-furniture-out-of-giant-legos-1600.jpg
 categories:
 iframe:
   title:
@@ -18,7 +19,9 @@ search_engine_optimization:
 Welcome Back to School\!
 {: .cta}
 
-The Compass staff wishes everyone a warm welcome back to school\! This year Compass will spend the first week of school building culture and teaching students important skills for success in our school model. This will include how to design and execute independent Inquiries, how to log learning in [Foundry](foundry education platform){: target="_blank"}, and lots more\!&nbsp;
+**The Compass staff wishes everyone a warm welcome back to school\! It's going to be another great year\!\!&nbsp;**
+
+This year Compass will spend the first week of school building culture and teaching students important skills for success in our school model. This will include how to design and execute independent Inquiries, how to log learning in [Foundry](foundry education platform){: target="_blank"}, and lots more\!&nbsp;
 
 The schedule for returning students is slightly different than the schedule for new students, and 6th-graders have a slightly different schedule than older new students, but ALL students will have their Advisory as their home base. Parents, please check your email to view your students Culture Week schedule.
 
@@ -52,6 +55,8 @@ In addition, if you are an adult interested in volunteering at Compass to help o
 
 THINK Tee Flash Sale
 {: .cta}
+
+![](/assets/images/screen-shot-2019-08-09-at-3-26-31-pm-1.png){: width="942" height="1090"}
 
 Compass students do more than just master traditional academic content. With the guidance of evidence-based research, we have created&nbsp;**seven core competencies**&nbsp;that drive instruction, reflection, and assessment of mastery for both staff and students.&nbsp;
 
@@ -93,5 +98,7 @@ More Great Changes to Our Space\!
 ![](/assets/images/the-orange-room-is-now-the-yellow-room.jpg){: width="1000" height="752"}
 
 **The Orange Room is NOW the Yellow Room.**
+
+![](/assets/images/giant-beanbag-chairs-are-featured-in-the-middle-school--lounge-.jpg){: width="1000" height="620"}
 
 **Giant bean bag chairs are featured in the Middle School "Lounge".**
