@@ -90,7 +90,7 @@ More Great Changes to Our Space\!
 
 **A hard-working team built furniture out of giant Legos\!**
 
-&nbsp;
+![](/assets/images/the-orange-room-is-now-the-yellow-room.jpg){: width="1000" height="752"}
 
 **The Orange Room is NOW the Yellow Room.**
 
