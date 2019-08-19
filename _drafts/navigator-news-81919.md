@@ -78,9 +78,11 @@ More Great Changes to Our Space\!
 
 **The 3-D printer is ready to get to work\!**
 
-&nbsp;
+![](/assets/images/the-gallery-has-been-transformed.jpg){: width="1000" height="728"}
 
 **The Gallery has been transformed\!**
+
+&nbsp;
 
 **The NEW Upper School lounge is ready.**
 
