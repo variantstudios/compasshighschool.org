@@ -68,9 +68,13 @@ More Great Changes to Our Space\!
 
 ![](/assets/images/fun-new-place-to-eat-lunch.jpg){: width="1000" height="685"}
 
-**A fun new place to eat lunch\!**
+**A fun, new place to eat lunch\!**
+
+![](/assets/images/the-garage-classroom-has-been-significantly-improved.jpg){: width="1000" height="750"}
 
 **The Garage Classroom has been significantly improved.**
+
+&nbsp;
 
 **The 3-D printer is ready to get to work\!**
 
