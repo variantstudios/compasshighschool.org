@@ -66,7 +66,7 @@ This t-shirt as being offered close to cost. If over 100 sell, the Parent Action
 More Great Changes to Our Space\!
 {: .cta}
 
-&nbsp;
+![](/assets/images/fun-new-place-to-eat-lunch.jpg){: width="1000" height="685"}
 
 **A fun new place to eat lunch\!**
 
