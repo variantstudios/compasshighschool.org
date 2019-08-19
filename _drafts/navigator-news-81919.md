@@ -74,9 +74,11 @@ More Great Changes to Our Space\!
 
 **The Garage Classroom has been significantly improved.**
 
-&nbsp;
+![](/assets/images/the-3-d-printer-is-ready-to-get-to-work.jpg){: width="1000" height="746"}
 
 **The 3-D printer is ready to get to work\!**
+
+&nbsp;
 
 **The Gallery has been transformed\!**
 
