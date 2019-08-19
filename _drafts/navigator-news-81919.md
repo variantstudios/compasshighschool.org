@@ -24,7 +24,13 @@ The schedule for returning students is slightly different than the schedule for 
 
 **Your students will have their final schedule for the first semester on Friday**, and regular learning experiences (and regular start and end times) will start next Monday, August 26th. Get ready to LOVE SCHOOL\!
 
-&nbsp;
+A Peek at Our New Library Nook
+{: .cta}
+
+![](/assets/images/the-compass-library-is-stocked-with-a-wide-variety-of-great-fiction-and-non-fiction-books.jpg){: width="1000" height="649"}
+
+***The Compass Library is stocked with a wide variety of fiction and non-fiction books\!***
+{: .align-to-center}
 
 Updated Compass Family Guidebook
 {: .cta}
@@ -59,6 +65,8 @@ This t-shirt as being offered close to cost. If over 100 sell, the Parent Action
 
 More Great Changes to Our Space\!
 {: .cta}
+
+&nbsp;
 
 **A fun new place to eat lunch\!**
 
