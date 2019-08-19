@@ -44,6 +44,7 @@ Venture Highlight
 {: .cta}
 
 Dawn DuPriest will be starting her year off with a group of middle and upper school students in a Venture focused on&nbsp;**FIRST LEGO League Robotics and Tech Challenges**. The theme of the competition this year is “City-Shaper”. In her usual high fashion, Dawn has already found a community partner for the Venture\!&nbsp;**The students will be working on a real-world problem of urban design with the City of Fort Collins Planning Department.**&nbsp;They were really excited to participate. We live in such a great city\!&nbsp;
+{: .align-to-center}
 
 While the venture will officially end in late October, the student teams will continue to meet during an intensive and after school until the competitions in November. Students will be building and programming robots that can perform all kinds of tasks related to building a strong, beautiful, sustainable city- and helping the city of Fort Collins with its plans for a better future. It’s a fantastic, real-world activity that builds student STEM knowledge, leadership, and problem solving skills.&nbsp;
 
