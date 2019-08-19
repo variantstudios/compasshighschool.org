@@ -86,7 +86,11 @@ More Great Changes to Our Space\!
 
 **The NEW Upper School lounge is ready.**
 
+![](/assets/images/hard-working-team-building-furniture-out-of-giant-legos.jpg){: width="1000" height="722"}
+
 **A hard-working team built furniture out of giant Legos\!**
+
+&nbsp;
 
 **The Orange Room is NOW the Yellow Room.**
 
