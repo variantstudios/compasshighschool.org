@@ -82,7 +82,7 @@ More Great Changes to Our Space\!
 
 **The Gallery has been transformed\!**
 
-&nbsp;
+![](/assets/images/the-upper-school-lounge-has-both-work-space-and-lounge-space-1.jpg){: width="1000" height="750"}
 
 **The NEW Upper School lounge is ready.**
 
