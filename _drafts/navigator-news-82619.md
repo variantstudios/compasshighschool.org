@@ -45,9 +45,7 @@ Snapshots of Our First Week Back
 
 ![](/assets/images/team-building-games-as-part-of-wellness-this-week.png){: width="1000" height="664"}**Team building games\!**
 
-&nbsp;
-
-**Soren taking initiative and showing the younger boys how it's done\!**
+![](/assets/images/soren-taking-initiative-to-help-out-and-show-the-younger-boys-how-it-s-done.png){: width="1000" height="1171"}**Soren taking initiative and showing the younger boys how it's done\!**
 
 &nbsp;
 
