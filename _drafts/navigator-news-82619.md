@@ -53,9 +53,7 @@ Snapshots of Our First Week Back
 
 <br>![](/assets/images/6th-grade-design-challenge.png){: width="1000" height="1167"}**More 6th graders embracing the challenge**
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUCB1j+A8EAAn7A/0Mu1vnAAAAAElFTkSuQmCC){: .cms-image-placeholder}
-
-**11th grade students discussing their independent Inquiries**
+![](/assets/images/11th-grade-students-discussing-their-independent-inquiries.png){: width="1000" height="690"}**11th grade students discussing their independent Inquiries**
 
 &nbsp;
 
