@@ -47,19 +47,13 @@ Snapshots of Our First Week Back
 
 ![](/assets/images/soren-taking-initiative-to-help-out-and-show-the-younger-boys-how-it-s-done.png){: width="1000" height="1171"}**Soren taking initiative and showing the younger boys how it's done\!**
 
-&nbsp;
+![](/assets/images/6th-grade-design-challenge1.png){: width="1000" height="1333"}**6th grade design challenge**
 
-**6th grade design challenge**
+![](/assets/images/upper-school-mentors-hard-at-work.png){: width="1000" height="758"}**Upper school mentors hard at work\!**
 
-&nbsp;
+<br>![](/assets/images/6th-grade-design-challenge.png){: width="1000" height="1167"}**More 6th graders embracing the challenge**
 
-**Upper school mentors hard at work\!**
-
-&nbsp;
-
-**More 6th graders embracing the challenge**
-
-&nbsp;
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUCB1j+A8EAAn7A/0Mu1vnAAAAAElFTkSuQmCC){: .cms-image-placeholder}
 
 **11th grade students discussing their independent Inquiries**
 
