@@ -3,7 +3,8 @@ title: 'Navigator News: 8/26/19'
 date:
 background_option:
 background_image:
-image_path:
+image_path: >-
+  /assets/images/posts/1600-students-are-learning-how-to-document-learning-in-foundry-by-working-with-teachers-on-a-mini-ventures-called-an--inquiry-.png
 categories:
 iframe:
   title:
@@ -55,10 +56,6 @@ Snapshots of Our First Week Back
 
 ![](/assets/images/11th-grade-students-discussing-their-independent-inquiries.png){: width="1000" height="690"}**11th grade students discussing their independent Inquiries**
 
-&nbsp;
+![](/assets/images/6th-grade-design-challenge-1.png){: width="1000" height="1008"}**6th grade Bridge Building design challenge underway**
 
-**6th grade Bridge Building design challenge underway**
-
-&nbsp;
-
-**Our Upper School students worked with 6th graders to teach them the Compass culture**
+![](/assets/images/our-upper-school-students-worked-with-the-6th-graders-to-teach-them-the-compass-culture.png){: width="1000" height="746"}**Our Upper School students worked with 6th graders to teach them the Compass culture**
