@@ -2,7 +2,8 @@
 title: 'Navigator News: 8/26/19'
 date:
 background_option:
-background_image:
+background_image: >-
+  /assets/images/1600-students-are-learning-how-to-document-learning-in-foundry-by-working-with-teachers-on-a-mini-ventures-called-an--inquiry-.png
 image_path: >-
   /assets/images/posts/1600-students-are-learning-how-to-document-learning-in-foundry-by-working-with-teachers-on-a-mini-ventures-called-an--inquiry-.png
 categories:
