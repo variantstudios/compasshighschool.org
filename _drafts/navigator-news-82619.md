@@ -38,16 +38,12 @@ And now the structured learning starts in earnest. We have “gone slow to go fa
 
 Yours,<br>Jan
 
-Snapshots of our First Week Back
+Snapshots of Our First Week Back
 {: .cta}
 
-![](/assets/images/yoga-as-part-of-our-wellness-experience.png){: width="1000" height="1333"}
+![](/assets/images/yoga-as-part-of-our-wellness-experience.png){: width="1000" height="1333"}**Outdoor yoga as part of our wellness experience**
 
-**Outdoor yoga as part of our wellness experience**
-
-&nbsp;
-
-**Team building games\!**
+![](/assets/images/team-building-games-as-part-of-wellness-this-week.png){: width="1000" height="664"}**Team building games\!**
 
 &nbsp;
 
