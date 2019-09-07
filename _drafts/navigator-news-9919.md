@@ -1,6 +1,6 @@
 ---
 title: 'Navigator News: 9/9/19'
-date:
+date: 2019-09-09 12:00:00
 background_option:
 background_image:
 image_path: /assets/images/posts/pac-meeting-1600.jpg
@@ -80,5 +80,9 @@ Our virtual reality equipment is a hit\!
 ![](/assets/images/our-bike-to-school-week-organizing-team-is-also-tuning-bikes.jpg){: width="1000" height="1206"}
 
 Our Bike-to-School Week organizing team is also tuning bikes
+
+![](/assets/images/our-students-help-each-other-learn-every-day--it-is-inspiring.jpg){: width="1000" height="750"}
+
+Our students help each other learn every day. It is so inspiring\!
 
 &nbsp;
