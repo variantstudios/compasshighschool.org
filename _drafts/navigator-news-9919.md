@@ -39,4 +39,17 @@ Partner Offering: McMahon Training Center
 
 ![](/assets/images/bully-defense-seminar-flier-801x1024.png){: width="801" height="1024"}
 
-Another neighboring Compass Community Partner,&nbsp;[McMahon Training Center](https://mcmahonbjj.com){: target="_blank"}, is extending an invitation to Compass families sign up for one of two anti-bullying seminars. They are FREE and open to the public\!**If you would like your child to start the new school year with self-confidence and tools to protect themselves, consider registering.**&nbsp;Each school year provides obstacles for children, and unfortunately, one of those obstacles can be physical or mental abuse from other kids. Our two seminars will give those that attend the skills to defend themselves safely and effectively from a bully.&nbsp;
+Another neighboring Compass Community Partner,&nbsp;[McMahon Training Center](https://mcmahonbjj.com){: target="_blank"}, is extending an invitation to Compass families sign up for one of two anti-bullying seminars. They are FREE and open to the public\!
+
+**If you would like your child to start the new school year with self-confidence and tools to protect themselves, consider registering.**&nbsp;Each school year provides obstacles for children, and unfortunately, one of those obstacles can be physical or mental abuse from other kids. Our two seminars will give those that attend the skills to defend themselves safely and effectively from a bully.&nbsp;
+
+Follow Your School
+{: .cta}
+
+![](/assets/images/screen-shot-2019-09-07-at-10-29-10-am.png){: width="1076" height="752"}
+
+Last week on Facebook,&nbsp;**Sam used a chair to demonstrate how gravity transformed a nebula**into our solar system.&nbsp;[Take a look](https://www.facebook.com/CCCFortCollins/videos/490846994817445/?__xts__[0]=68.ARCbWsN_ZG0IS548oXPmVAptPFQCjrcWCHz39fvLCgN2lIOXHx8hirdBmrdGsmGbTHN1_zPkH5TkgLtbZ3f61EAjqgTe_ryNXOUMbnLw32-e7iTy7eyytupqFTUgLFEsQd44pYxOGBTx6Amt6e5XSRWuda9KoXN4kRq5zcj0YNhDSt7fgcEbLaNWGL_d43PCSdHNxkUc6YxywX_mLPGxA0UmDDtr1gYtg4WWCJA5sWy89Qjq0jfwrtLSS2Bk6V5vlhjvuVUJQk5raGnFnaDtb7B0q-aSlOv9YySbRNRlVYWj-1hdmIR4ok9i7Nd9B1rPZDX5V25p1BD3-73l7DkiUjvUvb9tDcwDPkPSuw&amp;__tn__=-R){: target="_blank"}\!
+
+Want regular glimpses into the day-to-day happenings at Compass?
+
+Follow the school here:<br>**Facebook:**[@CCCFortCollins](https://www.facebook.com/CCCFortCollins/?eid=ARAIrkZAtwWn4ol-Nwb5yTmCNfk9aBnmzLs1ZhcFfi0l06fdqZUzkayjtsXDk9Jqxvk4YcEwbj5LdFAv){: target="_blank"}<br>**Instagram:&nbsp;**[@CCCFortCollins](https://www.instagram.com/cccfortcollins/){: target="_blank"}
