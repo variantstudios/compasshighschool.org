@@ -53,3 +53,28 @@ Last week on Facebook,&nbsp;**Sam used a chair to demonstrate how gravity transf
 Want regular glimpses into the day-to-day happenings at Compass?
 
 Follow the school here:<br>**Facebook:**[@CCCFortCollins](https://www.facebook.com/CCCFortCollins/?eid=ARAIrkZAtwWn4ol-Nwb5yTmCNfk9aBnmzLs1ZhcFfi0l06fdqZUzkayjtsXDk9Jqxvk4YcEwbj5LdFAv){: target="_blank"}<br>**Instagram:&nbsp;**[@CCCFortCollins](https://www.instagram.com/cccfortcollins/){: target="_blank"}
+
+Snapshots from Last Week
+{: .cta}
+
+![](/assets/images/our-new-art-teacher-erica-taught-a-seminar-on-color-theory-that-the-students-loved.jpg){: width="1000" height="693"}
+
+Our new art teacher, Erica, taught a seminar on color theory that all the students loved\!
+
+![](/assets/images/6th-graders-have-jumped-right-in.jpg){: width="1000" height="750"}
+
+6th graders have jumped right in\!
+
+![](/assets/images/student-in-marty-s-construction-101-seminar-helped-repair-our-picnic-tables.jpg){: width="1000" height="762"}
+
+Students in Marty's Construction 101 seminar helped repair picnic tables
+
+![](/assets/images/learning-through-service---win-win.jpg){: width="1000" height="750"}
+
+Learning through service — a win-win
+
+![](/assets/images/our-virtual-reality-equipment-is-a-hit.jpg){: width="1000" height="750"}
+
+Our virtual reality equipment is a hit\!
+
+&nbsp;
