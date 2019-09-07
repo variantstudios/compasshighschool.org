@@ -77,4 +77,8 @@ Learning through service — a win-win
 
 Our virtual reality equipment is a hit\!
 
+![](/assets/images/our-bike-to-school-week-organizing-team-is-also-tuning-bikes.jpg){: width="1000" height="1206"}
+
+Our Bike-to-School Week organizing team is also tuning bikes
+
 &nbsp;
