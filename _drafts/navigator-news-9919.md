@@ -50,9 +50,7 @@ Follow Your School
 
 Last week on Facebook,&nbsp;**Sam used a chair to demonstrate how gravity transformed a nebula**into our solar system.&nbsp;[Take a look](https://www.facebook.com/CCCFortCollins/videos/490846994817445/?__xts__[0]=68.ARCbWsN_ZG0IS548oXPmVAptPFQCjrcWCHz39fvLCgN2lIOXHx8hirdBmrdGsmGbTHN1_zPkH5TkgLtbZ3f61EAjqgTe_ryNXOUMbnLw32-e7iTy7eyytupqFTUgLFEsQd44pYxOGBTx6Amt6e5XSRWuda9KoXN4kRq5zcj0YNhDSt7fgcEbLaNWGL_d43PCSdHNxkUc6YxywX_mLPGxA0UmDDtr1gYtg4WWCJA5sWy89Qjq0jfwrtLSS2Bk6V5vlhjvuVUJQk5raGnFnaDtb7B0q-aSlOv9YySbRNRlVYWj-1hdmIR4ok9i7Nd9B1rPZDX5V25p1BD3-73l7DkiUjvUvb9tDcwDPkPSuw&amp;__tn__=-R){: target="_blank"}\!
 
-Want regular glimpses into the day-to-day happenings at Compass?
-
-Follow the school here:<br>**Facebook:**[@CCCFortCollins](https://www.facebook.com/CCCFortCollins/?eid=ARAIrkZAtwWn4ol-Nwb5yTmCNfk9aBnmzLs1ZhcFfi0l06fdqZUzkayjtsXDk9Jqxvk4YcEwbj5LdFAv){: target="_blank"}<br>**Instagram:&nbsp;**[@CCCFortCollins](https://www.instagram.com/cccfortcollins/){: target="_blank"}
+Want regular glimpses into the day-to-day happenings at Compass? Follow the school here:<br><br>**Facebook:**[@CCCFortCollins](https://www.facebook.com/CCCFortCollins/?eid=ARAIrkZAtwWn4ol-Nwb5yTmCNfk9aBnmzLs1ZhcFfi0l06fdqZUzkayjtsXDk9Jqxvk4YcEwbj5LdFAv){: target="_blank"}<br>**Instagram:&nbsp;**[@CCCFortCollins](https://www.instagram.com/cccfortcollins/){: target="_blank"}
 
 Snapshots from Last Week
 {: .cta}
