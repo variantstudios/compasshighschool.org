@@ -37,8 +37,6 @@ Please [email](mailto:pac@compassfortcollins.org?subject=Agenda%20Item)&nbsp;ite
 
 Funds raised by PAC are used to supplement school and PAC activities. Passive fundraisers are the easiest way to “give” and require little effort. Three such fundraisers we participate in areCaps4Cash, BoxTops and the King Soopers Community Rewards Program.
 
-**Morning Fresh Caps4Cash + BoxTops:&nbsp;**Squirrel away Morning Fresh Dairy milk caps and cut out those Box Tops for Education and bring them in to the front office where we have a collection bins for them. Please neatly trim box tops, ensuring date on box top is not cut off nor expired.
-
 **King Soopers Community Rewards Program:**&nbsp;Thank you Compass friends and families for supporting our school by participating in the King Soopers Community Rewards Program. Once properly set up (following the steps below), your King Soopers loyalty SooperCard (or phone number/Alternate ID) is all that's needed to earn up to 5% back on all grocery purchases.
 
 **IF YOU&nbsp;****ALREADY** **HAVE A LOYALTY CARD&nbsp;****AND** **A KING SOOPERS ONLINE ACCOUNT:**
