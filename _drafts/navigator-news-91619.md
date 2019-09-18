@@ -1,0 +1,56 @@
+---
+title: 'Navigator News: 9/16/19'
+date: 2019-09-16 12:00:00
+background_option:
+background_image:
+image_path: >-
+  /assets/images/posts/1600-compass-community-collaborative-school---mia-lucille-and-ocean-are-working-and-learning-with-the-rocky-mountain-conservancy-.jpg
+categories:
+iframe:
+  title:
+  url:
+  width:
+  height:
+search_engine_optimization:
+  page_title:
+  page_description:
+---
+
+**Upper School English: Oral Storytelling Intensive**
+{: .cta}
+
+![](/assets/images/cole-is-an-oral-story-teller.jpg){: width="1000" height="746"}
+
+> **Cole is an oral storyteller\!**
+
+During our first English Intensive, students investigated oral storytelling and looked at the Common Core English standards of oral expression as well as the Compass Competency of Communication. We are often asked to "tell our stories" whether that is in a job interview or wanting to get a project off the ground. In looking more into this topic, I remembered "The Moth" storytelling program out of New York City, and thought, "What a cool way to get kids to start writing about themselves." Our final for this intensive was a&nbsp;*Story Hour*, Moth style where students shared their personal stories around the themes of "How did I get here?" and "I learned it the hard way."&nbsp;
+
+In addition to drafting, editing, and practicing reading stories out loud, students experienced samples of historical storytelling such as&nbsp;*The Odyssey*. I love the translation I've been reading in class (and the translator was a professor at Sam's university\!) The copy is&nbsp;[*Odyssey: Homer*&nbsp;Translated by Stanley Lombardo](https://www.amazon.com/Odyssey-Homer/dp/0872204847/ref=sr_1_1?keywords=the+odyssey+homer+lombardo&amp;qid=1568767255&amp;s=gateway&amp;sr=8-1).
+
+Below are a few storytelling events near us to continue getting your students excited about this form of entertainment (these usually have some adult themes, but they are inspiring).
+
+[The Moth](https://themoth.org/events/results?eventLocations=6442&amp;typesOfEvents&amp;eventDate){: target="_blank"}<br>[Lyric Cinema](https://lyriccinema.com/movie/kunc-community-storytelling-event)
+
+Please stay tuned for more opportunities to get our community excited about sharing our stories.&nbsp;
+
+Learning Everywhere\!
+{: .cta}
+
+![](/assets/images/1600-compass-community-collaborative-school---mia-lucille-and-ocean-are-working-and-learning-with-the-rocky-mountain-conservancy-.jpg){: width="1600" height="1253"}
+
+> ***Mia, Lucille and Ocean are working and learning with the Rocky Mountain Conservancy***
+
+Upper School students Ocean, Lucille, and Mia spent a recent Saturday (International Climbing Day) with the&nbsp;[Rocky Mountain Conservancy](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=eb8ebf90ab&amp;e=d44f2694ec){: target="_blank"}&nbsp;and Access Fund doing trail maintenance and restoration, and conservation work on a climbing access trail to Lumpy Ridge. Lumpy is a popular crag in Rocky Mountain National Park that gets lots of visitors—therefore a lot of wear and tear. This day of service, called the&nbsp;*Rocky Mountain Rendezvous*, was an opportunity for three of our Compass students to get outside, get dirty, and learn and network with other conservationists while contributing to a place we all love. We are proud of our student’s work and learning in our community\!
+
+Venture Highlights
+{: .cta}
+
+![](/assets/images/compass-community-collaborative-school-communications-venture-september-2019-compass-community-collaborative-school-fort-collins.jpg){: width="1000" height="750"}
+
+> The Communication Venture met community partner Apsen Speech Therapy in Windsor, learning how speech and occupational therapy help people improve their communication skills.
+
+Thank you very much to parents Amy, Wade, Alexa, and Nicole for driving us to visit the therapy center on Wednesday\! We had a thorough tour, and the therapists are very excited about our offer to help them by&nbsp;**making some switch-adapted toys for their general use and some as gifts for their patients**&nbsp;who otherwise would not have access to them at home.We are ready to start practicing adapting toys.&nbsp;**If you are ready to part with any stuffed toys that move, make noise, or light up when touched/pressed, we would love to use them to learn the wiring skills we need to make our final products.&nbsp;**Please send them in with your students anytime between now and next Friday. Thank you\! If your neighborhood has a garage sale, your student could explain our project and see if they have any that they'd be willing to donate. We can work with stuffed toys (where we can open a seam to access wires), but not toys in solid plastic cases.
+
+If you're curious about our final product goals or would like to see the types of toys we're looking for,&nbsp;**this&nbsp;[star](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=fa230f30a8&amp;e=d44f2694ec){: target="_blank"}&nbsp;and&nbsp;[elephant](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=6d862f062f&amp;e=d44f2694ec){: target="_blank"}&nbsp;are the toys that your students have chosen to adapt**&nbsp;(once they practice on old toys to get good at it\!). The ones we donate to patients have to be brand new since many patients are immunocompromised; I'll try to get good pictures of our sterile-as-it-can-be stuffed animal operating room when we're working on them.
+
+&nbsp;
