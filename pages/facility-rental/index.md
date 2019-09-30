@@ -26,7 +26,7 @@ _comments:
 Thank you for your interest in renting our learning center for your upcoming event. Please follow these steps to start the facility rental process:
 
 1. Determine which [space(s)](https://compassfortcollins.org/campus/){: target="_blank"} you would like to rent for your event
-   1. Common Space (200-250 square feet) $100/hr for non-profit and $150/hr for commercial
+   1. Common Space (2000-2500 square feet) $100/hr for non-profit and $150/hr for commercial
    2. Learning Studios (~720 square feet each) $30/hr each for non-profit and $50/hr each for commercial
    3. Front Conference Room (171 square feet) $20/hr for non-profit and $30/hr for commercial
 2. Tell us about your event\! Fill out the application form below, and a school representative will respond within 7 days
