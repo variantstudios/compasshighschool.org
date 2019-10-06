@@ -71,3 +71,7 @@ Here is a very helpful [FAQ document](https://www.kroger.com/asset/delta_faq) th
 ### Get in Touch
 
 Want to get involved with the PAC or have a question? Email [pac@compassfortcollins.org](mailto:pac@compassfortcollins.org) and we will be in touch.
+
+### Calendar
+
+View the [PAC Calendar](https://calendar.google.com/calendar?cid=cGFjQGNvbXBhc3Nmb3J0Y29sbGlucy5vcmc){: target="_blank"}. Please note: This is not an official Compass Community Collaborative School calendar. Its primary purpose is to calendar PAC dates, however some school dates (not all) may be included.
