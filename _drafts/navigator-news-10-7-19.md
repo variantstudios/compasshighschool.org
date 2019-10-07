@@ -1,9 +1,9 @@
 ---
 title: 'Navigator News: 10.7.19'
-date:
+date: 2019-10-07 08:00:00
 background_option:
 background_image:
-image_path:
+image_path: /assets/images/posts/marty-has-the-shop-buzzing-with-constructive-kids.jpg
 categories:
 iframe:
   title:
@@ -20,7 +20,7 @@ What is a Compass Seminar
 
 ![](/assets/images/art-seminars-always-fill-up-fast-1.jpg){: width="1000" height="865"}
 
-Seminars allow Compass students to explore MANY different interests\! Students sign up for two seminars a week. We are so grateful for our Compass staff and community partners that make these unique learning experiences possible. Check out the choices for THIS week\!
+Seminars allow Compass students to explore MANY different interests\! Students enjoy two seminars a week. We are so grateful for our Compass staff and community partners that make these unique learning experiences possible. Check out the choices for THIS week\!
 
 * Compass Mural
 * Graphic Lettering
@@ -41,12 +41,12 @@ Seminars allow Compass students to explore MANY different interests\! Students s
 * Tai Chi
 * Textiles Workshop
 
-That's pretty impressive\! A BIG THANK YOU to Pamela for all her hard work bringing seminars to life\!&nbsp; No wonder our students LOVE them (and Pamela)\! Have a skill you would like to share with Compass students? Seminar is the perfect place to do it. Let us know\!
+That's pretty impressive\! A BIG THANK YOU to Pamela Barker for all her hard work bringing seminars to life. No wonder our students LOVE them (and Pamela)\! **Have a skill you would like to share with Compass students? Seminar is the perfect place to do it. Let us know\!**
 
 PAC Meeting + Parent Ed
 {: .cta}
 
-Join us tonight for our monthly Parent Action Council Business Meeting from 6:30-7:00p, followed by Parent Education Hour from 7:00-8:00p. Wendy Rose, Futures Counselor at Compass will get parents up to speed on the work our middle school and upper school students will be doing this year to explore their own futures.
+Join us tonight for our monthly Parent Action Council Business Meeting from 6:30-7:00p, followed by Parent Education Hour from 7:00-8:00p. **Wendy Rose, Futures Counselor at Compass will get parents up to speed on the work our middle school and upper school students will be doing this year to explore their own futures.**
 
 ![](/assets/images/electronics-work-in-the-communication-venture-1.jpg){: width="1000" height="1198"}
 
@@ -76,5 +76,3 @@ Mark your calendar with this PAC fundraiser and come hang out with your friends\
 * Do pay in store - Online orders will not be included in the fundraiser total, gift cards aren't included either. You can pay with a gift card and have it count towards the fundraiser.
 * Share with family and friends\! At least $300 in total sales is required for proceeds to be shared with Compass.
 * Make sure to mention the fundraiser to the cashier&nbsp;**prior**&nbsp;to paying.
-
-&nbsp;
