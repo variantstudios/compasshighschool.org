@@ -1,7 +1,7 @@
 ---
 title: Giving
 background_option: image
-background_image: /assets/images/masterplan5.png
+background_image: /assets/images/backgrounds/csu-lab-carlos.jpg
 search_engine_optimization:
   page_title: Giving
   page_description:
