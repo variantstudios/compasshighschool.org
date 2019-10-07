@@ -53,11 +53,9 @@ Join us tonight for our monthly Parent Action Council Business Meeting from 6:30
 Let's Give Back
 {: .cta}
 
-The community of Fort Collins and our Community Partners give to our school in very real and big ways. **On Saturday, October 19 from 8:00a-noon, we have a chance to give back.** We will be participating as a school group in *Service Saturday\!* and lending a hand to seniors in our community with fall yard clean-up and basic home maintenance.
+The community of Fort Collins and our Community Partners give to our school in very real and big ways. **On Saturday, October 19 from 8:00a-noon, we have a chance to give back.** We will be participating as a school group in [*Service Saturday\!*](https://www.alittlehelp.org/civicrm/event/info?reset=1&amp;id=1585){: target="_blank"} and lending a hand to seniors in our community with fall yard clean-up and basic home maintenance.
 
 Questions? Contact&nbsp;[pac@compassfortcollins.org](mailto:pac@compassfortcollins.org){: target="_blank"}. Otherwise go directly to [A Little Help](https://www.alittlehelp.org/civicrm/event/register?id=1585&amp;reset=1){: target="_blank"} and register.&nbsp;
-
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9wOUxGTXpRWmZROCIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZSIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPg=="><iframe width="560" height="315" src="https://www.youtube.com/embed/p9LFMzQZfQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 Raising Children in a Digital World
 {: .cta}
