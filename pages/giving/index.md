@@ -1,5 +1,5 @@
 ---
-title: Giving
+title: Fund our Genius
 background_option: image
 background_image: /assets/images/backgrounds/csu-lab-carlos.jpg
 search_engine_optimization:
