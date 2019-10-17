@@ -3,7 +3,7 @@ title:
 date:
 background_option:
 background_image:
-image_path:
+image_path: /assets/images/posts/can-you-identify-the-native-plants.jpg
 categories:
 iframe:
   title:
@@ -24,6 +24,8 @@ What a Night\!
 {: .cta}
 
 Our first Exhibition of Learning of the year was a great success\! From sustainability to robotics, and plant restoration to self-exploration, it is clear that much learning is happening at Compass. Students confidently explained their work to adults—an important skill that will serve them well no matter what their futures hold\! Thank you all for coming out and being a part of our vibrant community of learners. Enjoy this recap of the exhibition in pictures\!
+
+&nbsp;
 
 &nbsp;
 
