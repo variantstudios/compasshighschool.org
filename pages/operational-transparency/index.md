@@ -64,12 +64,18 @@ board_agenda:
     file_path: /assets/images/board-agenda-6-17-2019.pdf
   - title: 07/15/19 Board Meeting
     file_path: /assets/images/board-agenda-7-15-2019.pdf
-  - title: 07/19/2019 - Community Funded Discussion NO AGENDA
+  - title: 07/19/19 - Community Funded Discussion NO AGENDA
     file_path:
   - title: 08/19/19 Board Meeting
     file_path: /assets/images/compass-board-agenda-8-19-2019.pdf
   - title: 09/16/19 Board Meeting
     file_path: /assets/images/compass-board-agenda-9-16-2019.pdf
+  - title: >-
+      10/12/19 Board Strategic Planning Session (9 AM-4 PM at No Barriers, 224
+      Canyon Ave.) NO AGENDA
+    file_path:
+  - title: 10/21/19 Board Meeting
+    file_path: /assets/images/compass-board-agenda-10-21-2019.pdf
 board_minutes:
   - title: 01/15/18 Board Special Meeting Minutes
     file_path: /assets/images/compass-bod-special-meeting-minutes-011518.docx
