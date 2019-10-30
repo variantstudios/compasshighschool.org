@@ -39,4 +39,20 @@ In December, the Board will hold a book club for parents in collaboration with t
 Snapshots From Last Week
 {: .cta}
 
+![](/assets/images/the-anime-club-had-fun-getting-their-picture-taken-for-yearbook.jpg){: width="1000" height="634"}
+
+> **The Anime club had fun having their picture taken for the yearbook\!**
+
+**![](/assets/images/unnamed-2.png){: width="1000" height="677"}**
+
+> **Students spent last Saturday morning lending a hand to Seniors in our community. A big thank you to [A Little Help](www.alittlehelp.com){: target="_blank"} for the good work they are doing in our community.**
+
+**![](/assets/images/our-upper-school-first-tech-challenge-team-is-getting-ready-for-competition.jpg){: width="1000" height="750"}**
+
+> **Our Upper School First Tech Challenge Team is getting ready for competition**
+
+**![](/assets/images/sarah-weeks-visited-with-tricia-vincent-from-ottercares-and-found-one-of-her-own-previous-students-william-happily-engaged-at-compass.jpg){: width="1000" height="905"}**
+
+> **Sarah Weeks visited with Tricia Vincent from OtterCares and found one of her own previous students, William, happily engaged at Compass\!**
+
 &nbsp;
