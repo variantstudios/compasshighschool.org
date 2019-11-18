@@ -1,0 +1,59 @@
+---
+title: 'Navigator News: 11.18.19'
+date:
+background_option:
+background_image:
+image_path: /assets/images/posts/youth-change-makers-club-1600.jpg
+categories:
+iframe:
+  title:
+  url:
+  width:
+  height:
+search_engine_optimization:
+  page_title:
+  page_description:
+---
+
+&nbsp;
+
+Youth are the Change
+{: .cta}
+
+![](/assets/images/youth-are-the-change.jpg){: width="1000" height="750"}
+
+Students from the Leadership and Photography seminar,&nbsp;*Being the Change Through the Lens*, hosted a Youth Art Exhibition at the&nbsp;[Colorado Feed and Grain Public Market and Coffeehouse](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=909b488c12&amp;e=d44f2694ec){: target="_blank"}&nbsp;in Timnath October 24-November 2. Owner Becca Bay invited the youth with the goal of providing a social space that they could express themselves and contribute to the betterment of community through their dynamic art. Inspired by Gandhi’s quote,&nbsp;*“Be the change you wish to see in the world”*&nbsp;and the recognition that two forces which influence, and shape individual purpose are one’s attraction to beauty and an innate thirst for knowledge. Compass youth photographed their world in celebration of ‘beauty and knowledge’ with the goal of inspiring others to ‘be the change’ and cultivate joy in community. Students integrated elements from Transformative Leadership into their artwork such as; the purpose of leadership is for personal and social transformation, our moral responsibility is to investigate and apply truth, seeing others as essential noble, service-oriented leadership is motivated by love, by connecting to eternal values we practice transcendence and the development of capabilities. Learning skills and basic techniques in photography has provided students with a wonderful tool for personal expression and societal betterment.
+
+![](/assets/images/youth-change-makers-club-.jpg){: width="1000" height="684"}&nbsp;
+
+During the month of October, several Compass students completed the&nbsp;**Intercultural Community Builder’s ([ICB](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=3c8f9f7305&amp;e=d44f2694ec){: target="_blank"}) Teen Intercultural Leadership**training and workshop. ICB is a Fort Collins-based nonprofit organization that builds community by training, educating and hosting the Be Kind-Be a PAL, Find Your Voice-Take a Stand and Teen Intercultural Leadership workshops that develop skills to eliminate bullying behaviors and prejudice, cultivate a culture of kindness and foster multicultural and intercultural leadership skills. Compass students who completed this training will serve as table leaders and facilitators in ICB’s Teen Intercultural Leadership workshop January 2-4 in Fort Collins.
+
+![](/assets/images/amelka-and-talen-artist-statements.jpg){: width="1000" height="773"}
+
+![](/assets/images/justice-and-jeremiah-artist-statements.jpg){: width="1000" height="773"}
+
+CSU Senior Shares "Gap Year" Experience
+{: .cta}
+
+![](/assets/images/img-0290.jpg){: width="1000" height="1333"}
+
+**Ali Jones, a Senior Communications student at CSU came to the 11th grade Advisory to talk about finances and her gap year abroad after high school.**&nbsp;
+
+Ali talked about&nbsp;[Gap Year Fairs](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=46d7bc3378&amp;e=d44f2694ec){: target="_blank"}&nbsp;and the types of opportunities. In addition to detailing teaching English in Asia, she also talked about cognitive development and decision making at the age a typical students goes to college and her path to deciding where and when to go. She spoke about gap year fairs and obtaining her TEFL license. She indicated how much critical thinking and learning skills she obtained while traveling. Students had lots of questions and Ali was kind enough to share how she saved for her gap year program as well as comparing the cost of Front Range and CSU. &nbsp;
+
+Students asked great questions about scholarships and the benefits of doing community college prior to a four year university. Our students were very interested in her financial strategies as a student paying for her own learning experiences.
+
+Why Compass? Parents Speak.
+{: .cta}
+
+*"We are so grateful for Compass’s dynamic approach to learning that promotes&nbsp;*moving and doing*&nbsp;more than passive&nbsp;*sitting and getting*. My middle school children are benefiting from real world experiences and hands-on learning about topics that are relevant to their world and the future they are inheriting. As one of history’s great educators put it “one test of the correctness of educational procedure is in the happiness of the child.” Certainly there is more to educating a child than just fostering “happiness”, but I would say that very few students fully apply themselves when they are not happy—I know from personal experience.The staff and students at Compass work very hard to maintain a culture of respect and positivity. I attribute this to my children's happiness and love for Compass. They are smiling when I drop them off and smiling when I pick them up—eager to share with me the great things that happened in their day\! It has been my observation that Compass dives deep into topics—to a depth that state evaluations may not go. I sense my kids are seeing the purpose in learning what they are learning. They see the reason in why they need to know how to compose a letter (to get funding for their project) and why they need to know a certain mathematical formula (to calculate the grade of a slope for a reforestation project). It's all really great stuff. Compass is the place for us\!"*
+
+It's Giving Season
+{: .cta}
+
+**DECEMBER 3 is GIVING TUESDAY\! AND OUR FIRST MATCH STARTS NOW\!&nbsp;**Donations given to any of the three campaigns will be matched, dollar-for-dollar up to $5,000, from now until December 3. A special thank you to the Curler family for sponsoring the match. So give now, and remember to spread the word\!In preparation for our first online fundraising campaign, 100% of the Compass Board of Directors and 80% of staff have donated\! We believe in the vision and mission of Compass—and know that it takes a lot to bring it to life. Show the Compass dream team that you BELIEVE in them and&nbsp;[make a gift.](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=6c979f9b51&amp;e=d44f2694ec){: target="_blank"}
+
+Books with the Board
+{: .cta}
+
+Families and staff are invited to join Compass Board members on December 2 at Compass from 7:00-8:00p to discuss&nbsp;[Range: Why Generalists Triumph in a Specialized World](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=0bf4706319&amp;e=d44f2694ec){: target="_blank"}&nbsp;by David Epstein. We know it is getting close to the date to finish the book (although we encourage you to try\! It is a great read), please don’t let that stop you from joining us. You can&nbsp;[get an overview here](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=aca42995f6&amp;e=d44f2694ec){: target="_blank"}&nbsp;or&nbsp;[watch this interview](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=ed30b0fb41&amp;e=d44f2694ec){: target="_blank"}, or one of many others, with the author at YouTube.
