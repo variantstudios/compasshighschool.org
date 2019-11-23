@@ -1,0 +1,83 @@
+---
+title: 'Navigator News: 11.25.19'
+date:
+background_option:
+background_image:
+image_path: /assets/images/posts/science-fair-is-a-great-format-for-student-choice.jpg
+categories:
+iframe:
+  title:
+  url:
+  width:
+  height:
+search_engine_optimization:
+  page_title:
+  page_description:
+---
+
+A Thanksgiving from Jan
+{: .cta}
+
+**HAPPY THANKSGIVING WEEK\! In the spirit of the holiday week, I hope that everyone has a chance to reflect on what they are grateful for.**
+
+What am I grateful for? I am grateful for being part of such a supportive community that fosters innovation, creativity and kindness. I am grateful to come to work everyday to be a part of such an inspiring and committed team—staff, students, parents and community members alike. I am grateful to have work that I am passionate about—and that that passion is contagious and widespread. And I am grateful for YOU. All of you, for contributing to bringing a dream to life.
+
+I am also grateful to each and every one of you who has taken the time to help support Compass. I am happy to announce that&nbsp;**WE MET OUR FIRST MATCH\! We reached $11,000 in donations, unlocking a $5,000 match from Jeff and Lea Curler.**&nbsp;THANK YOU ALL FOR MAKING THIS HAPPEN\! This brings us closer to matching our overall goal of $15,000 in online pledges by GIVING TUESDAY.
+
+**WE HAVE ANOTHER MATCH**—**if we reach 75 donors online by December 3, we will receive a $2,000 gift from an anonymous donor.**&nbsp;This match is all about participation and growing our community. Every gift—regardless of size—makes a difference. Please take a moment to give, and click the Facebook button (it is near the bottom of the text portion of the&nbsp;[GIVING](https://compassfortcollins.org/giving){: target="_blank"}&nbsp;page) to post to your network. I made this simple move the other day (it took all of five minutes) and received $200 in donations within an hour. (Including a gift from someone I haven’t seen in 15 years\! Truly touching to know your community supports you\!)
+
+HAVE A WONDERFUL HOLIDAY\!<br>– Jan
+
+Why Compass? Parents Speak\!
+{: .cta}
+
+*“It's really hard to explain to people all of the reasons that our family loves Compass. It's such a paradigm shift in every way that describing it to someone who went through traditional school makes for interesting conversation. I tell people that it's exactly the kind of school that I would have thrived in. Kids get exposed to so many different experiences that then open them up to new things that they're passionate about that they might not otherwise realize. You can tell that the staff truly believe in the school's vision. I tell people that it may not be perfect for every kid, but mine absolutely loves going to school... what more could I ask for right now?\!”*
+
+Venture Highlight: Independent Venture
+{: .cta}
+
+![](/assets/images/independent-ventures-at-compass-community-collaborative-school-big-picture-learning.jpg){: width="1260" height="540"}
+
+**Independent Venture is the culmination of the Compass experience. Students who have shown competency in design-thinking are invited to create a venture of their own.**This semester, these students have identified a problem, created products to address their problems, and reached out to community members who are experts in this field. Students will be presenting their final products on December 17th at our Winter Exhibition of Learning.
+
+**Student:**&nbsp;Chloe<br>**Age:**&nbsp;14<br>**Problem Statement:**&nbsp;Inequities in Education Persist into Adulthood&nbsp;<br>**Community Partners:&nbsp;**Cerissa Stevenson and&nbsp;[CSU Early Childhood Center](https://www.chhs.colostate.edu/ecc/){: target="_blank"}<br>**Project Findings:&nbsp;**Preschool is important to building a solid foundation to secure emotional and academic success in the future.&nbsp;
+
+**Student:**&nbsp;Leilani<br>**Age:**&nbsp;14<br>**Problem Statement:**&nbsp;Creativity is often stifled by too many expectations, too little guidance, and the everyday demands of living.&nbsp;<br>**Community Partners:&nbsp;**Lisa Morgan and Judy Bejarano, and the&nbsp;[CSU Dance Program](https://dance.colostate.edu/){: target="_blank"}<br>**Project Findings:&nbsp;**In order to produce a creative piece, you must put yourself out there and be willing to be vulnerable.&nbsp;&nbsp;
+
+**Student:**&nbsp;Alaina&nbsp;<br>**Age:**&nbsp;16<br>**Problem Statement:**&nbsp;Youth are not politically engaged&nbsp;**Community Partners:&nbsp;**The CSU Poli-Science Student Group and Fort Collins Attorney General&nbsp;<br>**Project Findings:&nbsp;**There is so much complexity to politics that it is amazing we are so divided by only two points of view.&nbsp;
+
+Venture Highlight: Intergenerational Experiences
+{: .cta}
+
+Things are moving along in the Intergenerational Experiences venture\! While we are getting ready to get out and connect with seniors in our community we are using the time to develop skills to use with “senior friends”, read and discuss literature which enhances sensitivity to and respect for seniors, and conduct research to increase awareness and sensitivity for the residents of a retirement home. We now have some really exciting opportunities to connect with the community.&nbsp;
+
+Tuesday, students will visit Old Town Library and participate in the November Lifetime Enrichment event with Dementia-Friendly Communities of Northern Colorado. Wednesday, November 13, students will visit The Winslow Retirement Community and make tie blankets (which will then be donated to a shelter) with seniors. Furthermore, students will lead the Holiday Fun Lifetime Enrichment event with Dementia-Friendly Communities of Northern Colorado at Old Town Library on December 3rd. Finally, students are excited to have the opportunity to invite seniors to Compass to participate in various activities and record interviews for StoryCorps’ Great Thanksgiving Listen.&nbsp;
+
+****Middle Schoolers Shine in FIRST Lego League Competition****
+{: .cta}
+
+![](/assets/images/team--make-this--was-the-champion-at-their-first-lego-league-qualifier-and-are-on-to-the-state-competition.jpg){: width="1000" height="750"}
+
+A team from CCCS has brought home our first Robotics trophy\! Congratulations to team “Make This\!” and members Henry R, Clara W, Marek K, and Jack D. These young engineers won the first-place Champion’s Award at their FIRST Lego League qualifier on November 9 at Liberty High School.&nbsp;**The team created a robot that scored 195 points in this year’s “City Shaper” robot game**, and they also presented a research project about reducing crime around campus and in the north side of Fort Collins.&nbsp;**The judges gave them high marks for their outstanding presentation and teamwork abilities.**Our Compass students really showed gracious professionalism, determination, and grit. The team will represent Compass at the Colorado Championship on December 7 in Denver.
+
+****Key Communities Gathering at CSU****
+{: .cta}
+
+![](/assets/images/img-0320.jpg){: width="1000" height="1333"}
+
+On November 18th a group of high school students traveled to Key Communities at CSU with the Futures Counselor, Wendy Rose. We played some mind boggling games to talk about problem solving.&nbsp;**Key Communities supports first generation and diverse students in small classes and living communities during the first year.&nbsp;**Three CSU Students who participated in the program told about their experiences and how the close connections they developed has helped them throughout their time at CSU. Anna Marie Almanza also talked with students about the different learning communities within Key, some focused on civic engagement, major exploration, or college clusters. Key also supports students in applying for scholarships and has a close connection to advising on campus. For more information go to&nbsp;[key.lc.colostate.edu](http://key.lc.colostate.edu/){: target="_blank"}\!
+
+Snapshots from Last Week
+{: .cta}
+
+![](/assets/images/science-fair-is-a-great-format-for-student-choice.jpg){: width="1000" height="750"}
+
+***Science fair is a great format for student choice.***
+
+***![](/assets/images/science-at-the-csu-science-lab-looks-fun.jpg){: width="1000" height="750"}***
+
+***Science at CSU Science Lab looks&nbsp;**fun\!***
+
+***![](/assets/images/the-csu-science-lab-is-an-invaluable-resource.jpg){: width="1000" height="750"}***
+
+***CSU Science Lab is an invaluable resource***
