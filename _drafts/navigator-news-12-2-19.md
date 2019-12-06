@@ -1,0 +1,77 @@
+---
+title: 'Navigator News: 12.2.19'
+date:
+background_option:
+background_image:
+image_path: /assets/images/posts/unnamed-1.jpg
+categories:
+iframe:
+  title:
+  url:
+  width:
+  height:
+search_engine_optimization:
+  page_title:
+  page_description:
+---
+
+Giving Thanks
+{: .cta}
+
+![](/assets/images/unnamed-28.jpg){: width="1000" height="729"}
+
+*9th grade Advisories joined together to celebrate Thanksgiving in the Upper School Lounge.*
+
+Venture Highlight: Independent Venture
+{: .cta}
+
+Compass offers students the opportunity to employ entrepreneurial mindsets and use community-engaged project-based learning (venture projects) to inspire deep learning of academic, social-emotional, and 21st Century essential skills. Venture projects may be group-based or individual—especially as students advance to higher levels. Here, three Upper School students share the details of their current Independent Venture and the community members supporting them in their learning\!
+
+**Student: Anna<br>Age:** 14<br>**Problem Statement:** People find microbiology to be a scary and intimidating subject and therefore are unwilling to learn about it.&nbsp;<br>**Community Partners:** [CSU Department of Microbiology, Immunology, and Pathology](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=3fe86205cd&amp;e=d44f2694ec)&nbsp;students and Katie Boisen’s 4th grade class at [Zach Elementary&nbsp;](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=2293f9f324&amp;e=d44f2694ec)<br>**Project Findings:** *“Science does not need to be cold, instead it is a discipline filled with curiosity, wonder, and compassion.”*
+
+![](/assets/images/unnamed-3.png){: width="1252" height="366"}
+
+**Student: Lucille<br>Age:** 15<br>**Problem Statement:** Wetlands hold great significance in the health of our earth but few people know about the threats they face.&nbsp;<br>**Community Partners:** [AloTerra Restoration Services, LLC](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=d45b769610&amp;e=d44f2694ec)&nbsp;and&nbsp;[CSU Colorado Natural Heritage Program](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=b25dbed574&amp;e=d44f2694ec)&nbsp;<br>**Project Findings:***“Since wetlands provide more services than goods it’s hard for people to see their significance to the sustainability of our community.”&nbsp;*<br><br>![](/assets/images/unnamed-28.jpg){: width="1008" height="180"}
+
+**Student: Dallon Hoffman&nbsp;<br>Age:** 16<br>**Problem Statement:** There is no clear path to success for artists and musicians.&nbsp;<br>**Community Partners:** Adam Fallik and his professional band, [Wasteland Hop](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=0a3e8c4686&amp;e=d44f2694ec)<br>**Project Findings:** *“Creative professionals must put aside their fears in order to pursue successful careers.”<br><br>![](/assets/images/screen-shot-2019-11-30-at-9-41-56-am.png){: width="1050" height="396"}*
+
+Learning Fly Tying
+{: .cta}
+
+![](/assets/images/unnamed-28.jpg){: width="800" height="600"}
+
+*Sixth grader Brodie S. is running an Independent Inquiry in fly tying.*
+
+Math Contests Underway
+{: .cta}
+
+&nbsp;
+
+Thank you to everyone who participated in the UNC math contest\! Results are in\!
+
+**Our school high scorer was Leila S.**, who was just one question short of qualifying for the final round.
+
+Honorable Mention students who also earned official scores (with most only 2 questions from final round qualification) were Ashton C., Isaiah H., Lily C., Malachai B., Melia H., Rhoen N., Zack T.&nbsp;
+
+Congratulations again on jumping in to the math contest world\!
+
+**More opportunities coming up:**
+
+Grades 6, 7, 8:&nbsp; The monthly MOEMS math contest will happen in Advisory this Thursday and once/month in advisory through March.
+
+Grades 9, 10:&nbsp; AMC-10 math contest (famous math contest, great resume-builder) in late January. We only have 9 seats available, so please let&nbsp;[Karen](mailto:karen@compassfortcollins.org){: target="_blank"}&nbsp;know if you are interested.
+
+A Rowing Champion in Our Midst
+{: .cta}
+
+**Months of daily, 5:30am practice on Horsetooth Reservoir paid off for Francesca M. and her crew at the National Rowing Association's Wichita Frostbite Regatta on November 3rd.**&nbsp;She and her quad of junior women rowers took first place out of 14 crews in a 2800 meter river race\!
+
+![](/assets/images/unnamed-28.jpg){: width="480" height="412"}
+{: .align-to-center}
+
+Francesca rows with&nbsp;[NOCO Juniors](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=dd86234fd9&amp;e=d44f2694ec){: target="_blank"}, part of the&nbsp;[Fort Collins Rowing Association.](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=131fddb469&amp;e=d44f2694ec){: target="_blank"}&nbsp;This past weekend they finished their season by rowing together in the Horsetooth Ache—a half-marathon distance race traveling the entire length of the reservoir up and back. The NOCO Juniors finished first of the junior's crews with a time of 1 hour and 21 minutes\! Well done Francesca and NOCO Crew\!
+
+Why Compass? Parents Speak\!
+{: .cta}
+
+*"Our kids have benefited greatly from the teachers and staff at Compass. The teachers put great effort into their plans including outings in the community to interview employees, community members and get a front row experience of businesses that apply to their studies. The information gathered is put to use by creating a piece of work either for their schoolwork or for others to benefit in the greater community. Our kids are excited for school each morning and talk about their fun experiences in learning. In addition, our kids are challenged in their learning and thinking at compass, which supports them becoming engaged participants and contributors to the community as they become young adults." &nbsp;*
