@@ -9,7 +9,7 @@ permalink: /facility-rental/
 layout: page
 webform:
   subject: 'Compass Community Collaborative School: Rental Form'
-  to: 'chris@compassfortcollins.org, team@variantstudios.com'
+  to: 'jan@compassfortcollins.org, chris@compassfortcollins.org, team@variantstudios.com'
   thank_you_message: Thank you. Your message has been sent. We will contact you shortly.
 class: rental
 _comments:
