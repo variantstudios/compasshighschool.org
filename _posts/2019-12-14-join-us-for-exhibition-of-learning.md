@@ -26,7 +26,7 @@ This [Fall 2019 Exhibition of Learning video](https://www.youtube.com/watch?v=IL
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9JTG1hamxjbDdWayIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZSIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPg=="><iframe width="560" height="315" src="https://www.youtube.com/embed/ILmajlcl7Vk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-Come see, up close, what Compass Community Collaborative School students have been exploring in these and other venture projects this quarter:
+Get an up close look what Compass Community Collaborative School students have been exploring in these and other venture projects this quarter:
 
 * Natural Hazards
 * Precise Problem-Solvers
