@@ -15,7 +15,7 @@ search_engine_optimization:
   page_description:
 ---
 
-## Excitement of a New Year
+## The Excitement of a New Year
 {: .align-to-center}
 
 ![](/assets/images/img-7955.jpg){: width="1333" height="1000"}
