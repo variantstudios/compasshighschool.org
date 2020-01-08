@@ -24,8 +24,7 @@ Now, with the days getting longer again and the fresh start that new Ventures an
 
 The excitement of this new year is amplified by the fact that it is also the start of a new decade. Looking back on all that we have created in the last five years, one can hardly even imagine what we will accomplish over the course of this new decade\! So many good things are to come, and we are grateful to have you as partners in our journey.
 
-Q3 Ventures
-{: .cta}
+# Q3 Ventures
 
 Third quarter Ventures will start on January 14th, 2020. Here are the exciting opportunities we have in store for our learning community this academic quarter:&nbsp;
 
@@ -59,7 +58,7 @@ Just like Vanilla Ice, students will spend time in this venture exploring proble
 
 Juniors need to start focusing on college and career readiness in a very explicit way. This means that they will be working with Bonnie and Wendy this quarter to prepare for SAT testing, college applications, resume writing, and additional postsecondary readiness skills including research skills that will facilitate the research paper they need to write and present as part of their graduation requirements. This will be a challenging and exciting Venture for all of our juniors\!
 
-Snapshots from Q2 Exhibition of Learning
+# Snapshots from Q2 Exhibition of Learning
 {: .cta}
 
 ![](/assets/images/img-0951.jpg){: width="1333" height="1000"}
