@@ -17,7 +17,7 @@ layout: null
           {% unless post.draft %}
             <item>
              <title>{{ post.title | xml_escape }}</title>
-             <description>{{ post.content | xml_escape | remove: '\n'}}</description>
+             <description>{{ post.content| replace: "/assets/images/", "https://compassfortcollins.org/assets/images/" | xml_escape | remove: '\n'}}</description>
              <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
              <link>{{ post.url | prepend: site.url }}</link>
              <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
