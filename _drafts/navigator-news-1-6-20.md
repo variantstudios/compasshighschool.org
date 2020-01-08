@@ -88,6 +88,6 @@ Snapshots from Q2 Exhibition of Learning
 
 ![](/assets/images/img-7971.jpg){: width="1333" height="1000"}
 
-![](/assets/images/img-7972.jpg){: width="1333" height="1000"}
+&nbsp;
 
 &nbsp;
