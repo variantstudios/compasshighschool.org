@@ -54,7 +54,11 @@ Students in this venture will use their drawing and computer skills to create st
 
 #### **Films for Climate Change Action (grades 8-10) with Sam**
 
-We will be creating and premiering fully student-made short films that incorporate scientifically accurate information about climate change into a variety of film Genres. Working in small groups with the help of a CSU student mentor from the College of Natural Resources you will collaborate on this challenging project. We will spend a significant amount of time off campus and at CSU. This project will require a significant amount of creativity and ability to work to meet deadlines that are set by you and your group rather than by external sources.&nbsp;**Inner Secrets of the Game Industry (C\# game programming) (grades 8-10, Algebra 1 or higher) with Karen**Join us to take a deep dive into C\# programming\! No previous experience needed, though we will tackle advanced concepts as you make your first games and work hard to expand your skills as quickly as we can. What makes a game addictive, and how can you tweak your games to be even more addictive? Should you? We will also explore our values regarding technology, game addiction, and positive gaming outcomes.&nbsp;
+We will be creating and premiering fully student-made short films that incorporate scientifically accurate information about climate change into a variety of film Genres. Working in small groups with the help of a CSU student mentor from the College of Natural Resources you will collaborate on this challenging project. We will spend a significant amount of time off campus and at CSU. This project will require a significant amount of creativity and ability to work to meet deadlines that are set by you and your group rather than by external sources.&nbsp;
+
+#### **Inner Secrets of the Game Industry (C\# game programming) (grades 8-10, Algebra 1 or higher) with Karen**
+
+Join us to take a deep dive into C\# programming\! No previous experience needed, though we will tackle advanced concepts as you make your first games and work hard to expand your skills as quickly as we can. What makes a game addictive, and how can you tweak your games to be even more addictive? Should you? We will also explore our values regarding technology, game addiction, and positive gaming outcomes.&nbsp;
 
 #### **Yo, I'll Solve it\!&nbsp; (grades 6-8) with Hadeel**
 
