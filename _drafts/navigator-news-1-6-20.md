@@ -62,4 +62,14 @@ Juniors need to start focusing on college and career readiness in a very explici
 Snapshots from Q2 Exhibition of Learning
 {: .cta}
 
+![](/assets/images/img-0951.jpg){: width="1333" height="1000"}
+
+![](/assets/images/img-0953.jpg){: width="1000" height="1333"}
+
+![](/assets/images/img-0954.jpg){: width="1333" height="1000"}
+
+![](/assets/images/img-0963.jpg){: width="1333" height="1000"}
+
+![](/assets/images/img-0967.jpg){: width="865" height="1000"}
+
 &nbsp;
