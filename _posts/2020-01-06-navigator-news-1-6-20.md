@@ -15,6 +15,9 @@ search_engine_optimization:
   page_description:
 ---
 
+&nbsp;
+{: .cta}
+
 # The Excitement of a New Year
 {: .align-to-center}
 
@@ -23,6 +26,9 @@ search_engine_optimization:
 Now, with the days getting longer again and the fresh start that new Ventures and Intensives bring, we are filled with gratitude for our past and present and filled with hope as we look forward to a productive and happy second semester.
 
 The excitement of this new year is amplified by the fact that it is also the start of a new decade. Looking back on all that we have created in the last five years, one can hardly even imagine what we will accomplish over the course of this new decade\! So many good things are to come, and we are grateful to have you as partners in our journey.
+
+&nbsp;
+{: .cta}
 
 # Q3 Ventures
 
@@ -57,6 +63,9 @@ Just like Vanilla Ice, students will spend time in this venture exploring proble
 #### **Postsecondary Readiness (required for all 11th-grade students) with Bonnie and Wendy**
 
 Juniors need to start focusing on college and career readiness in a very explicit way. This means that they will be working with Bonnie and Wendy this quarter to prepare for SAT testing, college applications, resume writing, and additional postsecondary readiness skills including research skills that will facilitate the research paper they need to write and present as part of their graduation requirements. This will be a challenging and exciting Venture for all of our juniors\!
+
+&nbsp;
+{: .cta}
 
 # Snapshots from Q2 Exhibition of Learning
 {: .cta}
