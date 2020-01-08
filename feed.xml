@@ -12,12 +12,12 @@ layout: null
 		<link>https://compassfortcollins.org/feed.xml</link>
 		<description>Your latest Compass news</description>
 		<pubDate>{% assign postz = site.posts | sort:'date' | reverse %}{% for post in postz limit:1 %}{% unless post.draft %}{{ post.date | date_to_rfc822 }}{% endunless %}{% endfor %}</pubDate>
-		<atom:link href="https://compassfortcollins.org/feed.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://compassfortcollins.org/test.xml" rel="self" type="application/rss+xml" />
 		{% assign postz = site.posts | sort:'date' | reverse %}{% for post in postz%}
           {% unless post.draft %}
             <item>
              <title>{{ post.title | xml_escape }}</title>
-             <description>{{ post.content | strip_html | xml_escape | remove: '\n'}}</description>
+             <description>{{ post.content| replace: "/assets/images/", "https://compassfortcollins.org/assets/images/" | xml_escape | remove: '\n'}}</description>
              <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
              <link>{{ post.url | prepend: site.url }}</link>
              <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
