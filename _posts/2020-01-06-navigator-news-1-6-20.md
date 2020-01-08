@@ -32,7 +32,7 @@ The excitement of this new year is amplified by the fact that it is also the sta
 
 # Q3 Ventures
 
-Third quarter Ventures will start on January 14th, 2020. Here are the exciting opportunities we have in store for our learning community this academic quarter:&nbsp;
+![](/assets/images/img-7949.jpg){: width="1000" height="1333"}Third quarter Ventures will start on January 14th, 2020. Here are the exciting opportunities we have in store for our learning community this academic quarter:&nbsp;
 
 #### **Compass Media (grades 6-8) with Shamayim**
 
@@ -85,8 +85,6 @@ Juniors need to start focusing on college and career readiness in a very explici
 ![](/assets/images/img-0973.jpg){: width="1333" height="1000"}
 
 ![](/assets/images/img-0991.jpg){: width="1333" height="1000"}
-
-![](/assets/images/img-7949.jpg){: width="1000" height="1333"}
 
 ![](/assets/images/img-7951.jpg){: width="1000" height="1333"}
 
