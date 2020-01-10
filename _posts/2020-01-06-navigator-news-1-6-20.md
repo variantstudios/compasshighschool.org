@@ -15,11 +15,7 @@ search_engine_optimization:
   page_description:
 ---
 
-&nbsp;
-{: .cta}
-
-# The Excitement of a New Year
-{: .align-to-center}
+# —The Excitement of the New Year —
 
 ![](/assets/images/img-7955.jpg){: width="1333" height="1000"}
 
@@ -30,7 +26,7 @@ The excitement of this new year is amplified by the fact that it is also the sta
 &nbsp;
 {: .cta}
 
-# Q3 Ventures
+# —Q3 Ventures—
 
 ![](/assets/images/img-7949.jpg){: width="1000" height="1333"}
 
@@ -73,7 +69,7 @@ Juniors need to start focusing on college and career readiness in a very explici
 &nbsp;
 {: .cta}
 
-# Snapshots from Q2 Exhibition of Learning
+# —Snapshots from Q2 Exhibition of Learning—
 {: .cta}
 
 ![](/assets/images/img-0951.jpg){: width="1333" height="1000"}
