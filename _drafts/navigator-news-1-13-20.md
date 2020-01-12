@@ -1,9 +1,10 @@
 ---
 title:
-date:
+date: 2020-01-13 12:00:00
 background_option:
 background_image:
-image_path:
+image_path: >-
+  /assets/images/posts/thanks-to-all-the-parents-and-friends-who-supported-our-presenters.jpg
 categories:
 iframe:
   title:
@@ -42,6 +43,41 @@ Did you miss them, or see only a middle school presentation? Please take the opp
 ![](/assets/images/thanks-to-all-the-teachers-who-helped-design-structure-and-assess-the-pols.jpg){: width="1000" height="750"}
 
 ***Thanks to all the teachers who helped design, structure and assess POLs***
+
+&nbsp;
+{: .cta}
+
+# ****CCCS Board Member to Present at TEDx****
+
+Our very own Board Vice President and International Baccalaureate history teacher, Russ Brown, was invited to speak at a TEDx Conference in Iowa this past year. The video of his presentation has finally been published and it is well worth the listen. We’re proud of you, Russ\!&nbsp;
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9vbzQ1VW0tYmU4SSIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZSIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPg=="><iframe width="560" height="315" src="https://www.youtube.com/embed/oo45Um-be8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+&nbsp;
+{: .cta}
+
+# ****Hello\! I'm Hadeel.****
+
+&nbsp;
+
+![](/assets/images/screen-shot-2020-01-11-at-8-08-25-pm.png){: width="1344" height="826"}
+
+*I discovered my love for teaching when I volunteered at Irish Elementary in high school. I continued volunteering all through college at Beattie Elementary, teaching 5th grade math. I was hired as a math and literacy interventionist at Riffenburgh elementary for a year. In addition, I coached Science Olympiad at Poudre High School for two years. More recently, I worked as an instructor at Mathnasium of Fort Collins and as an AVID Tutor at Wellington Middle school.*
+
+*As an educator, I have many aspirations for my students. My biggest goal is to give every student in my classroom a voice and a space to be heard. I believe that every student can learn if given the right resources and opportunities. Teaching should be studentcentered and I want every student to know that they can succeed.*
+
+Hadeel has just joined Compass as a math teacher\! Read her&nbsp;[full bio here.](https://drive.google.com/file/d/0BxC4PvDe91O3T0d3eVhFbHoybVFwcWc5dEZQeUlWMm9lWEZF/view?usp=sharing){: target="_blank"}&nbsp;WELCOME Hadeel\!
+
+&nbsp;
+{: .cta}
+
+# Community Partners
+
+![](/assets/images/family-balance-yoga.jpg){: width="400" height="230"}
+
+Our newest community partner,&nbsp;[Family Balance Yoga](http://www.childrensyogainfortcollinsco.com/){: target="_blank"}, is offering a yoga seminar every Wednesday for our students.
+
+Family Balance Yoga is a local Fort Collins studio that specializes in yoga classes for the whole family\! They have classes for adults, class for kids and teens, and classes for families to practice together. Their teachers love working with yoga practitioners of all levels and abilities so if you're a seasoned yoga practitioner or have never set foot on a yoga mat, they have got a space for you. It is well known that yoga can work wonders for people experiencing stress, pain, lack of sleep or focus, and much more, so why not go see what a yoga practice can do for you?
 
 &nbsp;
 
