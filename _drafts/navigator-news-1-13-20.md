@@ -27,4 +27,22 @@ search_engine_optimization:
 
 ***Silas, Colin and Lucille were POL partners***
 
-***![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUCB1j+A8EAAn7A/0Mu1vnAAAAAElFTkSuQmCC){: .cms-image-placeholder}***
+***![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUCB1j+A8EAAn7A/0Mu1vnAAAAAElFTkSuQmCC){: .cms-image-placeholder}![](/assets/images/thanks-to-all-the-parents-and-friends-who-supported-our-presenters.jpg){: width="1000" height="750"}***
+
+***Thanks to all the parents and friends who supported our presenters***
+
+We couldn’t agree more\! The profound reflections and deep learning that we witnessed as our students presented to parents and peers was a window into the powerful impact that Compass is having on the lives of our students. We teach differently, we assess differently, and we have built a culture that cares deeply. The winter Presentations of Learning are just one insight into the ways that our students are learning critical skills that will serve them for the rest of their lives.&nbsp;
+
+Did you miss them, or see only a middle school presentation? Please take the opportunity to see Lucie's POL that she created and presented as a video.&nbsp;[Click here](https://drive.google.com/file/d/1VPXPWczIPFDT-4wSy57ojdzgPmBaV-J0/view?usp=sharing){: target="_blank"}&nbsp;to see her fun and thoughtful presentation\!
+
+![](/assets/images/compass-student-presentation-of-learning.png){: width="1618" height="982"}
+
+***Lucie's Presentation of Learning (watch it&nbsp;***[here](https://drive.google.com/file/d/1VPXPWczIPFDT-4wSy57ojdzgPmBaV-J0/view?usp=sharing){: target="_blank"})
+
+![](/assets/images/thanks-to-all-the-teachers-who-helped-design-structure-and-assess-the-pols.jpg){: width="1000" height="750"}
+
+***Thanks to all the teachers who helped design, structure and assess POLs***
+
+&nbsp;
+
+&nbsp;
