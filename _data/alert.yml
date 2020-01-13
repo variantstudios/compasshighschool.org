@@ -1,2 +1,4 @@
-message_html:
-show: false
+message_html: >-
+  <p>Prospective Family Information Night TOMORROW, Tuesday, January 14th. Tours
+  start at 6p and information program runs 6:30-7:30p. See you then!</p>
+show: true
