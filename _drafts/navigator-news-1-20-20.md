@@ -1,6 +1,6 @@
 ---
 title: 'Navigator News: 1.20.20'
-date:
+date: 2020-01-20 12:00:00
 background_option:
 background_image:
 image_path: >-
