@@ -1,6 +1,6 @@
 ---
 title: 'Navigator News: 2.3.20'
-date:
+date: 2020-02-05 02:26:40
 background_option:
 background_image:
 image_path: >-
@@ -16,13 +16,11 @@ search_engine_optimization:
   page_description:
 ---
 
-# ****FIRST Tech Challenge Robotics Wins Awards at Regionals\!****
+# **FIRST Tech Challenge Robotics Wins Awards at Regionals\!**
 
-****![](/assets/images/a-winning-team.jpg){: width="1000" height="808"}****
+**![](/assets/images/a-winning-team.jpg){: width="1000" height="808"}**
 
-*****A winning team\!*****
-
-&nbsp;
+***A winning team\!***
 
 Our upper school robotics team earned a 2nd place THINK award and 3rd place CONTROL award in this past weekend’s regional competition\!&nbsp;
 
@@ -40,11 +38,9 @@ This diverse team of students practiced a multitude of engineering and collabora
 &nbsp;
 {: .cta}
 
-# ****CSU College of Business Global Business Academy for High School Students****
+# **CSU College of Business Global Business Academy for High School Students**
 
-&nbsp;
-
-***From our partners at Colorado State University ...***The third summer CSU Global Business Academy is accepting for applications from current high school freshmen, sophomores and juniors. If you know a high school student who might benefit from a two-week, interactive and team-based program where they develop global business awareness, cross-cultural skills, and form new international friendships&nbsp;[please see our website](https://biz.colostate.edu/academics/high-school-programs/global-business-academy){: target="_blank"}&nbsp;for more information and the application link.
+***From our partners at Colorado State University …***The third summer CSU Global Business Academy is accepting for applications from current high school freshmen, sophomores and juniors. If you know a high school student who might benefit from a two-week, interactive and team-based program where they develop global business awareness, cross-cultural skills, and form new international friendships&nbsp;[please see our website](https://biz.colostate.edu/academics/high-school-programs/global-business-academy){: target="_blank"}&nbsp;for more information and the application link.
 
 **Here’s what some of last year’s attendees said:**
 
@@ -64,5 +60,3 @@ This diverse team of students practiced a multitude of engineering and collabora
 —By Tyler W.On Wednesday of last week, Kayla's venture (1st Annual Compass Performance Showcase) went to the&nbsp;[Fort Collins Lincoln Center](https://lctix.com/){: target="_blank"}. We learned how to walk through the building, what the rules were and where everything we will need for our performance is located. We also learned about the history of the center.&nbsp;***Did you know the Lincoln Center is named after the high school that was there before?***
 
 **Kayla's venture is performing in the Magnolia Theater on February 26 from 2:00 to 3:00 pm.**&nbsp;We hope you will be there\! We will be taking donations and then giving them to&nbsp;[Dance Express](http://www.danceexpressfc.com/){: target="_blank"}. Dance Express is a company that gives everyone a chance no matter race, gender, disability, or age to dance. Our mission is to produce a unique show with a variety of talents that is a unifying experience for all.
-
-&nbsp;
