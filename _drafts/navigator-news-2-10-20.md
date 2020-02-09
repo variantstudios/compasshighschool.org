@@ -15,13 +15,11 @@ search_engine_optimization:
   page_description:
 ---
 
-# ****Compass Juniors are Exploring Career and College Opportunities****
+# **Compass Juniors are Exploring Career and College Opportunities**
 
-****![](/assets/images/frontrangetour.jpg){: width="667" height="500"}****
+**![](/assets/images/frontrangetour.jpg){: width="667" height="500"}**
 
 ***Touring Front Range Community College.***
-
-&nbsp;
 
 Students in 11th-grade have been working with Bonnie and Wendy to determine the kinds of educational options and professions they wanted to learn more about as part of their postsecondary readiness venture experience. Our well-connected community of teachers, parents, and friends have invited local professionals in these fields to share their time and expertise with our students. &nbsp;
 
@@ -43,7 +41,7 @@ Just last week these students had the opportunity to tour the Front Range Commun
 &nbsp;
 {: .cta}
 
-# ****MathCounts Team Hard at Work on a Snowy Friday Evening****
+# **MathCounts Team Hard at Work on a Snowy Friday Evening**
 
 ![](/assets/images/mathcounts-team-hard-at-work-on-a-snowy-friday-evening.jpg){: width="1175" height="770"}
 
@@ -52,7 +50,7 @@ The MathCounts team met Friday night from 6-10pm to prepare for Regionals at UNC
 &nbsp;
 {: .cta}
 
-# ****Compass Snapshots****
+# **Compass Snapshots**
 
 ![](/assets/images/img-1057.jpg){: width="1000" height="1333"}
 
@@ -72,7 +70,7 @@ The MathCounts team met Friday night from 6-10pm to prepare for Regionals at UNC
 
 ![](/assets/images/img-1056-3.jpg){: width="1333" height="1000"}
 
-***One**&nbsp;of our design-build crews.&nbsp;***
+***One of our design-build crews.&nbsp;***
 
 ***![](/assets/images/lucille-and-leilani-read-the-compass-charter-aloud-to-remind-students-of-the-school-culture-we-value-and-want-to-protect.jpg){: width="1333" height="825"}***
 
