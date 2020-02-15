@@ -21,16 +21,18 @@ search_engine_optimization:
 
 ***Looking through samples of FRCC student design projects.***
 
-*The Community Experience Venture*&nbsp;led by the Futures Counselor, Wendy Rose, attended a graphic design class at&nbsp;[Front Range Community College](https://www.frontrange.edu/programs-and-courses/a-z-program-list/multimedia-technology){: target="_blank"}&nbsp;(FRCC) last week. Maggie Adams, Multimedia Graphic Design Program Director at FRCC, let us visit her Illustrator class and gave us an overview of the program. She noted how FRCC works closely with the community and industry to ensure students are able to obtain good positions after receiving their degree. &nbsp;*“The best part of our visit was viewing the projects students had created and seeing what a college class was like. Learning the differences between the programs available in Fort Collins was informative—like the difference between FRCC's and CSU’s approach to design. FRCC is more technology-based whereas CSU is more pure art-based design,”*&nbsp;says 10th grader, Dallon H.
+*The Community Experience Venture*&nbsp;led by the Futures Counselor, Wendy Rose, attended a graphic design class at&nbsp;[Front Range Community College](https://www.frontrange.edu/programs-and-courses/a-z-program-list/multimedia-technology){: target="_blank"}&nbsp;(FRCC) last week. Maggie Adams, Multimedia Graphic Design Program Director at FRCC, let us visit her Illustrator class and gave us an overview of the program. She noted how FRCC works closely with the community and industry to ensure students are able to obtain good positions after receiving their degree. &nbsp;
+
+> *The best part of our visit was viewing the projects students had created and seeing what a college class was like. Learning the differences between the programs available in Fort Collins was informative—like the difference between FRCC's and CSU’s approach to design. FRCC is more technology-based whereas CSU is more pure art-based design. —*10th grader, Dallon H.
 
 Lucille G. was surprised to find that there are so many ways to be creative within graphic design. The packaging design projects she enjoyed included CD covers, cereal boxes and book covers\!
 
 &nbsp;
 {: .cta}
 
-# Upcoming Mad Math Dash
+# Compass Mad Math Dash
 
-Who comes to school on a Saturday to do math? Compass kids, of course\! On Saturday, March 28 from 9a-12p, Compass students are hosting a friendly&nbsp;*Mad Math Dash*&nbsp;competition and design challenge experience for current 4th and 5th graders. Do you know any 4th or 5th graders who want to have a fun Compass experience while flexing their math muscles? Please help us get the word out\! Stay tuned for more details.
+Who comes to school on a Saturday to do math? Compass kids, of course\! On Saturday, March 28 from 9a-12p, Compass students are hosting a friendly&nbsp;*Mad Math Dash*&nbsp;competition and design challenge experience for current 4th and 5th graders. Do you know any 4th or 5th graders who want to have a fun Compass experience while flexing their math muscles? Spread the word and stay tuned for more details.
 
 &nbsp;
 {: .cta}
@@ -55,7 +57,7 @@ This week our Juniors will deliver the money they raised for&nbsp;[***Slammin’
 
 ![](/assets/images/1000equine-therapy-field-trip-started-with-cookies-and-a-circle.jpg){: width="1000" height="750"}
 
-***A recent equine therapy \*\*field\*\* trip started with cookies and a circle\!***
+***A recent equine therapy field trip started with cookies and a circle\!***
 
 ***![](/assets/images/1000what-horses-can-teach-us.jpg){: width="1000" height="750"}***
 
