@@ -1,6 +1,6 @@
 ---
 title: 'Navigator News: 1.17.20'
-date:
+date: 2020-02-17 12:00:00
 background_option:
 background_image:
 image_path: /assets/images/posts/1600making-new-friends.jpg
@@ -55,7 +55,7 @@ This week our Juniors will deliver the money they raised for&nbsp;[***Slammin’
 
 ![](/assets/images/1000equine-therapy-field-trip-started-with-cookies-and-a-circle.jpg){: width="1000" height="750"}
 
-***A recent equine therapy&nbsp;**field**&nbsp;trip started with cookies and a circle\!***
+***A recent equine therapy \*\*field\*\* trip started with cookies and a circle\!***
 
 ***![](/assets/images/1000what-horses-can-teach-us.jpg){: width="1000" height="750"}***
 
