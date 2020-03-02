@@ -15,13 +15,38 @@ search_engine_optimization:
   page_description:
 ---
 
+# Join Us for Our Third Quarter Exhibition of Learning
+
+![](/assets/images/march-11-2020-exhibition-of-learning.jpg){: width="3024" height="2188"}
+
+A lot of great discovery has taken place at Compass and across Fort Collins over the past couple of months. We invite you to join us for a student-hosted showcase of this quarter's achievements and venture projects:&nbsp;
+
+* **Compass Media**
+
+* **Performing Arts Showcase**
+
+* **Coding For Global Goals**
+
+* **Re-Animated**
+
+* **Films for Climate Change Action**
+
+* **Inner Secrets of the Game Industry**
+
+* **Yo, I'll Solve it\!**
+
+* **Postsecondary Readiness**
+
+We look forward to seeing you Wednesday, March 11 from 5:30-7:00p.
+
+&nbsp;
+{: .cta}
+
 # Science and Engineering for the WIN\!
 
 ![](/assets/images/1000-compass-school-regional-science-fair-.jpg){: width="1000" height="695"}
 
-***Our regional Colorado State Science and Engineering Fair competitors. We're&nbsp;**going**&nbsp;to STATE\!***
-
-&nbsp;
+***Our regional Colorado State Science and Engineering Fair competitors. We're moving on to STATE\!***
 
 **Congratulations to the Compass students who competed at the regional&nbsp;[Colorado Science and Engineering Fair](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=be54e3a4e6&amp;e=d44f2694ec){: target="_blank"}&nbsp;last Wednesday\!&nbsp;**Everyone brought home an award, which is particularly awesome ESPECIALLY for first-time contestants.
 
@@ -54,7 +79,7 @@ Congratulations to ALL of our science fair participants and their coach, Karen K
 
 ![](/assets/images/1000girls-who-code-intensive1.jpg){: width="1000" height="673"}
 
-***The Girls Who Code venture shows Compass's&nbsp;**drive to**&nbsp;feed the&nbsp;**pipeline**&nbsp;of female engineers in the United States.***
+***The Girls Who Code venture shows Compass's drive to feed the pipeline of female engineers in the United States.***
 
 Adults at Compass Community Collaborative School have seen some serious changes in technology over their lifetimes. Some of them worked with the first classroom computers, which featured green or orange monochromatic text, and that’s about it. They had very little processing speed or memory.&nbsp;**Today, our school’s enjoy touch screen televisions with built in web browsers and wireless keyboards to control that technology from anywhere in the room, and there are more colors available than our eyes can even see\!&nbsp;**The common link between those dinosaurs of the digital age and our smart-classrooms is coding. They have to be programmed to do whatever we are wanting them to do. AND Computers are everywhere—in our pockets, cars, even our coffee makers. Light bulbs are being outfitted with computers to make them more efficient, as part of a house full of small computers all coordinating with each other to save a homeowner money. Skateboards have onboard computers\!
 
@@ -90,17 +115,17 @@ Look for the completed Re-Animated projects at Exhibition of Learning on March 1
 
 # MouthCounts Attends Regional Competition
 
-Our MathCounts team attended their first regional competition on Saturday, February 22. They met at 6:55 am at Compass to travel to the&nbsp;[University of Northern Colorado](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=f483475159&amp;e=d44f2694ec){: target="_blank"}, where they competed against 130 of the region's top middle school math students. Jaden, Clara, Rhoen, Dylan G., Finn, Karleigh, Chase, and Amoreah earned good scores for first-time attendees, with Jaden ending up only 5 questions away from state qualification and several others close behind. Today will become an*&nbsp;"I remember when..."&nbsp;*moment for them as they work toward returning to regionals next year even more prepared to tackle the hardest problems that the national test-writers can throw their way\! Congratulations, team, we are so proud of you\!
+Our MathCounts team attended their first regional competition on Saturday, February 22. They met at 6:55 am at Compass to travel to the&nbsp;[University of Northern Colorado](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=f483475159&amp;e=d44f2694ec){: target="_blank"}, where they competed against 130 of the region's top middle school math students. Jaden, Clara, Rhoen, Dylan G., Finn, Karleigh, Chase, and Amoreah earned good scores for first-time attendees, with Jaden ending up only 5 questions away from state qualification and several others close behind. Today will become an*&nbsp;"I remember when…"&nbsp;*moment for them as they work toward returning to regionals next year even more prepared to tackle the hardest problems that the national test-writers can throw their way\! Congratulations, team, we are so proud of you\!
 
 &nbsp;
 {: .cta}
 
-Compass Snapshots
+# Compass Snapshots
 
-&nbsp;
+![](/assets/images/the-malone-family.jpg){: width="860" height="1146"}
 
 ***The Compass Family—Katie, Jason and kiddos Lane and Ryan.***
 
-&nbsp;
+![](/assets/images/1000brain-sizzle-concurrent-enrollment-english-literature-hard-at-work.jpg){: width="1000" height="750"}
 
 ***Brains sizzle\! Concurrent Enrollment English Literature class hard at work\!***
