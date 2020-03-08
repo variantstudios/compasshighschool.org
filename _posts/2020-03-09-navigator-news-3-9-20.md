@@ -49,6 +49,8 @@ A cadre of students with cameras and studio quality lighting took over the teach
 
 # Order Your Compass COLLABORATE T-Shirt
 
+![](/assets/images/screen-shot-2020-03-06-at-1-09-44-pm.png){: width="774" height="680"}
+
 The COLLABORATE tee—the second Compass Core Competency t-shirt in a series of seven—is making its debut.&nbsp;**These are available for purchase for two more weeks. They are available in long- and short-sleeve.&nbsp;**Thank you parent, Lisa Viviani, for the great design\!**&nbsp;[ORDER HERE.](https://www.customink.com/fundraising/collaborate)&nbsp;**Questions? Contact [pac@compassfortcollins.org](mailto:pac@compassfortcollins.org?subject=T-Shirt%20Question){: target="_blank"}.
 
 &nbsp;
@@ -60,12 +62,16 @@ Like all schools in Colorado and across the nation, we are closely monitoring th
 
 While we are hopeful that we will not have to take the drastic step of closing school for any period of time, we are making plans for this contingency. If the district or county health department recommends school closures, we will close Compass’ campus and implement a remote learning program. We will do our best to ensure that all students have access to a computer and wifi in order to facilitate this online learning environment.
 
-We are continuing to practice excellent cleaning and disinfecting protocols daily, and we are grateful to have our families as partners in keeping us healthy and safe.**Prevention Measures to Practice at Home**Parents and guardians can help prevent illness by continuing with the same critical practices – for themselves and with their children – as one would during flu season.
+We are continuing to practice excellent cleaning and disinfecting protocols daily, and we are grateful to have our families as partners in keeping us healthy and safe.&nbsp;
+
+**Prevention Measures to Practice at Home&nbsp;**
+
+Parents and guardians can help prevent illness by continuing with the same critical practices – for themselves and with their children – as one would during flu season.
 
 * Wash hands often with soap and water
 * Cover coughs and sneezes
 * Clean frequently touched surfaces and objects
-* **Keep kids home if they are sick. Please notify Compass if your child is sick and needs to stay home. If possible, please share their symptoms and if they have a positive influenza or Corona Virus diagnosis.**
+* **Keep kids home if they are sick.** Please notify Compass if your child is sick and needs to stay home. If possible, please share their symptoms and if they have a positive influenza or Corona Virus diagnosis.
 
 We recommend that you and your family monitor the situation and check the following websites for updates:
 
@@ -83,4 +89,4 @@ We recommend that you and your family monitor the situation and check the follow
 
 ![](/assets/images/1000dawn-is-sponsoring-a-new-virtual-reality-club-on-tuesday-and-thursday-afternoons--thanks-to-ben-coultas-for-getting-this-going.jpg){: width="1000" height="1255"}
 
-***Dawn is hosting a new Virtual Reality Club on Tuesday and Thursday afternoons. Thank you Ben&nbsp;**C. for getting this going\!***
+***Dawn is hosting a new Virtual Reality Club on Tuesday and Thursday afternoons. Thank you Ben C. for getting this going\!***
