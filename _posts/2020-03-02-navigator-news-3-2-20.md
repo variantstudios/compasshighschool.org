@@ -113,7 +113,7 @@ Look for the completed Re-Animated projects at Exhibition of Learning on March 1
 &nbsp;
 {: .cta}
 
-# MouthCounts Attends Regional Competition
+# MathCounts Attends Regional Competition
 
 Our MathCounts team attended their first regional competition on Saturday, February 22. They met at 6:55 am at Compass to travel to the&nbsp;[University of Northern Colorado](https://compassfortcollins.us14.list-manage.com/track/click?u=f92353bb4e553c0be87c16d55&amp;id=f483475159&amp;e=d44f2694ec){: target="_blank"}, where they competed against 130 of the region's top middle school math students. Jaden, Clara, Rhoen, Dylan G., Finn, Karleigh, Chase, and Amoreah earned good scores for first-time attendees, with Jaden ending up only 5 questions away from state qualification and several others close behind. Today will become an*&nbsp;"I remember when…"&nbsp;*moment for them as they work toward returning to regionals next year even more prepared to tackle the hardest problems that the national test-writers can throw their way\! Congratulations, team, we are so proud of you\!
 
