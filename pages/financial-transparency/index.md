@@ -21,7 +21,7 @@ As part of our ongoing financial transparency, the following documents are avail
 
 [List of Waivers Granted to CCCS](/assets/pdf/financial-documents/Charter Contract Waivers.pdf){: target="_blank"}
 
-[Additional Waiver Grated to CCCS](https://drive.google.com/drive/folders/0B1qJzQe7IKbudWV1TG9zc0dDZnM){: target="_blank"}
+[Additional Waiver Granted to CCCS](/assets/pdf/Charter Contract additional Teacher Evaluation Waviers copy.pdf){: target="_blank"}
 
 [Standardized Description and Rational for each Automatic Waiver](/assets/pdf/financial-documents/Automatic Waivers for Charter Schools.pdf)
 
