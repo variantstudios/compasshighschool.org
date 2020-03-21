@@ -19,7 +19,7 @@ As part of our ongoing financial transparency, the following documents are avail
 
 [Compass Salary Schedule and Policies](/salary-policy/)
 
-[List of Waivers Granted to CCCS](/assets/pdf/financial-documents/Charter Contract Waivers.pdf)
+[List of Waivers Granted to CCCS](/assets/pdf/financial-documents/Charter Contract Waivers.pdf){: target="_blank"}
 
 [Standardized Description and Rational for each Automatic Waiver](/assets/pdf/financial-documents/Automatic Waivers for Charter Schools.pdf)
 
