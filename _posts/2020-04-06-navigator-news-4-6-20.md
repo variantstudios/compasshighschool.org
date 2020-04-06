@@ -1,5 +1,5 @@
 ---
-title: 'Navigator News: 4.13.20'
+title: 'Navigator News: 4.6.20'
 date: 2020-04-06 00:00:00
 background_option:
 background_image:
