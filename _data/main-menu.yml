@@ -7,6 +7,8 @@
       url: /students/
     - text: Venture Projects
       url: /venture-projects/
+    - text: Learning From Home
+      url: /learning-from-home/
 - text: Campus
   url: /campus/
   subitems:

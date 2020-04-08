@@ -2532,7 +2532,7 @@ form .align-right {
 .front .join-the-compass-community {
   background-color: #00AEEF;
 }
-.front .join-the-compass-community p {
+.front .join-the-compass-community p, .front .join-the-compass-community a {
   color: #fff;
 }
 .front .join-the-compass-community h2 {
@@ -2775,6 +2775,11 @@ form .align-right {
 
 .text-align-center {
   text-align: center;
+}
+
+.max-width-large {
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .max-width-medium {
