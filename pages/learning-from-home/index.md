@@ -24,3 +24,5 @@ Please read and use all of these resources we have created for you to make this 
 [**Continuous Learning UPDATE**&nbsp;(sent April 3rd)](https://drive.google.com/open?id=1gMmN7n6Pz3ItHyeuBIw3FT20v64XtHsk)
 
 [**Resources for Mental Health and Resiliency for Teens and Parents**](https://docs.google.com/presentation/d/1xaExw9RTWT85kurmMY48gGnxgPtBIN_tjDMGbAZLLrI/edit?ts=5e8f890c#slide=id.g831ef6869f_0_14)
+
+[**Postsecondary Readiness Support**](https://docs.google.com/document/d/1M9w5O2o1Q2g2bUBQ-qSSqFF7IBhEx3lofnB_rKmw_bU/edit)
