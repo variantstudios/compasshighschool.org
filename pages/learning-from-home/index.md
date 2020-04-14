@@ -26,3 +26,7 @@ Please read and use all of these resources we have created for you to make this 
 [**Resources for Mental Health and Resiliency for Teens and Parents**](https://docs.google.com/presentation/d/1xaExw9RTWT85kurmMY48gGnxgPtBIN_tjDMGbAZLLrI/edit?ts=5e8f890c#slide=id.g831ef6869f_0_14)
 
 [**Postsecondary Readiness Support**](https://docs.google.com/document/d/1M9w5O2o1Q2g2bUBQ-qSSqFF7IBhEx3lofnB_rKmw_bU/edit)
+
+[**Community Resources: Food, Internet, Health**](https://docs.google.com/document/d/1bY85F4oAU8Q52CE3hTvYkBgTOidohj_-2zJZiJO5fo8/edit){: target="_blank"}
+
+&nbsp;
