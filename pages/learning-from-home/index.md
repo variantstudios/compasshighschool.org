@@ -9,7 +9,7 @@ permalink: /learning-from-home/
 layout: page
 ---
 
-# Learning From Home
+# CaLearning From Home
 
 Please read and use all of these resources we have created for you to make this difficult transition as smooth as possible, and reach out for help if you need it. We are here for you\!
 
@@ -28,5 +28,7 @@ Please read and use all of these resources we have created for you to make this 
 [**Postsecondary Readiness Support**](https://docs.google.com/document/d/1M9w5O2o1Q2g2bUBQ-qSSqFF7IBhEx3lofnB_rKmw_bU/edit)
 
 [**Community Resources: Food, Internet, Health**](https://docs.google.com/document/d/1bY85F4oAU8Q52CE3hTvYkBgTOidohj_-2zJZiJO5fo8/edit){: target="_blank"}
+
+[Career Conversations with Teens: A Parent Guide](https://drive.google.com/file/d/1SajdB-xBHVeifn8bVqAyfjaZ_qt7RfIZ/view?usp=sharing){: target="_blank"}
 
 &nbsp;
