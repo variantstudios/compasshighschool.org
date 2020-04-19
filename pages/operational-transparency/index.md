@@ -86,7 +86,7 @@ board_agenda:
     file_path: /assets/images/compass-board-agenda-2-17-2020.pdf
   - title: 03/22/20 Board Agenda
     file_path: /assets/images/compass-board-agenda-3-23-2020.pdf
-  - title: 04/20/2020
+  - title: 04/20/2020 Board Agenda
     file_path: /assets/images/compass-board-agenda-4-20-2020.pdf
 board_minutes:
   - title: 01/15/18 Board Special Meeting Minutes
