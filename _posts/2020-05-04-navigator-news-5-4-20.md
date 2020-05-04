@@ -1,6 +1,6 @@
 ---
 title: 'Navigator News: 5.4.20'
-date: 2020-05-04 17:53:21
+date: 2020-05-04 10:00:00
 background_option:
 background_image:
 image_path: /assets/images/posts/1600-compass-outdoors-along-the-poudre-river.jpg
@@ -59,7 +59,7 @@ Students enjoyed having Compass student Minecraft time last week, so Dawn will c
 
 ![](/assets/images/12effb9b-2536-4dc4-9bf8-25f7a93c41b5---alexa-croft.jpg){: width="1000" height="823"}
 
-***In Sam's science class, an assignment for middle schoolers last week was to create a model of a virus. They then had to present a written report or video&nbsp;**explaining**&nbsp;the virus they researched. This is what the Ebola&nbsp;******virus&nbsp;**looks**&nbsp;like—in case you were wondering.***
+***In Sam's science class, an assignment for middle schoolers last week was to create a model of a virus. They then had to present a written report or video \*\*explaining\*\* the virus they researched. This is what the Ebola&nbsp;******virus \*\*looks\*\* like—in case you were wondering.***
 
 ![](/assets/images/37285246-c9ba-46ce-9d61-49d8dbb5a687---alexa-croft.jpg){: width="1000" height="911"}
 
