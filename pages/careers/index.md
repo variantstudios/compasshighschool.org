@@ -21,6 +21,8 @@ Compass Community Collaborative is dedicated to personalized, competency-based l
 
 ## Current Openings for 2020/21&nbsp;
 
-#### [*Mathematics Teacher - middle school level*](https://docs.google.com/document/d/1gYbGpKF28_PklOy1JNZYgZ_1G0jOIVs5WOr4DdoMSUE/edit){: target="_blank"}
+#### *Part-Time Facilities Manager and Construction Shop Student Guide*
+
+*email jan@compassfortcollins.org for more information*
 
 ### &nbsp;
