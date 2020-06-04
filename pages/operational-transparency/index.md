@@ -91,7 +91,7 @@ board_agenda:
   - title: 05/18/20 Board Agenda
     file_path: /assets/images/compass-board-agenda-5-18-2020.pdf
   - title: 06/04/20 Emergency Board Meeting
-    file_path: /assets/images/compass-board-agenda---emergency-meeting-06042020.pdf
+    file_path:
 board_minutes:
   - title: 01/15/18 Board Special Meeting Minutes
     file_path: /assets/images/compass-bod-special-meeting-minutes-011518.docx
