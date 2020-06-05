@@ -9,9 +9,11 @@ permalink: /learning-from-home/
 layout: page
 ---
 
-# CaLearning From Home
+# Learning From Home
 
 Please read and use all of these resources we have created for you to make this difficult transition as smooth as possible, and reach out for help if you need it. We are here for you\!
+
+**[Resources for Learning about Anti-Racism](https://docs.google.com/document/d/1qBNjSniC5w_yLgM4xFMo_ZayipcUZR9gbpfWQ8yzZJE/edit?usp=sharing){: target="_blank"}**
 
 [**Continuous Learning Family Guide&nbsp;**](https://drive.google.com/open?id=1lyWSSwwEdNhnmgMhjV1Rq9S_nlaDVHTy){: target="_blank"}
 
