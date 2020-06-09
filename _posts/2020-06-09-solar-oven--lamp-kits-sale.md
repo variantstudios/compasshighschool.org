@@ -1,5 +1,5 @@
 ---
-title: Solar Oven + Lamp Kit Sale
+title: Solar Oven + Lamp Kits Sale
 date: 2020-06-09 12:00:00
 background_option:
 background_image:
