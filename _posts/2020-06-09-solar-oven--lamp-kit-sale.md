@@ -1,6 +1,6 @@
 ---
 title: Solar Oven + Lamp Kit Sale
-date: 2020-06-09 00:00:00
+date: 2020-06-09 12:00:00
 background_option:
 background_image:
 image_path: /assets/images/posts/compass-school-shop-image.jpg
