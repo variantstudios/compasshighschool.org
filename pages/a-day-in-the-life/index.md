@@ -1,7 +1,7 @@
 ---
 title: A Day in the Life
 background_option: image
-background_image: /assets/images/backgrounds/csu-lab-joaquin.jpg
+background_image:
 pdf:
   path: /assets/pdf/Compass Levels of Autonomy - Web.pdf
   pixel_height: 4250px
