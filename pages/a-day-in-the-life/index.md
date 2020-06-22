@@ -1,6 +1,6 @@
 ---
 title: A Day in the Life
-background_option: image
+background_option: grey-geometrics-pattern
 background_image:
 pdf:
   path: /assets/pdf/Compass Levels of Autonomy - Web.pdf
