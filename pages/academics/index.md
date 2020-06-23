@@ -1,7 +1,7 @@
 ---
 title: Academics
-background_option: image
-background_image: /assets/images/backgrounds/csu-lab-boys.jpg
+background_option: pink-pencils-pattern
+background_image:
 search_engine_optimization:
   page_title: Academics
   page_description:
