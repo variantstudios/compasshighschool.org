@@ -1,6 +1,6 @@
 ---
 title: Venture Projects
-background_option: image
+background_option: pink-pencils-pattern
 background_image:
 search_engine_optimization:
   page_title: Venture Projects
