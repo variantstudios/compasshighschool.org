@@ -1,6 +1,6 @@
 ---
 title: Admissions
-background_option: image
+background_option: pink-pencils-pattern
 background_image: /assets/images/backgrounds/ccc-rockstars.jpg
 search_engine_optimization:
   page_title: Admissions
