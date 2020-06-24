@@ -1,6 +1,6 @@
 ---
 title: FAQs
-background_option: pink-pencils-pattern
+background_option: blue-halftone-dot-pattern
 background_image:
 search_engine_optimization:
   page_title: FAQs for Compass High School
