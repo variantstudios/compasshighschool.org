@@ -1,7 +1,7 @@
 ---
 title: resources
-background_option: image
-background_image: /assets/images/headers/blog.jpg
+background_option: grey-nuts-and-bolts-pattern
+background_image:
 search_engine_optimization:
   page_title: resources
   page_description:
@@ -99,7 +99,7 @@ Zhao, Yong, et.al. (2016). A Take Action Guide to World Class Learners: How to M
 
 [Health Sciences High and Middle College](http://hshmc.org){: target="_blank"}
 
-[High Tech High, in San Diego, CA](http://www.hightechhigh.org/schools/HTHPL/){: target="_blank"}: (also featured in Sundance award-winning film: Most Likely to Succeed)
+[High Tech High, in San Diego, CA](http://www.hightechhigh.org/schools/HTHPL/){: target="_blank"}\: (also featured in Sundance award-winning film: Most Likely to Succeed)
 
 [School of Environmental Studies, Apple Valley, MN](http://sesmn.org/){: target="_blank"}
 
