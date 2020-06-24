@@ -1,6 +1,6 @@
 ---
 title: Community-Engaged Learning
-background_option: image
+background_option: blue-halftone-dot-pattern
 search_engine_optimization:
   page_title: Community-Engaged Learning
   page_description:
