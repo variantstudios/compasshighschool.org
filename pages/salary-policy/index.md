@@ -1,10 +1,10 @@
 ---
 title: Salary Policy
-background_option: image
-background_image: /assets/images/backgrounds/group-shot-notepads.jpg
+background_option: blue-halftone-dot-pattern
+background_image:
 search_engine_optimization:
-  page_title: "Compass Community Collaborative School – Salary Policy"
-  page_description: ""
+  page_title: Compass Community Collaborative School – Salary Policy
+  page_description:
 permalink: /salary-policy/
 layout: page
 ---
