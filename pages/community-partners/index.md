@@ -1,6 +1,6 @@
 ---
 title: Community Partner Program
-background_option: grey-geometrics-pattern
+background_option: pink-pencils-pattern
 background_image:
 search_engine_optimization:
   page_title: Community Partner Program
