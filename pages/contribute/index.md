@@ -1,6 +1,6 @@
 ---
 title: School Fees
-background_option: pink-pencils-pattern
+background_option: grey-geometrics-pattern
 background_image:
 search_engine_optimization:
   page_title: School Fees
