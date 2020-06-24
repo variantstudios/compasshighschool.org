@@ -1,7 +1,7 @@
 ---
 title: Información en español
-background_option: image
-background_image: /assets/images/backgrounds/ccc-rockstars.jpg
+background_option: blue-halftone-dot-pattern
+background_image:
 search_engine_optimization:
   page_title: Información en español
   page_description:
@@ -35,7 +35,7 @@ Cada a&ntilde;o escolar los estudiantes completar&aacute;n al menos ocho proyect
 
 Adem&aacute;s, los estudiantes practicar&aacute;n sus habilidades de matem&aacute;ticas e ingl&eacute;s todos los d&iacute;as, crear&aacute;n un portafolio digital de su trabajo y presentar&aacute;n su aprendizaje a su equipo 360 tres veces al a&ntilde;o. Como padre, eres un miembro de este equipo 360. Siempre tendr&aacute; una s&oacute;lida comprensi&oacute;n de c&oacute;mo, por qu&eacute; y qu&eacute; est&aacute; aprendiendo su estudiante. Los estudiantes trabajar&aacute;n dentro y alrededor de la escuela y elegir&aacute;n entre diferentes proyectos dirigidos por maestros para desarrollar las habilidades necesarias para administrar su propio aprendizaje. A medida que los alumnos crecen, tomar&aacute;n la iniciativa en el dise&ntilde;o de proyectos, tomar&aacute;n clases en la universidad y servir&aacute;n como pasantes en negocios locales en los campos profesionales en los que est&aacute;n interesados.
 
-### **&iexcl;Nuestro horario diario es diferente tambi&eacute;n!**
+### **&iexcl;Nuestro horario diario es diferente tambi&eacute;n\!**
 
 Las ma&ntilde;anas pueden ser muy estresantes. Cuando es dif&iacute;cil despertar a los alumnos y los miembros de la familia deben estar en lugares diferentes en momentos diferentes, las ma&ntilde;anas pueden convertirse en una carrera contra el reloj. Para ayudar a nuestras familias a eliminar parte del estr&eacute;s de la rutina matutina y brindar a los estudiantes la oportunidad de dormir lo suficiente (cuya necesidad ha sido demostrada por varias investigaciones), brindamos flexibilidad en los horarios diarios de inicio y finalizaci&oacute;n para el d&iacute;a escolar para Compass. Cada familia tendr&aacute; la opci&oacute;n de escoger a qu&eacute; hora comenzar y terminar la escuela al principio de cada nuevo semestre. Sin embargo, todos los estudiantes y el personal participar&aacute;n directamente en el trabajo escolar de Compass por un m&iacute;nimo de 7.5 horas por d&iacute;a.
 
@@ -47,8 +47,8 @@ Asociarse con las familias de nuestros estudiantes es parte de lo que har&aacute
 
 Tambi&eacute;n les daremos la bienvenida a nuestras familias para que asistan a clases nocturnas para aprender ingl&eacute;s, conocimientos de computaci&oacute;n y estrategias para ser un padre asociado en el aprendizaje de su hijo. Alentamos a nuestros padres a que ofrezcan su propia experiencia y habilidades para ayudar con las ideas de los proyectos de los estudiantes, proporcionen conexiones de negocios y ense&ntilde;en habilidades comerciales a nuestros estudiantes en nuestro edificio.<br>&nbsp;
 
-### &iexcl;Registre a Su Estudiante AHORA MISMO!
+### &iexcl;Registre a Su Estudiante AHORA MISMO\!
 
 Compass Community Collaborative School abrir&aacute; sus puertas en agosto de 2018. Estamos aceptando inscripciones para estudiantes quienes quieran ingresar al 6&ordm; al 10&ordm; grado durante nuestro primer a&ntilde;o. Si est&aacute; interesado en inscribir a su estudiante, favor de visitar a nuestro sitio web y complete el formulario “REG&Iacute;STRESE PARA PADRES” en [https://compassfortcollins.org/](https://compassfortcollins.org/){: target="_blank"}.
 
-Si tiene m&aacute;s preguntas, comun&iacute;quese Ud. por correo electr&oacute;nico con Will Allen (will@compassfortcollins.org). El Sr. Allen responder&aacute; en espa&ntilde;ol a sus preguntas lo antes posible. &iexcl;Traiga Ud. a su estudiante a Compass para iniciar en aprendizaje emocionante y diferente!
+Si tiene m&aacute;s preguntas, comun&iacute;quese Ud. por correo electr&oacute;nico con Will Allen (will@compassfortcollins.org). El Sr. Allen responder&aacute; en espa&ntilde;ol a sus preguntas lo antes posible. &iexcl;Traiga Ud. a su estudiante a Compass para iniciar en aprendizaje emocionante y diferente\!
