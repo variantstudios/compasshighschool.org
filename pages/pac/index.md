@@ -1,6 +1,6 @@
 ---
 title: Compass Parent Action Council (PAC)
-background_option: image
+background_option: pink-pencils-pattern
 background_image: /assets/images/backgrounds/csu-lab-kayla.jpg
 search_engine_optimization:
   page_title: Compass Parent Action Council (PAC)
