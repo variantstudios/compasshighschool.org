@@ -1,7 +1,7 @@
 ---
 title: Get Involved
-background_option: image
-background_image: /assets/images/backgrounds/csu-lab.jpg
+background_option: grey-nuts-and-bolts-pattern
+background_image:
 search_engine_optimization:
   page_title: Get Involved
   page_description:
@@ -11,4 +11,4 @@ layout: page
 
 # Get Involved
 
-We are Compass Community **Collaborative School**, and you are our community! &nbsp;Are you a business or non-profit looking for opportunities to engage your employees as mentors? Or perhaps you have ideas for a project that needs volunteers or creative juices to get moving? &nbsp;Connect with us at [Community Partners](/community-partners/). &nbsp;Are you looking for ways to connect and grow our community? &nbsp;Visit our [Volunteer](/volunteer/) page. &nbsp;Become a part of our vibrant and growing community today.
+We are Compass Community **Collaborative School**, and you are our community\! &nbsp;Are you a business or non-profit looking for opportunities to engage your employees as mentors? Or perhaps you have ideas for a project that needs volunteers or creative juices to get moving? &nbsp;Connect with us at [Community Partners](/community-partners/). &nbsp;Are you looking for ways to connect and grow our community? &nbsp;Visit our [Volunteer](/volunteer/) page. &nbsp;Become a part of our vibrant and growing community today.
