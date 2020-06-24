@@ -1,7 +1,7 @@
 ---
 title: Calendars
-background_option: image
-background_image: /assets/images/backgrounds/ccc-rockstars.jpg
+background_option: pink-pencils-pattern
+background_image:
 search_engine_optimization:
   page_title: Calendars
   page_description:
