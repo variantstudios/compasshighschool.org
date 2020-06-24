@@ -1,7 +1,7 @@
 ---
 title: Adopted Budget
 background_option: blue-halftone-dot-pattern
-background_image: /assets/images/backgrounds/group-shot-notepads.jpg
+background_image:
 search_engine_optimization:
   page_title: Compass Community Collaborative School – Adopted Budget
   page_description:
