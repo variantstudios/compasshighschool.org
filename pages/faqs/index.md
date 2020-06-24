@@ -1,7 +1,7 @@
 ---
 title: FAQs
-background_option: image
-background_image: /assets/images/backgrounds/csu-lab-joaquin.jpg
+background_option: pink-pencils-pattern
+background_image:
 search_engine_optimization:
   page_title: FAQs for Compass High School
   page_description:
