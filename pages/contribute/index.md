@@ -1,7 +1,7 @@
 ---
 title: School Fees
-background_option: image
-background_image: /assets/images/backgrounds/maddie-and-lilly.jpg
+background_option: pink-pencils-pattern
+background_image:
 search_engine_optimization:
   page_title: School Fees
   page_description:
