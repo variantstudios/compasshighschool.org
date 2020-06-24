@@ -1,7 +1,7 @@
 ---
 title: Enroll
-background_option: image
-background_image: /assets/images/backgrounds/ccc-rockstars.jpg
+background_option: grey-nuts-and-bolts-pattern
+background_image:
 search_engine_optimization:
   page_title: Enroll
   page_description:
