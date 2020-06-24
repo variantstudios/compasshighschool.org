@@ -1,7 +1,7 @@
 ---
 title: Facility Rental
-background_option: image
-background_image: /assets/images/img-0305.jpg
+background_option: grey-geometrics-pattern
+background_image:
 search_engine_optimization:
   page_title: Facility Rental
   page_description:
@@ -9,7 +9,9 @@ permalink: /facility-rental/
 layout: page
 webform:
   subject: 'Compass Community Collaborative School: Rental Form'
-  to: 'jan@compassfortcollins.org, chris@compassfortcollins.org, team@variantstudios.com'
+  to: >-
+    jan@compassfortcollins.org, chris@compassfortcollins.org,
+    team@variantstudios.com
   thank_you_message: Thank you. Your message has been sent. We will contact you shortly.
 class: rental
 _comments:
