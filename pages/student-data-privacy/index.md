@@ -1,7 +1,7 @@
 ---
 title: Student Data Privacy
-background_option: image
-background_image: /assets/images/backgrounds/ccc-rockstars.jpg
+background_option: blue-halftone-dot-pattern
+background_image:
 search_engine_optimization:
   page_title: Student Privacy
   page_description:
