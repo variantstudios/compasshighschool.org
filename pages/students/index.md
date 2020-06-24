@@ -1,7 +1,7 @@
 ---
 title: Students
-background_option: image
-background_image: /assets/images/headers/students.jpg
+background_option: blue-halftone-dot-pattern
+background_image:
 search_engine_optimization:
   page_title: Students
   page_description: Student-centered and passion-driven education for a lifetime.
