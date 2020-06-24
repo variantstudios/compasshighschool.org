@@ -1,7 +1,7 @@
 ---
 title: Parents
-background_option: image
-background_image: /assets/images/rockstars-resized.jpg
+background_option: pink-pencils-pattern
+background_image:
 search_engine_optimization:
   page_title: Parents
   page_description: We want the best for our children and our future.
@@ -16,7 +16,7 @@ iframe:
 
 # Parents
 
-## Parents get to play a part!
+## Parents get to play a part\!
 
 It is our belief that welcoming and partnering with families is part of what makes our climate and culture exceptional. Parents know the value of a great education for their children. Our goal is to help your child thrive in a school environment that is tailored to build on their strengths and passions.
 
