@@ -1,7 +1,7 @@
 ---
 title: Parent Resources
-background_option: image
-background_image: /assets/images/backgrounds/csu-lab-kayla.jpg
+background_option: pink-pencils-pattern
+background_image:
 search_engine_optimization:
   page_title: Parent Resources
   page_description:
