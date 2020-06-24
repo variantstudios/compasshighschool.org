@@ -1,7 +1,7 @@
 ---
 title: Our Team
-background_option: image
-background_image: /assets/images/ccc-team.jpg
+background_option: blue-halftone-dot-pattern
+background_image:
 search_engine_optimization:
   page_title: Our Team
   page_description: Passionate leaders that are bringing this school to life.
