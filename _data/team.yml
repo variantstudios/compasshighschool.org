@@ -299,6 +299,12 @@
     pass on what I have learned and make a difference in my community.
   team_position: staff
   image_path: /assets/images/martyscrewdriver.png
+- name: 'Katherine Zaunbrecher, Ph.D.'
+  position: 'Teacher-Advisor: Mathematics'
+  email: Katherine@compassfortcollins.org
+  bio:
+  team_position: staff
+  image_path:
 - name: 'Gina Curler, M.A., Parent of CCCS student'
   position: Board President
   email:
@@ -342,7 +348,9 @@
     Principal Leadership.
   team_position: founding-board-of-directors
   image_path: /assets/images/russtipofthehat.png
-- name: 'Anthony Burrell, CPA, School Finance Director, KIPP Colorado'
+- name: >-
+    Anthony Burrell, CPA, School Outreach Coordinator, New Harmony High School,
+    New Orleans
   position: Board Treasurer
   email:
   bio: >-
@@ -380,18 +388,16 @@
     for awesome.
   team_position: founding-board-of-directors
   image_path: /assets/images/chris.png
-- name: 'Irene Nissen, B.S.B.A., Director of Innovation - K-12 Education'
+- name: 'Irene Nissen, B.S.B.A., Innovation Consulatant - K-12 Education'
   position: Board Member
   email:
   bio: >-
     Irene Nissen has worked in the field of libraries and education for over a
-    decade and is currently serving her fifth year in the role of technology and
-    innovation director for a growing K-12 charter school.   Irene believes that
-    technology can truly change the educational landscape by inspiring
-    creativity, establishing a love for lifelong learning and creating
-    opportunities for students to apply their knowledge to real-world
-    situations. By supporting meaningful integration of technology in the
-    classroom Irene has helped to facilitate learning opportunities in which
+    decade.  Irene believes that technology can truly change the educational
+    landscape by inspiring creativity, establishing a love for lifelong learning
+    and creating opportunities for students to apply their knowledge to
+    real-world situations. By supporting meaningful integration of technology in
+    the classroom Irene has helped to facilitate learning opportunities in which
     students create connections, spark interests and establish 21st century
     skills that are imperative for success in the work place.  Irene has
     provided leadership and direction during three separate school expansion
@@ -408,12 +414,6 @@
     Science degree in teaching and learning through CSU Global.
   team_position: founding-board-of-directors
   image_path: /assets/images/irene.png
-- name: 'Katherine Zaunbrecher, Ph.D.'
-  position: 'Teacher-Advisor: Mathematics'
-  email: Katherine@compassfortcollins.org
-  bio:
-  team_position: staff
-  image_path:
 - name: Flynn
   position: School Dog
   email: ruffruff@compassfortcollins.org
