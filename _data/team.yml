@@ -414,3 +414,12 @@
   bio:
   team_position: staff
   image_path:
+- name: Flynn
+  position: School Dog
+  email: ruffruff@compassfortcollins.org
+  bio: >-
+    My name is Flynn and I love being part of the Compass family! Please pet me
+    and play with me! When I'm not playing with you, you can probably find me
+    napping in Jan's office.
+  team_position: staff
+  image_path: /assets/images/flynn-hikes.jpg
