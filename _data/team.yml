@@ -208,7 +208,7 @@
   email: camilo@compassfortcollins.org
   bio: Coming Soon
   team_position: staff
-  image_path: 'https://drive.google.com/drive/folders/12KWhtb_lgK0NCQxZLuKvcpuDGhIgHB6v'
+  image_path: /assets/images/camilosmile-web.png
 - name: Karen Karppinen
   position: 'Teacher-Adviser: Mathematics/Science/Computer Science'
   email: karen@compassfortcollins.org
