@@ -21,8 +21,6 @@ Compass Community Collaborative is dedicated to personalized, competency-based l
 
 ## Current Openings for 2020/21&nbsp;
 
-#### *Part-Time Facilities Manager and Construction Shop Student Guide*
-
-*email jan@compassfortcollins.org for more information*
+#### Sorry - no current openings for this school year. Thanks for checking\!
 
 ### &nbsp;
