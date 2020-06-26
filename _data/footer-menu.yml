@@ -1,14 +1,19 @@
 - text: Resources
-  url: /resources/
+  url:
   subitems:
     - text: FAQs
-      url: /faqs/
+      url: >-
+        https://docs.google.com/document/d/1yvC0wJOTE6uVf6vqE0trRVlr5NFACfH_K1O2-UFaveY/edit#heading=h.na58m9mkxe21
     - text: Operational Transparency
       url: /operational-transparency/
     - text: Financial Transparency
       url: /financial-transparency/
     - text: Student Data Privacy
       url: /student-data-privacy/
-    - text: Family Guidebook - Fall 2019
+    - text: Family Guidebook
       url: >-
         https://docs.google.com/document/d/1AQrB89hxhxbKRdmdG73GS0vFOrHkYrkGdBWepY0FwU0/edit
+    - text: JOIN OUR TEAM
+      url: /careers
+    - text: Staff Portal
+      url:
