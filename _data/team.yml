@@ -123,6 +123,34 @@
     incredible Compass students!
   team_position: staff
   image_path: /assets/images/dawn---small.png
+- name: 'Adam Fallik, M. Ed.'
+  position: 'Teacher-Adviser: Special Education'
+  email: adam@compassfortcollins.org
+  bio: >-
+    In 2002 I got a job working with adults with developmental disabilities,
+    with an emphasis on community accessibility and recreation. For more than
+    ten years I worked with these incredible individuals and it changed my life.
+    I learned how to be patient and practice gratitude in every endeavor in my
+    life. Working with adults with disabilities taught me how to make a
+    contribution in people’s lives. In 2011 I graduated from The University of
+    Northern Colorado with a Master’s Degree in Special Education. I began
+    working as a special education teacher at Reflections for Youth in Loveland
+    while attending graduate school full time. I also worked in middle schools
+    focusing on significant emotional disabilities and Autism. For the last two
+    years I worked as a Social Worker for a Guardian Ad Litem and did one to one
+    mental health therapy. I learned how the system affects disenfranchised
+    youth and families and want to work hard to make sure that our students and
+    families don’t fall through the cracks. I am excited to see how our team
+    teaching and venture project model can benefit from my experience in special
+    education and my love for learning. I look forward to sharing ideas with
+    students and teachers, and to make this school an incredible opportunity for
+    growth. I have been an active member in the community and can help build
+    bridges with professional organizations and creative individuals. I believe
+    that students deserve to be heard and the ability to study what interests
+    them. Students should enjoy going to school everyday instead of dreading it.
+    As Buzz Lightyear emphatically states, “To Infinity and Beyond!”
+  team_position: staff
+  image_path: /assets/images/adam-small.png
 - name: 'Jenny Findlay, M.A.'
   position: Director of Development
   email: jenny@compassfortcollins.org
@@ -175,40 +203,18 @@
     Compass Community Collaborative School.
   team_position: staff
   image_path: /assets/images/sam---small.png
-- name: 'Adam Fallik, M. Ed.'
-  position: 'Teacher-Adviser: Special Education'
-  email: adam@compassfortcollins.org
-  bio: >-
-    In 2002 I got a job working with adults with developmental disabilities,
-    with an emphasis on community accessibility and recreation. For more than
-    ten years I worked with these incredible individuals and it changed my life.
-    I learned how to be patient and practice gratitude in every endeavor in my
-    life. Working with adults with disabilities taught me how to make a
-    contribution in people’s lives. In 2011 I graduated from The University of
-    Northern Colorado with a Master’s Degree in Special Education. I began
-    working as a special education teacher at Reflections for Youth in Loveland
-    while attending graduate school full time. I also worked in middle schools
-    focusing on significant emotional disabilities and Autism. For the last two
-    years I worked as a Social Worker for a Guardian Ad Litem and did one to one
-    mental health therapy. I learned how the system affects disenfranchised
-    youth and families and want to work hard to make sure that our students and
-    families don’t fall through the cracks. I am excited to see how our team
-    teaching and venture project model can benefit from my experience in special
-    education and my love for learning. I look forward to sharing ideas with
-    students and teachers, and to make this school an incredible opportunity for
-    growth. I have been an active member in the community and can help build
-    bridges with professional organizations and creative individuals. I believe
-    that students deserve to be heard and the ability to study what interests
-    them. Students should enjoy going to school everyday instead of dreading it.
-    As Buzz Lightyear emphatically states, “To Infinity and Beyond!”
-  team_position: staff
-  image_path: /assets/images/adam-small.png
 - name: Camilo Jimenez-Alfonso
   position: 'Teacher-Adviser: Spanish'
   email: camilo@compassfortcollins.org
   bio: Coming Soon
   team_position: staff
   image_path: /assets/images/screenshot-2019-05-02-at-10-30-23.png
+- name: Karen Karppinen
+  position: 'Teacher-Adviser: Mathematics/Science/Computer Science'
+  email: karen@compassfortcollins.org
+  bio: Coming Soon
+  team_position: staff
+  image_path: /assets/images/screenshot-2019-05-03-at-10-13-58.png
 - name: 'Katie Malone, M. Ed.'
   position: 'Teacher-Adviser: Science; Project Coordinator'
   email: katie@compassfortcollins.org
@@ -229,12 +235,6 @@
     Collaborative School.
   team_position: staff
   image_path: /assets/images/katie---small.png
-- name: Karen Karppinen
-  position: 'Teacher-Adviser: Mathematics/Science/Computer Science'
-  email: karen@compassfortcollins.org
-  bio: Coming Soon
-  team_position: staff
-  image_path: /assets/images/screenshot-2019-05-03-at-10-13-58.png
 - name: Darian Ortiz
   position: 'Teacher-Adviser: Student Support Specialist'
   email: darian@compassfortcollins.org
