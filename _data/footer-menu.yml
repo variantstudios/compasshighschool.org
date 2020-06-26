@@ -1,14 +1,3 @@
-- text: Get Involved
-  url: /get-involved/
-  subitems:
-    - text: Community Partners
-      url: /community-partners/
-    - text: Volunteer
-      url: /volunteer/
-    - text: Compass Stories
-      url: /blog/
-    - text: Contribute
-      url: /contribute/
 - text: Resources
   url: /resources/
   subitems:
