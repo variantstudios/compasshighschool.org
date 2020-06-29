@@ -20,6 +20,6 @@ search_engine_optimization:
 
 ![](/assets/images/no-barriers-compass-community-collaborative-school-podcast.jpg){: width="1600" height="1067"}
 
-Last fall No Barriers podcast hosts Dave Shurna and Jeff Evans, spoke with Compass school leaders, Jan Harrison and Jason Malone, about taking risks, embracing adversity and work through the tough stuff.
+Last fall, No Barriers podcast hosts Dave Shurna and Jeff Evans, spoke with Compass school leaders, Jan Harrison and Jason Malone, about taking risks, embracing adversity and working through the tough stuff.
 
 [Tune in here.](https://nobarriers.simplecast.com/episodes/a-new-approach-to-education-learning-with-compass-community-collaborative-school-leaders-jan-harrison-and-jason-malone-ddXsIYtR)
