@@ -1,6 +1,6 @@
 ---
 title: Compass Tech Team Open for Business
-date: 2020-07-04 12:00:00
+date: 2020-07-05 12:00:00
 background_option:
 background_image:
 image_path: /assets/images/posts/1600-jaden-in-a-sea-of-chromebooks.jpg
