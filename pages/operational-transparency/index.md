@@ -161,6 +161,8 @@ board_minutes:
     file_path: /assets/images/compass-bod-meeting-minutes-03-23-2020.pdf
   - title: 04/20/20 Board Meeting Minutes
     file_path: /assets/images/compass-bod-meeting-minutes-04-20-2020.pdf
+  - title: 05/18/20 Board Meeting Minutes
+    file_path: /assets/images/compass-bod-meeting-minutes-05-18-2020.pdf
 iframe:
   title:
   url:
